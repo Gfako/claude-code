@@ -24,9 +24,10 @@ MCP server configs located in `mcps/`. Copy to your project's `.mcp.json` to use
 
 Installed from the official Claude Code marketplace:
 
-| Plugin | Status |
-|---|---|
-| **github** | Enabled — GitHub integration via MCP |
+| Plugin | Status | Description |
+|---|---|---|
+| **github** | Enabled | GitHub integration via MCP |
+| **frontend-design** | Disabled | UI/frontend design assistance from Anthropic |
 
 ## Tools
 

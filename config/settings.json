@@ -1,7 +1,8 @@
 {
   "model": "opus[1m]",
   "enabledPlugins": {
-    "github@claude-plugins-official": true
+    "github@claude-plugins-official": true,
+    "frontend-design@claude-plugins-official": false
   },
   "skipDangerousModePermissionPrompt": true
 }
