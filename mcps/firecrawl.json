@@ -1,0 +1,9 @@
+{
+  "firecrawl": {
+    "type": "url",
+    "url": "https://mcp.firecrawl.dev/sse",
+    "headers": {
+      "Authorization": "Bearer YOUR_FIRECRAWL_API_KEY"
+    }
+  }
+}

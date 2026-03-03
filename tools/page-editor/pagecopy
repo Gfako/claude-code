@@ -1,0 +1,91 @@
+#!/bin/bash
+
+# ── PageCopy ──
+# Clone any webpage locally with inline editing tools.
+#
+# Usage:
+#   ./pagecopy https://example.com/page
+#   ./pagecopy https://example.com/page 3000    (custom port)
+#
+# Tools on page:
+#   Edit Text (Alt+E) — click any text to retype it
+#   Inspect (Alt+I)   — click any element to copy its selector
+
+URL="$1"
+PORT="${2:-8000}"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+
+if [ -z "$URL" ]; then
+  echo ""
+  echo "  PageCopy — Clone any webpage with editing tools"
+  echo ""
+  echo "  Usage:  ./pagecopy <url> [port]"
+  echo ""
+  echo "  Examples:"
+  echo "    ./pagecopy https://example.com/pricing"
+  echo "    ./pagecopy https://example.com/about 3000"
+  echo ""
+  exit 1
+fi
+
+# Extract domain for base href
+DOMAIN=$(echo "$URL" | sed -E 's|(https?://[^/]+).*|\1|')
+
+# Create a folder name from the URL
+SLUG=$(echo "$URL" | sed -E 's|https?://||;s|[^a-zA-Z0-9]+|-|g;s|-$||' | cut -c1-60)
+DIR="$(pwd)/pagecopy-$SLUG"
+mkdir -p "$DIR"
+
+echo ""
+echo "  Downloading: $URL"
+echo ""
+
+# Download the page
+curl -s -L \
+  -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+  -H "Accept: text/html,application/xhtml+xml" \
+  -H "Accept-Language: en-US,en;q=0.9" \
+  -o "$DIR/page-raw.html" \
+  "$URL"
+
+if [ ! -s "$DIR/page-raw.html" ]; then
+  echo "  Error: Failed to download the page."
+  exit 1
+fi
+
+# Add <base href> and fix protocol-relative URLs
+sed "s|<head>|<head><base href=\"$DOMAIN/\">|" "$DIR/page-raw.html" > "$DIR/index.html"
+sed -i '' 's|src="//|src="https://|g' "$DIR/index.html"
+sed -i '' 's|href="//|href="https://|g' "$DIR/index.html"
+
+# Copy editor.js alongside and inject script tag before </body> (use absolute localhost URL to avoid <base href> issues)
+cp "$SCRIPT_DIR/editor.js" "$DIR/editor.js"
+sed -i '' "s|</body>|<script src=\"http://localhost:$PORT/editor.js\"></script></body>|" "$DIR/index.html"
+
+# Kill any existing server on this port
+lsof -ti:$PORT 2>/dev/null | xargs kill 2>/dev/null
+sleep 0.5
+
+# Start server
+cd "$DIR"
+nohup python3 -m http.server "$PORT" > /dev/null 2>&1 &
+SERVER_PID=$!
+sleep 1
+
+# Verify
+if curl -s -o /dev/null -w "%{http_code}" "http://localhost:$PORT/" | grep -q 200; then
+  echo "  Page copied to: $DIR"
+  echo ""
+  echo "  Live at: http://localhost:$PORT"
+  echo ""
+  echo "  Tools:"
+  echo "    Edit Text (Alt+E) — click text to edit inline"
+  echo "    Inspect   (Alt+I) — click element to copy selector"
+  echo ""
+  echo "  Stop server: kill $SERVER_PID"
+  echo ""
+  open "http://localhost:$PORT"
+else
+  echo "  Error: Server failed to start."
+  exit 1
+fi
