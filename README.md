@@ -22,12 +22,12 @@ MCP server configs located in `mcps/`. Copy to your project's `.mcp.json` to use
 
 ## Plugins
 
-Installed from the official Claude Code marketplace:
+Installed from the official Claude Code marketplace. Each plugin is documented in `plugins/`.
 
 | Plugin | Status | Description |
 |---|---|---|
-| **github** | Enabled | GitHub integration via MCP |
-| **frontend-design** | Disabled | UI/frontend design assistance from Anthropic |
+| **[github](plugins/github.md)** | Enabled | GitHub integration via MCP |
+| **[frontend-design](plugins/frontend-design.md)** | Disabled | UI/frontend design assistance from Anthropic |
 
 ## Tools
 
