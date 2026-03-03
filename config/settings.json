@@ -1,4 +1,3 @@
 {
-  "model": "opus[1m]",
-  "skipDangerousModePermissionPrompt": true
+  "model": "opus[1m]"
 }
