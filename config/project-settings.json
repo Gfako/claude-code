@@ -1,12 +1,7 @@
 {
-  "permissions": {
-    "allow": [
-      "mcp__ahrefs__site-explorer-organic-keywords",
-      "mcp__ahrefs__serp-overview"
-    ]
-  },
   "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
-    "ahrefs"
+    "ahrefs",
+    "firecrawl"
   ]
 }
