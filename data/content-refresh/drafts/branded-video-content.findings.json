@@ -1,0 +1,605 @@
+{
+  "counts": {
+    "feature": 4,
+    "stat": 17,
+    "link": 11
+  },
+  "total": 32,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Henriksen](https://www.synthesia.io/blog/authors/elly-henriksen) February 14, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        287,
+        299
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "7 Tips for creating branded video content (with examples)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Henriksen](https://www.synthesia.io/blog/authors/elly-henriksen) February 14, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        303,
+        317
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "7 Tips for creating branded video content (with examples)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        18803,
+        18817
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Scale your branded video production with AI",
+        "heading_level": 2,
+        "line": 217
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "feature",
+      "text": "60 templates",
+      "context": "awareness. Play While AI avatars make filming a brand video infinitely easier, you can also find over [60 templates](https://www.synthesia.io/templates) that are simple to duplicate and customize. Videos aren't just",
+      "span": [
+        16499,
+        16511
+      ],
+      "meta": {
+        "subtype": "templates",
+        "brand": "Synthesia",
+        "value": "60"
+      },
+      "location": {
+        "heading": "How to create your own branded content video",
+        "heading_level": 2,
+        "line": 189
+      },
+      "sentence": "While AI avatars make filming a brand video infinitely easier, you can also find over [60 templates](https://www.synthesia.io/templates) that are simple to duplicate and customize."
+    },
+    {
+      "type": "stat",
+      "text": "91%",
+      "context": "AI](https://www.synthesia.io/post/branded-video-content#scale-your-branded-video-production-with-ai) Audiences don't just love videos. They love branded videos, and [91%](https://zight.com/blog/video-marketing-statistics/) of people want to see more content from their",
+      "span": [
+        1936,
+        1939
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "7 Tips for creating branded video content (with examples)",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "They love branded videos, and [91%](https://zight.com/blog/video-marketing-statistics/) of people want to see more content from their favorite brands."
+    },
+    {
+      "type": "stat",
+      "text": "64%",
+      "context": "content](https://www.synthesia.io/post/tips-for-making-engaging-video) is a powerful way for brands to communicate, connect, and convert. And with 64% of consumers buying something after watching a branded video on social media, video content pays off.",
+      "span": [
+        2211,
+        2214
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "7 Tips for creating branded video content (with examples)",
+        "heading_level": 1,
+        "line": 41
+      },
+      "sentence": "And with 64% of consumers buying something after watching a branded video on social media, video content pays off."
+    },
+    {
+      "type": "stat",
+      "text": "81%",
+      "context": "this connection important with all branded video types? **Because it builds trust.** An overwhelming 81% of consumers say they need to trust a brand before purchasing from them. Did you know? 🤔 [55%](https://institute.uschamber.com/what-makes-a-good-first-impression/)",
+      "span": [
+        3066,
+        3069
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What is a branded video?",
+        "heading_level": 2,
+        "line": 49
+      },
+      "sentence": "Because it builds trust.** An overwhelming 81% of consumers say they need to trust a brand before purchasing from them."
+    },
+    {
+      "type": "stat",
+      "text": "55%",
+      "context": "overwhelming 81% of consumers say they need to trust a brand before purchasing from them. Did you know? 🤔 [55%](https://institute.uschamber.com/what-makes-a-good-first-impression/) of consumers' first impressions",
+      "span": [
+        3162,
+        3165
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What is a branded video?",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "[55%](https://institute.uschamber.com/what-makes-a-good-first-impression/) of consumers' first impressions are visual, 38% come from what they hear, and 7% from the actual words."
+    },
+    {
+      "type": "stat",
+      "text": "38%",
+      "context": "[55%](https://institute.uschamber.com/what-makes-a-good-first-impression/) of consumers' first impressions are visual, 38% come from what they hear, and 7% from the actual words. This means that the rich visuals of branded",
+      "span": [
+        3280,
+        3283
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What is a branded video?",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "[55%](https://institute.uschamber.com/what-makes-a-good-first-impression/) of consumers' first impressions are visual, 38% come from what they hear, and 7% from the actual words."
+    },
+    {
+      "type": "stat",
+      "text": "7%",
+      "context": "[55%](https://institute.uschamber.com/what-makes-a-good-first-impression/) of consumers' first impressions are visual, 38% come from what they hear, and 7% from the actual words. This means that the rich visuals of branded videos can supercharge this type",
+      "span": [
+        3314,
+        3316
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What is a branded video?",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "[55%](https://institute.uschamber.com/what-makes-a-good-first-impression/) of consumers' first impressions are visual, 38% come from what they hear, and 7% from the actual words."
+    },
+    {
+      "type": "stat",
+      "text": "78%",
+      "context": "From all the visuals you could use in branded videos, company colors are the ace up your sleeve. [78%](https://www.rebootonline.com/blog/what-importance-colour-brand-recognition/) of people will recall",
+      "span": [
+        7577,
+        7580
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 1: Subtly brand everything you can",
+        "heading_level": 2,
+        "line": 107
+      },
+      "sentence": "[78%](https://www.rebootonline.com/blog/what-importance-colour-brand-recognition/) of people will recall a logo's primary color vs."
+    },
+    {
+      "type": "stat",
+      "text": "43%",
+      "context": "[78%](https://www.rebootonline.com/blog/what-importance-colour-brand-recognition/) of people will recall a logo's primary color vs. only 43% who remember the company's name. So, using visuals that echo your brand's identity can significantly",
+      "span": [
+        7713,
+        7716
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 1: Subtly brand everything you can",
+        "heading_level": 2,
+        "line": 107
+      },
+      "sentence": "only 43% who remember the company's name."
+    },
+    {
+      "type": "stat",
+      "text": "75%",
+      "context": "makes your message memorable, and reflects your brand's values. Most importantly, you gain loyalty — [75%](https://explodingtopics.com/blog/customer-loyalty-stats) of American consumers say they're more likely",
+      "span": [
+        8504,
+        8507
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 2: Relate to your audience",
+        "heading_level": 2,
+        "line": 119
+      },
+      "sentence": "Most importantly, you gain loyalty — [75%](https://explodingtopics.com/blog/customer-loyalty-stats) of American consumers say they're more likely to stay loyal to brands that get them on a personal level."
+    },
+    {
+      "type": "stat",
+      "text": "46%",
+      "context": "can help your branded video resonate with a viewership. ## Tip 3: Remember it's all about trust [46%](https://www.oberlo.com/blog/branding-statistics) of consumers would pay more for brands they trust.",
+      "span": [
+        9040,
+        9043
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 3: Remember it's all about trust",
+        "heading_level": 2,
+        "line": 125
+      },
+      "sentence": "[46%](https://www.oberlo.com/blog/branding-statistics) of consumers would pay more for brands they trust."
+    },
+    {
+      "type": "stat",
+      "text": "64%",
+      "context": "transactions. It's about values, promises kept, and a shared vision for the future. Did you know? 🤔 64% of consumers say they'd choose to buy from or boycott a brand based solely on its position on a social",
+      "span": [
+        10042,
+        10045
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 3: Remember it's all about trust",
+        "heading_level": 2,
+        "line": 133
+      },
+      "sentence": "64% of consumers say they'd choose to buy from or boycott a brand based solely on its position on a social or political issue."
+    },
+    {
+      "type": "stat",
+      "text": "55%",
+      "context": "important as what it sells. ## Tip 4: Craft the right story When people fall in love with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future,",
+      "span": [
+        10314,
+        10317
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 4: Craft the right story",
+        "heading_level": 2,
+        "line": 137
+      },
+      "sentence": "When people fall in love with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and 15% might even buy the product immediately."
+    },
+    {
+      "type": "stat",
+      "text": "44%",
+      "context": "[55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and 15% might even buy the product immediately. The power of a well-told story",
+      "span": [
+        10421,
+        10424
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 4: Craft the right story",
+        "heading_level": 2,
+        "line": 137
+      },
+      "sentence": "When people fall in love with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and 15% might even buy the product immediately."
+    },
+    {
+      "type": "stat",
+      "text": "15%",
+      "context": "[55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and 15% might even buy the product immediately. The power of a well-told story is huge, and a brand film is",
+      "span": [
+        10451,
+        10454
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 4: Craft the right story",
+        "heading_level": 2,
+        "line": 137
+      },
+      "sentence": "When people fall in love with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and 15% might even buy the product immediately."
+    },
+    {
+      "type": "stat",
+      "text": "20%",
+      "context": "your messaging strategy around it. Consistent branding and messaging can sweeten your revenue by [10-20%](https://www.marq.com/blog/brand-consistency-competitive-advantage), but only 30% of brands have well-known",
+      "span": [
+        14943,
+        14946
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 7: Develop a messaging strategy",
+        "heading_level": 2,
+        "line": 175
+      },
+      "sentence": "Consistent branding and messaging can sweeten your revenue by [10-20%](https://www.marq.com/blog/brand-consistency-competitive-advantage), but only 30% of brands have well-known and accessible brand guides in their marketing strategy."
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "your revenue by [10-20%](https://www.marq.com/blog/brand-consistency-competitive-advantage), but only 30% of brands have well-known and accessible brand guides in their marketing strategy. You gain countless",
+      "span": [
+        15025,
+        15028
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 7: Develop a messaging strategy",
+        "heading_level": 2,
+        "line": 175
+      },
+      "sentence": "Consistent branding and messaging can sweeten your revenue by [10-20%](https://www.marq.com/blog/brand-consistency-competitive-advantage), but only 30% of brands have well-known and accessible brand guides in their marketing strategy."
+    },
+    {
+      "type": "stat",
+      "text": "116 million views",
+      "context": "feat of Jean-Claude Van Damme performing his epic split between two moving trucks, which netted around 116 million views. Play That's an excellent viral branded video designed to attract a broad audience, encourage sharing,",
+      "span": [
+        4268,
+        4285
+      ],
+      "meta": {
+        "subtype": "large_magnitude"
+      },
+      "location": {
+        "heading": "The most popular types of branded videos",
+        "heading_level": 2,
+        "line": 61
+      },
+      "sentence": "Below is the jaw-dropping feat of Jean-Claude Van Damme performing his epic split between two moving trucks, which netted around 116 million views."
+    },
+    {
+      "type": "link",
+      "text": "https://zight.com/blog/video-marketing-statistics/",
+      "context": "",
+      "span": [
+        1941,
+        1991
+      ],
+      "meta": {
+        "domain": "zight.com",
+        "anchor": "91%"
+      },
+      "location": {
+        "heading": "7 Tips for creating branded video content (with examples)",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "They love branded videos, and [91%](https://zight.com/blog/video-marketing-statistics/) of people want to see more content from their favorite brands."
+    },
+    {
+      "type": "link",
+      "text": "https://institute.uschamber.com/what-makes-a-good-first-impression/",
+      "context": "",
+      "span": [
+        3167,
+        3234
+      ],
+      "meta": {
+        "domain": "institute.uschamber.com",
+        "anchor": "55%"
+      },
+      "location": {
+        "heading": "What is a branded video?",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "[55%](https://institute.uschamber.com/what-makes-a-good-first-impression/) of consumers' first impressions are visual, 38% come from what they hear, and 7% from the actual words."
+    },
+    {
+      "type": "link",
+      "text": "https://www.rebootonline.com/blog/what-importance-colour-brand-recognition/",
+      "context": "",
+      "span": [
+        7582,
+        7657
+      ],
+      "meta": {
+        "domain": "www.rebootonline.com",
+        "anchor": "78%"
+      },
+      "location": {
+        "heading": "Tip 1: Subtly brand everything you can",
+        "heading_level": 2,
+        "line": 107
+      },
+      "sentence": "[78%](https://www.rebootonline.com/blog/what-importance-colour-brand-recognition/) of people will recall a logo's primary color vs."
+    },
+    {
+      "type": "link",
+      "text": "https://explodingtopics.com/blog/customer-loyalty-stats",
+      "context": "",
+      "span": [
+        8509,
+        8564
+      ],
+      "meta": {
+        "domain": "explodingtopics.com",
+        "anchor": "75%"
+      },
+      "location": {
+        "heading": "Tip 2: Relate to your audience",
+        "heading_level": 2,
+        "line": 119
+      },
+      "sentence": "Most importantly, you gain loyalty — [75%](https://explodingtopics.com/blog/customer-loyalty-stats) of American consumers say they're more likely to stay loyal to brands that get them on a personal level."
+    },
+    {
+      "type": "link",
+      "text": "https://www.oberlo.com/blog/branding-statistics",
+      "context": "",
+      "span": [
+        9045,
+        9092
+      ],
+      "meta": {
+        "domain": "www.oberlo.com",
+        "anchor": "46%"
+      },
+      "location": {
+        "heading": "Tip 3: Remember it's all about trust",
+        "heading_level": 2,
+        "line": 125
+      },
+      "sentence": "[46%](https://www.oberlo.com/blog/branding-statistics) of consumers would pay more for brands they trust."
+    },
+    {
+      "type": "link",
+      "text": "https://www.marketsmiths.com/2017/roi-brand-story/",
+      "context": "",
+      "span": [
+        10319,
+        10369
+      ],
+      "meta": {
+        "domain": "www.marketsmiths.com",
+        "anchor": "55%"
+      },
+      "location": {
+        "heading": "Tip 4: Craft the right story",
+        "heading_level": 2,
+        "line": 137
+      },
+      "sentence": "When people fall in love with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and 15% might even buy the product immediately."
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=Km7D1y6Ya40&list=PLqRe68z8v3vJMqv5M43cHXLhENHDAzGTz",
+      "context": "",
+      "span": [
+        13570,
+        13653
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "Lesson of Self Worth"
+      },
+      "location": {
+        "heading": "Tip 6: Use influencer partnerships",
+        "heading_level": 2,
+        "line": 163
+      },
+      "sentence": "Take inspiration from successful campaigns, like L'Oreal Paris' \" [Lesson of Self Worth](https://www.youtube.com/watch?v=Km7D1y6Ya40&list=PLqRe68z8v3vJMqv5M43cHXLhENHDAzGTz),\" featuring powerhouses like Viola Davis, Kate Winslet, and Jane Fonda."
+    },
+    {
+      "type": "link",
+      "text": "https://www.messimessages.com/py/index.html",
+      "context": "",
+      "span": [
+        13894,
+        13937
+      ],
+      "meta": {
+        "domain": "www.messimessages.com",
+        "anchor": "personalized video maker"
+      },
+      "location": {
+        "heading": "Tip 6: Use influencer partnerships",
+        "heading_level": 2,
+        "line": 165
+      },
+      "sentence": "Another great source of inspiration is this interactive, [personalized video maker](https://www.messimessages.com/py/index.html) made in partnership with Lays."
+    },
+    {
+      "type": "link",
+      "text": "https://www.marq.com/blog/brand-consistency-competitive-advantage",
+      "context": "",
+      "span": [
+        14948,
+        15013
+      ],
+      "meta": {
+        "domain": "www.marq.com",
+        "anchor": "10-20%"
+      },
+      "location": {
+        "heading": "Tip 7: Develop a messaging strategy",
+        "heading_level": 2,
+        "line": 175
+      },
+      "sentence": "Consistent branding and messaging can sweeten your revenue by [10-20%](https://www.marq.com/blog/brand-consistency-competitive-advantage), but only 30% of brands have well-known and accessible brand guides in their marketing strategy."
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=Km7D1y6Ya40&amp;list=PLqRe68z8v3vJMqv5M43cHXLhENHDAzGTz",
+      "context": "",
+      "span": [
+        36316,
+        36618
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "Lesson of Self Worth"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/ellynhenriksen/",
+      "context": "",
+      "span": [
+        44210,
+        45565
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

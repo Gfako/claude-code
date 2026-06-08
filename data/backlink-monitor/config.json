@@ -1,0 +1,15 @@
+{
+  "own_domain": "synthesia.io",
+  "competitors": {
+    "heygen.com": {
+      "mode": "subdomains",
+      "pages": []
+    },
+    "veed.io": {
+      "mode": "subdomains",
+      "pages": []
+    }
+  },
+  "min_domain_rating": 45,
+  "exclude_spam": true
+}

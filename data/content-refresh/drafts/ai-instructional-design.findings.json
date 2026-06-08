@@ -1,0 +1,708 @@
+{
+  "counts": {
+    "feature": 1,
+    "stat": 25,
+    "link": 12
+  },
+  "total": 38,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Vidor](https://www.synthesia.io/blog/authors/amy-vidor) April 10, 2026 Create engaging training videos in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [What's",
+      "span": [
+        295,
+        309
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "AI in Instructional Design: How IDs Are Using AI in 2026",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create engaging training videos in 160+ languages."
+    },
+    {
+      "type": "stat",
+      "text": "87%",
+      "context": "capacity adds up, and the best use of it is strategic work. ### Where AI adoption is strongest today 87% of learning and development practitioners reported using AI in our 2026 [_AI in L&D Report_](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026)",
+      "span": [
+        3192,
+        3195
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Where AI adoption is strongest today",
+        "heading_level": 3,
+        "line": 54
+      },
+      "sentence": "87% of learning and development practitioners reported using AI in our 2026 [_AI in L&D Report_](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) _.\\*_ Most of that usage concentrates on content creation: tasks like quiz and content drafting, video creation, and translation."
+    },
+    {
+      "type": "stat",
+      "text": "38%",
+      "context": "networks. As an AI company, this likely skews the levels of AI engagement reported. Of 421 respondents, 38% were instructional designers. What the research says (click to expand) Our practitioner insights",
+      "span": [
+        4429,
+        4432
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Where AI adoption is strongest today",
+        "heading_level": 3,
+        "line": 62
+      },
+      "sentence": "Of 421 respondents, 38% were instructional designers."
+    },
+    {
+      "type": "stat",
+      "text": "88%",
+      "context": "considerations. ### **Content production** **Benefits:** AI helps IDs create content more quickly. [88% of respondents to our 2026 AI in L&D Report](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026)",
+      "span": [
+        9866,
+        9869
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Content production**",
+        "heading_level": 3,
+        "line": 133
+      },
+      "sentence": "[88% of respondents to our 2026 AI in L&D Report](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) reported saving time on content creation."
+    },
+    {
+      "type": "stat",
+      "text": "45%",
+      "context": "to a graphic designer or video production company, you're potentially saving thousands of dollars. [45% of teams are already reporting financial benefits](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026),",
+      "span": [
+        10555,
+        10558
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Cost**",
+        "heading_level": 3,
+        "line": 139
+      },
+      "sentence": "[45% of teams are already reporting financial benefits](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026), though many expect clearer gains as AI becomes more embedded in their workflows."
+    },
+    {
+      "type": "stat",
+      "text": "19%",
+      "context": "measurement section below. **Challenges:** The gap between content creation and evaluation is growing. [Only 19% of L&D teams are using AI for evaluation](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026),",
+      "span": [
+        11467,
+        11470
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Feedback loops**",
+        "heading_level": 3,
+        "line": 147
+      },
+      "sentence": "[Only 19% of L&D teams are using AI for evaluation](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026), compared to 65% using it for content development."
+    },
+    {
+      "type": "stat",
+      "text": "65%",
+      "context": "evaluation](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026), compared to 65% using it for content development. We're creating faster but not following through. ### **Skills and",
+      "span": [
+        11603,
+        11606
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Feedback loops**",
+        "heading_level": 3,
+        "line": 147
+      },
+      "sentence": "[Only 19% of L&D teams are using AI for evaluation](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026), compared to 65% using it for content development."
+    },
+    {
+      "type": "stat",
+      "text": "41%",
+      "context": "but the reward for working faster is often just more work. ### **Business impact** **Benefits:** [41% of L&D teams](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) say AI is",
+      "span": [
+        12878,
+        12881
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Business impact**",
+        "heading_level": 3,
+        "line": 157
+      },
+      "sentence": "Benefits:** [41% of L&D teams](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) say AI is already contributing to business impact through faster delivery and higher output."
+    },
+    {
+      "type": "stat",
+      "text": "9%",
+      "context": "Most teams haven't reached the maturity to demonstrate measurable business impact from AI in ID. Only 9% have reached the stage of scaling AI across their organization, and just 6% describe AI as fully integrated.",
+      "span": [
+        13185,
+        13187
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Business impact**",
+        "heading_level": 3,
+        "line": 159
+      },
+      "sentence": "Only 9% have reached the stage of scaling AI across their organization, and just 6% describe AI as fully integrated."
+    },
+    {
+      "type": "stat",
+      "text": "6%",
+      "context": "impact from AI in ID. Only 9% have reached the stage of scaling AI across their organization, and just 6% describe AI as fully integrated. Over the next few years, I expect this will continue to grow as organizations",
+      "span": [
+        13261,
+        13263
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Business impact**",
+        "heading_level": 3,
+        "line": 159
+      },
+      "sentence": "Only 9% have reached the stage of scaling AI across their organization, and just 6% describe AI as fully integrated."
+    },
+    {
+      "type": "stat",
+      "text": "65%",
+      "context": "at our [survey data:](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) 65% of L&D teams are using AI to develop content, but only 19% of those same teams are using it to evaluate.",
+      "span": [
+        16353,
+        16356
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**How to use AI to measure whether learning is working**",
+        "heading_level": 2,
+        "line": 199
+      },
+      "sentence": "Look at our [survey data:](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) 65% of L&D teams are using AI to develop content, but only 19% of those same teams are using it to evaluate."
+    },
+    {
+      "type": "stat",
+      "text": "19%",
+      "context": "data:](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) 65% of L&D teams are using AI to develop content, but only 19% of those same teams are using it to evaluate. We're creating content more quickly, but [not gaining",
+      "span": [
+        16412,
+        16415
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**How to use AI to measure whether learning is working**",
+        "heading_level": 2,
+        "line": 199
+      },
+      "sentence": "Look at our [survey data:](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) 65% of L&D teams are using AI to develop content, but only 19% of those same teams are using it to evaluate."
+    },
+    {
+      "type": "stat",
+      "text": "42%",
+      "context": "revisions tied to those patterns, then review and select changes with SMEs. In a practice scenario, 42% of managers choose \"Be more careful next time\" instead of giving specific guidance. AI summarizes the",
+      "span": [
+        18995,
+        18998
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Design the learning signal",
+        "heading_level": 4,
+        "line": 238
+      },
+      "sentence": "In a practice scenario, 42% of managers choose \"Be more careful next time\" instead of giving specific guidance."
+    },
+    {
+      "type": "stat",
+      "text": "60%",
+      "context": "and suggest likely interventions. \"If the share of coaching notes logged within 24 hours stays below 60% after four weeks, add a manager reinforcement nudge and revise the scenario to include language prompts.",
+      "span": [
+        19540,
+        19543
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Set a decision rule",
+        "heading_level": 4,
+        "line": 244
+      },
+      "sentence": "\"If the share of coaching notes logged within 24 hours stays below 60% after four weeks, add a manager reinforcement nudge and revise the scenario to include language prompts."
+    },
+    {
+      "type": "stat",
+      "text": "75%",
+      "context": "manager reinforcement nudge and revise the scenario to include language prompts. If it rises above 75% for two consecutive review cycles, scale the module to the next manager population.\" #### Establish",
+      "span": [
+        19667,
+        19670
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Set a decision rule",
+        "heading_level": 4,
+        "line": 244
+      },
+      "sentence": "If it rises above 75% for two consecutive review cycles, scale the module to the next manager population.\""
+    },
+    {
+      "type": "stat",
+      "text": "52%",
+      "context": "for the asset owner. Each month, AI produces a short summary: \"Timely coaching notes improved from 52% to 68% in Sales, flat in Support. Support teams cite 'no time' and 'unclear expectation.' Top replay",
+      "span": [
+        20076,
+        20079
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Establish a review cadence",
+        "heading_level": 4,
+        "line": 250
+      },
+      "sentence": "Each month, AI produces a short summary: \"Timely coaching notes improved from 52% to 68% in Sales, flat in Support."
+    },
+    {
+      "type": "stat",
+      "text": "68%",
+      "context": "asset owner. Each month, AI produces a short summary: \"Timely coaching notes improved from 52% to 68% in Sales, flat in Support. Support teams cite 'no time' and 'unclear expectation.' Top replay segment",
+      "span": [
+        20083,
+        20086
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Establish a review cadence",
+        "heading_level": 4,
+        "line": 250
+      },
+      "sentence": "Each month, AI produces a short summary: \"Timely coaching notes improved from 52% to 68% in Sales, flat in Support."
+    },
+    {
+      "type": "stat",
+      "text": "59%",
+      "context": "AI integration with personally identifiable information (PII) sources. And as you can see from our survey, 59% of practitioners are still not using PII, with 18% noting the approval process to do so is unclear.",
+      "span": [
+        22975,
+        22978
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Where you need a human in the loop**",
+        "heading_level": 2,
+        "line": 281
+      },
+      "sentence": "And as you can see from our survey, 59% of practitioners are still not using PII, with 18% noting the approval process to do so is unclear."
+    },
+    {
+      "type": "stat",
+      "text": "18%",
+      "context": "(PII) sources. And as you can see from our survey, 59% of practitioners are still not using PII, with 18% noting the approval process to do so is unclear. ![Data from AI in L&D survey: Does your use of AI",
+      "span": [
+        23026,
+        23029
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Where you need a human in the loop**",
+        "heading_level": 2,
+        "line": 281
+      },
+      "sentence": "And as you can see from our survey, 59% of practitioners are still not using PII, with 18% noting the approval process to do so is unclear."
+    },
+    {
+      "type": "stat",
+      "text": "20%",
+      "context": "learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers). That's",
+      "span": [
+        25712,
+        25715
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What the future of instructional design looks like",
+        "heading_level": 2,
+        "line": 309
+      },
+      "sentence": "AI makes it [easier to produce and update learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers)."
+    },
+    {
+      "type": "stat",
+      "text": "26%",
+      "context": "learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers). That's",
+      "span": [
+        25715,
+        25718
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What the future of instructional design looks like",
+        "heading_level": 2,
+        "line": 309
+      },
+      "sentence": "AI makes it [easier to produce and update learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers)."
+    },
+    {
+      "type": "stat",
+      "text": "20%",
+      "context": "learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers). That's not the hard part anymore. Instructional designers will continue to decide what",
+      "span": [
+        25793,
+        25796
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What the future of instructional design looks like",
+        "heading_level": 2,
+        "line": 309
+      },
+      "sentence": "AI makes it [easier to produce and update learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers)."
+    },
+    {
+      "type": "stat",
+      "text": "26%",
+      "context": "learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers). That's not the hard part anymore. Instructional designers will continue to decide what",
+      "span": [
+        25796,
+        25799
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What the future of instructional design looks like",
+        "heading_level": 2,
+        "line": 309
+      },
+      "sentence": "AI makes it [easier to produce and update learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers)."
+    },
+    {
+      "type": "stat",
+      "text": "4x",
+      "context": "Italia used this approach to launch over 100 learning paths and accelerate new product launches by 4x. [![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/68f8f6636637deb61b8473cc_Sky%20Italia.jpg)\\\\",
+      "span": [
+        15356,
+        15358
+      ],
+      "meta": {
+        "subtype": "multiplier"
+      },
+      "location": {
+        "heading": "Example use case: training videos",
+        "heading_level": 3,
+        "line": 181
+      },
+      "sentence": "Sky Italia used this approach to launch over 100 learning paths and accelerate new product launches by 4x."
+    },
+    {
+      "type": "stat",
+      "text": "4x",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/68f8f6636637deb61b8473cc_Sky%20Italia.jpg)\\\\ \\\\ How Sky Italia Digitizes Learning Paths to Accelerate New Product Launches by 4x\\\\ \\\\ Learn how Sky Italia launched 100+ new learning paths by leveraging AI video. \\\\ \\\\ Read full",
+      "span": [
+        15552,
+        15554
+      ],
+      "meta": {
+        "subtype": "multiplier"
+      },
+      "location": {
+        "heading": "Example use case: training videos",
+        "heading_level": 3,
+        "line": 185
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/68f8f6636637deb61b8473cc_Sky%20Italia.jpg)\\\\ \\\\ How Sky Italia Digitizes Learning Paths to Accelerate New Product Launches by 4x\\\\ \\\\ Learn how Sky Italia launched 100+ new learning paths by leveraging AI video."
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "# AI in Instructional Design: How IDs Are Using AI in 2026 ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/6980c0cd64e0dd8332556329_1516890038764.jpeg)",
+      "span": [
+        51,
+        58
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "AI in Instructional Design: How IDs Are Using AI in 2026",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "AI in Instructional Design: How IDs Are Using AI in 2026"
+    },
+    {
+      "type": "link",
+      "text": "https://link.springer.com/article/10.1007/s11423-024-10437-y",
+      "context": "",
+      "span": [
+        4693,
+        4753
+      ],
+      "meta": {
+        "domain": "link.springer.com",
+        "anchor": "over half reported using ChatGPT daily"
+      },
+      "location": {
+        "heading": "Where AI adoption is strongest today",
+        "heading_level": 3,
+        "line": 69
+      },
+      "sentence": "In a survey of 70 instructional designers, [over half reported using ChatGPT daily](https://link.springer.com/article/10.1007/s11423-024-10437-y), most often for writing learning objectives, brainstorming activities, and drafting content."
+    },
+    {
+      "type": "link",
+      "text": "https://link.springer.com/article/10.1007/s11528-024-00967-w",
+      "context": "",
+      "span": [
+        5010,
+        5070
+      ],
+      "meta": {
+        "domain": "link.springer.com",
+        "anchor": "generate aligned objectives, varied activities, and detailed rubrics in one session"
+      },
+      "location": {
+        "heading": "Where AI adoption is strongest today",
+        "heading_level": 3,
+        "line": 70
+      },
+      "sentence": "A hands-on study testing ChatGPT as a course-building tool found it could [generate aligned objectives, varied activities, and detailed rubrics in one session](https://link.springer.com/article/10.1007/s11528-024-00967-w), but it also fabricated references, missed the online-course format entirely, and produced shallow assessments that wouldn't challenge real learners."
+    },
+    {
+      "type": "link",
+      "text": "https://www.sciencedirect.com/science/article/abs/pii/S0160791X24000757",
+      "context": "",
+      "span": [
+        5336,
+        5407
+      ],
+      "meta": {
+        "domain": "www.sciencedirect.com",
+        "anchor": "they used only a small subset of the safeguards the research recommends"
+      },
+      "location": {
+        "heading": "Where AI adoption is strongest today",
+        "heading_level": 3,
+        "line": 71
+      },
+      "sentence": "When organizations deployed AI in HR, [they used only a small subset of the safeguards the research recommends](https://www.sciencedirect.com/science/article/abs/pii/S0160791X24000757)."
+    },
+    {
+      "type": "link",
+      "text": "https://elearningindustry.com/the-growing-readiness-debt-in-ld",
+      "context": "",
+      "span": [
+        10154,
+        10216
+      ],
+      "meta": {
+        "domain": "elearningindustry.com",
+        "anchor": "readiness debt"
+      },
+      "location": {
+        "heading": "**Content production**",
+        "heading_level": 3,
+        "line": 135
+      },
+      "sentence": "I've described this pattern as [readiness debt](https://elearningindustry.com/the-growing-readiness-debt-in-ld)."
+    },
+    {
+      "type": "link",
+      "text": "https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it",
+      "context": "",
+      "span": [
+        12313,
+        12376
+      ],
+      "meta": {
+        "domain": "hbr.org",
+        "anchor": "Research from UC Berkeley Haas"
+      },
+      "location": {
+        "heading": "**Skills and capacity**",
+        "heading_level": 3,
+        "line": 153
+      },
+      "sentence": "[Research from UC Berkeley Haas](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) found that AI didn't reduce work, it intensified it."
+    },
+    {
+      "type": "link",
+      "text": "https://www.wsj.com/lifestyle/careers/ai-work-free-time-51c8c92a",
+      "context": "",
+      "span": [
+        12651,
+        12715
+      ],
+      "meta": {
+        "domain": "www.wsj.com",
+        "anchor": "A separate survey"
+      },
+      "location": {
+        "heading": "**Skills and capacity**",
+        "heading_level": 3,
+        "line": 153
+      },
+      "sentence": "[A separate survey](https://www.wsj.com/lifestyle/careers/ai-work-free-time-51c8c92a) found workers using AI save nearly an hour a day on average, but the reward for working faster is often just more work."
+    },
+    {
+      "type": "link",
+      "text": "https://drphilippahardman.substack.com/p/the-ai-tool-stack-for-instructional",
+      "context": "",
+      "span": [
+        14072,
+        14148
+      ],
+      "meta": {
+        "domain": "drphilippahardman.substack.com",
+        "anchor": "model differences"
+      },
+      "location": {
+        "heading": "AI tools for instructional designers",
+        "heading_level": 2,
+        "line": 165
+      },
+      "sentence": "(This guide can help you sort the [model differences](https://drphilippahardman.substack.com/p/the-ai-tool-stack-for-instructional).)"
+    },
+    {
+      "type": "link",
+      "text": "https://eric.ed.gov/?id=EJ371658&",
+      "context": "",
+      "span": [
+        15971,
+        16004
+      ],
+      "meta": {
+        "domain": "eric.ed.gov",
+        "anchor": "Transfer research"
+      },
+      "location": {
+        "heading": "**How to use AI to measure whether learning is working**",
+        "heading_level": 2,
+        "line": 195
+      },
+      "sentence": "‍ [Transfer research](https://eric.ed.gov/?id=EJ371658&) has long shown that outcomes depend on what happens after training in the work environment."
+    },
+    {
+      "type": "link",
+      "text": "https://eric.ed.gov/?id=EJ371658&amp",
+      "context": "",
+      "span": [
+        38716,
+        38965
+      ],
+      "meta": {
+        "domain": "eric.ed.gov",
+        "anchor": "Transfer research"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        53066,
+        54415
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://bcghendersoninstitute.com/how-gen-ai-could-transform-learning-and-development/",
+      "context": "",
+      "span": [
+        74380,
+        74888
+      ],
+      "meta": {
+        "domain": "bcghendersoninstitute.com",
+        "anchor": "BCG Henderson Institute"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://drphilippahardman.substack.com/p/frame-a-practical-method-for-integrating",
+      "context": "",
+      "span": [
+        78290,
+        78782
+      ],
+      "meta": {
+        "domain": "drphilippahardman.substack.com",
+        "anchor": "FRAME method"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

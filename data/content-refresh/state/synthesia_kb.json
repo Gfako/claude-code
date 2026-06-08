@@ -1,0 +1,828 @@
+{
+  "version": 1,
+  "built_from": "180-day #product-changelog dump",
+  "built_at": "2026-04-29",
+  "covered_range": {"oldest": "2025-10-31", "newest": "2026-03-27"},
+  "entries": [
+    {
+      "id": "ai-dubbing-transcription-proofreading",
+      "name": "AI Dubbing: Transcription Proofreading",
+      "status": "live",
+      "description": "Users can correct transcription errors and split or merge segments before dubbing. Preview the original video while reviewing the transcript, retranslate dubbed videos with one click after edits, and keep subtitles always in sync. Only edits matching the original voiceover are accepted, preserving meaning. Available in 97 languages.",
+      "tiers": ["Paid self-serve", "Enterprise"],
+      "limitations": "Retranslation affects the whole video and any edits to a translated video will be lost after re-syncing. Changing speaker assignment is not yet supported. Original transcript cannot be reached from the script box.",
+      "source": {"date": "2025-10-31", "author": "Anton Bondarenko"},
+      "supersedes": []
+    },
+    {
+      "id": "interactivity-2-quizzes",
+      "name": "Interactivity 2.0 (Quizzes)",
+      "status": "live",
+      "description": "Add multiple-choice and single-choice questions directly inside Synthesia videos. Group them into quizzes and track scores. Question font supports an additional colour, and 'Practice mode' has been renamed to 'Scored'.",
+      "tiers": ["Enterprise"],
+      "limitations": "Only 1 question component per scene and 1 results component per video. Interactive videos must be published via Synthesia for interactivity to work. SCORM completion criteria cannot be changed. Responses on non-scored questions aren't reported via SCORM.",
+      "source": {"date": "2025-11-03", "author": "Armughan Ahmad Khan"},
+      "supersedes": []
+    },
+    {
+      "id": "customizable-express-2-avatars",
+      "name": "Customizable Express-2 Avatars (Outfits + Spaces)",
+      "status": "live",
+      "description": "6 new Express-2 stock avatars (Natasha, Hope, Carol, Clint, Bruce, Steve) where users can write a text prompt to create any outfit or space. Released to 100% of users including Freemium.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Text-prompt support only (image upload coming later). Customization works only for these 6 avatars, not previous Express-1 or Express-2 avatars. Creating new outfits/spaces can take a minute or two.",
+      "source": {"date": "2025-11-10", "author": "Sundar Solai"},
+      "supersedes": []
+    },
+    {
+      "id": "avatar-b-roll-veo-3",
+      "name": "Avatar B-Roll (Avatars + Veo 3)",
+      "status": "live",
+      "description": "Use the 6 customizable Express-2 avatars (with their outfits/spaces) for custom B-roll showing avatars doing actions and interacting with their environment, powered by Google Veo 3.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "B-roll works only for the 6 new customizable avatars. Default model Google Veo 3 costs 96 credits per generation. Google Veo 3 Fast available for 48 credits. Sora 2 not supported for avatars/spaces.",
+      "source": {"date": "2025-11-10", "author": "Sundar Solai"},
+      "supersedes": []
+    },
+    {
+      "id": "canvas-video-playback",
+      "name": "Play Videos on Canvas",
+      "status": "live",
+      "description": "Users can play video assets directly within the canvas without opening the scene. Works for videos with sound and trimmed videos. Playback controls adapt to element size and zoom level.",
+      "tiers": null,
+      "limitations": "Controls/timeline may be hidden when they don't fit. Playback stops when editing, rotating, or deselecting the element.",
+      "source": {"date": "2025-11-03", "author": "Kirill Gerasimenko"},
+      "supersedes": []
+    },
+    {
+      "id": "ai-dubbing-47-new-languages",
+      "name": "AI Dubbing: 47 Additional Languages",
+      "status": "live",
+      "description": "Expanded AI Dubbing from 32 to 79 languages and from 89 to 139 locales. More accurate accent performance for French (fr-FR, fr-CA) and Portuguese (pt-PT, pt-BR). Powered by an expanded voice cloning system using ElevenLabs and Microsoft Azure as providers.",
+      "tiers": ["Enterprise"],
+      "limitations": "Users cannot choose the specific voice cloning provider themselves when dubbing.",
+      "source": {"date": "2025-11-05", "author": "Sam Weyermann"},
+      "supersedes": []
+    },
+    {
+      "id": "ai-dubbing-improved-translation",
+      "name": "AI Dubbing: Improved Translation & Voiceover Speed",
+      "status": "live",
+      "description": "Full sentences are no longer split into short phrases for dubbing. Sentences are translated and voiced over in context, producing more naturally sounding translations and more natural voiceover speed.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Only affects newly uploaded videos. Translating a previously imported video uses the old approach.",
+      "source": {"date": "2025-11-06", "author": "Anton Bondarenko"},
+      "supersedes": []
+    },
+    {
+      "id": "voice-persistence",
+      "name": "Voice Persistence",
+      "status": "live",
+      "description": "The Voice Engine stores generated audio permanently at the paragraph level for each voice. Previews, regenerated videos, and duplicated videos use identical audio as long as the script is the same. Faster previews and fewer TTS provider calls.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Users cannot yet re-generate or modify stored audio if they don't like it (addressed by Voice Regeneration). Workaround was modifying the script.",
+      "source": {"date": "2025-11-05", "author": "Igor Pashynnyk"},
+      "supersedes": []
+    },
+    {
+      "id": "voice-regeneration",
+      "name": "Voice Regeneration",
+      "status": "live",
+      "description": "If users are unhappy with a voice output, they can hit a regenerate button to get a new output without tweaking script punctuation. Undo restores the original output.",
+      "tiers": null,
+      "limitations": "No change to underlying voice models — regenerate just rolls the dice for non-deterministic models. Some voice models have less variance, so regenerated audio may sound similar. Works at paragraph level: regenerating any portion of a paragraph regenerates the whole paragraph.",
+      "source": {"date": "2025-11-27", "author": "Allyson Pemberton"},
+      "supersedes": []
+    },
+    {
+      "id": "ppt-import-embedded-video",
+      "name": "PowerPoint Import: Embedded Video Support",
+      "status": "live",
+      "description": "Embedded videos in PPTX files are now imported into the editor and can be played from the canvas. File size limit raised to 1GB and slide support raised to 100 slides (from 250MB and 50 slides). Improved import-progress UX flow.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-11-11", "author": "Will Golledge"},
+      "supersedes": []
+    },
+    {
+      "id": "ai-playground",
+      "name": "AI Playground (formerly AI Clips)",
+      "status": "live",
+      "description": "A dedicated tab where users can generate Media for their videos using models like Sora and Veo. Originally rolled out for AVG signups, then to 100% of Self-Service users, then to Enterprise. Includes an Explore tab with example content, prompt suggestions and shuffle, image creation, multi-asset generation, landscape and portrait aspect ratios, and Start/End Frame image upload support.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Enterprise visibility governed by the existing 'AI-generated stock content' admin control. Start/End Frame is not available to Freemium users.",
+      "source": {"date": "2026-03-12", "author": "Liam Connerton"},
+      "supersedes": ["2025-11-13 AI Clips initial test", "2025-11-24 AI Playground self-service rollout", "2025-12-09 AI Playground Enterprise rollout"]
+    },
+    {
+      "id": "ecs-renderer",
+      "name": "ECS-Based Renderer (Thumbnails + Video)",
+      "status": "live",
+      "description": "Thumbnails and videos are generated by a new Entity-Component-System renderer. Faster generation, fewer failures, and foundations for richer animations. 100% of thumbnails and ramping to 100% of videos externally.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-11-13", "author": "Gabriel Gambetta"},
+      "supersedes": []
+    },
+    {
+      "id": "scene-and-video-issue-indicators",
+      "name": "Scene & Video Issue Indicators",
+      "status": "live",
+      "description": "Validation indicators show errors in scenes and videos as they appear or are fixed, before clicking Generate. Users can spot scenes with errors directly in the left scene list panel. Validation runs reactively for faster UI when generating complex videos.",
+      "tiers": null,
+      "limitations": "Some issues auto-fix when clicking Generate, which could cause confusion since they're now visible. Reactive validation may slow UI in some cases.",
+      "source": {"date": "2025-11-17", "author": "Kirill Gerasimenko"},
+      "supersedes": []
+    },
+    {
+      "id": "personal-avatars-from-photo",
+      "name": "Personal Avatars from Photo",
+      "status": "live",
+      "description": "Create a realistic personal avatar from a single photo within minutes (versus a day for video-based avatars). Built on Express-2 with lifelike body language synced to the script, full-body framing including hands. Customize outfit, background, and use for B-roll powered by Google Veo 3. Released alongside the legacy video-based Personal Avatar flow, not replacing it.",
+      "tiers": ["Starter", "Creator", "Enterprise"],
+      "limitations": "Avatar movements are not based on real-life movement (single photo input). Changing outfit or background may slightly affect avatar likeness. Lip sync works best when avatar is closer to the camera. Cannot share these Personal Avatars with other users yet. Starter: 3 personal avatars, Creator: 5, Enterprise: unlimited (shared cap across photo and video methods).",
+      "source": {"date": "2026-03-02", "author": "Sundar Solai"},
+      "supersedes": ["2025-11-19 Enterprise early access", "2026-02-02 10% rollout", "2026-02-09 25% rollout", "2026-02-16 50% rollout"]
+    },
+    {
+      "id": "dubbing-api",
+      "name": "Dubbing API",
+      "status": "live",
+      "description": "Programmatically dub videos via API, enabling automation, bulk operations, and integrations through plugins (e.g., Synthesia Microsoft Excel Plugin). Replaces single-video dubbing through the web UI for at-scale workflows.",
+      "tiers": ["All plans with standard API access"],
+      "limitations": "Standard API rate limits for write operations apply.",
+      "source": {"date": "2025-11-21", "author": "Xavier Gallego"},
+      "supersedes": []
+    },
+    {
+      "id": "french-stock-voices-azure",
+      "name": "7 French (France) Stock Voices via Azure",
+      "status": "live",
+      "description": "Added 7 new French stock voices (Ellie - Composed, Melody - Smooth, Francesca/Donna - Assured, Arthur - Informative, Ryan - Steady, Jaz - Casual, Michael - Natural). Use Azure as a provider rather than ElevenLabs because Azure better preserves the France accent.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-11-21", "author": "Allyson Pemberton"},
+      "supersedes": []
+    },
+    {
+      "id": "review-transcript-before-dubbing",
+      "name": "Review Transcript Before Dubbing",
+      "status": "live",
+      "description": "The Dubbing Modal now offers two options: Review Transcript and Dub. Selecting Review Transcript transcribes the video and lets users proofread and fix transcription errors without spending credits upfront. UI improved: a translate button appears at the top right corner of the video editor for both translation and dubbing.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-11-21", "author": "Vilius Paulauskas"},
+      "supersedes": []
+    },
+    {
+      "id": "ai-image-generation",
+      "name": "AI Image Generation (FLUX.2 + Nano Banana 2)",
+      "status": "live",
+      "description": "Generate images with AI inside the Media panel by writing a text prompt or pressing TAB. Two models: FLUX.2 by Black Forest Labs (3 credits/image self-serve, FREE for Enterprise) and Google Nano Banana 2 (9 credits/image all plans). Image generation is 10x cheaper than video generation.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Only landscape 1080p resolution supported. Not integrated with Avatars and Spaces the way Veo 3.1 is. Results may vary (misspelled text, weird objects).",
+      "source": {"date": "2025-11-25", "author": "Jure Malovrh"},
+      "supersedes": []
+    },
+    {
+      "id": "scene-limit-150",
+      "name": "Scene Limit Increased to 150",
+      "status": "live",
+      "description": "Scene limit increased from 50 to 150 (3x). Total audio length cap of ~4 hours per video. Max 5 minutes audio per scene. Customers can build a video with 150 short scenes or 50 longer scenes, or any combination.",
+      "tiers": null,
+      "limitations": "Max 150 scenes; max 5 minutes audio per scene; max ~4 hours total audio per video.",
+      "source": {"date": "2025-11-25", "author": "Matan Uberstein"},
+      "supersedes": ["50-scene limit"]
+    },
+    {
+      "id": "script-preview-any-selection",
+      "name": "Preview Any Script Selection",
+      "status": "live",
+      "description": "Users can preview any selection of their script audio. Previously the system auto-expanded selection to the whole sentence (later paragraph), forcing users to listen to more than they wanted.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-11-26", "author": "Allyson Pemberton"},
+      "supersedes": ["paragraph/sentence forced selection"]
+    },
+    {
+      "id": "express-1-stock-avatar-drop-nov-2025",
+      "name": "Express-1 Stock Avatar Drop (Nov 2025)",
+      "status": "live",
+      "description": "8 new Express-1 stock avatars added: Sydney, Orla, Lizzie, Nia, Christian (2 looks) — available in close, wide, and side-angle framings; Tamara, Trinity, Jackie — available in close and wide framings.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-11-26", "author": "Varvara Golubeva"},
+      "supersedes": []
+    },
+    {
+      "id": "scim",
+      "name": "SCIM (User Lifecycle Automation)",
+      "status": "live",
+      "description": "SCIM is generally available for automating user lifecycle management at scale, reducing IT overhead and enabling Enterprise customers to securely scale Synthesia usage.",
+      "tiers": ["Enterprise"],
+      "limitations": "SSO must be set up again with WorkOS before setting up SCIM. Customers must be on an ORG.",
+      "source": {"date": "2025-11-27", "author": "Boian Tzonev"},
+      "supersedes": []
+    },
+    {
+      "id": "self-serve-email-change",
+      "name": "Self-Serve Email Change",
+      "status": "live",
+      "description": "Users can change their sign-in email from their profile view without contacting Customer Success. Process is verified and user-initiated.",
+      "tiers": null,
+      "limitations": "Limited to users who created accounts using the email/password sign-up method (leverages AWS Cognito for security).",
+      "source": {"date": "2025-11-27", "author": "Michal Buczko"},
+      "supersedes": []
+    },
+    {
+      "id": "ppt-to-video-onboarding",
+      "name": "PPT-to-Video Onboarding (Desktop)",
+      "status": "live",
+      "description": "Desktop users landing on the PPT-to-video page now go directly into the Video Editor with their PowerPoint file imported, all assets and speaker notes extracted. Mobile users continue to get the Assistant-based flow.",
+      "tiers": null,
+      "limitations": "Desktop only.",
+      "source": {"date": "2025-12-19", "author": "Tom Bennet"},
+      "supersedes": []
+    },
+    {
+      "id": "courses-closed-beta",
+      "name": "Courses (Closed Beta)",
+      "status": "beta",
+      "description": "Organize videos into a cohesive learning experience and track learner progress. Includes Course Builder, Copilot AI Assistant for outline/script generation, Storyboard view, Skills tagging, Course Player with progress tracking, Course Sharing (share page, embed, SCORM), and Course Analytics with skill distribution charts and lesson drop-off charts.",
+      "tiers": ["Enterprise"],
+      "limitations": "Copilot doesn't support agent/visual creation. Lesson videos must be generated one by one. Reverting to a different lesson version requires restoring from editor and regenerating. Lessons can be watched in any order. Learner names tracked only with SSO or via SCORM. Translations not yet supported. Excludes Agents.",
+      "source": {"date": "2025-12-02", "author": "Armughan Ahmad Khan"},
+      "supersedes": []
+    },
+    {
+      "id": "automatic-video-retry",
+      "name": "Automatic Video Retry on Failures",
+      "status": "live",
+      "description": "Videos automatically retry when they encounter temporary issues (API slowdowns, rate limits, brief service hiccups), with adjusted spacing between attempts that can handle multi-hour service disruptions. Users have clear visibility when their videos are retrying.",
+      "tiers": null,
+      "limitations": "Longer time to failure for non-transient issues.",
+      "source": {"date": "2025-12-02", "author": "Eduardo Mucelli"},
+      "supersedes": []
+    },
+    {
+      "id": "santa-avatars",
+      "name": "Santa Avatars (Express-2)",
+      "status": "live",
+      "description": "Two Santa avatars (Classic Santa in a cozy room with Mrs. Santa portrait; Working Santa with a 'Boss' mug) created from pictures using Express-2 tech with fully generative gestures. Default UK Santa voice with US and 70+ other voice options. Templates designed for both avatars.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-12-02", "author": "Tatiana Hristova"},
+      "supersedes": []
+    },
+    {
+      "id": "accent-base-language-cloning",
+      "name": "PT/FR Accent Selection for Voice Clones & Personal Avatars",
+      "status": "live",
+      "description": "Enterprise users can select a Portuguese or French accent as their base language when creating a voice clone or personal avatar, retaining the speaker's selected accent.",
+      "tiers": ["Enterprise"],
+      "limitations": "Non-Enterprise users continue to see only 'French' and 'Portuguese' as before.",
+      "source": {"date": "2025-12-05", "author": "Allyson Pemberton"},
+      "supersedes": []
+    },
+    {
+      "id": "dubbing-tab",
+      "name": "Dubbing Tab",
+      "status": "live",
+      "description": "A dedicated Dubbing tab is now live in the left navigation for both Self-Service and Enterprise users. Reduced low-intent workflow entries without regression in dubbed video completions.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Enterprise visibility governed by the existing 'AI Dubbing' setting. If disabled, users won't see the tab in the left-nav.",
+      "source": {"date": "2025-12-10", "author": "Liam Connerton"},
+      "supersedes": []
+    },
+    {
+      "id": "voice-speed-controls",
+      "name": "Voice Speed Controls",
+      "status": "live",
+      "description": "Set a voice's speed as low as 0.8x and as high as 1.2x. Adjust the voice per paragraph and optionally across the whole video.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Most but not all voices supported (Synthesia, ElevenLabs, Microsoft Azure, Google, Watson). Numeric controls are approximate (1.2x is not exactly 20% faster).",
+      "source": {"date": "2025-12-10", "author": "Igor Pashynnyk"},
+      "supersedes": []
+    },
+    {
+      "id": "excel-bulk-dubbing",
+      "name": "Synthesia Excel Add-In: Bulk Dubbing",
+      "status": "live",
+      "description": "Upload existing MP4, MOV, WEBM files into Excel and dub them into one or more languages at scale. Choose source/target languages, lip-sync preference, and run hundreds of dubbing jobs in one go.",
+      "tiers": null,
+      "limitations": "In some orgs, IT admin approval may be required to install the Excel add-in.",
+      "source": {"date": "2025-12-10", "author": "Mayhul Bhuva"},
+      "supersedes": []
+    },
+    {
+      "id": "storyboard-view",
+      "name": "Storyboard View in Editor",
+      "status": "live",
+      "description": "A new script-focused view in the Editor that shows your entire video script in one continuous, scrollable layout. Open via the expand icon in the script box. Includes Layout Replacement (AI-powered) which uses the Assisted Creation population endpoint to take a scene's content and fill a template, giving access to all templates.",
+      "tiers": null,
+      "limitations": "Can copy script out of Storyboard but not paste a fully edited script back in. Highlighting across multiple scenes not supported. Drag-and-drop scene reordering not yet available. Coming soon: Copilot integration in Storyboard.",
+      "source": {"date": "2026-01-09", "author": "Johannes Goslar"},
+      "supersedes": []
+    },
+    {
+      "id": "french-elevenlabs-voices",
+      "name": "7 French ElevenLabs Voices",
+      "status": "live",
+      "description": "Added 7 additional French (France) voices via ElevenLabs (Claire variants: Conversational, Lively, Instructional; plus male voices: Lively, Serious, Instructional, Calm). Available to all users.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-12-15", "author": "Allyson Pemberton"},
+      "supersedes": []
+    },
+    {
+      "id": "mobile-avg-email-flow",
+      "name": "Mobile AVG/Dubbing Email Flow",
+      "status": "live",
+      "description": "Mobile users signing up via web tools now receive an email notification when their video is ready, instead of being shown a holding page. Emails route users by device type — desktop users go into product, mobile users see their video on the marketing site.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-12-18", "author": "Tom Bennet"},
+      "supersedes": ["10-min holding page"]
+    },
+    {
+      "id": "haitian-creole-voices",
+      "name": "Haitian Creole Language Support",
+      "status": "live",
+      "description": "Haitian Creole is supported with 4 stock voices (2 female, 2 male; named 'Professional' and 'Welcoming'). Differentiator vs competitors who don't support this language.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Translating into Haitian Creole only available via the new LLM translation engine (currently in beta). Not available for voice cloning or dubbing output.",
+      "source": {"date": "2026-01-05", "author": "Allyson Pemberton"},
+      "supersedes": []
+    },
+    {
+      "id": "avatar-video-persistence",
+      "name": "Avatar Video Persistence",
+      "status": "live",
+      "description": "Lock in and reuse previously generated avatar videos as long as you use the same audio + avatar on a given scene. Faster video generation, lower compute costs, and improved consistency when regenerating videos.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "To force an avatar to regenerate, you must change the audio (via script edit or Voice Regeneration). Avatar performances are not persisted across workspaces. Estimated generation times don't account for this yet.",
+      "source": {"date": "2026-01-07", "author": "David Pribil"},
+      "supersedes": []
+    },
+    {
+      "id": "branding-avatar-customization",
+      "name": "Branding for Avatar Customization (Logos + Colors)",
+      "status": "live",
+      "description": "Customize an avatar's outfit or space with a logo from your Brand Kit/Library or upload a new one. Use a hex code to choose a specific color or let the system suggest a prompt using your Brand Kit's primary color. Updated underlying model produces sharper outputs that follow prompts more faithfully.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Only works for the 6 Avatars that support customization. Avatar appearance may look slightly different than before due to new model. Logos may subtly change when added; highly detailed or small-text logos are hardest to render accurately.",
+      "source": {"date": "2026-01-09", "author": "Adam Cutmore"},
+      "supersedes": []
+    },
+    {
+      "id": "editable-rejected-videos",
+      "name": "Editable Rejected Videos",
+      "status": "live",
+      "description": "Rejected videos remain editable and can be resubmitted instead of being marked as deleted. Users can fix moderation issues and resubmit directly without starting over.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2026-01-16", "author": "Maurizio Pireddu"},
+      "supersedes": []
+    },
+    {
+      "id": "freemium-plan-10-minutes",
+      "name": "Freemium Plan: 10 Minutes / 1,200 Credits Monthly",
+      "status": "live",
+      "description": "Freemium plan increased from 3 minutes (360 credits) to 10 minutes (1,200 credits) monthly to provide a richer experience for free users and support repeat usage. Existing freemium users migrated in batches.",
+      "tiers": ["Freemium"],
+      "limitations": null,
+      "source": {"date": "2026-01-19", "author": "Liam Connerton"},
+      "supersedes": ["3 minutes / 360 credits Freemium plan"]
+    },
+    {
+      "id": "llm-translation-engine",
+      "name": "LLM-Driven Translation Engine",
+      "status": "live",
+      "description": "New centralised, platform-level microservice that delivers high-quality, context-aware translations for synthetic videos using LLMs. Replaces DeepL + Google Translate for synthetic video translation. Better locale-specific nuances (e.g. Spanish (Mexico) vs (Colombia) vs (Spain)).",
+      "tiers": null,
+      "limitations": "Customers who opted out of LLMs cannot use the new engine. Japanese translations fall back to DeepL until formality controls launch. Courses don't yet use LLM translations.",
+      "source": {"date": "2026-01-20", "author": "Arvind Muthukumar"},
+      "supersedes": ["DeepL/Google Translate as the synthetic-video translation default"]
+    },
+    {
+      "id": "extended-translation-locales",
+      "name": "Extended Locales for Translations (160+)",
+      "status": "live",
+      "description": "Translation support expanded from 80+ to 160+ locales. Region-specific translations like French (Canada), Spanish (Mexico), Arabic (Qatar) with locale-appropriate accented voices.",
+      "tiers": null,
+      "limitations": "Falls back to legacy translation flow (DeepL + Google Translate) on errors; locale reverts to base language code (e.g. 'es-mx' -> 'es').",
+      "source": {"date": "2026-01-20", "author": "Tadej Matek"},
+      "supersedes": []
+    },
+    {
+      "id": "translation-glossary",
+      "name": "Translation Glossary (GA)",
+      "status": "live",
+      "description": "Workspace-level glossary that ensures company, product, and industry terms are translated consistently or preserved as-is across synthetic video translations. Glossary editing permissions controlled in workspace settings.",
+      "tiers": ["Enterprise"],
+      "limitations": "One glossary per workspace (downloadable as CSV for use in other workspaces). Glossary rules apply only to newly created translations. Not available to customers who opted out of LLM translations. Not supported for Dubbing yet (planned Q2 2026). CSV imports replace existing rules; no in-product conflict resolution. Contextual understanding may not always disambiguate terms with multiple meanings.",
+      "source": {"date": "2026-02-12", "author": "Sam Weyermann"},
+      "supersedes": ["2026-01-22 beta launch"]
+    },
+    {
+      "id": "script-remediation-guidance",
+      "name": "Script Remediation Guidance (GA)",
+      "status": "live",
+      "description": "Real-time script feedback when users open the generate panel — identifies and fixes script moderation issues before generation. Reported a ~59% reduction in auto-rejections (self-serve & freemium) and a 2.39% increase in video creation.",
+      "tiers": null,
+      "limitations": "Self-serve/Freemium: always on. Enterprise: off by default — admins control enablement via workspace or org settings.",
+      "source": {"date": "2026-04-02", "author": "Maurizio Pireddu"},
+      "supersedes": ["2026-01-23 A/B test", "2026-03-09 Phase 2 test"]
+    },
+    {
+      "id": "voice-deprecation-feb-2026",
+      "name": "Voice Deprecations (Feb 2026)",
+      "status": "removed",
+      "description": "A small set of voices were removed from the Synthesia voice library by end of February 2026 because the underlying provider deprecated them. Recommended replacements: Considered→Gravelly, Balanced→Chill, Dynamic→Chill, Measured→Firm, Vibrant→Measured, Gentle→Composed, Bright→Sincere, Mellow→Measured, Energetic→Firm, Determined→Measured.",
+      "tiers": null,
+      "limitations": "Voices only deprecated in select languages.",
+      "source": {"date": "2026-02-26", "author": "Allyson Pemberton"},
+      "supersedes": []
+    },
+    {
+      "id": "audit-logs",
+      "name": "Audit Logs",
+      "status": "live",
+      "description": "Organisation admins can track and monitor activity across their Synthesia organisation. View activity history, filter by date/user/event type, export to CSV, and access audit logs via API. Acting User column shows the real person who initiated billing credit-consuming actions (no longer 'System').",
+      "tiers": ["Enterprise"],
+      "limitations": "Requires Organisation Admin permissions. Background/system-initiated jobs still show 'System'. Past events show 'System' (audit events are immutable; not backfilled).",
+      "source": {"date": "2026-01-28", "author": "Catalina Oyaneder"},
+      "supersedes": []
+    },
+    {
+      "id": "share-page-noindex",
+      "name": "Share.synthesia.io Pages Set to Noindex",
+      "status": "removed",
+      "description": "The 'indexable share page' feature was removed. share.synthesia.io pages are no longer crawlable by search engines (noindex applied). Studio no longer shows toggles for switching page indexability when publishing a video or course.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2026-02-06", "author": "Eryk Napierala"},
+      "supersedes": ["page indexability toggle"]
+    },
+    {
+      "id": "express-2-high-res-rendering",
+      "name": "Express-2 Avatars High-Res Rendering",
+      "status": "live",
+      "description": "100% of Express-2 avatars are now served via the higher-quality high-res rendering route. Sharper, more realistic avatars; correlates with higher publish/utilisation rates.",
+      "tiers": null,
+      "limitations": "Initial rollout via FAL was slow (doubled/tripled latency); team progressing on hosting model in-house.",
+      "source": {"date": "2026-03-04", "author": "Alex Balan"},
+      "supersedes": ["2026-02-06 10% test"]
+    },
+    {
+      "id": "gradient-on-text",
+      "name": "Gradient on Text",
+      "status": "live",
+      "description": "Add a gradient between two colors as a text background instead of just a single color.",
+      "tiers": null,
+      "limitations": "Gradient color cannot be combined with other text effects (text stroke, underline, shadows).",
+      "source": {"date": "2026-02-10", "author": "Berci Kormendy"},
+      "supersedes": []
+    },
+    {
+      "id": "folder-sharing-settings",
+      "name": "Folder Sharing Settings",
+      "status": "live",
+      "description": "Share folders and collaborate with specific users. Permission levels: General Access at workspace (No access, Commenter, Editor, Full Access) and User-invited (Commenter, Editor, Full Access). Shared folders appear in 'Shared with me'. Permissions propagate from parent folder → subfolders → files unless manually overridden.",
+      "tiers": null,
+      "limitations": "Tier B Enterprise customers receive a 2-week delay rollout.",
+      "source": {"date": "2026-02-11", "author": "Nakul Jamadagni"},
+      "supersedes": []
+    },
+    {
+      "id": "bulk-image-replace-delete",
+      "name": "Bulk Replace/Delete Images on Canvas",
+      "status": "live",
+      "description": "When replacing or deleting an image, users are asked whether they'd like to apply the change to all matching images across the video. Replace works via Replace image button or paste; remove works only on delete (not cut).",
+      "tiers": null,
+      "limitations": "Only enabled for images, not videos.",
+      "source": {"date": "2026-02-16", "author": "Will Golledge"},
+      "supersedes": []
+    },
+    {
+      "id": "environments-tab-retired",
+      "name": "Environments Tab Retired",
+      "status": "removed",
+      "description": "The Environments tab in the media picker was retired. Analytics showed the feature was very rarely used; removal reduces clutter in the picker.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2026-02-02", "author": "Norbert Annus"},
+      "supersedes": []
+    },
+    {
+      "id": "improved-avatar-replacement-logic",
+      "name": "Improved Avatar Replacement Logic",
+      "status": "live",
+      "description": "When replacing a multicam avatar (single or bulk), the previous avatar's Camera angle is preserved. When replacing outfits or spaces, they're replaced independently — replacing an outfit retains the existing space (and vice versa). New scenes added via template show the outfit combined with the template space.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2026-03-02", "author": "Will Golledge"},
+      "supersedes": ["strict 1-to-1 avatar replacement"]
+    },
+    {
+      "id": "selfie-avatars-retirement",
+      "name": "Selfie Avatars Retirement (June 1, 2026)",
+      "status": "removed",
+      "description": "Selfie Avatars will be retired on June 1, 2026 (90-day notice). Replaced by Personal Avatars from Photo, which addresses the same user needs with more capabilities (outfits, spaces, B-roll). Selfie Avatar beta is closed and no longer accepting sign-ups.",
+      "tiers": null,
+      "limitations": "After June 1, users cannot create new Selfie Avatars. Existing Selfie Avatars accessible only if explicitly saved via 'Save to My Avatars' button. Unsaved avatars no longer accessible after that date.",
+      "source": {"date": "2026-03-03", "author": "Sundar Solai"},
+      "supersedes": []
+    },
+    {
+      "id": "personal-avatars-creation-limits",
+      "name": "Personal Avatar Creation Limits",
+      "status": "live",
+      "description": "Plan-based limits on Personal Avatar creation: Enterprise users — unlimited (photo or video). Creator plan — 5 Personal Avatars (shared cap across photo and video). Starter plan — 3 Personal Avatars (shared cap). Any user can customize a Personal Avatar from a Photo into unlimited outfits.",
+      "tiers": ["Starter", "Creator", "Enterprise"],
+      "limitations": "Caps are shared between photo-based and video-based creation methods.",
+      "source": {"date": "2026-03-02", "author": "Sundar Solai"},
+      "supersedes": ["earlier statement of unlimited photo-based personal avatars"]
+    },
+    {
+      "id": "vort-voice-runtime",
+      "name": "Voice Runtime Triton (VoRT) for Express-Voice",
+      "status": "live",
+      "description": "Express-voice voice clone generation and TTS now run on Voice Runtime Triton, a new architecture similar to Avatar Runtime Triton (ART). Enables more efficient operation, easier deployment of updates, and running multiple models simultaneously.",
+      "tiers": null,
+      "limitations": "Watching for TTS latency and voice clone generation errors.",
+      "source": {"date": "2026-03-02", "author": "Haitham Seelawi"},
+      "supersedes": []
+    },
+    {
+      "id": "express-voice-model-update",
+      "name": "Express-Voice Underlying Model Updated (IPA Foundation)",
+      "status": "live",
+      "description": "The underlying voice model powering all Express voices (including English Express-voice voice clones) was replaced. Prepares the foundation for upcoming IPA pronunciation capabilities. Sounds extremely similar to the old model — no audible difference expected.",
+      "tiers": null,
+      "limitations": "IPA pronunciation controls not yet enabled in product.",
+      "source": {"date": "2026-02-26", "author": "Noelia de la Cruz"},
+      "supersedes": []
+    },
+    {
+      "id": "synthesia-mobile",
+      "name": "Synthesia for Mobile",
+      "status": "live",
+      "description": "Mobile experience rolled out to 100% of self-serve and freemium users as the new baseline. Covers sign-up, onboarding, content consumption, and media generation via Playground and Dubbing. Increased early engagement: returning users +36%, average first-24h session duration +66%.",
+      "tiers": ["Freemium", "Starter", "Creator"],
+      "limitations": "Video editor and Copilot/Assistant out of scope for MVP. Personal avatar creation, video assistant v2, and Enterprise functionality coming next.",
+      "source": {"date": "2026-03-19", "author": "Tom Bennet"},
+      "supersedes": ["2026-03-02 50:50 test launch"]
+    },
+    {
+      "id": "personal-avatars-new-creation-ux",
+      "name": "Personal Avatars New Creation Experience",
+      "status": "live",
+      "description": "Wizard-like creation flow for Personal Avatars with more context and visuals at each step. Studio Avatars moved to top-right of first screen. 'Request a Personal Avatar' lives on the second screen after selecting 'Personal Avatar'. Avatar Builder remains hidden.",
+      "tiers": ["Starter", "Creator", "Enterprise"],
+      "limitations": "Removed option to upload audio to create a voice (low usage). Voice may not be ready immediately if a video is created very quickly after avatar creation.",
+      "source": {"date": "2026-03-11", "author": "Sundar Solai"},
+      "supersedes": []
+    },
+    {
+      "id": "avg-playground-start-end-frame",
+      "name": "AI Playground: Start/End Frame Image Uploads",
+      "status": "live",
+      "description": "Upload an image and use it as a starting frame, or as both start and end frames, alongside a text prompt to guide video generation. Supports PNG, JPG, WebP.",
+      "tiers": ["Starter", "Creator", "Enterprise"],
+      "limitations": "Freemium users see an upgrade prompt.",
+      "source": {"date": "2026-03-12", "author": "Liam Connerton"},
+      "supersedes": []
+    },
+    {
+      "id": "button-menu-elements-editor",
+      "name": "Button & Menu Elements + Surfaced Interactivity in Editor",
+      "status": "live",
+      "description": "Added Button and Menu as ready-to-use elements directly in the Editor. Surfaced Interactivity and Dynamic Captions in the Editor too. Both interactive elements and Dynamic Captions automatically pick up Brand Kit colours and fonts.",
+      "tiers": ["Creator", "Enterprise"],
+      "limitations": "Menus currently support 2 options per Menu element (use copy + paste to add more). Interactivity available on Creator and Enterprise plans.",
+      "source": {"date": "2026-03-12", "author": "Varvara Golubeva"},
+      "supersedes": []
+    },
+    {
+      "id": "ai-screen-recorder-improved-transcription",
+      "name": "AI Screen Recorder: Improved Transcription",
+      "status": "live",
+      "description": "Record in any language and get an accurate transcript without manually selecting language upfront. Better pause detection improves scene-creation timestamp quality. Works from Studio ('Upload Screen Recording') or the browser extension.",
+      "tiers": null,
+      "limitations": "If detection is ambiguous (silent or non-speech audio), a manual language picker appears as fallback.",
+      "source": {"date": "2026-03-13", "author": "Devesh Jadon"},
+      "supersedes": []
+    },
+    {
+      "id": "upload-screen-recording",
+      "name": "Upload Screen Recording",
+      "status": "live",
+      "description": "Upload an MP4 of a screen recording from Camtasia, QuickTime, Loom, or any tool — get a transcribed, editable Synthesia video with scenes automatically created from the content. Voiceover from SMEs is transcribed.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Coming soon: upload an MP4 from the homepage to start a new video directly.",
+      "source": {"date": "2026-03-16", "author": "Devesh Jadon"},
+      "supersedes": []
+    },
+    {
+      "id": "audio-graph-editor-preview",
+      "name": "Audio Graph in Editor Preview",
+      "status": "live",
+      "description": "When an actor is speaking in editor preview playback, background music and video elements automatically get quieter — matching the final rendered video.",
+      "tiers": null,
+      "limitations": "Disabling enableAudioGraph feature flag is the first thing to try for audio issues.",
+      "source": {"date": "2026-03-17", "author": "Yury Tomilin"},
+      "supersedes": []
+    },
+    {
+      "id": "transparent-background-avatars",
+      "name": "Transparent Background Avatars (Express-2)",
+      "status": "live",
+      "description": "Remove the background from Express-2 avatars (both Stock and Personal) and use them on top of other canvas elements. Add solid color or gradient backgrounds to an avatar. Released to 100% of users by 26 March 2026.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "In some cases, fuzziness along avatar edges due to incomplete green-screen removal. Rendering times may be ~7% longer. Oldest Express-2 avatars not supported (Ada, Ryan, Zola, Michael, Joshua, Ellie, Santa).",
+      "source": {"date": "2026-03-18", "author": "Hyojong Kim"},
+      "supersedes": []
+    },
+    {
+      "id": "remastered-express-2-avatars",
+      "name": "Remastered Express-2 Avatars (Fabulous 6)",
+      "status": "live",
+      "description": "Base images of the 6 customizable stock avatars (Natasha, Hope, Carol, Clint, Bruce, Steve) refreshed for sharper, more realistic skin, lighting, and picture quality.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Old images of these avatars (with default outfits in stock spaces) are no longer accessible and replaced with new images. Custom outfit/space images remain unchanged. Doesn't address lip sync, facial expressions, or body language.",
+      "source": {"date": "2026-03-19", "author": "Sundar Solai"},
+      "supersedes": []
+    },
+    {
+      "id": "sora-2-retirement",
+      "name": "Sora 2 Retirement (Sept 24, 2026)",
+      "status": "removed",
+      "description": "Sora 2 will be retired on September 24, 2026. OpenAI is shutting down their Sora video platform. After removal, users will still have Google Veo 3.1 and Veo 3.1 Fast. Product team plans to add optional audio for Veo models before Sora retirement (Veo with audio costs 2x credits).",
+      "tiers": null,
+      "limitations": "Currently no in-product mention that Sora is retiring; will be added before Sept 24.",
+      "source": {"date": "2026-03-25", "author": "Sundar Solai"},
+      "supersedes": []
+    },
+    {
+      "id": "fabulous-4-customizable-avatars",
+      "name": "Fabulous 4 Customizable Avatars",
+      "status": "live",
+      "description": "4 brand-new Express-2 avatars: Claire, Daniel, Sarah, and Luke. Available in the Editor and paired in Assistant with a motion graphic style.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Paired with existing voices (no new voices). Voice/lip sync/facial expressions/body language follow the current Express-2 avatar system.",
+      "source": {"date": "2026-03-27", "author": "Varvara Golubeva"},
+      "supersedes": []
+    },
+    {
+      "id": "assistant-ga",
+      "name": "Synthesia Assistant (GA)",
+      "status": "live",
+      "description": "AI-powered creation tool that produces higher-quality scripts with matching visuals in a video-first style using a new script-writing framework. Uses stock styles to generate consistent visuals across motion graphics, avatars, B-roll, and images. Accepts files, URLs, and prompts as context. Supports chat-based iteration inside the Editor. Ships alongside (not replacing) the legacy AI Video Assistant.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Only supports one template (Assistant Default) at GA. No support for brand kits yet, just stock styles. Chat-based editing only works for Assistant-created videos. Asset generation can take a few minutes. Visual quality (motion graphics, B-roll) still WIP. Credit-consuming actions (like Veo3 b-roll) are free for the foreseeable future.",
+      "source": {"date": "2026-03-31", "author": "Bill Leaver"},
+      "supersedes": []
+    },
+    {
+      "id": "motion-graphics-editor-beta",
+      "name": "Motion Graphics in Editor (Beta)",
+      "status": "beta",
+      "description": "Generate motion assets directly inside a scene based on the script using pre-baked styles. Adds sound effects. Works especially well for cards, timelines, and checklists. Free during beta.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Quality can be inconsistent. Cannot brand or edit these assets. Generation limited to 30 seconds max. Users with AI Media turned off will not see this feature.",
+      "source": {"date": "2026-03-31", "author": "Varvara Golubeva"},
+      "supersedes": []
+    },
+    {
+      "id": "smooth-voice-generation",
+      "name": "Smooth Voice Generation",
+      "status": "live",
+      "description": "Script audio is now generated up to entire paragraphs at a time instead of sentence by sentence. More natural, less choppy voice output with stable volume and tone. Quality matches generating directly on ElevenLabs.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Not all providers support this — supported on ElevenLabs, Azure, and Synthesia's Express-Voice. Long paragraphs may take slightly longer to preview. Voices may sound slightly faster (no fixed pause after every sentence).",
+      "source": {"date": "2026-03-31", "author": "Igor Pashynnyk"},
+      "supersedes": []
+    },
+    {
+      "id": "rendering-timing-accuracy-fix",
+      "name": "Rendered Video Timing Accuracy Fix",
+      "status": "live",
+      "description": "Rendered videos now have more accurate timing throughout, with cleaner stitching between parts created during rendering. Improves technical quality and reduces timing-related issues for downstream systems.",
+      "tiers": null,
+      "limitations": "Some exported videos may be slightly larger in file size as a tradeoff.",
+      "source": {"date": "2026-03-31", "author": "Eduardo Mucelli"},
+      "supersedes": []
+    },
+    {
+      "id": "auto-generate-share-link",
+      "name": "Auto-Generate + Copy Share Link in One Click",
+      "status": "live",
+      "description": "Single-click 'Copy link' replaces the previous two-step 'Create link' → copy flow. Generates the share link and copies it to clipboard in the same action. Rolled out to 100% of Freemium, Self-Serve, and Enterprise users.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": null,
+      "source": {"date": "2026-04-10", "author": "Sara Gattoni"},
+      "supersedes": ["2026-03-13 self-serve test", "2026-04-02 self-serve rollout"]
+    },
+    {
+      "id": "sharing-benefits-modal",
+      "name": "Sharing Benefits Modal on Download",
+      "status": "live",
+      "description": "When users trigger a video download, a modal appears highlighting sharing benefits (the download still starts automatically). Users can copy a share link or dismiss the modal (won't reappear once dismissed). Now baseline for Self-Serve Paid & Enterprise users.",
+      "tiers": ["Starter", "Creator", "Enterprise"],
+      "limitations": null,
+      "source": {"date": "2026-04-08", "author": "Liam Connerton"},
+      "supersedes": []
+    },
+    {
+      "id": "voice-recommendations-improvements",
+      "name": "Voice Recommendations Improvements",
+      "status": "live",
+      "description": "Three improvements: (1) Bad voices removed from 120+ stock templates. (2) Bug in AI onboarding fixed — no longer defaults to 'en-GB Original' voice. (3) Translating into Japanese now uses native Japanese voices instead of trying to maintain the avatar's voice (which sounded non-native).",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2026-04-14", "author": "Sundar Solai"},
+      "supersedes": []
+    },
+    {
+      "id": "trial-experience-update",
+      "name": "Updated Trial Experience",
+      "status": "live",
+      "description": "Trialists can end their trial early and immediately start their paid subscription. Trial credits are pro-rated, so starting earlier gives access to a full credit allowance. Video downloading is restricted during the trial period.",
+      "tiers": null,
+      "limitations": "USA only — trials not currently available in any other geos.",
+      "source": {"date": "2025-12-01", "author": "Liam Connerton"},
+      "supersedes": []
+    },
+    {
+      "id": "contextual-upgrade-paywall",
+      "name": "Contextual Upgrade Plan Picker",
+      "status": "live",
+      "description": "In-product plan picker now focuses the experience on upgrade paths based on the user's current subscription. Rolled out as baseline for self-service paid users.",
+      "tiers": ["Starter", "Creator"],
+      "limitations": null,
+      "source": {"date": "2025-12-01", "author": "Liam Connerton"},
+      "supersedes": []
+    },
+    {
+      "id": "onboarding-auto-advance",
+      "name": "Onboarding Auto-Advance",
+      "status": "live",
+      "description": "Onboarding questionnaire automatically advances users to the next question as soon as they select a response. Standardised modal sizing, consistent chip button styling, skip option for the company URL step. Now baseline for both Self-Service and Enterprise users.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": null,
+      "source": {"date": "2025-11-05", "author": "Liam Connerton"},
+      "supersedes": []
+    },
+    {
+      "id": "corner-radius-per-corner",
+      "name": "Per-Corner Border Radius",
+      "status": "live",
+      "description": "Set individual border radii for each corner of rectangular base elements (images, rectangle shapes, videos, SVG icons). Click a button on any rectangular element to toggle per-corner mode.",
+      "tiers": null,
+      "limitations": "Does not support elements other than base rectangular shapes with 4 corners.",
+      "source": {"date": "2026-02-17", "author": "Andre Araujo"},
+      "supersedes": []
+    },
+    {
+      "id": "blocking-branch-pause-control",
+      "name": "Pause/Restart Control for Blocking Branches",
+      "status": "live",
+      "description": "Users can pause the video using on-screen controls during blocking branches in the player. Previously this was only possible via keyboard shortcuts. The video control is now responsible only for restarting the played segment of a blocking branch (quizzes have their own Reply button).",
+      "tiers": null,
+      "limitations": "Scrubbing capability for blocking branches not yet available.",
+      "source": {"date": "2026-02-25", "author": "Alexei Simanchik"},
+      "supersedes": []
+    },
+    {
+      "id": "feedback-highlights-while-waiting",
+      "name": "Feature Highlights While Waiting",
+      "status": "limited",
+      "description": "During video generation, the 'video is generating' animation is being replaced with feature highlight cards. Cards are dynamic by plan with CTAs shown/hidden based on feature availability. Currently in 50/50 A/B test for desktop users across all plans.",
+      "tiers": ["Freemium", "Starter", "Creator", "Enterprise"],
+      "limitations": "Desktop only. Currently in A/B test, not rolled out as baseline.",
+      "source": {"date": "2026-03-23", "author": "Liam Connerton"},
+      "supersedes": []
+    },
+    {
+      "id": "resize-typing-performance",
+      "name": "Resize and Typing Performance Improvements",
+      "status": "live",
+      "description": "Resize operations and typing in text elements deliver up to 3x more FPS during resize and no noticeable lag while typing. Especially helpful in large videos with many elements.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-11-26", "author": "Javier Gonzalez"},
+      "supersedes": []
+    },
+    {
+      "id": "52-weeks-of-fixes",
+      "name": "52 Weeks of Fixes (Ongoing UI Polish Programme)",
+      "status": "live",
+      "description": "Ongoing programme of small UI/UX improvements. Highlights include: True Lock (locked objects can't be nudged with arrow keys), Homepage copy refresh (clearer New video / Translate / Import PowerPoint actions), Video title in browser tab, Aligned template cards, Community link in Help menu, Smarter rounded corners on shapes, Improved large uploads (>250MB more stable), Open videos in new tab, Higher-contrast active scene highlight, Clearer delete confirmations, More tooltips across the UI.",
+      "tiers": null,
+      "limitations": null,
+      "source": {"date": "2025-11-18", "author": "Varvara Golubeva"},
+      "supersedes": []
+    }
+  ]
+}

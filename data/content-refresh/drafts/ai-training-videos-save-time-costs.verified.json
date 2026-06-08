@@ -1,0 +1,429 @@
+{
+  "slug": "ai-training-videos-save-time-costs",
+  "page_brand": null,
+  "total_findings": 20,
+  "by_severity": {
+    "unconfirmed": 16,
+    "needs_check": 4
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Vidor](https://www.synthesia.io/blog/authors/amy-vidor) April 17, 2026 Train your teams for less with engaging videos in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [How",
+      "span": [
+        309,
+        323
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "How to Reduce Training Costs Without Cutting What Works",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Train your teams for less with engaging videos in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "helpful to see how these costs are distributed, so in this case: - Content creation and delivery: 30% - Employee time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance",
+      "span": [
+        5001,
+        5004
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Example: a leadership program**",
+        "heading_level": 4,
+        "line": 87
+      },
+      "sentence": "Content creation and delivery: 30% - Employee time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance and updates: 10%",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '30%'",
+      "suggested_fix": "Stat reference: `30%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "these costs are distributed, so in this case: - Content creation and delivery: 30% - Employee time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance and updates: 10%",
+      "span": [
+        5022,
+        5025
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Example: a leadership program**",
+        "heading_level": 4,
+        "line": 88
+      },
+      "sentence": "Content creation and delivery: 30% - Employee time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance and updates: 10%",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '40%'",
+      "suggested_fix": "Stat reference: `40%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "15%",
+      "context": "case: - Content creation and delivery: 30% - Employee time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance and updates: 10% Why do I like these two views? First, employee",
+      "span": [
+        5063,
+        5066
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Example: a leadership program**",
+        "heading_level": 4,
+        "line": 89
+      },
+      "sentence": "Content creation and delivery: 30% - Employee time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance and updates: 10%",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '15%'",
+      "suggested_fix": "Stat reference: `15%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "5%",
+      "context": "delivery: 30% - Employee time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance and updates: 10% Why do I like these two views? First, employee time and delivery tend",
+      "span": [
+        5090,
+        5092
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Example: a leadership program**",
+        "heading_level": 4,
+        "line": 90
+      },
+      "sentence": "Content creation and delivery: 30% - Employee time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance and updates: 10%",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '5%'",
+      "suggested_fix": "Stat reference: `5%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "10%",
+      "context": "time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance and updates: 10% Why do I like these two views? First, employee time and delivery tend to make up the majority of training",
+      "span": [
+        5120,
+        5123
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Example: a leadership program**",
+        "heading_level": 4,
+        "line": 91
+      },
+      "sentence": "Content creation and delivery: 30% - Employee time: 40% - Travel, facilities, and logistics: 15% - Tools and platforms: 5% - Maintenance and updates: 10%",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '10%'",
+      "suggested_fix": "Stat reference: `10%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "15%",
+      "context": "don't control Going back to our leadership program, let's look at the travel line item, which is about 15% of overall spend. Some participants are local, so there's no travel costs for them. Some fly in for",
+      "span": [
+        5623,
+        5626
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Step 3: Separate out the costs you don't control",
+        "heading_level": 3,
+        "line": 99
+      },
+      "sentence": "Going back to our leadership program, let's look at the travel line item, which is about 15% of overall spend.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '15%'",
+      "suggested_fix": "Stat reference: `15%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "100%",
+      "context": "engagement](https://cnpc.coach/nonprofit-coaching-cost-guide/#:~:text=Key%20Takeaways,with%20some%20packages%20exceeding%20$100%2C000.) (we're in the wrong business). If you have ten executives in this program, how does that impact",
+      "span": [
+        8324,
+        8328
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Step 4: Calculate better benchmarks",
+        "heading_level": 3,
+        "line": 125
+      },
+      "sentence": "For instance, if you have an executive coaching program, you know that top coaches can charge [$30,000 or more for a six-month engagement](https://cnpc.coach/nonprofit-coaching-cost-guide/#:~:text=Key%20Takeaways,with%20some%20packages%20exceeding%20$100%2C000.) (we're in the wrong business).",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '100%'",
+      "suggested_fix": "Stat reference: `100%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "50%",
+      "context": "don't This shift has a measurable impact on cost. Going back to our leadership program example, if 50% of baseline instructional content is moved out of live sessions and into asynchronous formats, you",
+      "span": [
+        11894,
+        11897
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "1\\. **Design training for sustainability**",
+        "heading_level": 3,
+        "line": 179
+      },
+      "sentence": "Going back to our leadership program example, if 50% of baseline instructional content is moved out of live sessions and into asynchronous formats, you reduce both facilitator time and the time employees spend in training.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '50%'",
+      "suggested_fix": "Stat reference: `50%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "70%",
+      "context": "facilitator time and the time employees spend in training. Because employee time and delivery account for ~70% of total cost, even a partial shift to asynchronous delivery could reduce overall program cost by 15–25%,",
+      "span": [
+        12117,
+        12120
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "1\\. **Design training for sustainability**",
+        "heading_level": 3,
+        "line": 181
+      },
+      "sentence": "Because employee time and delivery account for ~70% of total cost, even a partial shift to asynchronous delivery could reduce overall program cost by 15–25%, depending on how much live delivery is replaced.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '70%'",
+      "suggested_fix": "Stat reference: `70%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "25%",
+      "context": "of total cost, even a partial shift to asynchronous delivery could reduce overall program cost by 15–25%, depending on how much live delivery is replaced. 🎥 **Example:** reducing delivery cost A team runs",
+      "span": [
+        12222,
+        12225
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "1\\. **Design training for sustainability**",
+        "heading_level": 3,
+        "line": 181
+      },
+      "sentence": "Because employee time and delivery account for ~70% of total cost, even a partial shift to asynchronous delivery could reduce overall program cost by 15–25%, depending on how much live delivery is replaced.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '25%'",
+      "suggested_fix": "Stat reference: `25%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "80%",
+      "context": "on external production and enabling faster content updates. They’ve reduced production time by up to 80% and saved as much as $10,000 per video. [![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/65e89895c5a4b8d764c0f790_DuPont-case-study-thumbnail.webp)\\\\",
+      "span": [
+        14902,
+        14905
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "2\\. Evolve content creation",
+        "heading_level": 3,
+        "line": 233
+      },
+      "sentence": "They’ve reduced production time by up to 80% and saved as much as $10,000 per video.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '80%'",
+      "suggested_fix": "Stat reference: `80%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "85%",
+      "context": "you do your calculations and find the partial ROI: ROI = (($75,000 − $500,000) ÷ $500,000) × 100 = -85% That number might surprise you. And honestly, it should. Bringing 250 people together for a live two-day",
+      "span": [
+        25134,
+        25137
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**How do you build a business case for reducing training costs?**",
+        "heading_level": 2,
+        "line": 389
+      },
+      "sentence": "ROI = (($75,000 − $500,000) ÷ $500,000) × 100 = -85%",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '85%'",
+      "suggested_fix": "Stat reference: `85%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "85%",
+      "context": "investment, and it should be held to a high standard for the type of outcome it is driving towards. A -85% partial ROI is a compelling reason to rethink the format — and the cost model gives you the numbers",
+      "span": [
+        25373,
+        25376
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**How do you build a business case for reducing training costs?**",
+        "heading_level": 2,
+        "line": 393
+      },
+      "sentence": "A -85% partial ROI is a compelling reason to rethink the format — and the cost model gives you the numbers to make that case.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '85%'",
+      "suggested_fix": "Stat reference: `85%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "4,000 hours",
+      "context": "objectives. This program's costs include: - Content creation and delivery = $150,000 - Employee time (4,000 hours at $50/hour) = $200,000\\* - Travel, facilities, and logistics = $75,000 - Tools and platforms = $25,000",
+      "span": [
+        4636,
+        4647
+      ],
+      "meta": {
+        "subtype": "large_count"
+      },
+      "location": {
+        "heading": "**Example: a leadership program**",
+        "heading_level": 4,
+        "line": 78
+      },
+      "sentence": "Content creation and delivery = $150,000 - Employee time (4,000 hours at $50/hour) = $200,000\\* - Travel, facilities, and logistics = $75,000 - Tools and platforms = $25,000 - Maintenance and updates = $50,000",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '4,000 hours'",
+      "suggested_fix": "Stat reference: `4,000 hours`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "4,000 hours",
+      "context": "made across the organization. **Costs** - Content creation and delivery: $150,000 - Employee time (4,000 hours at $50/hour): $200,000 - Travel, facilities, and logistics: $75,000 - Tools and platforms: $25,000",
+      "span": [
+        23947,
+        23958
+      ],
+      "meta": {
+        "subtype": "large_count"
+      },
+      "location": {
+        "heading": "**How do you build a business case for reducing training costs?**",
+        "heading_level": 2,
+        "line": 373
+      },
+      "sentence": "Content creation and delivery: $150,000 - Employee time (4,000 hours at $50/hour): $200,000 - Travel, facilities, and logistics: $75,000 - Tools and platforms: $25,000 - Maintenance and updates: $50,000 - **Total: $500,000",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '4,000 hours'",
+      "suggested_fix": "Stat reference: `4,000 hours`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://cnpc.coach/nonprofit-coaching-cost-guide/#:~:text=Key%20Takeaways,with%20some%20packages%20exceeding%20$100%2C000",
+      "context": "",
+      "span": [
+        8212,
+        8334
+      ],
+      "meta": {
+        "domain": "cnpc.coach",
+        "anchor": "$30,000 or more for a six-month engagement"
+      },
+      "location": {
+        "heading": "Step 4: Calculate better benchmarks",
+        "heading_level": 3,
+        "line": 125
+      },
+      "sentence": "For instance, if you have an executive coaching program, you know that top coaches can charge [$30,000 or more for a six-month engagement](https://cnpc.coach/nonprofit-coaching-cost-guide/#:~:text=Key%20Takeaways,with%20some%20packages%20exceeding%20$100%2C000.) (we're in the wrong business).",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        55610,
+        56959
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

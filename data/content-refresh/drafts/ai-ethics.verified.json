@@ -1,0 +1,299 @@
+{
+  "slug": "ai-ethics",
+  "page_brand": null,
+  "total_findings": 26,
+  "by_severity": {
+    "unconfirmed": 8,
+    "likely": 1,
+    "needs_check": 17
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) January 24, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        273,
+        285
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) January 24, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        289,
+        303
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "130+ languages",
+      "context": "lifelike [AI avatars](https://www.synthesia.io/features/avatars) that can narrate almost anything in [130+ languages](https://www.synthesia.io/features/languages). The potential for misuse cannot be ignored, and reinforcing",
+      "span": [
+        18375,
+        18389
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "130+"
+      },
+      "location": {
+        "heading": "Synthesia’s stance on AI ethics",
+        "heading_level": 2,
+        "line": 205
+      },
+      "sentence": "After all, our users generate videos from plain text, using lifelike [AI avatars](https://www.synthesia.io/features/avatars) that can narrate almost anything in [130+ languages](https://www.synthesia.io/features/languages).",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (130+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '130+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        21619,
+        21633
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Embrace ethical AI along with Synthesia",
+        "heading_level": 2,
+        "line": 247
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "52%",
+      "context": "aspect of our lives, we need it guided by transparency, fairness, and accountability. For now, only [52%](https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai)",
+      "span": [
+        1808,
+        1811
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "For now, only [52%](https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai) of companies practice some level of responsible AI, and 79% say implementations are limited in scale and scope.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '52%'",
+      "suggested_fix": "Stat reference: `52%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "79%",
+      "context": "[52%](https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai) of companies practice some level of responsible AI, and 79% say implementations are limited in scale and scope. Meanwhile, [35%](https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture's%202022%20Tech,for%20their%20misuse%20of%20AI.)",
+      "span": [
+        1970,
+        1973
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "For now, only [52%](https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai) of companies practice some level of responsible AI, and 79% say implementations are limited in scale and scope.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '79%'",
+      "suggested_fix": "Stat reference: `79%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "35%",
+      "context": "some level of responsible AI, and 79% say implementations are limited in scale and scope. Meanwhile, [35%](https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture's%202022%20Tech,for%20their%20misuse%20of%20AI.)",
+      "span": [
+        2039,
+        2042
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 41
+      },
+      "sentence": "Meanwhile, [35%](https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture's%202022%20Tech,for%20their%20misuse%20of%20AI.) of global consumers trust how organizations are implementing AI.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '35%'",
+      "suggested_fix": "Stat reference: `35%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "84%",
+      "context": "Employees who received poor ethics training act just like those without any training. By contrast, [84%](https://www.gallup.com/workplace/357113/hard-truths-ethics-compliance-training.aspx) of those who",
+      "span": [
+        16714,
+        16717
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 4: Foster a culture of ethical awareness",
+        "heading_level": 3,
+        "line": 185
+      },
+      "sentence": "By contrast, [84%](https://www.gallup.com/workplace/357113/hard-truths-ethics-compliance-training.aspx) of those who rated their ethics training as excellent say they know what to do when dealing with unethical behaviors.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '84%'",
+      "suggested_fix": "Stat reference: `84%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2023",
+      "context": "innovation. Conversely, it can lead to significant privacy invasions and data breaches. For example, in 2023, [Samsung](https://mashable.com/article/samsung-chatgpt-leak-details#:~:text=Samsung%20employees%20have%20learned%20this,ChatGPT%20to%20check%20source%20code.)",
+      "span": [
+        5124,
+        5131
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "Why are AI ethics important?",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "For example, in 2023, [Samsung](https://mashable.com/article/samsung-chatgpt-leak-details#:~:text=Samsung%20employees%20have%20learned%20this,ChatGPT%20to%20check%20source%20code.) suffered when developers unintentionally exposed sensitive data while integrating their code into ChatGPT.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2023'",
+      "suggested_fix": "Stat reference: `in 2023`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://twitter.com/JamesCleverly/status/1720335352940949970?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1720335352940949970%7Ctwgr%5E4e8495cb01ed5462cda6cddb9fb1436354165109%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.synthesia.io%2Fpost%2Fresponsible-ai",
+      "context": "",
+      "span": [
+        5741,
+        6001
+      ],
+      "meta": {
+        "domain": "twitter.com",
+        "anchor": "collaboration"
+      },
+      "location": {
+        "heading": "Why are AI ethics important?",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "In response, James Cleverly, the Foreign Secretary of the United Kingdom, recently embarked on a unique [collaboration](https://twitter.com/JamesCleverly/status/1720335352940949970?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1720335352940949970%7Ctwgr%5E4e8495cb01ed5462cda6cddb9fb1436354165109%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.synthesia.io%2Fpost%2Fresponsible-ai) with the [AI video generator](https://www.synthesia.io/features/ai-video-generator) Synthesia to advocate for the safe and responsible use of AI technologies.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "twitter.com blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://twitter.com/JamesCleverly/status/1720335352940949970?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1720335352940949970%7Ctwgr%5E4e8495cb01ed5462cda6cddb9fb1436354165109%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.synthesia.io%2Fpost%2Fresponsible-ai",
+      "context": "",
+      "span": [
+        22993,
+        23465
+      ],
+      "meta": {
+        "domain": "twitter.com",
+        "anchor": "collaboration"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "twitter.com blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        44502,
+        45851
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

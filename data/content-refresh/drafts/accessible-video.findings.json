@@ -1,0 +1,391 @@
+{
+  "counts": {
+    "feature": 2,
+    "stat": 1,
+    "link": 17
+  },
+  "total": 20,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) February 23, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        263,
+        275
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "12 Ways to Make Accessible Video Content",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) February 23, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [Web",
+      "span": [
+        279,
+        293
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "12 Ways to Make Accessible Video Content",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "stat",
+      "text": "15%",
+      "context": "information is becoming available online in the form of video. However, for people with disabilities ( **= 15% of the world's population**), accessing and consuming video content can be a challenge. For us as",
+      "span": [
+        2143,
+        2146
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "12 Ways to Make Accessible Video Content",
+        "heading_level": 1,
+        "line": 45
+      },
+      "sentence": "However, for people with disabilities ( **= 15% of the world's population**), accessing and consuming video content can be a challenge."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/media/av/",
+      "context": "",
+      "span": [
+        3549,
+        3581
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "W3C's guide on creating accessible audio and video"
+      },
+      "location": {
+        "heading": "Web Content Accessibility Guidelines",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "For more information, please refer to [W3C's guide on creating accessible audio and video](https://www.w3.org/WAI/media/av/)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced",
+      "context": "",
+      "span": [
+        4035,
+        4096
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "WCAG level AAA"
+      },
+      "location": {
+        "heading": "1\\. Choose colors with contrast",
+        "heading_level": 2,
+        "line": 85
+      },
+      "sentence": "The color contrast ratio for [WCAG level AAA](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) compliance is **4.5:1**."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html",
+      "context": "",
+      "span": [
+        4237,
+        4302
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "WCAG level AA compliance"
+      },
+      "location": {
+        "heading": "1\\. Choose colors with contrast",
+        "heading_level": 2,
+        "line": 87
+      },
+      "sentence": "However, the minimum acceptable color contrast ratio is **3:1**, if you're aiming for [WCAG level AA compliance](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)."
+    },
+    {
+      "type": "link",
+      "text": "https://coolors.co/contrast-checker/112a46-acc8e5",
+      "context": "",
+      "span": [
+        4428,
+        4477
+      ],
+      "meta": {
+        "domain": "coolors.co",
+        "anchor": "Color Contrast Checker"
+      },
+      "location": {
+        "heading": "1\\. Choose colors with contrast",
+        "heading_level": 2,
+        "line": 91
+      },
+      "sentence": "If you, like most other people, can't measure color contrast ratio by eye, use this handy [Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html",
+      "context": "",
+      "span": [
+        6958,
+        7033
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "this guide"
+      },
+      "location": {
+        "heading": "5\\. Create high-quality audio",
+        "heading_level": 2,
+        "line": 150
+      },
+      "sentence": "For a more detailed explanation, read [this guide](https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio.html) on the 'Low or No Background Audio' criterion."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/media/av/captions/",
+      "context": "",
+      "span": [
+        9008,
+        9049
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "W3C"
+      },
+      "location": {
+        "heading": "Captions",
+        "heading_level": 3,
+        "line": 188
+      },
+      "sentence": "Captions, as defined by [W3C](https://www.w3.org/WAI/media/av/captions/), \"are text versions of the speech and non-speech audio information needed to understand the content.\""
+    },
+    {
+      "type": "link",
+      "text": "https://help.synthesia.io/en/articles/6341718-closed-captions",
+      "context": "",
+      "span": [
+        10322,
+        10383
+      ],
+      "meta": {
+        "domain": "help.synthesia.io",
+        "anchor": "here"
+      },
+      "location": {
+        "heading": "Captions",
+        "heading_level": 3,
+        "line": 215
+      },
+      "sentence": "Learn more about the feature [here](https://help.synthesia.io/en/articles/6341718-closed-captions)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/media/av/description/",
+      "context": "",
+      "span": [
+        10910,
+        10954
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "W3C"
+      },
+      "location": {
+        "heading": "8\\. Include audio description",
+        "heading_level": 2,
+        "line": 227
+      },
+      "sentence": "The [W3C](https://www.w3.org/WAI/media/av/description/) distinguishes between 3 types of audio descriptions:"
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/media/av/description/#checklist",
+      "context": "",
+      "span": [
+        12311,
+        12365
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "WCAG level AA compliance"
+      },
+      "location": {
+        "heading": "3\\. Separate file",
+        "heading_level": 3,
+        "line": 257
+      },
+      "sentence": "However, if you need to describe important visual details that are essential to understand the video, an audio description is required for [WCAG level AA compliance](https://www.w3.org/WAI/media/av/description/#checklist)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/media/av/description/#options-for-creating-description",
+      "context": "",
+      "span": [
+        12704,
+        12781
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "W3C's guidelines for creating audio descriptions"
+      },
+      "location": {
+        "heading": "3\\. Separate file",
+        "heading_level": 3,
+        "line": 265
+      },
+      "sentence": "Instructions for creating audio descriptions differ depending on the type you choose to go with, so check [W3C's guidelines for creating audio descriptions](https://www.w3.org/WAI/media/av/description/#options-for-creating-description)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/media/av/transcripts/#checklist",
+      "context": "",
+      "span": [
+        13453,
+        13507
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "WCAG Level AAA compliant"
+      },
+      "location": {
+        "heading": "9\\. Provide video transcripts",
+        "heading_level": 2,
+        "line": 281
+      },
+      "sentence": "Descriptive transcripts are required for video with audio content to be [WCAG Level AAA compliant](https://www.w3.org/WAI/media/av/transcripts/#checklist)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/media/av/transcribing/#how-to-transcribe",
+      "context": "",
+      "span": [
+        14041,
+        14104
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "W3C's website"
+      },
+      "location": {
+        "heading": "9\\. Provide video transcripts",
+        "heading_level": 2,
+        "line": 294
+      },
+      "sentence": "You can find more information on how to transcribe videos on [W3C's website](https://www.w3.org/WAI/media/av/transcribing/#how-to-transcribe)."
+    },
+    {
+      "type": "link",
+      "text": "https://sonix.ai/",
+      "context": "",
+      "span": [
+        14189,
+        14206
+      ],
+      "meta": {
+        "domain": "sonix.ai",
+        "anchor": "Sonix"
+      },
+      "location": {
+        "heading": "9\\. Provide video transcripts",
+        "heading_level": 2,
+        "line": 298
+      },
+      "sentence": "Use automatic transcription and speech recognition software, like [Sonix](https://sonix.ai/), [Trint](https://trint.com/), or [Google Cloud Speech-To-Text](https://cloud.google.com/speech-to-text/) to make transcribing and captioning videos faster."
+    },
+    {
+      "type": "link",
+      "text": "https://trint.com/",
+      "context": "",
+      "span": [
+        14217,
+        14235
+      ],
+      "meta": {
+        "domain": "trint.com",
+        "anchor": "Trint"
+      },
+      "location": {
+        "heading": "9\\. Provide video transcripts",
+        "heading_level": 2,
+        "line": 298
+      },
+      "sentence": "Use automatic transcription and speech recognition software, like [Sonix](https://sonix.ai/), [Trint](https://trint.com/), or [Google Cloud Speech-To-Text](https://cloud.google.com/speech-to-text/) to make transcribing and captioning videos faster."
+    },
+    {
+      "type": "link",
+      "text": "https://cloud.google.com/speech-to-text/",
+      "context": "",
+      "span": [
+        14271,
+        14311
+      ],
+      "meta": {
+        "domain": "cloud.google.com",
+        "anchor": "Google Cloud Speech-To-Text"
+      },
+      "location": {
+        "heading": "9\\. Provide video transcripts",
+        "heading_level": 2,
+        "line": 298
+      },
+      "sentence": "Use automatic transcription and speech recognition software, like [Sonix](https://sonix.ai/), [Trint](https://trint.com/), or [Google Cloud Speech-To-Text](https://cloud.google.com/speech-to-text/) to make transcribing and captioning videos faster."
+    },
+    {
+      "type": "link",
+      "text": "https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html",
+      "context": "",
+      "span": [
+        14859,
+        14940
+      ],
+      "meta": {
+        "domain": "www.w3.org",
+        "anchor": "Three Flashes and Below Threshold"
+      },
+      "location": {
+        "heading": "10\\. Avoid fast-flashing content",
+        "heading_level": 2,
+        "line": 308
+      },
+      "sentence": "To better understand the intent and benefits of this recommendation, check out WCAG's detailed guide on the ' [Three Flashes and Below Threshold](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html)'."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kyleodefey/",
+      "context": "",
+      "span": [
+        41535,
+        42886
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

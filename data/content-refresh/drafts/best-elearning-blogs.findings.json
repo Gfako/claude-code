@@ -1,0 +1,314 @@
+{
+  "counts": {
+    "feature": 1,
+    "link": 15
+  },
+  "total": 16,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Vidor](https://www.synthesia.io/blog/authors/amy-vidor) March 27, 2026 Create engaging training videos in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [How",
+      "span": [
+        286,
+        300
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create engaging training videos in 160+ languages."
+    },
+    {
+      "type": "link",
+      "text": "https://www.oneusefulthing.org/",
+      "context": "",
+      "span": [
+        1838,
+        1869
+      ],
+      "meta": {
+        "domain": "www.oneusefulthing.org",
+        "anchor": "One Useful Thing"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 47
+      },
+      "sentence": "[One Useful Thing](https://www.oneusefulthing.org/) 02."
+    },
+    {
+      "type": "link",
+      "text": "https://substack.com/@drphilippahardman",
+      "context": "",
+      "span": [
+        1898,
+        1937
+      ],
+      "meta": {
+        "domain": "substack.com",
+        "anchor": "Dr. Philippa Hardman"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 48
+      },
+      "sentence": "Philippa Hardman](https://substack.com/@drphilippahardman) 03."
+    },
+    {
+      "type": "link",
+      "text": "https://stealthesethoughts.com/newsletter/",
+      "context": "",
+      "span": [
+        1967,
+        2009
+      ],
+      "meta": {
+        "domain": "stealthesethoughts.com",
+        "anchor": "Steal These Thoughts!"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 49
+      },
+      "sentence": "[Steal These Thoughts!](https://stealthesethoughts.com/newsletter/) 04."
+    },
+    {
+      "type": "link",
+      "text": "https://theelearningcoach.com/author/connie/",
+      "context": "",
+      "span": [
+        2033,
+        2077
+      ],
+      "meta": {
+        "domain": "theelearningcoach.com",
+        "anchor": "eLearning Coach"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 50
+      },
+      "sentence": "[eLearning Coach](https://theelearningcoach.com/author/connie/) 05."
+    },
+    {
+      "type": "link",
+      "text": "https://maestrolearning.com/abstract/",
+      "context": "",
+      "span": [
+        2104,
+        2141
+      ],
+      "meta": {
+        "domain": "maestrolearning.com",
+        "anchor": "Abstract (Maestro)"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 51
+      },
+      "sentence": "[Abstract (Maestro)](https://maestrolearning.com/abstract/) 06."
+    },
+    {
+      "type": "link",
+      "text": "https://www.maas-marketing.co.uk/blog/",
+      "context": "",
+      "span": [
+        2164,
+        2202
+      ],
+      "meta": {
+        "domain": "www.maas-marketing.co.uk",
+        "anchor": "MAAS Marketing"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 52
+      },
+      "sentence": "[MAAS Marketing](https://www.maas-marketing.co.uk/blog/) 07."
+    },
+    {
+      "type": "link",
+      "text": "https://offbeat.works/learning-and-development-newsletter",
+      "context": "",
+      "span": [
+        2224,
+        2281
+      ],
+      "meta": {
+        "domain": "offbeat.works",
+        "anchor": "Offbeat Works"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 53
+      },
+      "sentence": "[Offbeat Works](https://offbeat.works/learning-and-development-newsletter) 08."
+    },
+    {
+      "type": "link",
+      "text": "https://nesslabs.com/articles",
+      "context": "",
+      "span": [
+        2299,
+        2328
+      ],
+      "meta": {
+        "domain": "nesslabs.com",
+        "anchor": "Ness Labs"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 54
+      },
+      "sentence": "[Ness Labs](https://nesslabs.com/articles) 09."
+    },
+    {
+      "type": "link",
+      "text": "https://peoplemanagingpeople.com/",
+      "context": "",
+      "span": [
+        2359,
+        2392
+      ],
+      "meta": {
+        "domain": "peoplemanagingpeople.com",
+        "anchor": "People Managing People"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 55
+      },
+      "sentence": "[People Managing People](https://peoplemanagingpeople.com/) 10."
+    },
+    {
+      "type": "link",
+      "text": "https://elearningindustry.com/",
+      "context": "",
+      "span": [
+        2419,
+        2449
+      ],
+      "meta": {
+        "domain": "elearningindustry.com",
+        "anchor": "eLearning Industry"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 56
+      },
+      "sentence": "[eLearning Industry](https://elearningindustry.com/) 11."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/business/talent/blog",
+      "context": "",
+      "span": [
+        2478,
+        2523
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": "LinkedIn Talent Blog"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 57
+      },
+      "sentence": "[LinkedIn Talent Blog](https://www.linkedin.com/business/talent/blog) 12."
+    },
+    {
+      "type": "link",
+      "text": "https://hrblog.spotify.com/category/learning-growth",
+      "context": "",
+      "span": [
+        2561,
+        2612
+      ],
+      "meta": {
+        "domain": "hrblog.spotify.com",
+        "anchor": "Spotify HR: Learning & Growth"
+      },
+      "location": {
+        "heading": "The 12 Best Learning & Development Blogs (2026)",
+        "heading_level": 1,
+        "line": 58
+      },
+      "sentence": "[Spotify HR: Learning & Growth](https://hrblog.spotify.com/category/learning-growth)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.oneusefulthing.org/?utm_source=chatgpt.com",
+      "context": "",
+      "span": [
+        3423,
+        3477
+      ],
+      "meta": {
+        "domain": "www.oneusefulthing.org",
+        "anchor": "**1\\. One Useful Thing**"
+      },
+      "location": {
+        "heading": "[**1\\. One Useful Thing**](https://www.oneusefulthing.org/?utm_source=chatgpt.com) **(Ethan Mollick)**",
+        "heading_level": 3,
+        "line": 72
+      },
+      "sentence": "One Useful Thing**](https://www.oneusefulthing.org/?utm_source=chatgpt.com) **(Ethan Mollick)"
+    },
+    {
+      "type": "link",
+      "text": "https://drphilippahardman.substack.com/?utm_campaign=profile_chips",
+      "context": "",
+      "span": [
+        4108,
+        4174
+      ],
+      "meta": {
+        "domain": "drphilippahardman.substack.com",
+        "anchor": "**2\\. Dr. Phil's Newsletter**"
+      },
+      "location": {
+        "heading": "[**2\\. Dr. Phil's Newsletter**](https://drphilippahardman.substack.com/?utm_campaign=profile_chips) **(Dr. Philippa Hardman)**",
+        "heading_level": 3,
+        "line": 80
+      },
+      "sentence": "Phil's Newsletter**](https://drphilippahardman.substack.com/?utm_campaign=profile_chips) **(Dr."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        34965,
+        36314
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

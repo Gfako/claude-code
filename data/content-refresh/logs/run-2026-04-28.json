@@ -1,0 +1,247 @@
+{
+  "run_date": "2026-04-28",
+  "started_at": "2026-04-28T10:57:03.675910+00:00",
+  "status": "COMPLETE",
+  "urls_checked": 15,
+  "results": [
+    {
+      "slug": "aws-and-synthesia-advance-ai-video-adoption",
+      "url": "https://www.synthesia.io/post/aws-and-synthesia-advance-ai-video-adoption",
+      "title": "AWS × Synthesia: AI video adoption",
+      "section": "blog",
+      "score": 24,
+      "severity": "Medium",
+      "findings_count": 3,
+      "types": [
+        "feature",
+        "stat"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/aws-and-synthesia-advance-ai-video-adoption\n- **Score:** 24/100 — Medium\n- **Findings:** 3\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 📊 Stat (1)\n\n### 1. 🟡 Likely — Stat references 2017 (>18mo old)\n\n**Where on the page:** section ****Synthesia joins AWS Marketplace**** · line 65\n\n**Quote from page:**\n> since 2017\n\n_Context:_ scaled through the use of AWS. ## **Synthesia joins AWS Marketplace** We've been scaling with AWS since 2017, making video creation and distribution accessible to our tens of thousands of enterprise customers\n\n**Suggested fix:**\n> Reference to 2017 is older than 18 months. Verify the underlying claim is still current; consider citing fresher data.\n\n\n\n---\n\n_+6 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2134
+    },
+    {
+      "slug": "b2b-marketing-videos",
+      "url": "https://www.synthesia.io/post/b2b-marketing-videos",
+      "title": "6 Types of B2B Marketing Videos",
+      "section": "blog",
+      "score": 24,
+      "severity": "Medium",
+      "findings_count": 3,
+      "types": [
+        "feature",
+        "stat"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/b2b-marketing-videos\n- **Score:** 24/100 — Medium\n- **Findings:** 3\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 📊 Stat (1)\n\n### 1. 🟡 Likely — Stat references 2023 (>18mo old)\n\n**Where on the page:** section **6 Types Of B2B Marketing Videos To Supercharge Your Strategy** · line 71\n\n**Quote from page:**\n> in 2023\n\n_Context:_ re you scroll, there’s a video waiting. A video there to educate, entertain, sell, or help. 🤳 And in 2023 and beyond, no one denies that B2B marketing videos are a powerful tool for businesses of any size.\n\n**Suggested fix:**\n> Reference to 2023 is older than 18 months. Verify the underlying claim is still current; consider citing fresher data.\n\n\n\n---\n\n_+8 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2130
+    },
+    {
+      "slug": "benefits-of-employee-training",
+      "url": "https://www.synthesia.io/post/benefits-of-employee-training",
+      "title": "Benefits of Employee Training: 6 Outcomes",
+      "section": "blog",
+      "score": 34,
+      "severity": "Medium",
+      "findings_count": 4,
+      "types": [
+        "feature",
+        "link"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/benefits-of-employee-training\n- **Score:** 34/100 — Medium\n- **Findings:** 4\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 🔗 Link (2)\n\n### 1. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **Why it matters** · line 189\n\n**Quote from page:**\n> https://www.mdpi.com/2227-9032/11/21/2900\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n### 2. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **Why it matters** · line 191\n\n**Quote from page:**\n> https://onlinelibrary.wiley.com/doi/pdf/10.1111/ijtd.12282\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n\n\n---\n\n_+9 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2130
+    },
+    {
+      "slug": "benefits-of-security-awareness-training",
+      "url": "https://www.synthesia.io/post/benefits-of-security-awareness-training",
+      "title": "9 Benefits of Security Awareness Training (2024)",
+      "section": "blog",
+      "score": 93,
+      "severity": "Critical",
+      "findings_count": 11,
+      "types": [
+        "feature",
+        "link",
+        "stat"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/benefits-of-security-awareness-training\n- **Score:** 93/100 — Critical\n- **Findings:** 11\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 🔗 Link (7)\n\n### 1. 🔴 Confirmed — Dead link (404)\n\n**Where on the page:** section **The importance of security awareness** · line 109\n\n**Quote from page:**\n> https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/\n\n**Suggested fix:**\n> Link returns 404. Remove or replace.\n\n### 2. 🔴 Confirmed — Dead link (404)\n\n**Where on the page:** section **The importance of security awareness** · line 115\n\n**Quote from page:**\n> https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE\n\n**Suggested fix:**\n> Link returns 404. Remove or replace.\n\n### 3. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **3\\. Your \"Security posture\" across all departments improves significantly** · line 156\n\n**Quote from page:**\n> https://www.terranovasecurity.com/blog/cyber-security-statistics\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n### 4. 🟡 Likely — Link error (000)\n\n**Where on the page:** section **4\\. You're always compliant with industry regulations and standards** · line 169\n\n**Quote from page:**\n> https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-digital-trust-truly-matters\n\n**Suggested fix:**\n> Link returns 000. May be transient — verify; remove if persistently broken.\n\n### 5. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **4\\. You're always compliant with industry regulations and standards** · line 169\n\n**Quote from page:**\n> https://drata.com/blog/cost-of-non-compliance\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n### 6. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **9\\. You earn consumers' trust** · line 237\n\n**Quote from page:**\n> https://www.marketingcharts.com/brand-related/brand-metrics-230076\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n### 7. 🔴 Confirmed — Dead link (404)\n\n**Where on the page:** section **Ready to try our AI video platform?** · line 337\n\n**Quote from page:**\n> https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=EUR_EEUR_GEN&amp;utm_content=SecurityTeam&amp;utm_term=cyber%20security%20protection&amp;utm_program=EURcpc&amp;gad_source=1&amp;gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE\n\n**Suggested fix:**\n> Link returns 404. Remove or replace.\n\n\n## 📊 Stat (2)\n\n### 1. 🟡 Likely — Stat references 2023 (>18mo old)\n\n**Where on the page:** section **The importance of security awareness** · line 107\n\n**Quote from page:**\n> In 2023\n\n_Context:_ # The importance of security awareness Preventing cyberattacks is easier than fixing their damage. In 2023, two Danish hosting providers [lost all customer data](https://techmonitor.ai/technology/cybersecur\n\n**Suggested fix:**\n> Reference to 2023 is older than 18 months. Verify the underlying claim is still current; consider citing fresher data.\n\n### 2. 🟡 Likely — Stat references 2022 (>18mo old)\n\n**Where on the page:** section **The importance of security awareness** · line 109\n\n**Quote from page:**\n> in 2022\n\n_Context:_ advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022. Ignoring the importance of cybersecurity training and its impact on security awareness can lead t\n\n**Suggested fix:**\n> Reference to 2022 is older than 18 months. Verify the underlying claim is still current; consider citing fresher data.\n\n\n\n---\n\n_+23 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 5418
+    },
+    {
+      "slug": "best-ai-avatar-generator",
+      "url": "https://www.synthesia.io/post/best-ai-avatar-generator",
+      "title": "11 Best AI Avatar Generators",
+      "section": "blog",
+      "score": 60,
+      "severity": "High",
+      "findings_count": 6,
+      "types": [
+        "feature"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-ai-avatar-generator\n- **Score:** 60/100 — High\n- **Findings:** 6\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (6)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 3. 🔴 Confirmed — Synthesia languages count outdated (80+ vs 160+)\n\n**Where on the page:** section **How do these AI avatar generators compare?** · line 111\n\n**Quote from page:**\n> 80+ languages\n\n_Context:_ | Vyond | 1100+ animated avatars, animation builder, screen recording with avatars, text-to-video | 80+ languages | Strong corporate animation tools, large avatar library | High entry price, slight uncanny valley,\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '80+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 4. 🔴 Confirmed — Synthesia languages count outdated (139 vs 160+)\n\n**Where on the page:** section **How strong is localization and multilingual support?** · line 153\n\n**Quote from page:**\n> 139 languages\n\n_Context:_ one of Synthesia’s strongest areas. It supports generation in 160+ languages and translation into 139 languages while preserving the original voice identity. Voice cloning is available in 29 languages. The tran\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '139 languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 5. 🔴 Confirmed — Synthesia languages count outdated (29 vs 160+)\n\n**Where on the page:** section **How strong is localization and multilingual support?** · line 153\n\n**Quote from page:**\n> 29 languages\n\n_Context:_ tion into 139 languages while preserving the original voice identity. Voice cloning is available in 29 languages. The translation workflow is fully integrated inside the editor. I did not need to use a separate\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '29 languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 6. 🔴 Confirmed — Synthesia languages count outdated (150+ vs 160+)\n\n**Where on the page:** section **What is AI Studios?** · line 486\n\n**Quote from page:**\n> 150+ languages\n\n_Context:_ or. Unlike avatar-only platforms, AI Studios integrates multiple layers: AI avatars, AI dubbing in 150+ languages, advanced AI video generation models (including Sora 2, Veo 3.1, Kling 2.6), [AI image generation](\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '150+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n\n---\n\n_+26 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 4046
+    },
+    {
+      "slug": "best-ai-video-generators",
+      "url": "https://www.synthesia.io/post/best-ai-video-generators",
+      "title": "15 Best AI Video Generators in 2026",
+      "section": "blog",
+      "score": 42,
+      "severity": "High",
+      "findings_count": 5,
+      "types": [
+        "feature",
+        "link"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-ai-video-generators\n- **Score:** 42/100 — High\n- **Findings:** 5\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 🔗 Link (3)\n\n### 1. 🟡 Likely — Link error (405)\n\n**Where on the page:** section **[3\\. Kling](https://app.klingai.com/global/)** · line 265\n\n**Quote from page:**\n> https://app.klingai.com/global/\n\n**Suggested fix:**\n> Link returns 405. May be transient — verify; remove if persistently broken.\n\n### 2. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **[4\\. Sora 2](https://sora.chatgpt.com/explore)** · line 302\n\n**Quote from page:**\n> https://sora.chatgpt.com/explore\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n### 3. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **3\\. Freepik** · line 655\n\n**Quote from page:**\n> https://www.freepik.com/\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n\n\n---\n\n_+29 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2392
+    },
+    {
+      "slug": "best-camtasia-alternatives",
+      "url": "https://www.synthesia.io/post/best-camtasia-alternatives",
+      "title": "6 Best Camtasia Alternatives (2024)",
+      "section": "blog",
+      "score": 47,
+      "severity": "High",
+      "findings_count": 5,
+      "types": [
+        "feature",
+        "link"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-camtasia-alternatives\n- **Score:** 47/100 — High\n- **Findings:** 5\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (4)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 3. 🔴 Confirmed — Synthesia languages count outdated (130 vs 160+)\n\n**Where on the page:** section **Pros of Synthesia** · line 98\n\n**Quote from page:**\n> 130 languages\n\n_Context:_ ve money. - It is easy to update videos with new content quickly. - You can localize videos in over 130 languages and accents. - Video templates are fully editable to help you get started. - Allows screen recordin\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '130 languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 4. 🔴 Confirmed — Synthesia languages count outdated (8 vs 160+)\n\n**Where on the page:** section **Cons of Wondershare **👎**** · line 293\n\n**Quote from page:**\n> 8 languages\n\n_Context:_ w. ### Cons of Wondershare **👎** - No mobile version. - Unlike Synthesia, they only support eight 8 languages, and its avatars aren't humanized. ### 💸 Pricing There are several pricing plans depending on you\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '8 languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 🔗 Link (1)\n\n### 1. 🟡 Likely — Link error (000)\n\n**Where on the page:** section **Get started with the best Camtasia alternative** · line 368\n\n**Quote from page:**\n> http://you%20want%20to%20check%20what%20we%20are%20saying/\n\n**Suggested fix:**\n> Link returns 000. May be transient — verify; remove if persistently broken.\n\n\n\n---\n\n_+7 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 3084
+    },
+    {
+      "slug": "best-colossyan-alternatives",
+      "url": "https://www.synthesia.io/post/best-colossyan-alternatives",
+      "title": "6 Best Colossyan Alternatives (2026)",
+      "section": "blog",
+      "score": 40,
+      "severity": "High",
+      "findings_count": 4,
+      "types": [
+        "feature"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-colossyan-alternatives\n- **Score:** 40/100 — High\n- **Findings:** 4\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (4)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 3. 🔴 Confirmed — Synthesia languages count outdated (120+ vs 160+)\n\n**Where on the page:** section **How do these Colossyan alternatives compare?** · line 91\n\n**Quote from page:**\n> 120+ languages\n\n_Context:_ to talking avatars | Photo-to-video avatars, V4 avatars, AI Agents (real-time), sentiment control | 120+ languages | $4.70 / mo — Lite | ## 1\\. Synthesia URL: [**https://www.synthesia.io/**](https://www.synthesia\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '120+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 4. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **Can I try Synthesia for free before switching from my current tool?** · line 702\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ tput quality. The free trial experience includes access to 9 AI avatars and 2 stock avatars across 140+ languages, allowing you to test localization capabilities and see how content performs in different languages\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n\n---\n\n_+20 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2845
+    },
+    {
+      "slug": "best-company-culture-videos",
+      "url": "https://www.synthesia.io/post/best-company-culture-videos",
+      "title": "Company Culture Video — How We Did It",
+      "section": "blog",
+      "score": 27,
+      "severity": "Medium",
+      "findings_count": 3,
+      "types": [
+        "feature",
+        "link"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-company-culture-videos\n- **Score:** 27/100 — Medium\n- **Findings:** 3\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 🔗 Link (1)\n\n### 1. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **Company Culture Video Example: How We Did It at Synthesia** · line 71\n\n**Quote from page:**\n> https://doi.org/10.1108/K-01-2022-0119\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n\n\n---\n\n_+6 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 1888
+    },
+    {
+      "slug": "best-d-id-alternatives",
+      "url": "https://www.synthesia.io/post/best-d-id-alternatives",
+      "title": "6 Best D-ID Alternatives (2026)",
+      "section": "blog",
+      "score": 40,
+      "severity": "High",
+      "findings_count": 4,
+      "types": [
+        "feature"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-d-id-alternatives\n- **Score:** 40/100 — High\n- **Findings:** 4\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (4)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia avatars count outdated (9 vs 240+)\n\n**Where on the page:** section **Is there a free plan to try Synthesia before switching from another AI avatar tool?** · line 714\n\n**Quote from page:**\n> 9 AI avatars\n\n_Context:_ ffers a completely free plan that lets you create up to 3 minutes of video per month with access to 9 AI avatars and 2 stock presenters, perfect for testing the platform's capabilities without any credit card req\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '9 avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 3. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 4. 🔴 Confirmed — Synthesia languages count outdated (29 vs 160+)\n\n**Where on the page:** section **How strong is localization and multilingual support?** · line 139\n\n**Quote from page:**\n> 29 languages\n\n_Context:_ t supports 160+ generation languages and 139 translation languages, with voice cloning available in 29 languages. Translation happens directly inside the editor — I did not need to leave the platform. In my Span\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '29 languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n\n---\n\n_+22 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2841
+    },
+    {
+      "slug": "best-elai-io-alternatives",
+      "url": "https://www.synthesia.io/post/best-elai-io-alternatives",
+      "title": "6 Best Elai Alternatives (2026)",
+      "section": "blog",
+      "score": 20,
+      "severity": "Medium",
+      "findings_count": 2,
+      "types": [
+        "feature"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-elai-io-alternatives\n- **Score:** 20/100 — Medium\n- **Findings:** 2\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n\n---\n\n_+24 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 1570
+    },
+    {
+      "slug": "best-elearning-blogs",
+      "url": "https://www.synthesia.io/post/best-elearning-blogs",
+      "title": "12 Best L&D Blogs (2026)",
+      "section": "blog",
+      "score": 39,
+      "severity": "High",
+      "findings_count": 4,
+      "types": [
+        "feature",
+        "link"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-elearning-blogs\n- **Score:** 39/100 — High\n- **Findings:** 4\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 🔗 Link (2)\n\n### 1. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **The 12 Best Learning & Development Blogs (2026)** · line 89\n\n**Quote from page:**\n> https://peoplemanagingpeople.com/\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n### 2. 🔴 Confirmed — Dead link (404)\n\n**Where on the page:** section **The 12 Best Learning & Development Blogs (2026)** · line 92\n\n**Quote from page:**\n> https://hrblog.spotify.com/category/learning-growth\n\n**Suggested fix:**\n> Link returns 404. Remove or replace.\n\n\n\n---\n\n_+6 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2131
+    },
+    {
+      "slug": "best-how-to-video-examples",
+      "url": "https://www.synthesia.io/post/best-how-to-video-examples",
+      "title": "8 Best How-To Video Examples",
+      "section": "blog",
+      "score": 24,
+      "severity": "Medium",
+      "findings_count": 3,
+      "types": [
+        "feature",
+        "stat"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-how-to-video-examples\n- **Score:** 24/100 — Medium\n- **Findings:** 3\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 📊 Stat (1)\n\n### 1. 🟡 Likely — Stat references 2020 (>18mo old)\n\n**Where on the page:** section **8 Best How-To Video Examples** · line 73\n\n**Quote from page:**\n> since 2020\n\n_Context:_ llion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!) increase in average daily views since 2020. But what separates an average how-to video from a great one? And what can you do to ensure your [\n\n**Suggested fix:**\n> Reference to 2020 is older than 18 months. Verify the underlying claim is still current; consider citing fresher data.\n\n\n\n---\n\n_+10 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2112
+    },
+    {
+      "slug": "best-practices-in-training-and-development",
+      "url": "https://www.synthesia.io/post/best-practices-in-training-and-development",
+      "title": "L&D Best Practices for Employee Training",
+      "section": "blog",
+      "score": 42,
+      "severity": "High",
+      "findings_count": 5,
+      "types": [
+        "feature",
+        "link"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-practices-in-training-and-development\n- **Score:** 42/100 — High\n- **Findings:** 5\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 🔗 Link (3)\n\n### 1. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **4\\. Design for skill transfer** · line 183\n\n**Quote from page:**\n> https://journals.sagepub.com/doi/abs/10.1177/0018720819845988\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n### 2. 🟡 Likely — Link error (403)\n\n**Where on the page:** section **6\\. Make managers your multiplier** · line 221\n\n**Quote from page:**\n> https://www.tandfonline.com/doi/pdf/10.1080/1359432X.2024.2319082\n\n**Suggested fix:**\n> Link returns 403. May be transient — verify; remove if persistently broken.\n\n### 3. 🟡 Likely — Link error (000)\n\n**Where on the page:** section **7\\. Treat content like a product** · line 245\n\n**Quote from page:**\n> https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/a-new-operating-model-for-a-new-world\n\n**Suggested fix:**\n> Link returns 000. May be transient — verify; remove if persistently broken.\n\n\n\n---\n\n_+7 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2567
+    },
+    {
+      "slug": "best-screen-recorders",
+      "url": "https://www.synthesia.io/post/best-screen-recorders",
+      "title": "Top 4 Screen Recorders for Training",
+      "section": "blog",
+      "score": 24,
+      "severity": "Medium",
+      "findings_count": 3,
+      "types": [
+        "feature",
+        "stat"
+      ],
+      "body_markdown": "- **URL:** https://www.synthesia.io/post/best-screen-recorders\n- **Score:** 24/100 — Medium\n- **Findings:** 3\n- **Last checked:** 2026-04-28\n- **Last change detected:** 2026-04-28\n\n## 🆕 Feature (2)\n\n### 1. 🔴 Confirmed — Synthesia avatars count outdated (230+ vs 240+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 230+ avatars\n\n_Context:_ bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt\n\n**Suggested fix:**\n> Synthesia now advertises **240+ avatars** on the homepage. Update '230+ avatars' → '240+ avatars'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n### 2. 🔴 Confirmed — Synthesia languages count outdated (140+ vs 160+)\n\n**Where on the page:** section **(before first heading)** · line 7\n\n**Quote from page:**\n> 140+ languages\n\n_Context:_ y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de\n\n**Suggested fix:**\n> Synthesia now advertises **160+ languages** on the homepage. Update '140+ languages' → '160+ languages'.\n\n**Source:** https://www.synthesia.io — homepage copy as of 2026-04-24\n\n\n## 📊 Stat (1)\n\n### 1. 🟡 Likely — Stat references 2024 (>18mo old)\n\n**Where on the page:** section **You might also like** · line 298\n\n**Quote from page:**\n> in 2024\n\n_Context:_ 4f34-9680-73fefb69127a.jpeg)\\\\ \\\\ L&D & Training\\\\ \\\\ **10 Best Video Lecture Software You Can Find in 2024**\\\\ \\\\ Want to create video lectures, but not sure where to start? Compare these 10 video lecture s\n\n**Suggested fix:**\n> Reference to 2024 is older than 18 months. Verify the underlying claim is still current; consider citing fresher data.\n\n\n\n---\n\n_+9 additional claims were checked and either matched live sources or couldn't be programmatically verified — not shown to keep this page focused on what needs action._",
+      "body_chars": 2093
+    }
+  ],
+  "page_ids": {
+    "aws-and-synthesia-advance-ai-video-adoption": "350c16d2-2bf1-8197-82d9-c9af64112f8f",
+    "b2b-marketing-videos": "350c16d2-2bf1-81de-8ec8-e35a6e86a321",
+    "benefits-of-employee-training": "350c16d2-2bf1-8168-aea3-da61feaae8a9",
+    "benefits-of-security-awareness-training": "350c16d2-2bf1-8187-be5f-fc485f599373",
+    "best-ai-avatar-generator": "350c16d2-2bf1-81ad-be4a-c5be2ff70826",
+    "best-ai-video-generators": "350c16d2-2bf1-8163-8dcd-de34a13a1914",
+    "best-camtasia-alternatives": "350c16d2-2bf1-81e2-acdc-ee579a687fb7",
+    "best-colossyan-alternatives": "350c16d2-2bf1-813f-a5f8-fe684ef8b729",
+    "best-company-culture-videos": "350c16d2-2bf1-812f-9eb4-d2329628d718",
+    "best-d-id-alternatives": "350c16d2-2bf1-81c8-bfb6-eb51154b9296",
+    "best-elai-io-alternatives": "350c16d2-2bf1-81fc-b93b-c15b6112ede9",
+    "best-elearning-blogs": "350c16d2-2bf1-810d-8722-e79972b9bf1a",
+    "best-how-to-video-examples": "350c16d2-2bf1-81f9-a1a9-cdfe67ee2dc6",
+    "best-practices-in-training-and-development": "350c16d2-2bf1-8161-82de-d8ea67265377",
+    "best-screen-recorders": "350c16d2-2bf1-81d1-b640-f8838d62c168"
+  }
+}

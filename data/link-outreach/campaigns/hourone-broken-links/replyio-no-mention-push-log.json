@@ -1,0 +1,2420 @@
+{
+  "timestamp": "2026-04-16T17:59:47.064189",
+  "campaign_id": 1664426,
+  "grid_id": 64369,
+  "grid_table_id": 83240,
+  "filter": "Mentions Synthesia != Yes AND Email not blank",
+  "total_rows_in_grid": 539,
+  "mentions_yes_count": 52,
+  "no_mention_count": 487,
+  "no_mention_with_email": 267,
+  "no_mention_without_email": 220,
+  "total_pushed": 267,
+  "successes": 266,
+  "failures": 1,
+  "results": [
+    {
+      "index": 1,
+      "email": "cthermistocleous@forbes.com",
+      "company": "Forbes",
+      "first_name": "Chris",
+      "last_name": "Thermistocleous",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 2,
+      "email": "kayla.brown@axios.com",
+      "company": "Axios",
+      "first_name": "Kayla",
+      "last_name": "Brown",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 3,
+      "email": "adam.banicki@fortune.com",
+      "company": "Fortune",
+      "first_name": "Adam",
+      "last_name": "Banicki",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 4,
+      "email": "mboisvert@techtarget.com",
+      "company": "Techtarget",
+      "first_name": "Michelle",
+      "last_name": "Boisvert",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 5,
+      "email": "clint.buechler@givebutter.com",
+      "company": "Givebutter",
+      "first_name": "Clint",
+      "last_name": "Buechler",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 6,
+      "email": "anna.iovine@mashable.com",
+      "company": "Mashable",
+      "first_name": "Anna",
+      "last_name": "Iovine",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 7,
+      "email": "matt.rosoff@theregister.com",
+      "company": "Theregister",
+      "first_name": "Matt",
+      "last_name": "Rosoff",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 8,
+      "email": "contact@lifewire.com",
+      "company": "Lifewire",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 9,
+      "email": "hholden@digitaltrends.com",
+      "company": "Digitaltrends",
+      "first_name": "Hana",
+      "last_name": "Holden",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 10,
+      "email": "aayush@thenextweb.com",
+      "company": "Thenextweb",
+      "first_name": "Aayush",
+      "last_name": "Arya",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 11,
+      "email": "sales@towardsdatascience.com",
+      "company": "Towardsdatascience",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 12,
+      "email": "igomez@rtve.es",
+      "company": "Rtve",
+      "first_name": "Ignacio",
+      "last_name": "Gomez",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 13,
+      "email": "jin@goodfirms.co",
+      "company": "Goodfirms",
+      "first_name": "Jin",
+      "last_name": "Markov",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 14,
+      "email": "haley.petricca@builtin.com",
+      "company": "Builtin",
+      "first_name": "Haley",
+      "last_name": "Petricca",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 15,
+      "email": "brian@resend.com",
+      "company": "Resend",
+      "first_name": "Brian",
+      "last_name": "Kerr",
+      "status": "failed",
+      "error": "HTTP 409: \"Contact is already in another sequence\""
+    },
+    {
+      "index": 16,
+      "email": "rachel@popsci.com",
+      "company": "Popsci",
+      "first_name": "Rachel",
+      "last_name": "Feltman",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 17,
+      "email": "helen@transistor.fm",
+      "company": "Transistor",
+      "first_name": "Helen",
+      "last_name": "Ryles",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 18,
+      "email": "krigstin@digitaljournal.com",
+      "company": "Digitaljournal",
+      "first_name": "Grace",
+      "last_name": "Krigstin",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 19,
+      "email": "alice@flipbuilder.com",
+      "company": "Flipbuilder",
+      "first_name": "Alice",
+      "last_name": "Mike",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 20,
+      "email": "jana.wilbricht@uib.no",
+      "company": "Uib",
+      "first_name": "Jana",
+      "last_name": "Wilbricht",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 21,
+      "email": "victor@futurism.com",
+      "company": "Futurism",
+      "first_name": "Victor",
+      "last_name": "Tangermann",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 22,
+      "email": "info@gitnux.org",
+      "company": "Gitnux",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 23,
+      "email": "rob@boingboing.net",
+      "company": "Boingboing",
+      "first_name": "Rob",
+      "last_name": "Beschizza",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 24,
+      "email": "joab@thenewstack.io",
+      "company": "Thenewstack",
+      "first_name": "Joab",
+      "last_name": "Jackson",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 25,
+      "email": "caitlin-steele@ghost.io",
+      "company": "Ghost",
+      "first_name": "Caitlin",
+      "last_name": "Steele",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 26,
+      "email": "chris.weiss@newatlas.com",
+      "company": "Newatlas",
+      "first_name": "Chris",
+      "last_name": "Wei\u00df",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 27,
+      "email": "fawaz.alabri@kornferry.com",
+      "company": "Kornferry",
+      "first_name": "Fawaz",
+      "last_name": "Alabri",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 28,
+      "email": "rkeith@sportsbusinessjournal.com",
+      "company": "Sportsbusinessjournal",
+      "first_name": "Rob",
+      "last_name": "Keith",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 29,
+      "email": "ameya.paleja@interestingengineering.com",
+      "company": "Interestingengineering",
+      "first_name": "Ameya",
+      "last_name": "Paleja",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 30,
+      "email": "alba.otero@xataka.com",
+      "company": "Xataka",
+      "first_name": "Alba",
+      "last_name": "Otero",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 31,
+      "email": "armida@trendhunter.com",
+      "company": "Trendhunter",
+      "first_name": "Armida",
+      "last_name": "Ascano",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 32,
+      "email": "gmajid@td.org",
+      "company": "Td",
+      "first_name": "Ghazala",
+      "last_name": "Majid",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 33,
+      "email": "contact@martechseries.com",
+      "company": "Martechseries",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 34,
+      "email": "mariap@accessnewswire.com",
+      "company": "Accessnewswire",
+      "first_name": "Maria",
+      "last_name": "Penaloza",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 35,
+      "email": "info@clippings.me",
+      "company": "Clippings",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 36,
+      "email": "eric@singlegrain.com",
+      "company": "Singlegrain",
+      "first_name": "Eric",
+      "last_name": "Siu",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 37,
+      "email": "contact@wandb.ai",
+      "company": "Wandb",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 38,
+      "email": "rebecca@unite.ai",
+      "company": "Unite",
+      "first_name": "Rebecca",
+      "last_name": "Stoner",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 39,
+      "email": "jmarine@nofilmschool.com",
+      "company": "Nofilmschool",
+      "first_name": "Joe",
+      "last_name": "Marine",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 40,
+      "email": "gwilliams@investingnews.com",
+      "company": "Investingnews",
+      "first_name": "Georgia",
+      "last_name": "Williams",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 41,
+      "email": "pankaj@beebom.com",
+      "company": "Beebom",
+      "first_name": "Pankaj",
+      "last_name": "Bhardwaj",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 42,
+      "email": "alexandra.watkins@messari.io",
+      "company": "Messari",
+      "first_name": "Alexandra",
+      "last_name": "Watkins",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 43,
+      "email": "alexander.maxham@androidheadlines.com",
+      "company": "Androidheadlines",
+      "first_name": "Alexander",
+      "last_name": "Maxham",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 44,
+      "email": "gretchen.borzi@prx.org",
+      "company": "Prx",
+      "first_name": "Gretchen",
+      "last_name": "Borzi",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 45,
+      "email": "jason@thehrdirector.com",
+      "company": "Thehrdirector",
+      "first_name": "Jason",
+      "last_name": "Spiller",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 46,
+      "email": "contact@wishfulthemes.com",
+      "company": "Wishfulthemes",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 47,
+      "email": "bret@voicebot.ai",
+      "company": "Voicebot",
+      "first_name": "Bret",
+      "last_name": "Kinsella",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 48,
+      "email": "egyeda@telex.hu",
+      "company": "Telex",
+      "first_name": "Anna",
+      "last_name": "Egyed",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 49,
+      "email": "info@raindrop.io",
+      "company": "Raindrop",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 50,
+      "email": "amehta@insightpartners.com",
+      "company": "Insightpartners",
+      "first_name": "Arjun",
+      "last_name": "Mehta",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 51,
+      "email": "alexandra@unleash.ai",
+      "company": "Unleash",
+      "first_name": "Alexandra",
+      "last_name": "Nawrat",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 52,
+      "email": "services@limewire.com",
+      "company": "Limewire",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 53,
+      "email": "mkittson@nab.org",
+      "company": "Nab",
+      "first_name": "Melissa",
+      "last_name": "Kittson",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 54,
+      "email": "oliwier.nytko@spidersweb.pl",
+      "company": "Spidersweb",
+      "first_name": "Oliwier",
+      "last_name": "Nytko",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 55,
+      "email": "deepan@justcall.io",
+      "company": "Justcall",
+      "first_name": "Deepan",
+      "last_name": "Siddhu",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 56,
+      "email": "olivia@theorg.com",
+      "company": "Theorg",
+      "first_name": "Olivia",
+      "last_name": "Zhao",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 57,
+      "email": "mattova@startitup.sk",
+      "company": "Startitup",
+      "first_name": "Adriana",
+      "last_name": "Mattov\u00e1",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 58,
+      "email": "andrew@israel21c.org",
+      "company": "Israel21C",
+      "first_name": "Andrew",
+      "last_name": "Exler",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 59,
+      "email": "zhaoxiangguo@ifanr.com",
+      "company": "Ifanr",
+      "first_name": "Xiangguo",
+      "last_name": "Zhao",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 60,
+      "email": "raphael.beguin@euronics.de",
+      "company": "Euronics",
+      "first_name": "Raphael",
+      "last_name": "Beguin",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 61,
+      "email": "support@diyphotography.net",
+      "company": "Diyphotography",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 62,
+      "email": "dcastro@datainnovation.org",
+      "company": "Datainnovation",
+      "first_name": "Daniel",
+      "last_name": "Castro",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 63,
+      "email": "ehsan@resimpli.com",
+      "company": "Resimpli",
+      "first_name": "Ehsan",
+      "last_name": "Rishat",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 64,
+      "email": "matt.d@diggitymarketing.com",
+      "company": "Diggitymarketing",
+      "first_name": "Matt",
+      "last_name": "Diggity",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 65,
+      "email": "ekrem@contactout.com",
+      "company": "Contactout",
+      "first_name": "Ekrem",
+      "last_name": "K.",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 66,
+      "email": "business@toolify.ai",
+      "company": "Toolify",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 67,
+      "email": "allen.wood@letsvpn.world",
+      "company": "Letsvpn",
+      "first_name": "Allen",
+      "last_name": "Wood",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 68,
+      "email": "tyler.pedersen@goconsensus.com",
+      "company": "Goconsensus",
+      "first_name": "Tyler",
+      "last_name": "Pedersen",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 69,
+      "email": "steve@ecommercefastlane.com",
+      "company": "Ecommercefastlane",
+      "first_name": "Steve",
+      "last_name": "Hutt",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 70,
+      "email": "nere.lascurain@atresmedia.com",
+      "company": "Atresmedia",
+      "first_name": "Nere",
+      "last_name": "Lascurain",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 71,
+      "email": "andrew@therookies.co",
+      "company": "Therookies",
+      "first_name": "Andrew",
+      "last_name": "McDonald",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 72,
+      "email": "contact@thebossmagazine.com",
+      "company": "Thebossmagazine",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 73,
+      "email": "hello@magicbox.tools",
+      "company": "Magicbox",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 74,
+      "email": "hello@bbntimes.com",
+      "company": "Bbntimes",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 75,
+      "email": "bmiller@owler.com",
+      "company": "Owler",
+      "first_name": "Bd",
+      "last_name": "Miller",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 76,
+      "email": "noel@recruitingdaily.com",
+      "company": "Recruitingdaily",
+      "first_name": "Noel",
+      "last_name": "Cocca",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 77,
+      "email": "contact@roboticsandautomationnews.com",
+      "company": "Roboticsandautomationnews",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 78,
+      "email": "erica@chief.com",
+      "company": "Chief",
+      "first_name": "Erica",
+      "last_name": "Lied",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 79,
+      "email": "archana.chandel@marianatek.com",
+      "company": "Marianatek",
+      "first_name": "Archana",
+      "last_name": "Chandel",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 80,
+      "email": "dinis.guarda@citiesabc.com",
+      "company": "Citiesabc",
+      "first_name": "Dinis",
+      "last_name": "Guarda",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 81,
+      "email": "apeyrat@numeum.fr",
+      "company": "Numeum",
+      "first_name": "Alex",
+      "last_name": "Peyrat",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 82,
+      "email": "manuel.casella@leadiq.com",
+      "company": "Leadiq",
+      "first_name": "Manuel",
+      "last_name": "Casella",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 83,
+      "email": "support@hitpaw.com",
+      "company": "Hitpaw",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 84,
+      "email": "hey@salesforge.ai",
+      "company": "Salesforge",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 85,
+      "email": "contact@aibase.com",
+      "company": "Aibase",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 86,
+      "email": "jake.williams@edscoop.com",
+      "company": "Edscoop",
+      "first_name": "Jake",
+      "last_name": "Williams",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 87,
+      "email": "valentin@freelancehunt.com",
+      "company": "Freelancehunt",
+      "first_name": "Valentin",
+      "last_name": "Zyuzin",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 88,
+      "email": "samantha@nucamp.co",
+      "company": "Nucamp",
+      "first_name": "Samantha",
+      "last_name": "Anderson",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 89,
+      "email": "diana@bitrebels.com",
+      "company": "Bitrebels",
+      "first_name": "Diana",
+      "last_name": "Adams",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 90,
+      "email": "tim@thedebrief.org",
+      "company": "Thedebrief",
+      "first_name": "Tim",
+      "last_name": "McMillan",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 91,
+      "email": "marek@nofluffjobs.com",
+      "company": "Nofluffjobs",
+      "first_name": "Marek",
+      "last_name": "Jarz\u0105bek",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 92,
+      "email": "katie@em360tech.com",
+      "company": "Em360Tech",
+      "first_name": "Katie",
+      "last_name": "Baker",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 93,
+      "email": "nick@dot.la",
+      "company": "Dot",
+      "first_name": "Nick",
+      "last_name": "Thomas",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 94,
+      "email": "doa@sabda.org",
+      "company": "Sabda",
+      "first_name": "Doa",
+      "last_name": "Anda",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 95,
+      "email": "info@manifold.markets",
+      "company": "Manifold",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 96,
+      "email": "a.melnik@partnerkin.com",
+      "company": "Partnerkin",
+      "first_name": "Artem",
+      "last_name": "Melnik",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 97,
+      "email": "hello@aitools.inc",
+      "company": "Aitools",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 98,
+      "email": "mmarkovski@appsruntheworld.com",
+      "company": "Appsruntheworld",
+      "first_name": "Misho",
+      "last_name": "Markovski",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 99,
+      "email": "admin@edtechbooks.org",
+      "company": "Edtechbooks",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 100,
+      "email": "support@opentools.ai",
+      "company": "Opentools",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 101,
+      "email": "sameer@storyxpress.co",
+      "company": "Storyxpress",
+      "first_name": "Sameer",
+      "last_name": "Dabra",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 102,
+      "email": "german.realpe@enter.co",
+      "company": "Enter",
+      "first_name": "German",
+      "last_name": "Realpe",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 103,
+      "email": "support@aitoolly.com",
+      "company": "Aitoolly",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 104,
+      "email": "lily@reverbico.com",
+      "company": "Reverbico",
+      "first_name": "Lily",
+      "last_name": "Roberts",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 105,
+      "email": "matt@cometly.com",
+      "company": "Cometly",
+      "first_name": "Matt",
+      "last_name": "Pattoli",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 106,
+      "email": "jim@wallethacks.com",
+      "company": "Wallethacks",
+      "first_name": "Jim",
+      "last_name": "Wang",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 107,
+      "email": "kelly@workology.com",
+      "company": "Workology",
+      "first_name": "Kelly",
+      "last_name": "Johnson",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 108,
+      "email": "info@scam-detector.com",
+      "company": "Scam Detector",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 109,
+      "email": "contact@knoji.com",
+      "company": "Knoji",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 110,
+      "email": "media@martech360.com",
+      "company": "Martech360",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 111,
+      "email": "dpetric@bug.hr",
+      "company": "Bug",
+      "first_name": "Dragan",
+      "last_name": "Petric",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 112,
+      "email": "sumeeti@typito.com",
+      "company": "Typito",
+      "first_name": "Sumeeti",
+      "last_name": "Lalwani",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 113,
+      "email": "hello@standout.digital",
+      "company": "Standout",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 114,
+      "email": "gareth.icke@davidicke.com",
+      "company": "Davidicke",
+      "first_name": "Gareth",
+      "last_name": "Icke",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 115,
+      "email": "vlad@gethppy.com",
+      "company": "Gethppy",
+      "first_name": "Vlad",
+      "last_name": "Bodi",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 116,
+      "email": "m.shim@samsungnext.com",
+      "company": "Samsungnext",
+      "first_name": "Michael",
+      "last_name": "Shim",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 117,
+      "email": "noah@theneurondaily.com",
+      "company": "Theneurondaily",
+      "first_name": "Noah",
+      "last_name": "Edelman",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 118,
+      "email": "rachel.ritchie@nudgesecurity.com",
+      "company": "Nudgesecurity",
+      "first_name": "Rachel",
+      "last_name": "Ritchie",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 119,
+      "email": "curtis@whalesync.com",
+      "company": "Whalesync",
+      "first_name": "Curtis",
+      "last_name": "Fonger",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 120,
+      "email": "valisoa.r@trustmyscience.com",
+      "company": "Trustmyscience",
+      "first_name": "Valisoa",
+      "last_name": "Rasolofo",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 121,
+      "email": "hello@topai.tools",
+      "company": "Topai",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 122,
+      "email": "help@whatsyourhours.com",
+      "company": "Whatsyourhours",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 123,
+      "email": "vincenzo@vincos.it",
+      "company": "Vincos",
+      "first_name": "Vincenzo",
+      "last_name": "Cosenza",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 124,
+      "email": "maciej.zielinski@fotopolis.pl",
+      "company": "Fotopolis",
+      "first_name": "Maciej",
+      "last_name": "Zielinski",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 125,
+      "email": "matt@interconnected.org",
+      "company": "Interconnected",
+      "first_name": "Matt",
+      "last_name": "Webb",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 126,
+      "email": "anton@videogen.io",
+      "company": "Videogen",
+      "first_name": "Anton",
+      "last_name": "K\u00f6nig",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 127,
+      "email": "sales@fanpiece.com",
+      "company": "Fanpiece",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 128,
+      "email": "erika.narvaez@adn40.mx",
+      "company": "Adn40",
+      "first_name": "\u00c9rika",
+      "last_name": "Narvaez",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 129,
+      "email": "miroslav.hrebecky@eduin.cz",
+      "company": "Eduin",
+      "first_name": "Miroslav",
+      "last_name": "H\u0159ebeck\u00fd",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 130,
+      "email": "seb@lifeboat.com",
+      "company": "Lifeboat",
+      "first_name": "Seb",
+      "last_name": "Lifeboat",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 131,
+      "email": "marko@myaifrontdesk.com",
+      "company": "Myaifrontdesk",
+      "first_name": "Marko",
+      "last_name": "Simic",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 132,
+      "email": "lilach@memcyco.com",
+      "company": "Memcyco",
+      "first_name": "Lilach",
+      "last_name": "Lev",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 133,
+      "email": "thomas@alltopstartups.com",
+      "company": "Alltopstartups",
+      "first_name": "Thomas",
+      "last_name": "Oppong",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 134,
+      "email": "robert_thorne@ai.cc",
+      "company": "Ai",
+      "first_name": "Robert",
+      "last_name": "Thorne",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 135,
+      "email": "mikel@snipd.com",
+      "company": "Snipd",
+      "first_name": "Mikel",
+      "last_name": "Corcuera",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 136,
+      "email": "laura@socialfirm.com",
+      "company": "Socialfirm",
+      "first_name": "Laura",
+      "last_name": "Elliott",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 137,
+      "email": "info@lovehappensmag.com",
+      "company": "Lovehappensmag",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 138,
+      "email": "hello@host.io",
+      "company": "Host",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 139,
+      "email": "support@logicballs.com",
+      "company": "Logicballs",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 140,
+      "email": "support@upgrow.com",
+      "company": "Upgrow",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 141,
+      "email": "anh.duong@webcatalog.io",
+      "company": "Webcatalog",
+      "first_name": "Anh",
+      "last_name": "D\u01b0\u01a1ng",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 142,
+      "email": "kate.batz@dkv.global",
+      "company": "Dkv",
+      "first_name": "Kate",
+      "last_name": "Batz",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 143,
+      "email": "daniel@startuphub.ai",
+      "company": "Startuphub",
+      "first_name": "Daniel",
+      "last_name": "Singer",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 144,
+      "email": "kalpna@trupeer.ai",
+      "company": "Trupeer",
+      "first_name": "Kalpna",
+      "last_name": "Thakur",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 145,
+      "email": "ethan.tritt@leaderonomics.com",
+      "company": "Leaderonomics",
+      "first_name": "Ethan",
+      "last_name": "Tritt",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 146,
+      "email": "mario@superdatascience.com",
+      "company": "Superdatascience",
+      "first_name": "Mario",
+      "last_name": "Pombo",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 147,
+      "email": "wael.kays@ultrasawt.com",
+      "company": "Ultrasawt",
+      "first_name": "Wael",
+      "last_name": "Kays",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 148,
+      "email": "support@mulogin.com",
+      "company": "Mulogin",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 149,
+      "email": "elliot.rose@unitedwithisrael.org",
+      "company": "Unitedwithisrael",
+      "first_name": "Elliot",
+      "last_name": "Rose",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 150,
+      "email": "m.petrykowski@softkraft.co",
+      "company": "Softkraft",
+      "first_name": "Marek",
+      "last_name": "Petrykowski",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 151,
+      "email": "reuda@hyperight.com",
+      "company": "Hyperight",
+      "first_name": "Reuda",
+      "last_name": "Abdullai",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 152,
+      "email": "ricardo.almeida@codedesign.org",
+      "company": "Codedesign",
+      "first_name": "Ricardo",
+      "last_name": "Almeida",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 153,
+      "email": "info@artinvestment.ru",
+      "company": "Artinvestment",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 154,
+      "email": "contact@waytoagi.com",
+      "company": "Waytoagi",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 155,
+      "email": "hung@recruitingbrainfood.com",
+      "company": "Recruitingbrainfood",
+      "first_name": "Hung",
+      "last_name": "Lee",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 156,
+      "email": "info@futuroprossimo.it",
+      "company": "Futuroprossimo",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 157,
+      "email": "avishai@trendemon.com",
+      "company": "Trendemon",
+      "first_name": "Avishai",
+      "last_name": "Sharon",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 158,
+      "email": "hello@fitgap.com",
+      "company": "Fitgap",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 159,
+      "email": "info@theroanokestar.com",
+      "company": "Theroanokestar",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 160,
+      "email": "contact@completeaitraining.com",
+      "company": "Completeaitraining",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 161,
+      "email": "jordan@youreverydayai.com",
+      "company": "Youreverydayai",
+      "first_name": "Jordan",
+      "last_name": "Wilson",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 162,
+      "email": "dru@trends.vc",
+      "company": "Trends",
+      "first_name": "Dru",
+      "last_name": "Riley",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 163,
+      "email": "info@buzzmatic.net",
+      "company": "Buzzmatic",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 164,
+      "email": "support@thesamur.ai",
+      "company": "Thesamur",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 165,
+      "email": "surabhi@careerguide.com",
+      "company": "Careerguide",
+      "first_name": "Surabhi",
+      "last_name": "Dewra",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 166,
+      "email": "gonz@seedtable.com",
+      "company": "Seedtable",
+      "first_name": "Sanchez",
+      "last_name": "Gonz",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 167,
+      "email": "rabi@thesys.dev",
+      "company": "Thesys",
+      "first_name": "Rabi",
+      "last_name": "Guha",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 168,
+      "email": "support@creati.ai",
+      "company": "Creati",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 169,
+      "email": "support@argil.ai",
+      "company": "Argil",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 170,
+      "email": "services@aifire.co",
+      "company": "Aifire",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 171,
+      "email": "danko@axiomq.com",
+      "company": "Axiomq",
+      "first_name": "Danko",
+      "last_name": "Damjanovic",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 172,
+      "email": "andrey.k@spur-i-t.com",
+      "company": "Spur I T",
+      "first_name": "Andrey",
+      "last_name": "Kulikov",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 173,
+      "email": "yonah@ivc-online.com",
+      "company": "Ivc Online",
+      "first_name": "Yonah",
+      "last_name": "Spero",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 174,
+      "email": "support@hidemium.io",
+      "company": "Hidemium",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 175,
+      "email": "greg@abundance360.com",
+      "company": "Abundance360",
+      "first_name": "Greg",
+      "last_name": "O'Brien",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 176,
+      "email": "nbarz@docva.com",
+      "company": "Docva",
+      "first_name": "Nathan",
+      "last_name": "Barz",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 177,
+      "email": "shahryar@anzalweb.ir",
+      "company": "Anzalweb",
+      "first_name": "Shahryar",
+      "last_name": "Mohajer",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 178,
+      "email": "akshay@oscprofessionals.com",
+      "company": "Oscprofessionals",
+      "first_name": "Akshay",
+      "last_name": "Gupta",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 179,
+      "email": "jan@leadspicker.com",
+      "company": "Leadspicker",
+      "first_name": "Jan",
+      "last_name": "Sk\u00e1cel",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 180,
+      "email": "hello@pressrelease.com",
+      "company": "Pressrelease",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 181,
+      "email": "massimo.cascone@comedonchisciotte.org",
+      "company": "Comedonchisciotte",
+      "first_name": "Massimo",
+      "last_name": "Cascone",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 182,
+      "email": "hcukierman@israelvalley.com",
+      "company": "Israelvalley",
+      "first_name": "Henri",
+      "last_name": "Cukierman",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 183,
+      "email": "prussell@sternstrategy.com",
+      "company": "Sternstrategy",
+      "first_name": "Paige",
+      "last_name": "Russell",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 184,
+      "email": "support@tooldirectory.ai",
+      "company": "Tooldirectory",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 185,
+      "email": "frances@kindredventures.com",
+      "company": "Kindredventures",
+      "first_name": "Frances",
+      "last_name": "Choi",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 186,
+      "email": "info@techgym.jp",
+      "company": "Techgym",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 187,
+      "email": "fred.waldman@upmarket.co",
+      "company": "Upmarket",
+      "first_name": "Fred",
+      "last_name": "Waldman",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 188,
+      "email": "maria@genai.works",
+      "company": "Genai",
+      "first_name": "Mar\u00eda",
+      "last_name": "Castillo",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 189,
+      "email": "kate@intelignite.com",
+      "company": "Intelignite",
+      "first_name": "Kate",
+      "last_name": "Hach",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 190,
+      "email": "jclark@nabpilot.org",
+      "company": "Nabpilot",
+      "first_name": "John",
+      "last_name": "Clark",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 191,
+      "email": "oliver.seibert@xrhub-bavaria.de",
+      "company": "Xrhub Bavaria",
+      "first_name": "Oliver",
+      "last_name": "Seibert",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 192,
+      "email": "john@hi.auto",
+      "company": "Hi",
+      "first_name": "John",
+      "last_name": "Lat",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 193,
+      "email": "partnerships@appscribed.com",
+      "company": "Appscribed",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 194,
+      "email": "support@shortsninja.com",
+      "company": "Shortsninja",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 195,
+      "email": "support@theaisurf.com",
+      "company": "Theaisurf",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 196,
+      "email": "sefunmi@joincolab.io",
+      "company": "Joincolab",
+      "first_name": "Sefunmi",
+      "last_name": "Osinaike",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 197,
+      "email": "info@kiberatung.de",
+      "company": "Kiberatung",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 198,
+      "email": "info@guideofaitool.com",
+      "company": "Guideofaitool",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 199,
+      "email": "michelle@learningmole.com",
+      "company": "Learningmole",
+      "first_name": "Michelle",
+      "last_name": "Connolly",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 200,
+      "email": "support@squeezegrowth.com",
+      "company": "Squeezegrowth",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 201,
+      "email": "jtraversa@inclusioncloud.com",
+      "company": "Inclusioncloud",
+      "first_name": "Juan",
+      "last_name": "Traversa",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 202,
+      "email": "contact@scubby.com",
+      "company": "Scubby",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 203,
+      "email": "bernard.neumeister@infohightech.com",
+      "company": "Infohightech",
+      "first_name": "Bernard",
+      "last_name": "Neumeister",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 204,
+      "email": "hi@ohmy.design",
+      "company": "Ohmy",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 205,
+      "email": "hello@personate.ai",
+      "company": "Personate",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 206,
+      "email": "jessi@thecoffeemom.net",
+      "company": "Thecoffeemom",
+      "first_name": "Jessi",
+      "last_name": "Joachim",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 207,
+      "email": "marco@biancolavoro.it",
+      "company": "Biancolavoro",
+      "first_name": "Marco",
+      "last_name": "Fattizzo",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 208,
+      "email": "info@techaviv.com",
+      "company": "Techaviv",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 209,
+      "email": "gaston@localeyesit.com",
+      "company": "Localeyesit",
+      "first_name": "Gaston",
+      "last_name": "Benitez",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 210,
+      "email": "hello@toolio.ai",
+      "company": "Toolio",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 211,
+      "email": "peg@cogointeractive.com",
+      "company": "Cogointeractive",
+      "first_name": "Peg",
+      "last_name": "Mcdermott",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 212,
+      "email": "alice@publiexpert.com",
+      "company": "Publiexpert",
+      "first_name": "Alice",
+      "last_name": "Zaga",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 213,
+      "email": "rohit@analyticsdrift.com",
+      "company": "Analyticsdrift",
+      "first_name": "Rohit",
+      "last_name": "Yadav",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 214,
+      "email": "alan.wang@tendata.cn",
+      "company": "Tendata",
+      "first_name": "Alan",
+      "last_name": "Wang",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 215,
+      "email": "michele@issip.org",
+      "company": "Issip",
+      "first_name": "Michele",
+      "last_name": "Carroll",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 216,
+      "email": "audrey@etoh.fr",
+      "company": "Etoh",
+      "first_name": "Audrey",
+      "last_name": "Chaillet",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 217,
+      "email": "sarai@mvpgrow.com",
+      "company": "Mvpgrow",
+      "first_name": "Sarai",
+      "last_name": "Cross",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 218,
+      "email": "david@rankmyai.com",
+      "company": "Rankmyai",
+      "first_name": "David",
+      "last_name": "Kakanis",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 219,
+      "email": "nicolep@firebrand.marketing",
+      "company": "Firebrand",
+      "first_name": "Nicole",
+      "last_name": "Pytel",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 220,
+      "email": "business@cmofirst.com",
+      "company": "Cmofirst",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 221,
+      "email": "contact@hackliberty.org",
+      "company": "Hackliberty",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 222,
+      "email": "contact@topten.ai",
+      "company": "Topten",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 223,
+      "email": "glorialarkin@targetgov.com",
+      "company": "Targetgov",
+      "first_name": "Gloria",
+      "last_name": "Larkin",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 224,
+      "email": "info@ainauten.com",
+      "company": "Ainauten",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 225,
+      "email": "matthias@clickomania.ch",
+      "company": "Clickomania",
+      "first_name": "Matthias",
+      "last_name": "Schussler",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 226,
+      "email": "yomiran@lbscience.org",
+      "company": "Lbscience",
+      "first_name": "Yomiran",
+      "last_name": "Nissan",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 227,
+      "email": "mansi.sharma@unscript.ai",
+      "company": "Unscript",
+      "first_name": "Mansi",
+      "last_name": "Sharma",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 228,
+      "email": "support@hitpaw.fr",
+      "company": "Hitpaw",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 229,
+      "email": "contact@1ai.net",
+      "company": "1Ai",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 230,
+      "email": "info@cloudnextltd.com",
+      "company": "Cloudnextltd",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 231,
+      "email": "contact@aitoolguru.com",
+      "company": "Aitoolguru",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 232,
+      "email": "lahaga@aivideotoolspro.com",
+      "company": "Aivideotoolspro",
+      "first_name": "Lahaga",
+      "last_name": "Aondowase",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 233,
+      "email": "info@airpals.co",
+      "company": "Airpals",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 234,
+      "email": "services@ezweb.company",
+      "company": "Ezweb",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 235,
+      "email": "john@bascexpertise.com",
+      "company": "Bascexpertise",
+      "first_name": "John",
+      "last_name": "Bagabagon",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 236,
+      "email": "helen@creativitysquared.com",
+      "company": "Creativitysquared",
+      "first_name": "Helen",
+      "last_name": "Todd",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 237,
+      "email": "info@howtocrazy.com",
+      "company": "Howtocrazy",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 238,
+      "email": "info@abclimoservice.ch",
+      "company": "Abclimoservice",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 239,
+      "email": "hi@paracast.io",
+      "company": "Paracast",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 240,
+      "email": "info@longevity.international",
+      "company": "Longevity",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 241,
+      "email": "s.tokarev@roosh.vc",
+      "company": "Roosh",
+      "first_name": "Sergey",
+      "last_name": "Tokarev",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 242,
+      "email": "contact@aijourney.so",
+      "company": "Aijourney",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 243,
+      "email": "d.olmedo@easyvc.ai",
+      "company": "Easyvc",
+      "first_name": "Daniel",
+      "last_name": "Olmedo",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 244,
+      "email": "alon@neurotech.com",
+      "company": "Neurotech",
+      "first_name": "Alon",
+      "last_name": "Braun",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 245,
+      "email": "contact@alternative.to",
+      "company": "Alternative",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 246,
+      "email": "gavin@servantofchaos.com",
+      "company": "Servantofchaos",
+      "first_name": "Gavin",
+      "last_name": "Heaton",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 247,
+      "email": "kai.zhao@paraverse.cc",
+      "company": "Paraverse",
+      "first_name": "Kai",
+      "last_name": "Zhao",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 248,
+      "email": "info@diasp.pro",
+      "company": "Diasp",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 249,
+      "email": "d.shynkarenko@piogroup.net",
+      "company": "Piogroup",
+      "first_name": "Dmytro",
+      "last_name": "Shynkarenko",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 250,
+      "email": "dani@artistandthemachine.com",
+      "company": "Artistandthemachine",
+      "first_name": "Dani",
+      "last_name": "Sande",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 251,
+      "email": "atul.bhosle@martechs.io",
+      "company": "Martechs",
+      "first_name": "Atul",
+      "last_name": "Bhosle",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 252,
+      "email": "d.nommensen@advanced-innovation.io",
+      "company": "Advanced Innovation",
+      "first_name": "Dan",
+      "last_name": "Nommensen",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 253,
+      "email": "help@scaleup.events",
+      "company": "Scaleup",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 254,
+      "email": "info@hybrid-rituals.com",
+      "company": "Hybrid Rituals",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 255,
+      "email": "info@minory.org",
+      "company": "Minory",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 256,
+      "email": "hello@summ-it.app",
+      "company": "Summ It",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 257,
+      "email": "julia@sagemarketing.io",
+      "company": "Sagemarketing",
+      "first_name": "Julia",
+      "last_name": "Fuchs",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 258,
+      "email": "info@aionlinecourse.com",
+      "company": "Aionlinecourse",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 259,
+      "email": "contact@successtechservices.com",
+      "company": "Successtechservices",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 260,
+      "email": "hello@aitude.com",
+      "company": "Aitude",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 261,
+      "email": "eric.wang@maadaa.ai",
+      "company": "Maadaa",
+      "first_name": "Eric",
+      "last_name": "Wang",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 262,
+      "email": "contact@seofai.com",
+      "company": "Seofai",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 263,
+      "email": "koen@sowflow.io",
+      "company": "Sowflow",
+      "first_name": "Koen",
+      "last_name": "V",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 264,
+      "email": "contact@hacktrix.com",
+      "company": "Hacktrix",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 265,
+      "email": "info@pixelfish.com",
+      "company": "Pixelfish",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 266,
+      "email": "omri@omrihurwitz.com",
+      "company": "Omrihurwitz",
+      "first_name": "Omri",
+      "last_name": "Hurwitz",
+      "status": "success",
+      "error": null
+    },
+    {
+      "index": 267,
+      "email": "info@munamedia.me",
+      "company": "Munamedia",
+      "first_name": "there",
+      "last_name": "",
+      "status": "success",
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,683 @@
+{
+  "slug": "ai-instructional-design",
+  "page_brand": null,
+  "total_findings": 38,
+  "by_severity": {
+    "unconfirmed": 26,
+    "needs_check": 12
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Vidor](https://www.synthesia.io/blog/authors/amy-vidor) April 10, 2026 Create engaging training videos in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [What's",
+      "span": [
+        295,
+        309
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "AI in Instructional Design: How IDs Are Using AI in 2026",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create engaging training videos in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "87%",
+      "context": "capacity adds up, and the best use of it is strategic work. ### Where AI adoption is strongest today 87% of learning and development practitioners reported using AI in our 2026 [_AI in L&D Report_](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026)",
+      "span": [
+        3192,
+        3195
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Where AI adoption is strongest today",
+        "heading_level": 3,
+        "line": 54
+      },
+      "sentence": "87% of learning and development practitioners reported using AI in our 2026 [_AI in L&D Report_](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) _.\\*_ Most of that usage concentrates on content creation: tasks like quiz and content drafting, video creation, and translation.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '87%'",
+      "suggested_fix": "Stat reference: `87%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "38%",
+      "context": "networks. As an AI company, this likely skews the levels of AI engagement reported. Of 421 respondents, 38% were instructional designers. What the research says (click to expand) Our practitioner insights",
+      "span": [
+        4429,
+        4432
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Where AI adoption is strongest today",
+        "heading_level": 3,
+        "line": 62
+      },
+      "sentence": "Of 421 respondents, 38% were instructional designers.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '38%'",
+      "suggested_fix": "Stat reference: `38%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "88%",
+      "context": "considerations. ### **Content production** **Benefits:** AI helps IDs create content more quickly. [88% of respondents to our 2026 AI in L&D Report](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026)",
+      "span": [
+        9866,
+        9869
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Content production**",
+        "heading_level": 3,
+        "line": 133
+      },
+      "sentence": "[88% of respondents to our 2026 AI in L&D Report](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) reported saving time on content creation.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '88%'",
+      "suggested_fix": "Stat reference: `88%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "45%",
+      "context": "to a graphic designer or video production company, you're potentially saving thousands of dollars. [45% of teams are already reporting financial benefits](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026),",
+      "span": [
+        10555,
+        10558
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Cost**",
+        "heading_level": 3,
+        "line": 139
+      },
+      "sentence": "[45% of teams are already reporting financial benefits](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026), though many expect clearer gains as AI becomes more embedded in their workflows.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '45%'",
+      "suggested_fix": "Stat reference: `45%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "19%",
+      "context": "measurement section below. **Challenges:** The gap between content creation and evaluation is growing. [Only 19% of L&D teams are using AI for evaluation](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026),",
+      "span": [
+        11467,
+        11470
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Feedback loops**",
+        "heading_level": 3,
+        "line": 147
+      },
+      "sentence": "[Only 19% of L&D teams are using AI for evaluation](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026), compared to 65% using it for content development.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '19%'",
+      "suggested_fix": "Stat reference: `19%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "65%",
+      "context": "evaluation](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026), compared to 65% using it for content development. We're creating faster but not following through. ### **Skills and",
+      "span": [
+        11603,
+        11606
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Feedback loops**",
+        "heading_level": 3,
+        "line": 147
+      },
+      "sentence": "[Only 19% of L&D teams are using AI for evaluation](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026), compared to 65% using it for content development.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '65%'",
+      "suggested_fix": "Stat reference: `65%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "41%",
+      "context": "but the reward for working faster is often just more work. ### **Business impact** **Benefits:** [41% of L&D teams](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) say AI is",
+      "span": [
+        12878,
+        12881
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Business impact**",
+        "heading_level": 3,
+        "line": 157
+      },
+      "sentence": "Benefits:** [41% of L&D teams](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) say AI is already contributing to business impact through faster delivery and higher output.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '41%'",
+      "suggested_fix": "Stat reference: `41%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "9%",
+      "context": "Most teams haven't reached the maturity to demonstrate measurable business impact from AI in ID. Only 9% have reached the stage of scaling AI across their organization, and just 6% describe AI as fully integrated.",
+      "span": [
+        13185,
+        13187
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Business impact**",
+        "heading_level": 3,
+        "line": 159
+      },
+      "sentence": "Only 9% have reached the stage of scaling AI across their organization, and just 6% describe AI as fully integrated.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '9%'",
+      "suggested_fix": "Stat reference: `9%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "6%",
+      "context": "impact from AI in ID. Only 9% have reached the stage of scaling AI across their organization, and just 6% describe AI as fully integrated. Over the next few years, I expect this will continue to grow as organizations",
+      "span": [
+        13261,
+        13263
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Business impact**",
+        "heading_level": 3,
+        "line": 159
+      },
+      "sentence": "Only 9% have reached the stage of scaling AI across their organization, and just 6% describe AI as fully integrated.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '6%'",
+      "suggested_fix": "Stat reference: `6%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "65%",
+      "context": "at our [survey data:](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) 65% of L&D teams are using AI to develop content, but only 19% of those same teams are using it to evaluate.",
+      "span": [
+        16353,
+        16356
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**How to use AI to measure whether learning is working**",
+        "heading_level": 2,
+        "line": 199
+      },
+      "sentence": "Look at our [survey data:](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) 65% of L&D teams are using AI to develop content, but only 19% of those same teams are using it to evaluate.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '65%'",
+      "suggested_fix": "Stat reference: `65%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "19%",
+      "context": "data:](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) 65% of L&D teams are using AI to develop content, but only 19% of those same teams are using it to evaluate. We're creating content more quickly, but [not gaining",
+      "span": [
+        16412,
+        16415
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**How to use AI to measure whether learning is working**",
+        "heading_level": 2,
+        "line": 199
+      },
+      "sentence": "Look at our [survey data:](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026) 65% of L&D teams are using AI to develop content, but only 19% of those same teams are using it to evaluate.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '19%'",
+      "suggested_fix": "Stat reference: `19%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "42%",
+      "context": "revisions tied to those patterns, then review and select changes with SMEs. In a practice scenario, 42% of managers choose \"Be more careful next time\" instead of giving specific guidance. AI summarizes the",
+      "span": [
+        18995,
+        18998
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Design the learning signal",
+        "heading_level": 4,
+        "line": 238
+      },
+      "sentence": "In a practice scenario, 42% of managers choose \"Be more careful next time\" instead of giving specific guidance.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '42%'",
+      "suggested_fix": "Stat reference: `42%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "60%",
+      "context": "and suggest likely interventions. \"If the share of coaching notes logged within 24 hours stays below 60% after four weeks, add a manager reinforcement nudge and revise the scenario to include language prompts.",
+      "span": [
+        19540,
+        19543
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Set a decision rule",
+        "heading_level": 4,
+        "line": 244
+      },
+      "sentence": "\"If the share of coaching notes logged within 24 hours stays below 60% after four weeks, add a manager reinforcement nudge and revise the scenario to include language prompts.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '60%'",
+      "suggested_fix": "Stat reference: `60%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "75%",
+      "context": "manager reinforcement nudge and revise the scenario to include language prompts. If it rises above 75% for two consecutive review cycles, scale the module to the next manager population.\" #### Establish",
+      "span": [
+        19667,
+        19670
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Set a decision rule",
+        "heading_level": 4,
+        "line": 244
+      },
+      "sentence": "If it rises above 75% for two consecutive review cycles, scale the module to the next manager population.\"",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '75%'",
+      "suggested_fix": "Stat reference: `75%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "52%",
+      "context": "for the asset owner. Each month, AI produces a short summary: \"Timely coaching notes improved from 52% to 68% in Sales, flat in Support. Support teams cite 'no time' and 'unclear expectation.' Top replay",
+      "span": [
+        20076,
+        20079
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Establish a review cadence",
+        "heading_level": 4,
+        "line": 250
+      },
+      "sentence": "Each month, AI produces a short summary: \"Timely coaching notes improved from 52% to 68% in Sales, flat in Support.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '52%'",
+      "suggested_fix": "Stat reference: `52%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "68%",
+      "context": "asset owner. Each month, AI produces a short summary: \"Timely coaching notes improved from 52% to 68% in Sales, flat in Support. Support teams cite 'no time' and 'unclear expectation.' Top replay segment",
+      "span": [
+        20083,
+        20086
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Establish a review cadence",
+        "heading_level": 4,
+        "line": 250
+      },
+      "sentence": "Each month, AI produces a short summary: \"Timely coaching notes improved from 52% to 68% in Sales, flat in Support.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '68%'",
+      "suggested_fix": "Stat reference: `68%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "59%",
+      "context": "AI integration with personally identifiable information (PII) sources. And as you can see from our survey, 59% of practitioners are still not using PII, with 18% noting the approval process to do so is unclear.",
+      "span": [
+        22975,
+        22978
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Where you need a human in the loop**",
+        "heading_level": 2,
+        "line": 281
+      },
+      "sentence": "And as you can see from our survey, 59% of practitioners are still not using PII, with 18% noting the approval process to do so is unclear.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '59%'",
+      "suggested_fix": "Stat reference: `59%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "18%",
+      "context": "(PII) sources. And as you can see from our survey, 59% of practitioners are still not using PII, with 18% noting the approval process to do so is unclear. ![Data from AI in L&D survey: Does your use of AI",
+      "span": [
+        23026,
+        23029
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Where you need a human in the loop**",
+        "heading_level": 2,
+        "line": 281
+      },
+      "sentence": "And as you can see from our survey, 59% of practitioners are still not using PII, with 18% noting the approval process to do so is unclear.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '18%'",
+      "suggested_fix": "Stat reference: `18%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "20%",
+      "context": "learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers). That's",
+      "span": [
+        25712,
+        25715
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What the future of instructional design looks like",
+        "heading_level": 2,
+        "line": 309
+      },
+      "sentence": "AI makes it [easier to produce and update learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers).",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '20%'",
+      "suggested_fix": "Stat reference: `20%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "26%",
+      "context": "learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers). That's",
+      "span": [
+        25715,
+        25718
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What the future of instructional design looks like",
+        "heading_level": 2,
+        "line": 309
+      },
+      "sentence": "AI makes it [easier to produce and update learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers).",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '26%'",
+      "suggested_fix": "Stat reference: `26%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "20%",
+      "context": "learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers). That's not the hard part anymore. Instructional designers will continue to decide what",
+      "span": [
+        25793,
+        25796
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What the future of instructional design looks like",
+        "heading_level": 2,
+        "line": 309
+      },
+      "sentence": "AI makes it [easier to produce and update learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers).",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '20%'",
+      "suggested_fix": "Stat reference: `20%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "26%",
+      "context": "learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers). That's not the hard part anymore. Instructional designers will continue to decide what",
+      "span": [
+        25796,
+        25799
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What the future of instructional design looks like",
+        "heading_level": 2,
+        "line": 309
+      },
+      "sentence": "AI makes it [easier to produce and update learning](https://www.synthesia.io/reports/ai-in-learning-and-development-report-2026#values:~:text=AI%3A%20Today%20%26%20Tomorrow-,Current%20Value%20vs.%20Future%20Value,-Budgets%2C%20Readiness%20%26%20Blockers).",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '26%'",
+      "suggested_fix": "Stat reference: `26%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "4x",
+      "context": "Italia used this approach to launch over 100 learning paths and accelerate new product launches by 4x. [![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/68f8f6636637deb61b8473cc_Sky%20Italia.jpg)\\\\",
+      "span": [
+        15356,
+        15358
+      ],
+      "meta": {
+        "subtype": "multiplier"
+      },
+      "location": {
+        "heading": "Example use case: training videos",
+        "heading_level": 3,
+        "line": 181
+      },
+      "sentence": "Sky Italia used this approach to launch over 100 learning paths and accelerate new product launches by 4x.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '4x'",
+      "suggested_fix": "Stat reference: `4x`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "4x",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/68f8f6636637deb61b8473cc_Sky%20Italia.jpg)\\\\ \\\\ How Sky Italia Digitizes Learning Paths to Accelerate New Product Launches by 4x\\\\ \\\\ Learn how Sky Italia launched 100+ new learning paths by leveraging AI video. \\\\ \\\\ Read full",
+      "span": [
+        15552,
+        15554
+      ],
+      "meta": {
+        "subtype": "multiplier"
+      },
+      "location": {
+        "heading": "Example use case: training videos",
+        "heading_level": 3,
+        "line": 185
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/68f8f6636637deb61b8473cc_Sky%20Italia.jpg)\\\\ \\\\ How Sky Italia Digitizes Learning Paths to Accelerate New Product Launches by 4x\\\\ \\\\ Learn how Sky Italia launched 100+ new learning paths by leveraging AI video.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '4x'",
+      "suggested_fix": "Stat reference: `4x`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "# AI in Instructional Design: How IDs Are Using AI in 2026 ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/6980c0cd64e0dd8332556329_1516890038764.jpeg)",
+      "span": [
+        51,
+        58
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "AI in Instructional Design: How IDs Are Using AI in 2026",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "AI in Instructional Design: How IDs Are Using AI in 2026",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2026'",
+      "suggested_fix": "Stat reference: `in 2026`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.sciencedirect.com/science/article/abs/pii/S0160791X24000757",
+      "context": "",
+      "span": [
+        5336,
+        5407
+      ],
+      "meta": {
+        "domain": "www.sciencedirect.com",
+        "anchor": "they used only a small subset of the safeguards the research recommends"
+      },
+      "location": {
+        "heading": "Where AI adoption is strongest today",
+        "heading_level": 3,
+        "line": 71
+      },
+      "sentence": "When organizations deployed AI in HR, [they used only a small subset of the safeguards the research recommends](https://www.sciencedirect.com/science/article/abs/pii/S0160791X24000757).",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "www.sciencedirect.com blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.wsj.com/lifestyle/careers/ai-work-free-time-51c8c92a",
+      "context": "",
+      "span": [
+        12651,
+        12715
+      ],
+      "meta": {
+        "domain": "www.wsj.com",
+        "anchor": "A separate survey"
+      },
+      "location": {
+        "heading": "**Skills and capacity**",
+        "heading_level": 3,
+        "line": 153
+      },
+      "sentence": "[A separate survey](https://www.wsj.com/lifestyle/careers/ai-work-free-time-51c8c92a) found workers using AI save nearly an hour a day on average, but the reward for working faster is often just more work.",
+      "severity": "likely",
+      "title": "Link requires auth (401)",
+      "suggested_fix": "Link returned 401 — auth-required or paywalled. May be intentional, but worth verifying.",
+      "source": "",
+      "source_note": "HEAD status: 401"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        53066,
+        54415
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

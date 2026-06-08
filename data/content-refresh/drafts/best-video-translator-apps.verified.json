@@ -1,0 +1,537 @@
+{
+  "slug": "best-video-translator-apps",
+  "page_brand": null,
+  "total_findings": 21,
+  "by_severity": {
+    "confirmed": 5,
+    "unconfirmed": 9,
+    "likely": 6,
+    "needs_check": 1
+  },
+  "findings": [
+    {
+      "type": "pricing",
+      "text": "$14/mo",
+      "context": "--- | --- | --- | --- | --- | | Synthesia | Yes (free) | Yes (free) | 130+ | Free (1 min), Starter: $14/month | | AI Studios | Yes (free) | Yes (paid) | 150+ | Free (3 mins), Personal: $24/month | | Perso AI",
+      "span": [
+        5988,
+        5994
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "14"
+      },
+      "location": {
+        "heading": "Best video translators compared",
+        "heading_level": 2,
+        "line": 98
+      },
+      "sentence": "| Tool | Lip-sync | Voice cloning | Languages | Pricing | | --- | --- | --- | --- | --- | | Synthesia | Yes (free) | Yes (free) | 130+ | Free (1 min), Starter: $14/month | | AI Studios | Yes (free) | Yes (paid) | 150+ | Free (3 mins), Personal: $24/month | | Perso AI | Yes (free) | Yes (free) | 32+ | Free (1 min, no export), Creator: $29/month | | ElevenLabs | No | Yes (free) | 29+ | Free (3-5 mins, watermarked), Creator: $22/month | | Maestra | Yes (paid) | Yes (paid) | 125+ | Free voiceover (120 mins), Premium: $79/month (voice cloning), Business: $159/month (lip-sync) | | Kapwing | Yes (paid) | Yes (paid) | 40+ | Free (30 seconds), Pro: $16/month (dubbing",
+      "severity": "confirmed",
+      "title": "Synthesia $14 doesn't match any tier",
+      "suggested_fix": "`$14/mo` doesn't match any current Synthesia tier. Current tiers: Basic $?/mo or $0/mo annual · Starter $29/mo or $18/mo annual · Creator $89/mo or $64/mo annual · Enterprise $?/mo. Update or remove.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "pricing",
+      "text": "$49/mo",
+      "context": "| No | Yes (paid) | 60+ | Free (3 mins), Studio Starter: $19/month (voice cloning), Studio Creator: $49/month | | Murf | No | Enterprise only | 40+ | Free (50 mins, watermarked), Pay-as-you-go: $0.50/min |",
+      "span": [
+        6642,
+        6648
+      ],
+      "meta": {
+        "brand": "veed",
+        "currency": "$",
+        "amount": "49"
+      },
+      "location": {
+        "heading": "Best video translators compared",
+        "heading_level": 2,
+        "line": 104
+      },
+      "sentence": "no export), Creator: $29/month | | ElevenLabs | No | Yes (free) | 29+ | Free (3-5 mins, watermarked), Creator: $22/month | | Maestra | Yes (paid) | Yes (paid) | 125+ | Free voiceover (120 mins), Premium: $79/month (voice cloning), Business: $159/month (lip-sync) | | Kapwing | Yes (paid) | Yes (paid) | 40+ | Free (30 seconds), Pro: $16/month (dubbing), Business: $50/month (lip-sync) | | Speechify | No | Yes (paid) | 60+ | Free (3 mins), Studio Starter: $19/month (voice cloning), Studio Creator: $49/month | | Murf | No | Enterprise only | 40+ | Free (50 mins, watermarked), Pay-as-you-go: $0.50/min | | Veed | Yes (paid) | Yes (paid) | 125+ | No free dubbing, Pro: $49/month, Studio: $79/month | | Rask AI | Yes (free trial) | Yes (free) | 135+ | Free trial (3 mins), Creator: $60/month, Creator Pro: $150/month (lip-sync) |",
+      "severity": "unconfirmed",
+      "title": "Veed pricing not fetchable",
+      "suggested_fix": "WebFetch returned navigation only; pricing not extracted. Mark all VEED pricing claims as unconfirmed. Verify `$49/mo` manually.",
+      "source": "",
+      "source_note": "Competitor pricing page unavailable to scraper"
+    },
+    {
+      "type": "pricing",
+      "text": "$49/mo",
+      "context": "watermarked), Pay-as-you-go: $0.50/min | | Veed | Yes (paid) | Yes (paid) | 125+ | No free dubbing, Pro: $49/month, Studio: $79/month | | Rask AI | Yes (free trial) | Yes (free) | 135+ | Free trial (3 mins), Creator:",
+      "span": [
+        6812,
+        6818
+      ],
+      "meta": {
+        "brand": "veed",
+        "currency": "$",
+        "amount": "49"
+      },
+      "location": {
+        "heading": "Best video translators compared",
+        "heading_level": 2,
+        "line": 106
+      },
+      "sentence": "ree voiceover (120 mins), Premium: $79/month (voice cloning), Business: $159/month (lip-sync) | | Kapwing | Yes (paid) | Yes (paid) | 40+ | Free (30 seconds), Pro: $16/month (dubbing), Business: $50/month (lip-sync) | | Speechify | No | Yes (paid) | 60+ | Free (3 mins), Studio Starter: $19/month (voice cloning), Studio Creator: $49/month | | Murf | No | Enterprise only | 40+ | Free (50 mins, watermarked), Pay-as-you-go: $0.50/min | | Veed | Yes (paid) | Yes (paid) | 125+ | No free dubbing, Pro: $49/month, Studio: $79/month | | Rask AI | Yes (free trial) | Yes (free) | 135+ | Free trial (3 mins), Creator: $60/month, Creator Pro: $150/month (lip-sync) |",
+      "severity": "unconfirmed",
+      "title": "Veed pricing not fetchable",
+      "suggested_fix": "WebFetch returned navigation only; pricing not extracted. Mark all VEED pricing claims as unconfirmed. Verify `$49/mo` manually.",
+      "source": "",
+      "source_note": "Competitor pricing page unavailable to scraper"
+    },
+    {
+      "type": "pricing",
+      "text": "$79/mo",
+      "context": "Pay-as-you-go: $0.50/min | | Veed | Yes (paid) | Yes (paid) | 125+ | No free dubbing, Pro: $49/month, Studio: $79/month | | Rask AI | Yes (free trial) | Yes (free) | 135+ | Free trial (3 mins), Creator: $60/month, Creator",
+      "span": [
+        6831,
+        6837
+      ],
+      "meta": {
+        "brand": "veed",
+        "currency": "$",
+        "amount": "79"
+      },
+      "location": {
+        "heading": "Best video translators compared",
+        "heading_level": 2,
+        "line": 106
+      },
+      "sentence": "mins), Premium: $79/month (voice cloning), Business: $159/month (lip-sync) | | Kapwing | Yes (paid) | Yes (paid) | 40+ | Free (30 seconds), Pro: $16/month (dubbing), Business: $50/month (lip-sync) | | Speechify | No | Yes (paid) | 60+ | Free (3 mins), Studio Starter: $19/month (voice cloning), Studio Creator: $49/month | | Murf | No | Enterprise only | 40+ | Free (50 mins, watermarked), Pay-as-you-go: $0.50/min | | Veed | Yes (paid) | Yes (paid) | 125+ | No free dubbing, Pro: $49/month, Studio: $79/month | | Rask AI | Yes (free trial) | Yes (free) | 135+ | Free trial (3 mins), Creator: $60/month, Creator Pro: $150/month (lip-sync) |",
+      "severity": "unconfirmed",
+      "title": "Veed pricing not fetchable",
+      "suggested_fix": "WebFetch returned navigation only; pricing not extracted. Mark all VEED pricing claims as unconfirmed. Verify `$79/mo` manually.",
+      "source": "",
+      "source_note": "Competitor pricing page unavailable to scraper"
+    },
+    {
+      "type": "pricing",
+      "text": "$60/mo",
+      "context": "Studio: $79/month | | Rask AI | Yes (free trial) | Yes (free) | 135+ | Free trial (3 mins), Creator: $60/month, Creator Pro: $150/month (lip-sync) | ## 1\\. Synthesia ![Synthesia's video translator/dubbing",
+      "span": [
+        6924,
+        6930
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "60"
+      },
+      "location": {
+        "heading": "Best video translators compared",
+        "heading_level": 2,
+        "line": 107
+      },
+      "sentence": "(paid) | Yes (paid) | 40+ | Free (30 seconds), Pro: $16/month (dubbing), Business: $50/month (lip-sync) | | Speechify | No | Yes (paid) | 60+ | Free (3 mins), Studio Starter: $19/month (voice cloning), Studio Creator: $49/month | | Murf | No | Enterprise only | 40+ | Free (50 mins, watermarked), Pay-as-you-go: $0.50/min | | Veed | Yes (paid) | Yes (paid) | 125+ | No free dubbing, Pro: $49/month, Studio: $79/month | | Rask AI | Yes (free trial) | Yes (free) | 135+ | Free trial (3 mins), Creator: $60/month, Creator Pro: $150/month (lip-sync) |",
+      "severity": "confirmed",
+      "title": "Synthesia $60 doesn't match any tier",
+      "suggested_fix": "`$60/mo` doesn't match any current Synthesia tier. Current tiers: Basic $?/mo or $0/mo annual · Starter $29/mo or $18/mo annual · Creator $89/mo or $64/mo annual · Enterprise $?/mo. Update or remove.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "pricing",
+      "text": "$150/mo",
+      "context": "Rask AI | Yes (free trial) | Yes (free) | 135+ | Free trial (3 mins), Creator: $60/month, Creator Pro: $150/month (lip-sync) | ## 1\\. Synthesia ![Synthesia's video translator/dubbing interface](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/69eb41612bcace2a05efa993_synthesia-video-translator.webp)",
+      "span": [
+        6948,
+        6955
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "150"
+      },
+      "location": {
+        "heading": "Best video translators compared",
+        "heading_level": 2,
+        "line": 107
+      },
+      "sentence": "+ | Free (30 seconds), Pro: $16/month (dubbing), Business: $50/month (lip-sync) | | Speechify | No | Yes (paid) | 60+ | Free (3 mins), Studio Starter: $19/month (voice cloning), Studio Creator: $49/month | | Murf | No | Enterprise only | 40+ | Free (50 mins, watermarked), Pay-as-you-go: $0.50/min | | Veed | Yes (paid) | Yes (paid) | 125+ | No free dubbing, Pro: $49/month, Studio: $79/month | | Rask AI | Yes (free trial) | Yes (free) | 135+ | Free trial (3 mins), Creator: $60/month, Creator Pro: $150/month (lip-sync) |",
+      "severity": "confirmed",
+      "title": "Synthesia $150 doesn't match any tier",
+      "suggested_fix": "`$150/mo` doesn't match any current Synthesia tier. Current tiers: Basic $?/mo or $0/mo annual · Starter $29/mo or $18/mo annual · Creator $89/mo or $64/mo annual · Enterprise $?/mo. Update or remove.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "pricing",
+      "text": "$14/mo",
+      "context": "videos up to 1 minute with full lip-sync and voice cloning. For longer videos, the Starter plan is $14/month billed annually and includes 10 minutes of AI dubbing at $1.40/minute. See [full pricing details](https://www.synthesia.io/pricing).",
+      "span": [
+        8962,
+        8968
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "14"
+      },
+      "location": {
+        "heading": "Pricing",
+        "heading_level": 3,
+        "line": 142
+      },
+      "sentence": "For longer videos, the Starter plan is $14/month billed annually and includes 10 minutes of AI dubbing at $1.40/minute.",
+      "severity": "confirmed",
+      "title": "Synthesia $14 doesn't match any tier",
+      "suggested_fix": "`$14/mo` doesn't match any current Synthesia tier. Current tiers: Basic $?/mo or $0/mo annual · Starter $29/mo or $18/mo annual · Creator $89/mo or $64/mo annual · Enterprise $?/mo. Update or remove.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "pricing",
+      "text": "$49/mo",
+      "context": "voice cloning didn't really sound like me, and the lip-sync felt a bit off. Given that you're paying $49/month just to access these features, that's not good enough. ### Pricing _Pricing accurate as of April",
+      "span": [
+        24900,
+        24906
+      ],
+      "meta": {
+        "brand": "veed",
+        "currency": "$",
+        "amount": "49"
+      },
+      "location": {
+        "heading": "My experience",
+        "heading_level": 3,
+        "line": 445
+      },
+      "sentence": "Given that you're paying $49/month just to access these features, that's not good enough.",
+      "severity": "unconfirmed",
+      "title": "Veed pricing not fetchable",
+      "suggested_fix": "WebFetch returned navigation only; pricing not extracted. Mark all VEED pricing claims as unconfirmed. Verify `$49/mo` manually.",
+      "source": "",
+      "source_note": "Competitor pricing page unavailable to scraper"
+    },
+    {
+      "type": "pricing",
+      "text": "$49/mo",
+      "context": "Pricing _Pricing accurate as of April 2026._ Veed's AI dubbing is available from the Pro plan at $49/month, which includes 30 minutes of dubbing per month at $1.63/minute. The Studio plan at $79/month includes",
+      "span": [
+        25069,
+        25075
+      ],
+      "meta": {
+        "brand": "veed",
+        "currency": "$",
+        "amount": "49"
+      },
+      "location": {
+        "heading": "Pricing",
+        "heading_level": 3,
+        "line": 451
+      },
+      "sentence": "Veed's AI dubbing is available from the Pro plan at $49/month, which includes 30 minutes of dubbing per month at $1.63/minute.",
+      "severity": "unconfirmed",
+      "title": "Veed pricing not fetchable",
+      "suggested_fix": "WebFetch returned navigation only; pricing not extracted. Mark all VEED pricing claims as unconfirmed. Verify `$49/mo` manually.",
+      "source": "",
+      "source_note": "Competitor pricing page unavailable to scraper"
+    },
+    {
+      "type": "pricing",
+      "text": "$150/mo",
+      "context": "dubbing ($2.40/minute) - Lip-sync quality is genuinely poor - Lip-sync requires the most expensive plan ($150/month) ### My experience Here's the translated video using Rask AI: Rask\\_AI - Video generated with",
+      "span": [
+        25974,
+        25981
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "150"
+      },
+      "location": {
+        "heading": "Cons",
+        "heading_level": 3,
+        "line": 471
+      },
+      "sentence": "No video export on the free trial - Very high price for voiceover dubbing ($2.40/minute) - Lip-sync quality is genuinely poor - Lip-sync requires the most expensive plan ($150/month)",
+      "severity": "confirmed",
+      "title": "Synthesia $150 doesn't match any tier",
+      "suggested_fix": "`$150/mo` doesn't match any current Synthesia tier. Current tiers: Basic $?/mo or $0/mo annual · Starter $29/mo or $18/mo annual · Creator $89/mo or $64/mo annual · Enterprise $?/mo. Update or remove.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "130+ languages",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) April 24, 2026 Translate any video into 130+ languages with natural voice matching and lip-sync. [Get started for FREE](https://www.synthesia.io/features/video-translator)",
+      "span": [
+        282,
+        296
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "130+"
+      },
+      "location": {
+        "heading": "10 Best AI Video Translation Tools of 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Translate any video into 130+ languages with natural voice matching and lip-sync.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (130+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '130+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "29 languages",
+      "context": "Voiceover dubbing only, no lip-sync - Some unnatural intonations in the dubbed audio - Only supports 29 languages - Steeper learning curve than most tools on this list ### My experience Here's the translated video",
+      "span": [
+        13906,
+        13918
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "29"
+      },
+      "location": {
+        "heading": "Cons",
+        "heading_level": 3,
+        "line": 239
+      },
+      "sentence": "Voiceover dubbing only, no lip-sync - Some unnatural intonations in the dubbed audio - Only supports 29 languages - Steeper learning curve than most tools on this list",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (29 vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '29 languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "130+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Translate any video into 130+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/video-translator)",
+      "span": [
+        28970,
+        28984
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "130+"
+      },
+      "location": {
+        "heading": "Which AI video translation tool should you use?",
+        "heading_level": 2,
+        "line": 517
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Translate any video into 130+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/video-translator)",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (130+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '130+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "9 languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688731cdc00d6d6ea06255d8_664781280739a2750ff0ef01_02ee915c-1a2a-44ff-bdda-3e17adb9a157.png)\\\\ \\\\ How we made David Beckham speak 9 languages\\\\ \\\\ We worked with Ridley Scott Studio to produce a campaign film for Malaria Must Die, and helped",
+      "span": [
+        29797,
+        29808
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "9"
+      },
+      "location": {
+        "heading": "Which AI video translation tool should you use?",
+        "heading_level": 2,
+        "line": 531
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688731cdc00d6d6ea06255d8_664781280739a2750ff0ef01_02ee915c-1a2a-44ff-bdda-3e17adb9a157.png)\\\\ \\\\ How we made David Beckham speak 9 languages\\\\ \\\\ We worked with Ridley Scott Studio to produce a campaign film for Malaria Must Die, and helped David Beckham speak over 9 languages.\\\\ \\\\ Learn more](https://www.synthesia.io/post/david-beckham)",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (9 vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '9 languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "9 languages",
+      "context": "Ridley Scott Studio to produce a campaign film for Malaria Must Die, and helped David Beckham speak over 9 languages.\\\\ \\\\ Learn more](https://www.synthesia.io/post/david-beckham) [![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/6880b3663245f9e2db2b01e2_image.png)\\\\",
+      "span": [
+        29934,
+        29945
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "9"
+      },
+      "location": {
+        "heading": "Which AI video translation tool should you use?",
+        "heading_level": 2,
+        "line": 533
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688731cdc00d6d6ea06255d8_664781280739a2750ff0ef01_02ee915c-1a2a-44ff-bdda-3e17adb9a157.png)\\\\ \\\\ How we made David Beckham speak 9 languages\\\\ \\\\ We worked with Ridley Scott Studio to produce a campaign film for Malaria Must Die, and helped David Beckham speak over 9 languages.\\\\ \\\\ Learn more](https://www.synthesia.io/post/david-beckham)",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (9 vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '9 languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "30+ languages",
+      "context": "translation lets you reach global audiences fast. Learn how AI preserves your voice, translates videos into 30+ languages, and simplifies sharing worldwide.\\\\ \\\\ Learn more](https://www.synthesia.io/post/how-to-translate-your-videos-into-any-language)",
+      "span": [
+        30282,
+        30295
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "30+"
+      },
+      "location": {
+        "heading": "Which AI video translation tool should you use?",
+        "heading_level": 2,
+        "line": 541
+      },
+      "sentence": "Learn how AI preserves your voice, translates videos into 30+ languages, and simplifies sharing worldwide.\\\\ \\\\ Learn more](https://www.synthesia.io/post/how-to-translate-your-videos-into-any-language)",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (30+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '30+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "up to 3 minutes",
+      "context": "Studios](https://www.synthesia.io/post/best-video-translator-apps#2-ai-studios)**: Best free and budget option for lip-synced dubbing (up to 3 minutes free, cheapest per-minute rates). - **[Perso AI](https://www.synthesia.io/post/best-video-translator-apps#3-perso-ai)**:",
+      "span": [
+        2553,
+        2568
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "Synthesia",
+        "value": "3"
+      },
+      "location": {
+        "heading": "10 Best AI Video Translation Tools of 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 52
+      },
+      "sentence": "[AI Studios](https://www.synthesia.io/post/best-video-translator-apps#2-ai-studios)**: Best free and budget option for lip-synced dubbing (up to 3 minutes free, cheapest per-minute rates).",
+      "severity": "unconfirmed",
+      "title": "Synthesia duration_limit: 'up to 3 minutes' — review",
+      "suggested_fix": "Verify 'up to 3 minutes' against synthesia's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "up to 1 minute",
+      "context": "and bulk workflows for translating videos at scale ### Cons - Free version only lets you dub videos up to 1 minute long (but you can upload a longer video, it'll just be trimmed) ### My experience Here's the translated",
+      "span": [
+        7420,
+        7434
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "Synthesia",
+        "value": "1"
+      },
+      "location": {
+        "heading": "Cons",
+        "heading_level": 3,
+        "line": 122
+      },
+      "sentence": "Free version only lets you dub videos up to 1 minute long (but you can upload a longer video, it'll just be trimmed)",
+      "severity": "unconfirmed",
+      "title": "Synthesia duration_limit: 'up to 1 minute' — review",
+      "suggested_fix": "Verify 'up to 1 minute' against synthesia's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "up to 1 minute",
+      "context": "Synthesia offers [free AI dubbing with lip-sync](https://www.synthesia.io/features/ai-dubbing) for videos up to 1 minute. You can upload .mp4, .mov, or .webm files, and you can also use it to [translate a YouTube video](https://www.synthesia.io/tools/translate-youtube-video).",
+      "span": [
+        7839,
+        7853
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "Synthesia",
+        "value": "1"
+      },
+      "location": {
+        "heading": "My experience",
+        "heading_level": 3,
+        "line": 130
+      },
+      "sentence": "Synthesia offers [free AI dubbing with lip-sync](https://www.synthesia.io/features/ai-dubbing) for videos up to 1 minute.",
+      "severity": "unconfirmed",
+      "title": "Synthesia duration_limit: 'up to 1 minute' — review",
+      "suggested_fix": "Verify 'up to 1 minute' against synthesia's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "up to 3 minutes",
+      "context": "AI\\_Studios - Video generated with Synthesia AI Studios lets you do lip-synced dubbing on videos up to 3 minutes long on a free account. That's the most generous free allowance of any tool I tested. The translation",
+      "span": [
+        10457,
+        10472
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "Synthesia",
+        "value": "3"
+      },
+      "location": {
+        "heading": "My experience",
+        "heading_level": 3,
+        "line": 171
+      },
+      "sentence": "AI Studios lets you do lip-synced dubbing on videos up to 3 minutes long on a free account.",
+      "severity": "unconfirmed",
+      "title": "Synthesia duration_limit: 'up to 3 minutes' — review",
+      "suggested_fix": "Verify 'up to 3 minutes' against synthesia's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kyleodefey/",
+      "context": "",
+      "span": [
+        104323,
+        105674
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

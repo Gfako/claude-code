@@ -1,0 +1,125 @@
+{
+  "counts": {
+    "feature": 2,
+    "link": 4
+  },
+  "total": 6,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Amy Vidor](https://www.synthesia.io/blog/authors/amy-vidor) March 16, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        283,
+        295
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Company Culture Video Example: How We Did It at Synthesia",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Vidor](https://www.synthesia.io/blog/authors/amy-vidor) March 16, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [Get",
+      "span": [
+        299,
+        313
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Company Culture Video Example: How We Did It at Synthesia",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/business/talent/blog/talent-acquisition/what-candidates-want-in-2025",
+      "context": "",
+      "span": [
+        1296,
+        1389
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": "Culture is a top factor in job choice."
+      },
+      "location": {
+        "heading": "Company Culture Video Example: How We Did It at Synthesia",
+        "heading_level": 1,
+        "line": 35
+      },
+      "sentence": "[Culture is a top factor in job choice.](https://www.linkedin.com/business/talent/blog/talent-acquisition/what-candidates-want-in-2025) - [Growth and development are a core driver of employer attractiveness.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.858217/full) - [Fairness is strongly linked to retention.](https://doi.org/10.1108/K-01-2022-0119)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.858217/full",
+      "context": "",
+      "span": [
+        1464,
+        1551
+      ],
+      "meta": {
+        "domain": "www.frontiersin.org",
+        "anchor": "Growth and development are a core driver of employer attractiveness."
+      },
+      "location": {
+        "heading": "Company Culture Video Example: How We Did It at Synthesia",
+        "heading_level": 1,
+        "line": 36
+      },
+      "sentence": "[Culture is a top factor in job choice.](https://www.linkedin.com/business/talent/blog/talent-acquisition/what-candidates-want-in-2025) - [Growth and development are a core driver of employer attractiveness.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.858217/full) - [Fairness is strongly linked to retention.](https://doi.org/10.1108/K-01-2022-0119)"
+    },
+    {
+      "type": "link",
+      "text": "https://doi.org/10.1108/K-01-2022-0119",
+      "context": "",
+      "span": [
+        1599,
+        1637
+      ],
+      "meta": {
+        "domain": "doi.org",
+        "anchor": "Fairness is strongly linked to retention."
+      },
+      "location": {
+        "heading": "Company Culture Video Example: How We Did It at Synthesia",
+        "heading_level": 1,
+        "line": 37
+      },
+      "sentence": "[Culture is a top factor in job choice.](https://www.linkedin.com/business/talent/blog/talent-acquisition/what-candidates-want-in-2025) - [Growth and development are a core driver of employer attractiveness.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.858217/full) - [Fairness is strongly linked to retention.](https://doi.org/10.1108/K-01-2022-0119)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        24396,
+        25745
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

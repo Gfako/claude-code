@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "ahrefs": {
+      "type": "http",
+      "url": "https://api.ahrefs.com/mcp/mcp",
+      "headers": {
+        "Authorization": "Bearer PASTE_YOUR_AHREFS_MCP_TOKEN_HERE"
+      }
+    },
+    "airops": {
+      "type": "http",
+      "url": "https://app.airops.com/mcp"
+    },
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    }
+  }
+}

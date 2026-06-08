@@ -1,0 +1,122 @@
+{
+  "counts": {
+    "link": 6
+  },
+  "total": 6,
+  "findings": [
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=Iwpi1Lm6dFo",
+      "context": "",
+      "span": [
+        994,
+        1037
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "death by PowerPoint"
+      },
+      "location": {
+        "heading": "How to Convert PowerPoint to eLearning in Minutes",
+        "heading_level": 1,
+        "line": 25
+      },
+      "sentence": "✋ Raise your hand if you’ve suffered [death by PowerPoint](https://www.youtube.com/watch?v=Iwpi1Lm6dFo) — decks with 47 bullets per slide, 9-point font, and diagrams that require a microscope."
+    },
+    {
+      "type": "link",
+      "text": "https://www.cambridge.org/core/books/multimedia-learning/segmenting-principle/37240877DDA0362355ADB39936027982",
+      "context": "",
+      "span": [
+        3433,
+        3543
+      ],
+      "meta": {
+        "domain": "www.cambridge.org",
+        "anchor": "short, segmented content works better than one long run"
+      },
+      "location": {
+        "heading": "Why do most PowerPoints fail as self-paced training?",
+        "heading_level": 3,
+        "line": 81
+      },
+      "sentence": "People dip in between meetings, while multitasking, and with limited attention, so [short, segmented content works better than one long run](https://www.cambridge.org/core/books/multimedia-learning/segmenting-principle/37240877DDA0362355ADB39936027982)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/redundancy-principle-in-multimedia-learning/448A5532008EB4B4BA17DBEB5A421920",
+      "context": "",
+      "span": [
+        3725,
+        3880
+      ],
+      "meta": {
+        "domain": "www.cambridge.org",
+        "anchor": "learning takes a hit (the redundancy problem)"
+      },
+      "location": {
+        "heading": "Why do most PowerPoints fail as self-paced training?",
+        "heading_level": 3,
+        "line": 87
+      },
+      "sentence": "Dense on-screen text plus narration forces people to read and listen at the same time, and [learning takes a hit (the redundancy problem)](https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/redundancy-principle-in-multimedia-learning/448A5532008EB4B4BA17DBEB5A421920)."
+    },
+    {
+      "type": "link",
+      "text": "https://link.springer.com/article/10.1007/BF00375135",
+      "context": "",
+      "span": [
+        4071,
+        4123
+      ],
+      "meta": {
+        "domain": "link.springer.com",
+        "anchor": "you add extra mental work that doesn’t help them learn the task"
+      },
+      "location": {
+        "heading": "Why do most PowerPoints fail as self-paced training?",
+        "heading_level": 3,
+        "line": 93
+      },
+      "sentence": "When people have to split attention across dense text and visuals, [you add extra mental work that doesn’t help them learn the task](https://link.springer.com/article/10.1007/BF00375135)."
+    },
+    {
+      "type": "link",
+      "text": "https://docs.synthesia.io/docs/synthesia-integrations",
+      "context": "",
+      "span": [
+        6942,
+        6995
+      ],
+      "meta": {
+        "domain": "docs.synthesia.io",
+        "anchor": "LMS"
+      },
+      "location": {
+        "heading": "Where should you publish it?",
+        "heading_level": 3,
+        "line": 158
+      },
+      "sentence": "Publish in your [LMS](https://docs.synthesia.io/docs/synthesia-integrations)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        29648,
+        30997
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

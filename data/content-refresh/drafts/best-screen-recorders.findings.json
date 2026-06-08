@@ -1,0 +1,165 @@
+{
+  "counts": {
+    "feature": 4,
+    "stat": 1,
+    "link": 3
+  },
+  "total": 8,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) October 30, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        268,
+        280
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Top 4 Screen Recorders for Training Videos",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) October 30, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        284,
+        298
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Top 4 Screen Recorders for Training Videos",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        12598,
+        12612
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Level up your training videos with quality screen recordings",
+        "heading_level": 2,
+        "line": 242
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "feature",
+      "text": "up to 5 minutes",
+      "context": "Synthesia’s top features: ✔️ Full HD record of a particular Chrome tab, a window, or the entire screen for up to 5 minutes at a time. ✔️ Manage the timing of the screen recording and sync it with the audio. ✔️ Easy trim,",
+      "span": [
+        6042,
+        6057
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "Synthesia",
+        "value": "5"
+      },
+      "location": {
+        "heading": "Synthesia’s top features:",
+        "heading_level": 3,
+        "line": 122
+      },
+      "sentence": "✔️ Full HD record of a particular Chrome tab, a window, or the entire screen for up to 5 minutes at a time."
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "[wired](https://wistia.com/learn/marketing/power-of-faces-in-video) to look at faces, so when a presenter shows in an instructional video, we spend [30%](https://www.sciencedirect.com/science/article/abs/pii/S0360131519302660) of the time looking at their",
+      "span": [
+        9608,
+        9611
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "4 tips and tricks for creating compelling training videos using screen recorders",
+        "heading_level": 2,
+        "line": 200
+      },
+      "sentence": "Even though screen casts focus on action, our brains are [wired](https://wistia.com/learn/marketing/power-of-faces-in-video) to look at faces, so when a presenter shows in an instructional video, we spend [30%](https://www.sciencedirect.com/science/article/abs/pii/S0360131519302660) of the time looking at their face."
+    },
+    {
+      "type": "link",
+      "text": "https://wistia.com/learn/marketing/power-of-faces-in-video",
+      "context": "",
+      "span": [
+        9467,
+        9525
+      ],
+      "meta": {
+        "domain": "wistia.com",
+        "anchor": "wired"
+      },
+      "location": {
+        "heading": "4 tips and tricks for creating compelling training videos using screen recorders",
+        "heading_level": 2,
+        "line": 200
+      },
+      "sentence": "Even though screen casts focus on action, our brains are [wired](https://wistia.com/learn/marketing/power-of-faces-in-video) to look at faces, so when a presenter shows in an instructional video, we spend [30%](https://www.sciencedirect.com/science/article/abs/pii/S0360131519302660) of the time looking at their face."
+    },
+    {
+      "type": "link",
+      "text": "https://www.sciencedirect.com/science/article/abs/pii/S0360131519302660",
+      "context": "",
+      "span": [
+        9613,
+        9684
+      ],
+      "meta": {
+        "domain": "www.sciencedirect.com",
+        "anchor": "30%"
+      },
+      "location": {
+        "heading": "4 tips and tricks for creating compelling training videos using screen recorders",
+        "heading_level": 2,
+        "line": 200
+      },
+      "sentence": "Even though screen casts focus on action, our brains are [wired](https://wistia.com/learn/marketing/power-of-faces-in-video) to look at faces, so when a presenter shows in an instructional video, we spend [30%](https://www.sciencedirect.com/science/article/abs/pii/S0360131519302660) of the time looking at their face."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        34872,
+        36224
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+Total comments: 20
+
+
+--- Comment #1 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T12:47:26.192Z
+Anchored to: "Here’s a great example of a video where the idea was on-point. How to translate video to any language with Lip Sync.
+
+This is actually a very strong idea cause I know already that most Synthesia customers are very excited about translating and localizing videos to other languages with Lip Sync. And I back this claim in the video by referring to stats:
+“70% of business content online is written in English only, but only 19% of people speak English”This immediately appeals to the viewer cause I am presenting a very solid way to expand their business to more regions. So there is a lot of value there and the idea itself could perform even without a strong thumbnail or a super thought out title (Not to say these things are not important, but your goal is to be able to appel to viewers just with a solid idea. Titles, strong hooks and thumbnails are still important cause these are the mechanisms that will make the video explode)"
+Comment: ok this needs to be refined
+
+--- Comment #2 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T12:26:55.220Z
+Anchored to: "prose"
+Comment: do not use that word
+
+--- Comment #3 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T12:25:07.183Z
+Anchored to: "A Shorts template, in plain prose: open with one sentence that creates an information gap, deliver the payoff in two or three short beats over the next 20 seconds (with on-screen text reinforcing the key phrases), and close with a line that loops back to the opene"
+Comment: i dont like the word prose
+
+--- Comment #4 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T12:23:50.919Z
+Anchored to: "How long should a YouTube video script be?
+It depends on the topic and the format, but as a rough guide: explainers and educational videos land best between 5 and 10 minutes, brand and product videos between 90 seconds and 4 minutes, and Shorts under 60 seconds. There is no universal optimal length, but there is an optimal density: every second has to earn its place.
+
+Once you know your target length, you can work backward to a word count. One minute of video is roughly 160 to 180 words at a natural speaking pace, which accounts for pauses and B-roll narration.
+
+Quick reference:
+
+2-minute video: 320 to 360 words
+5-minute video: 800 to 900 words
+10-minute video: 1,600 to 1,800 words
+15-minute video: 2,400 to 2,700 words
+
+These are upper bounds, not targets. If your script comes in lighter, that&#39;s usually a good sign.
+
+A trick I use on every script: write to 110% of target length on purpose, then cut 10% in the read-aloud pass. The cuts almost always make the video stronger. The version …"
+Comment: these 2 sections could be one. combined them and shorten the section
+
+--- Comment #5 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T12:15:03.018Z
+Anchored to: "Step 5: Build each body point as a value loop
+For each point in the body, give the viewer three things in this order:
+
+What it is. Explain the point as simply as you can. One sentence is ideal.
+How to do it. Show the application. A specific example, a tactic, a real situation.
+Why it matters. Tie it back to the outcome the viewer came for. What changes if they apply this?
+
+Most YouTube videos do step 1 and stop. That&#39;s why they feel thin. The &quot;how&quot; and the &quot;why&quot; are what move a point from &quot;interesting&quot; to &quot;useful,&quot; and useful is what retention rewards.
+
+A pattern I look for when I&#39;m reviewing my own scripts: every body section should zoom out and zoom in. Start big picture, get tactical, return to big picture. The rhythm of going wide and then narrow is what makes a 10-minute video feel like 4. Most flat videos are stuck at one altitude the whole way through.
+
+The other piece is writing the dialogue like you&#39;re speaking, not writing. Three rules I follow every time:
+
+Use contractions. …"
+Comment: i dont think the whole section makes sense the way you tied those together. either remove the section or make it make more sense or keep the original point.
+
+--- Comment #6 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T12:11:13.529Z
+Anchored to: "Hook (the moment that made our customer choose us)
+The problem we kept seeing in customer calls
+How most teams try to solve it
+What we built differently
+A two-minute walkthrough
+CTA and outro"
+Comment: this should be relevant to Ryan's video not random
+
+--- Comment #7 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T12:01:46.070Z
+Anchored to: "I&#39;ve been writing YouTube scripts in Synthesia for many years, and I&#39;ve shipped a few hundred scripts and watched maybe twenty of them quietly outperform everything else we put out"
+Comment: and, and that doesn't sound right. also don't say how many have outperformed or how many scripts you've wirtten
+
+--- Comment #8 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:29:05.992Z
+Anchored to: "those channels"
+Comment: which channels>?
+
+--- Comment #9 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:23:41.252Z
+Anchored to: "I run my draft against this checklist before I record. If I clear all 10, I&#39;m ahead of most uploads I see in my feed."
+Comment: ok give a bit more insight or value here and alternatives to that list or other ideas on how to prevent mistakes
+
+--- Comment #10 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:22:06.976Z
+Anchored to: "I learned this the hard way after publishing a script that referenced a &quot;Stanford study&quot; that turned out not to exist."
+Comment: yeah we cant say that
+
+--- Comment #11 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:21:15.500Z
+Anchored to: "The difference between the two workflows is night and day, and it took me about six months and a dozen flat-feeling videos to figure that out."
+Comment: nope we can't say that
+
+--- Comment #12 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:20:41.707Z
+Anchored to: "YouTube script formats: AV, VAG, and Sequential Flow"
+Comment: this should be Youtube scripts formats and when to use each one. maybe you can add more formats here
+
+--- Comment #13 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:19:29.178Z
+Anchored to: "HOOK (0:00 — 0:01)
+[One sentence that creates an information gap.]
+
+PAYOFF (0:01 — 0:20)
+[Deliver the answer or insight in 2-3 short beats. Use on-screen text.]
+
+LOOP (0:20 — 0:25)
+[End on a line that loops back to the hook.]"
+Comment: no weird code or other formats. just italics if you want
+
+--- Comment #14 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:19:07.861Z
+Anchored to: "TITLE: &quot;The 3-second YouTube hook 90% of brand channels get wrong&quot;
+GOAL: Marketing teams understand what kills their hook and the fix.
+
+HOOK (0:00 — 0:08)
+&quot;Most brand YouTube hooks lose the viewer in 3 seconds. Not 15. Three.
+And it&#39;s almost never because the topic is boring. It&#39;s because of one specific mistake.&quot;
+
+[CUT TO: screen recording of a YouTube analytics retention graph dropping hard at 0:03]
+
+INTRO (0:08 — 0:18)
+&quot;I&#39;ve written hooks for B2B channels for the last four years,
+and the same mistake shows up in 9 out of 10 hooks I review.
+Here&#39;s what it is, and the 10-second fix.&quot;
+
+MAIN CONTENT (0:18 — 0:48)
+Section 1: The mistake
+&quot;Brand channels open by telling you what they&#39;re going to tell you.
+[ASIDE] You know — &#39;Hi everyone, today we&#39;re going to talk about how our latest update...&#39;
+That sentence is a goodbye. The viewer already knows what the video is about. They read the title.&quot;
+
+[PATTERN INTERRUPT: cut to a hand reaching for the back button]
+
+Section 2: The fix
+&quot;Star…"
+Comment: isn't that whole section like a duplicate of the first one? what different answer does it give or value provides? maybe we should merge them?
+
+--- Comment #15 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:17:56.125Z
+Anchored to: "TITLE: &quot;The 3-second YouTube hook 90% of brand channels get wrong&quot;
+GOAL: Marketing teams understand what kills their hook and the fix.
+
+HOOK (0:00 — 0:08)
+&quot;Most brand YouTube hooks lose the viewer in 3 seconds. Not 15. Three.
+And it&#39;s almost never because the topic is boring. It&#39;s because of one specific mistake.&quot;
+
+[CUT TO: screen recording of a YouTube analytics retention graph dropping hard at 0:03]
+
+INTRO (0:08 — 0:18)
+&quot;I&#39;ve written hooks for B2B channels for the last four years,
+and the same mistake shows up in 9 out of 10 hooks I review.
+Here&#39;s what it is, and the 10-second fix.&quot;
+
+MAIN CONTENT (0:18 — 0:48)
+Section 1: The mistake
+&quot;Brand channels open by telling you what they&#39;re going to tell you.
+[ASIDE] You know — &#39;Hi everyone, today we&#39;re going to talk about how our latest update...&#39;
+That sentence is a goodbye. The viewer already knows what the video is about. They read the title.&quot;
+
+[PATTERN INTERRUPT: cut to a hand reaching for the back button]
+
+Section 2: The fix
+&quot;Star…"
+Comment: again not weird formats please, just italics
+
+--- Comment #16 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:17:38.178Z
+Anchored to: "Use 160 to 180 words per minute of video as your baseline. It accounts for natural pacing, pauses, and B-roll narration."
+Comment: this doesn't answer how long the video should be but how many wpm should have or is. answer the main question and then the wpm
+
+--- Comment #17 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:16:42.282Z
+Anchored to: "[VIDEO TITLE]
+[Target length: __ minutes]
+[Goal: After watching, the viewer will ___]
+
+HOOK (0:00 — 0:15)
+[One sentence that tells the viewer what they&#39;ll get OR drops them into the most interesting moment.]
+[One sentence that gives them a reason to keep watching.]
+
+INTRO (0:15 — 0:45)
+[Who you are — one line]
+[What this video covers — one line]
+[Why you&#39;re qualified to talk about it — one line]
+[Transition into the main content]
+
+MAIN CONTENT (0:45 — __:__)
+Section 1: [Title]
+  - Key point 1
+  - Key point 2
+  - [PATTERN INTERRUPT: cut / graphic / aside]
+Section 2: [Title]
+  - Key point 1
+  - Key point 2
+  - [PATTERN INTERRUPT]
+[Repeat for each section]
+
+CTA (last 30 seconds)
+[One specific ask — like, subscribe, watch the next video, comment]
+
+OUTRO (last 10 seconds)
+[Sign-off line. Done.]"
+Comment: write it normally not in code or weird formats, you can just use italics
+
+--- Comment #18 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:10:16.374Z
+Anchored to: "The mistake I made on my first ten scripts: I marked one interrupt per section, then assumed the editor would handle the rest. They didn&#39;t. They cut exactly what I wrote and the videos were flat. Now I over-mark and let the editor remove what they don&#39;t need. That works."
+Comment: don't say specifically in how many scripts you did that and also I am my own editor but you can give an example or advise also to people who have an editor and dont' edit their videos
+
+--- Comment #19 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:08:30.677Z
+Anchored to: "[CUT TO B-ROLL: customer office]
+[GRAPHIC: retention curve overlay]
+[ASIDE: &quot;and yes, I tried this myself&quot;]"
+Comment: just write with normal text and fonts like the rest of the article
+
+--- Comment #20 ---
+Author: George Fakorellis
+Resolved: False
+Created: 2026-05-21T11:03:27.724Z
+Comment: we should add a 1-2 line takeaway of the section

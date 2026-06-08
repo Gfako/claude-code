@@ -1,0 +1,17 @@
+{
+  "properties": {
+    "Title": "HeyGen vs Synthesia",
+    "URL": "https://www.synthesia.io/alternatives/synthesia-vs-heygen",
+    "Outdatedness score": 39,
+    "Severity": "High",
+    "Findings count": 3,
+    "Types": [
+      "pricing"
+    ],
+    "Status": "New",
+    "Last checked": "2026-04-24",
+    "Last change detected": "2026-04-24",
+    "Section": "alternatives"
+  },
+  "body_markdown": "# HeyGen vs Synthesia\n\n- **URL:** https://www.synthesia.io/alternatives/synthesia-vs-heygen\n- **Score:** 39/100 \u2014 High\n- **Findings:** 3\n- **Last checked:** 2026-04-24\n- **Last change detected:** 2026-04-24\n\n## \ud83d\udd17 Link (1)\n\n### 1. \u26aa Flagged for review\n\n**Quote from page:**\n> https://www.g2.com/categories/video-communications?...\n\n**Suggested fix:**\n> Couldn't verify: G2 returns 403 to bots. Link is likely still live for real users. Spot-check manually if needed.\n\n\n## \ud83d\udcb0 Pricing (3)\n\n### 1. \ud83d\udd34 Confirmed\n\n**Quote from page:**\n> **Creator**: $24 per month (max. 5 minutes per video).\n\n**Suggested fix:**\n> **Creator**: $29/month (up to 30 minutes per video). HeyGen's Creator tier is now $29/mo billed monthly (lower annually) and the per-video duration cap was raised from 5 min to 30 min.\n\n**Source:** https://heygen.com/pricing \u2014 Checked 2026-04-24\n\n### 2. \ud83d\udd34 Confirmed\n\n**Quote from page:**\n> **Teams:** $69 per month (max. 6 minutes per video).\n\n**Suggested fix:**\n> Replace with: **Business**: $149/month (up to 60 minutes per video). The $69 Teams tier no longer exists \u2014 HeyGen's current paid tiers above Creator are Pro ($99/mo) and Business ($149/mo).\n\n**Source:** https://heygen.com/pricing \u2014 Checked 2026-04-24\n\n### 3. \ud83d\udfe1 Likely\n\n**Quote from page:**\n> Synthesia starts at $18/month whereas HeyGens start at $24/month, so we recommend Synthesia based on the price-value ratio it delivers.\n\n**Suggested fix:**\n> Synthesia starts at $18/month (annual billing) whereas HeyGen paid plans start at $29/month billed monthly \u2014 so we recommend Synthesia for price-to-value. (HeyGen's exact annual rate isn't publicly exposed; confirm before shipping.)\n\n**Source:** https://heygen.com/pricing \u2014 Synthesia $18 still correct; HeyGen $24 appears outdated vs current $29 monthly.\n\n\n## \ud83d\udcca Stat (1)\n\n### 1. \u26aa Flagged for review\n\n**Quote from page:**\n> (informational) Verified as still-current: Synthesia $0/mo Basic, $18/mo Starter, $64/mo Creator; HeyGen Free $0/mo for 1 min; '90% of Fortune 100'; '50,000 companies'.\n\n**Suggested fix:**\n> No change needed \u2014 these were checked against live sources on 2026-04-24 and still match.\n\n"
+}

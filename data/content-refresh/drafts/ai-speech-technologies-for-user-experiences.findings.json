@@ -1,0 +1,294 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 4,
+    "link": 8
+  },
+  "total": 15,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) April 25, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        290,
+        302
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "9 ways AI speech technologies are revolutionizing user experiences",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) April 25, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        306,
+        320
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "9 ways AI speech technologies are revolutionizing user experiences",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        11405,
+        11419
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "The Future of Interaction: AI Speech Technologies",
+        "heading_level": 2,
+        "line": 133
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "85%",
+      "context": "understanding and kind. Research indicates that AI can classify emotional states with an accuracy rate of up to 85% by analyzing vocal patterns. ## 3\\. Multilingual support As globalization accelerates, AI speech",
+      "span": [
+        3826,
+        3829
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "2\\. Emotion recognition",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "Research indicates that AI can classify emotional states with an accuracy rate of up to 85% by analyzing vocal patterns."
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "protect user data. [Voice biometric solutions](https://www.pindrop.com/) can reduce fraud by up to 90%, highlighting the security benefits of this technology in protecting user data. ## 5\\. Seamless multimodal",
+      "span": [
+        4748,
+        4751
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "4\\. Voice biometrics for enhanced security",
+        "heading_level": 2,
+        "line": 65
+      },
+      "sentence": "[Voice biometric solutions](https://www.pindrop.com/) can reduce fraud by up to 90%, highlighting the security benefits of this technology in protecting user data."
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "and environments. Continuous learning algorithms have shown a potential performance [improvement of 40%](https://www.nature.com/articles/s42256-019-0080-x) over time, underscoring the adaptive learning capability",
+      "span": [
+        6953,
+        6956
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "9\\. Continuous learning and adaptation",
+        "heading_level": 2,
+        "line": 85
+      },
+      "sentence": "Continuous learning algorithms have shown a potential performance [improvement of 40%](https://www.nature.com/articles/s42256-019-0080-x) over time, underscoring the adaptive learning capability of AI speech interfaces."
+    },
+    {
+      "type": "stat",
+      "text": "by 2024",
+      "context": "devices](https://www.statista.com/statistics/973815/worldwide-digital-voice-assistant-in-use/) in use by 2024. ## 8\\. AI speech in customer service AI speech technologies are revolutionizing customer service",
+      "span": [
+        6197,
+        6204
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "7\\. Voice-activated IoT devices",
+        "heading_level": 2,
+        "line": 77
+      },
+      "sentence": "The proliferation of voice-assisted devices is evident, with forecasts predicting over [8.4 billion devices](https://www.statista.com/statistics/973815/worldwide-digital-voice-assistant-in-use/) in use by 2024."
+    },
+    {
+      "type": "link",
+      "text": "https://research.google/blog/google-duplex-an-ai-system-for-accomplishing-real-world-tasks-over-the-phone/",
+      "context": "",
+      "span": [
+        3216,
+        3322
+      ],
+      "meta": {
+        "domain": "research.google",
+        "anchor": "Google's Duplex AI"
+      },
+      "location": {
+        "heading": "1\\. Contextual understanding and personalization",
+        "heading_level": 2,
+        "line": 49
+      },
+      "sentence": "[Google's Duplex AI](https://research.google/blog/google-duplex-an-ai-system-for-accomplishing-real-world-tasks-over-the-phone/) system is a prime example, demonstrating advanced contextual understanding by conducting natural conversations to complete tasks over the phone."
+    },
+    {
+      "type": "link",
+      "text": "https://www.microsoft.com/en-us/translator/blog/2022/04/12/break-the-language-barrier-with-translator-now-with-two-new-languages/",
+      "context": "",
+      "span": [
+        4132,
+        4261
+      ],
+      "meta": {
+        "domain": "www.microsoft.com",
+        "anchor": "Microsoft Translator"
+      },
+      "location": {
+        "heading": "3\\. Multilingual support",
+        "heading_level": 2,
+        "line": 59
+      },
+      "sentence": "[Microsoft Translator](https://www.microsoft.com/en-us/translator/blog/2022/04/12/break-the-language-barrier-with-translator-now-with-two-new-languages/) offers real-time translation in over 60 languages, facilitating seamless communication for users worldwide."
+    },
+    {
+      "type": "link",
+      "text": "https://www.pindrop.com/",
+      "context": "",
+      "span": [
+        4696,
+        4720
+      ],
+      "meta": {
+        "domain": "www.pindrop.com",
+        "anchor": "Voice biometric solutions"
+      },
+      "location": {
+        "heading": "4\\. Voice biometrics for enhanced security",
+        "heading_level": 2,
+        "line": 65
+      },
+      "sentence": "[Voice biometric solutions](https://www.pindrop.com/) can reduce fraud by up to 90%, highlighting the security benefits of this technology in protecting user data."
+    },
+    {
+      "type": "link",
+      "text": "https://www.ikea.com/global/en/newsroom/innovation/ikea-launches-ikea-place-a-new-app-that-allows-people-to-virtually-place-furniture-in-their-home-170912/",
+      "context": "",
+      "span": [
+        5517,
+        5672
+      ],
+      "meta": {
+        "domain": "www.ikea.com",
+        "anchor": "IKEA’s Place app"
+      },
+      "location": {
+        "heading": "6\\. Augmented reality (AR) and AI speech convergence",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "[IKEA’s Place app](https://www.ikea.com/global/en/newsroom/innovation/ikea-launches-ikea-place-a-new-app-that-allows-people-to-virtually-place-furniture-in-their-home-170912/) uses AR and AI speech recognition to let users visualize furniture in their homes through voice commands."
+    },
+    {
+      "type": "link",
+      "text": "https://www.statista.com/statistics/973815/worldwide-digital-voice-assistant-in-use/",
+      "context": "",
+      "span": [
+        6104,
+        6188
+      ],
+      "meta": {
+        "domain": "www.statista.com",
+        "anchor": "8.4 billion devices"
+      },
+      "location": {
+        "heading": "7\\. Voice-activated IoT devices",
+        "heading_level": 2,
+        "line": 77
+      },
+      "sentence": "The proliferation of voice-assisted devices is evident, with forecasts predicting over [8.4 billion devices](https://www.statista.com/statistics/973815/worldwide-digital-voice-assistant-in-use/) in use by 2024."
+    },
+    {
+      "type": "link",
+      "text": "https://promotions.bankofamerica.com/digitalbanking/mobilebanking/erica",
+      "context": "",
+      "span": [
+        6448,
+        6519
+      ],
+      "meta": {
+        "domain": "promotions.bankofamerica.com",
+        "anchor": "Erica"
+      },
+      "location": {
+        "heading": "8\\. AI speech in customer service",
+        "heading_level": 2,
+        "line": 81
+      },
+      "sentence": "Bank of America’s virtual assistant, [Erica](https://promotions.bankofamerica.com/digitalbanking/mobilebanking/erica), uses AI speech technology to assist customers with banking tasks, proving the efficiency of AI in improving customer service interactions."
+    },
+    {
+      "type": "link",
+      "text": "https://www.nature.com/articles/s42256-019-0080-x",
+      "context": "",
+      "span": [
+        6958,
+        7007
+      ],
+      "meta": {
+        "domain": "www.nature.com",
+        "anchor": "improvement of 40%"
+      },
+      "location": {
+        "heading": "9\\. Continuous learning and adaptation",
+        "heading_level": 2,
+        "line": 85
+      },
+      "sentence": "Continuous learning algorithms have shown a potential performance [improvement of 40%](https://www.nature.com/articles/s42256-019-0080-x) over time, underscoring the adaptive learning capability of AI speech interfaces."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        32481,
+        33833
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "counts": {
+    "pricing": 2,
+    "feature": 7,
+    "title": 1,
+    "stat": 6,
+    "link": 1
+  },
+  "total": 17,
+  "findings": [
+    {
+      "type": "pricing",
+      "text": "$15 per month",
+      "context": "videos with InVideo for free or directly subscribe to one of its two paid plans. ➡️ **Business:** $15 per month billed per year. There is also an alternative to get a lifetime business subscription for one payment",
+      "span": [
+        13761,
+        13774
+      ],
+      "meta": {
+        "brand": "invideo",
+        "currency": "$",
+        "amount": "15"
+      },
+      "location": {
+        "heading": "💸 Pricing",
+        "heading_level": 3,
+        "line": 348
+      },
+      "sentence": "➡️ **Business:** $15 per month billed per year."
+    },
+    {
+      "type": "pricing",
+      "text": "$30 per month",
+      "context": "an alternative to get a lifetime business subscription for one payment of $399. ➡️ **Unlimited:** $30 per month billed per year. ### How does it compare to Biteable? If we compare InVideo with Biteable, we could",
+      "span": [
+        13905,
+        13918
+      ],
+      "meta": {
+        "brand": "invideo",
+        "currency": "$",
+        "amount": "30"
+      },
+      "location": {
+        "heading": "💸 Pricing",
+        "heading_level": 3,
+        "line": 350
+      },
+      "sentence": "➡️ **Unlimited:** $30 per month billed per year."
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        254,
+        266
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "6 Best Biteable Alternatives in 2024",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "125 avatars",
+      "context": "narrator, and editor of your video, as you have the opportunity to choose, for example, your actors ( [+125 avatars](https://www.synthesia.io/features/avatars)), the sets (multiple [video templates](https://www.synthesia.io/templates))",
+      "span": [
+        4067,
+        4078
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "125"
+      },
+      "location": {
+        "heading": "Alternative \\#1: Synthesia",
+        "heading_level": 2,
+        "line": 102
+      },
+      "sentence": "When you use Synthesia and its tools, you become the director, producer, narrator, and editor of your video, as you have the opportunity to choose, for example, your actors ( [+125 avatars](https://www.synthesia.io/features/avatars)), the sets (multiple [video templates](https://www.synthesia.io/templates)) and to translate or localize your clip into [120+ languages](https://www.synthesia.io/features/languages) (using [AI Voices](https://www.synthesia.io/features/ai-voice-generator)), etc."
+    },
+    {
+      "type": "feature",
+      "text": "140+ avatars",
+      "context": "Fast rendering time to help you save time. - Built-in screen recording tool. - You can choose from 140+ avatars or create a custom one. - [Text to video generation](https://www.synthesia.io/features/text-to-video).",
+      "span": [
+        4552,
+        4564
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "140+"
+      },
+      "location": {
+        "heading": "Pros of Synthesia",
+        "heading_level": 3,
+        "line": 109
+      },
+      "sentence": "You can choose from 140+ avatars or create a custom one."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        270,
+        284
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "6 Best Biteable Alternatives in 2024",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "120+ languages",
+      "context": "[video templates](https://www.synthesia.io/templates)) and to translate or localize your clip into [120+ languages](https://www.synthesia.io/features/languages) (using [AI Voices](https://www.synthesia.io/features/ai-voice-generator)),",
+      "span": [
+        4244,
+        4258
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "120+"
+      },
+      "location": {
+        "heading": "Alternative \\#1: Synthesia",
+        "heading_level": 2,
+        "line": 102
+      },
+      "sentence": "When you use Synthesia and its tools, you become the director, producer, narrator, and editor of your video, as you have the opportunity to choose, for example, your actors ( [+125 avatars](https://www.synthesia.io/features/avatars)), the sets (multiple [video templates](https://www.synthesia.io/templates)) and to translate or localize your clip into [120+ languages](https://www.synthesia.io/features/languages) (using [AI Voices](https://www.synthesia.io/features/ai-voice-generator)), etc."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        15971,
+        15985
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "What Biteable alternative should you choose?",
+        "heading_level": 2,
+        "line": 384
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "feature",
+      "text": "Limited to 15 min",
+      "context": "HD resolution, and speed adjustment. - Up to 100 GB of cloud storage. ### Cons of InVideo **👎** - Limited to 15 min of video. - Video uploads are limited to 200MB in the free version and 800MB in the paid version. -",
+      "span": [
+        13477,
+        13494
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "invideo",
+        "value": "15"
+      },
+      "location": {
+        "heading": "Cons of InVideo **👎**",
+        "heading_level": 3,
+        "line": 340
+      },
+      "sentence": "Limited to 15 min of video."
+    },
+    {
+      "type": "title",
+      "text": "2024",
+      "context": "6 Best Biteable Alternatives in 2024",
+      "span": [
+        34,
+        38
+      ],
+      "meta": {
+        "subtype": "dated_title_year",
+        "ref_year": 2024,
+        "months_old": 27
+      },
+      "location": {
+        "heading": "6 Best Biteable Alternatives in 2024",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "6 Best Biteable Alternatives in 2024"
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "actors, equipment, and editors, and save both time and money. Businesses like [Conceptsales save up to 90%](https://www.synthesia.io/case-studies/conceptsales) of the budget with Synthesia. > _With Synthesia,",
+      "span": [
+        14848,
+        14851
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What Biteable alternative should you choose?",
+        "heading_level": 2,
+        "line": 364
+      },
+      "sentence": "Businesses like [Conceptsales save up to 90%](https://www.synthesia.io/case-studies/conceptsales) of the budget with Synthesia."
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "put it online_. \\- Juri Piertersen, Managing Director Imagine what you wouldn't do if you could save 90% of your budget, right? You can try Synthesia's [AI video generator](https://www.synthesia.io/features/ai-video-generator)",
+      "span": [
+        15169,
+        15172
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What Biteable alternative should you choose?",
+        "heading_level": 2,
+        "line": 368
+      },
+      "sentence": "Imagine what you wouldn't do if you could save 90% of your budget, right?"
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "generator](https://www.synthesia.io/features/ai-video-generator) and, like Conceptsales, save up to 90% of your budget by creating engaging videos. ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/65e89895c5a4b8d764c0f759_Ema.webp)",
+      "span": [
+        15331,
+        15334
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What Biteable alternative should you choose?",
+        "heading_level": 2,
+        "line": 370
+      },
+      "sentence": "You can try Synthesia's [AI video generator](https://www.synthesia.io/features/ai-video-generator) and, like Conceptsales, save up to 90% of your budget by creating engaging videos."
+    },
+    {
+      "type": "stat",
+      "text": "354x",
+      "context": "for your videos. - Flexible editing tools. - Access to 3M+ Shutterstock images and footage. - ROAS of 354x. - Suitable for any social media. - Layers and timing management. - Supports 20 languages. ### Cons",
+      "span": [
+        10202,
+        10206
+      ],
+      "meta": {
+        "subtype": "multiplier"
+      },
+      "location": {
+        "heading": "Pros of OFFEO **👍**",
+        "heading_level": 3,
+        "line": 250
+      },
+      "sentence": "ROAS of 354x."
+    },
+    {
+      "type": "stat",
+      "text": "in 2024",
+      "context": "# 6 Best Biteable Alternatives in 2024 ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/65e89895c5a4b8d764c0f759_Ema.webp)",
+      "span": [
+        31,
+        38
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "6 Best Biteable Alternatives in 2024",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "6 Best Biteable Alternatives in 2024"
+    },
+    {
+      "type": "stat",
+      "text": "in 2014",
+      "context": "choose?](https://www.synthesia.io/post/biteable-alternatives#what-biteable-alternative-should-you-choose) Back in 2014, some entrepreneurs decided to create [online video editing software](https://www.synthesia.io/tools/ai-video-editor)",
+      "span": [
+        1295,
+        1302
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "6 Best Biteable Alternatives in 2024",
+        "heading_level": 1,
+        "line": 33
+      },
+      "sentence": "Back in 2014, some entrepreneurs decided to create [online video editing software](https://www.synthesia.io/tools/ai-video-editor) so that any user, regardless of their background or experience, could create memorable videos."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        40666,
+        42015
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

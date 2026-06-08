@@ -1,0 +1,347 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 8,
+    "link": 7
+  },
+  "total": 18,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) March 20, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        248,
+        260
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "9 Uses of AI in Customer Service",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) March 20, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        264,
+        278
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "9 Uses of AI in Customer Service",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        21544,
+        21558
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Create an AI customer service video in minutes",
+        "heading_level": 2,
+        "line": 248
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "33%",
+      "context": "minutes](https://www.synthesia.io/post/ai-customer-service-tools#create-an-ai-customer-service-video-in-minutes) Customer expectations are only getting higher. In the past year, [33%](https://www.genesys.com/resources/state-of-cx) of consumers switched brands due to negative interactions.",
+      "span": [
+        2543,
+        2546
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "9 Uses of AI in Customer Service",
+        "heading_level": 1,
+        "line": 41
+      },
+      "sentence": "In the past year, [33%](https://www.genesys.com/resources/state-of-cx) of consumers switched brands due to negative interactions."
+    },
+    {
+      "type": "stat",
+      "text": "63%",
+      "context": "support across multiple channels, immediate assistance for basic queries is ensured. Did you know? 🤔 [63%](https://www.cmswire.com/customer-experience/10-ai-customer-experience-statistics-you-should-know-about/)",
+      "span": [
+        4048,
+        4051
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How useful is AI in customer service?",
+        "heading_level": 2,
+        "line": 59
+      },
+      "sentence": "[63%](https://www.cmswire.com/customer-experience/10-ai-customer-experience-statistics-you-should-know-about/) of retail organizations rely on AI-powered tools to improve customer experience."
+    },
+    {
+      "type": "stat",
+      "text": "52%",
+      "context": "[63%](https://www.cmswire.com/customer-experience/10-ai-customer-experience-statistics-you-should-know-about/) of retail organizations rely on AI-powered tools to improve customer experience. Also, 52% of consumers appreciate AI for customer service interactions if it helps them navigate a website or",
+      "span": [
+        4245,
+        4248
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How useful is AI in customer service?",
+        "heading_level": 2,
+        "line": 59
+      },
+      "sentence": "Also, 52% of consumers appreciate AI for customer service interactions if it helps them navigate a website or understand a product."
+    },
+    {
+      "type": "stat",
+      "text": "95%",
+      "context": "service agents. ## Use 2: Turn support knowledge base articles into engaging videos Viewers retain [95%](https://www.synthesia.io/post/video-statistics) of a video's message compared to only 10% when reading",
+      "span": [
+        8345,
+        8348
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 2: Turn support knowledge base articles into engaging videos",
+        "heading_level": 2,
+        "line": 106
+      },
+      "sentence": "Viewers retain [95%](https://www.synthesia.io/post/video-statistics) of a video's message compared to only 10% when reading text."
+    },
+    {
+      "type": "stat",
+      "text": "10%",
+      "context": "retain [95%](https://www.synthesia.io/post/video-statistics) of a video's message compared to only 10% when reading text. Artificial intelligence tools that turn consistent support articles into videos",
+      "span": [
+        8436,
+        8439
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 2: Turn support knowledge base articles into engaging videos",
+        "heading_level": 2,
+        "line": 106
+      },
+      "sentence": "Viewers retain [95%](https://www.synthesia.io/post/video-statistics) of a video's message compared to only 10% when reading text."
+    },
+    {
+      "type": "stat",
+      "text": "66%",
+      "context": "policy, and offers to assist with size selection based on her past purchase sizes. Did you know? 🤔 [66%](https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/ar-shopping-interest-statistics/)",
+      "span": [
+        18911,
+        18914
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 9: Engage customers with personalized bot recommendations",
+        "heading_level": 2,
+        "line": 217
+      },
+      "sentence": "[66%](https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/ar-shopping-interest-statistics/) of consumers want AR to help them make purchase decisions."
+    },
+    {
+      "type": "stat",
+      "text": "75%",
+      "context": "[66%](https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/ar-shopping-interest-statistics/) of consumers want AR to help them make purchase decisions. By 2025, it's estimated that nearly 75% of the global population and almost all smartphone users will be frequent AR users. Some tools that",
+      "span": [
+        19111,
+        19114
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 9: Engage customers with personalized bot recommendations",
+        "heading_level": 2,
+        "line": 217
+      },
+      "sentence": "By 2025, it's estimated that nearly 75% of the global population and almost all smartphone users will be frequent AR users."
+    },
+    {
+      "type": "stat",
+      "text": "By 2025",
+      "context": "[66%](https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/ar-shopping-interest-statistics/) of consumers want AR to help them make purchase decisions. By 2025, it's estimated that nearly 75% of the global population and almost all smartphone users will be frequent",
+      "span": [
+        19075,
+        19082
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "Use 9: Engage customers with personalized bot recommendations",
+        "heading_level": 2,
+        "line": 217
+      },
+      "sentence": "By 2025, it's estimated that nearly 75% of the global population and almost all smartphone users will be frequent AR users."
+    },
+    {
+      "type": "link",
+      "text": "https://www.genesys.com/resources/state-of-cx",
+      "context": "",
+      "span": [
+        2548,
+        2593
+      ],
+      "meta": {
+        "domain": "www.genesys.com",
+        "anchor": "33%"
+      },
+      "location": {
+        "heading": "9 Uses of AI in Customer Service",
+        "heading_level": 1,
+        "line": 41
+      },
+      "sentence": "In the past year, [33%](https://www.genesys.com/resources/state-of-cx) of consumers switched brands due to negative interactions."
+    },
+    {
+      "type": "link",
+      "text": "https://www.cmswire.com/customer-experience/10-ai-customer-experience-statistics-you-should-know-about/",
+      "context": "",
+      "span": [
+        4053,
+        4156
+      ],
+      "meta": {
+        "domain": "www.cmswire.com",
+        "anchor": "63%"
+      },
+      "location": {
+        "heading": "How useful is AI in customer service?",
+        "heading_level": 2,
+        "line": 59
+      },
+      "sentence": "[63%](https://www.cmswire.com/customer-experience/10-ai-customer-experience-statistics-you-should-know-about/) of retail organizations rely on AI-powered tools to improve customer experience."
+    },
+    {
+      "type": "link",
+      "text": "https://www.ultimate.ai/blog/ai-automation/how-nlp-text-based-chatbots-work",
+      "context": "",
+      "span": [
+        9825,
+        9900
+      ],
+      "meta": {
+        "domain": "www.ultimate.ai",
+        "anchor": "Natural Language Processing"
+      },
+      "location": {
+        "heading": "Use 3: 24/7 AI chatbots for self-service FAQs",
+        "heading_level": 2,
+        "line": 122
+      },
+      "sentence": "An AI customer service chatbot simulates a conversation with human users using [Natural Language Processing](https://www.ultimate.ai/blog/ai-automation/how-nlp-text-based-chatbots-work) and pre-defined logic rules."
+    },
+    {
+      "type": "link",
+      "text": "https://www.mckinsey.com/capabilities/operations/our-insights/getting-the-best-customer-service-from-your-ivr-fresh-eyes-on-an-old-problem",
+      "context": "",
+      "span": [
+        11472,
+        11610
+      ],
+      "meta": {
+        "domain": "www.mckinsey.com",
+        "anchor": "people don't really like them"
+      },
+      "location": {
+        "heading": "Use 4: Automate and direct client inquiries with IVR and custom requests",
+        "heading_level": 2,
+        "line": 137
+      },
+      "sentence": "But there's one big problem with IVR — [people don't really like them](https://www.mckinsey.com/capabilities/operations/our-insights/getting-the-best-customer-service-from-your-ivr-fresh-eyes-on-an-old-problem)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.shopify.com/retail/how-retailers-are-using-ar-technology-to-build-buzz-and-brand-awareness",
+      "context": "",
+      "span": [
+        18650,
+        18752
+      ],
+      "meta": {
+        "domain": "www.shopify.com",
+        "anchor": "try on virtually using AR"
+      },
+      "location": {
+        "heading": "Use 9: Engage customers with personalized bot recommendations",
+        "heading_level": 2,
+        "line": 213
+      },
+      "sentence": "It also suggests her to [try on virtually using AR](https://www.shopify.com/retail/how-retailers-are-using-ar-technology-to-build-buzz-and-brand-awareness) (Augmented Reality), reminds her of the store's return policy, and offers to assist with size selection based on her past purchase sizes."
+    },
+    {
+      "type": "link",
+      "text": "https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/ar-shopping-interest-statistics/",
+      "context": "",
+      "span": [
+        18916,
+        19014
+      ],
+      "meta": {
+        "domain": "www.thinkwithgoogle.com",
+        "anchor": "66%"
+      },
+      "location": {
+        "heading": "Use 9: Engage customers with personalized bot recommendations",
+        "heading_level": 2,
+        "line": 217
+      },
+      "sentence": "[66%](https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/ar-shopping-interest-statistics/) of consumers want AR to help them make purchase decisions."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        44322,
+        45671
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

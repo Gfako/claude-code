@@ -1,0 +1,278 @@
+{
+  "counts": {
+    "feature": 3,
+    "link": 11
+  },
+  "total": 14,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Sodji](https://www.synthesia.io/blog/authors/leander-sodji) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        283,
+        295
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Auto Generate Videos with Synthesia and Zapier",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Sodji](https://www.synthesia.io/blog/authors/leander-sodji) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        299,
+        313
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Auto Generate Videos with Synthesia and Zapier",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        4960,
+        4974
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Want to learn more about Zapier and Synthesia?",
+        "heading_level": 2,
+        "line": 93
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=6zCplcfOQIY",
+      "context": "",
+      "span": [
+        1411,
+        1454
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "How to: use Synthesia integration with Zapier"
+      },
+      "location": {
+        "heading": "Auto Generate Videos with Synthesia and Zapier",
+        "heading_level": 1,
+        "line": 37
+      },
+      "sentence": "[How to: use Synthesia integration with Zapier](https://www.youtube.com/watch?v=6zCplcfOQIY) [Synthesia](https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg",
+      "context": "",
+      "span": [
+        1468,
+        1524
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "Synthesia"
+      },
+      "location": {
+        "heading": "Auto Generate Videos with Synthesia and Zapier",
+        "heading_level": 1,
+        "line": 37
+      },
+      "sentence": "[How to: use Synthesia integration with Zapier](https://www.youtube.com/watch?v=6zCplcfOQIY) [Synthesia](https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg)"
+    },
+    {
+      "type": "link",
+      "text": "https://yt3.ggpht.com/vR72EVpFnd5516yPGxYv08PITyyVST5tf8y5kWNrwDgPUJtzEUx9GUHB05SRlaTk-LQ8djA4DQ=s68-c-k-c0x00ffffff-no-rj",
+      "context": "",
+      "span": [
+        1546,
+        1668
+      ],
+      "meta": {
+        "domain": "yt3.ggpht.com",
+        "anchor": "thumbnail-image"
+      },
+      "location": {
+        "heading": "Auto Generate Videos with Synthesia and Zapier",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "![thumbnail-image](https://yt3.ggpht.com/vR72EVpFnd5516yPGxYv08PITyyVST5tf8y5kWNrwDgPUJtzEUx9GUHB05SRlaTk-LQ8djA4DQ=s68-c-k-c0x00ffffff-no-rj)"
+    },
+    {
+      "type": "link",
+      "text": "https://zapier.com/apps/hubspot/integrations/synthesia/666312/request-synthesia-videos-for-new-form-submissions-in-hubspot",
+      "context": "",
+      "span": [
+        2124,
+        2246
+      ],
+      "meta": {
+        "domain": "zapier.com",
+        "anchor": "We’ve got a template for you"
+      },
+      "location": {
+        "heading": "Welcome to Synthesia Zapier Templates 👋",
+        "heading_level": 2,
+        "line": 51
+      },
+      "sentence": "[We’ve got a template for you](https://zapier.com/apps/hubspot/integrations/synthesia/666312/request-synthesia-videos-for-new-form-submissions-in-hubspot)."
+    },
+    {
+      "type": "link",
+      "text": "https://zapier.com/apps/intercom/integrations/synthesia/707176/generate-personalized-synthesia-videos-for-new-intercom-users",
+      "context": "",
+      "span": [
+        2377,
+        2501
+      ],
+      "meta": {
+        "domain": "zapier.com",
+        "anchor": "Here's a template for you"
+      },
+      "location": {
+        "heading": "Welcome to Synthesia Zapier Templates 👋",
+        "heading_level": 2,
+        "line": 52
+      },
+      "sentence": "[Here's a template for you](https://zapier.com/apps/intercom/integrations/synthesia/707176/generate-personalized-synthesia-videos-for-new-intercom-users)."
+    },
+    {
+      "type": "link",
+      "text": "https://zapier.com/apps/synthesia/integrations/stripe",
+      "context": "",
+      "span": [
+        2615,
+        2668
+      ],
+      "meta": {
+        "domain": "zapier.com",
+        "anchor": "Template is here"
+      },
+      "location": {
+        "heading": "Welcome to Synthesia Zapier Templates 👋",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "[Template is here](https://zapier.com/apps/synthesia/integrations/stripe)."
+    },
+    {
+      "type": "link",
+      "text": "https://zapier.com/apps/synthesia/integrations/typeform/666304/request-synthesia-videos-for-new-typeform-entries",
+      "context": "",
+      "span": [
+        2822,
+        2934
+      ],
+      "meta": {
+        "domain": "zapier.com",
+        "anchor": "Here's the Zapier template."
+      },
+      "location": {
+        "heading": "Welcome to Synthesia Zapier Templates 👋",
+        "heading_level": 2,
+        "line": 54
+      },
+      "sentence": "[Here's the Zapier template.](https://zapier.com/apps/synthesia/integrations/typeform/666304/request-synthesia-videos-for-new-typeform-entries) - **Typeform**: Using Typeform and want to generate a personalized video after specific form submissions?"
+    },
+    {
+      "type": "link",
+      "text": "https://zapier.com/apps/synthesia/integrations#zap-template-list",
+      "context": "",
+      "span": [
+        3244,
+        3308
+      ],
+      "meta": {
+        "domain": "zapier.com",
+        "anchor": "complete list of templates here on Zapier"
+      },
+      "location": {
+        "heading": "Welcome to Synthesia Zapier Templates 👋",
+        "heading_level": 2,
+        "line": 57
+      },
+      "sentence": "You can find our [complete list of templates here on Zapier](https://zapier.com/apps/synthesia/integrations#zap-template-list)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=NGsD-UNbeYk",
+      "context": "",
+      "span": [
+        3676,
+        3719
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "API Example: Auto Personalized video before meeting"
+      },
+      "location": {
+        "heading": "Welcome to Synthesia Zapier Templates 👋",
+        "heading_level": 2,
+        "line": 67
+      },
+      "sentence": "[API Example: Auto Personalized video before meeting](https://www.youtube.com/watch?v=NGsD-UNbeYk) [Synthesia](https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg)"
+    },
+    {
+      "type": "link",
+      "text": "https://docs.synthesia.io/docs/get-started-with-synthesia-personalization",
+      "context": "",
+      "span": [
+        4139,
+        4212
+      ],
+      "meta": {
+        "domain": "docs.synthesia.io",
+        "anchor": "getting started guide on Zapier and Synthesia"
+      },
+      "location": {
+        "heading": "Want to learn more about Zapier and Synthesia?",
+        "heading_level": 2,
+        "line": 77
+      },
+      "sentence": "See our in-depth [getting started guide on Zapier and Synthesia](https://docs.synthesia.io/docs/get-started-with-synthesia-personalization)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/leander-sodji/",
+      "context": "",
+      "span": [
+        52466,
+        53820
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

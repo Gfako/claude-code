@@ -1,0 +1,108 @@
+{
+  "slug": "accessible-video",
+  "page_brand": null,
+  "total_findings": 20,
+  "by_severity": {
+    "unconfirmed": 3,
+    "needs_check": 17
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) February 23, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        263,
+        275
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "12 Ways to Make Accessible Video Content",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) February 23, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [Web",
+      "span": [
+        279,
+        293
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "12 Ways to Make Accessible Video Content",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "15%",
+      "context": "information is becoming available online in the form of video. However, for people with disabilities ( **= 15% of the world's population**), accessing and consuming video content can be a challenge. For us as",
+      "span": [
+        2143,
+        2146
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "12 Ways to Make Accessible Video Content",
+        "heading_level": 1,
+        "line": 45
+      },
+      "sentence": "However, for people with disabilities ( **= 15% of the world's population**), accessing and consuming video content can be a challenge.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '15%'",
+      "suggested_fix": "Stat reference: `15%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kyleodefey/",
+      "context": "",
+      "span": [
+        41535,
+        42886
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

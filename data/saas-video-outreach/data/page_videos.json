@@ -1,0 +1,2519 @@
+{
+  "achcom.com": {
+    "page_url": "https://www.achcom.com",
+    "error": "HTTPSConnectionPool(host='www.achcom.com', port=443): Max retries exceeded with url: / (Caused by Ne",
+    "videos": []
+  },
+  "allseatedprismm.com": {
+    "page_url": "https://www.allseatedprismm.com",
+    "error": "HTTPSConnectionPool(host='www.allseatedprismm.com', port=443): Max retries exceeded with url: / (Cau",
+    "videos": []
+  },
+  "announcekit.com": {
+    "page_url": "https://www.announcekit.com",
+    "final_url": "https://www.announcekit.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=ZnSg3IitUGA",
+        "type": "youtube_embed",
+        "video_id": "ZnSg3IitUGA"
+      }
+    ]
+  },
+  "thebeautyroom.uk": {
+    "page_url": "https://www.thebeautyroom.uk/bookkeeper360-review-for-november-2023-best/",
+    "error": "HTTPSConnectionPool(host='www.thebeautyroom.uk', port=443): Max retries exceeded with url: /bookkeep",
+    "videos": []
+  },
+  "botsociety.com": {
+    "page_url": "https://www.botsociety.com",
+    "error": "HTTPSConnectionPool(host='www.botsociety.com', port=443): Max retries exceeded with url: / (Caused b",
+    "videos": []
+  },
+  "draftingassistant.com": {
+    "page_url": "https://www.draftingassistant.com",
+    "error": "HTTPSConnectionPool(host='www.draftingassistant.com', port=443): Max retries exceeded with url: / (C",
+    "videos": []
+  },
+  "emeraldai.com": {
+    "page_url": "https://www.emeraldai.com",
+    "final_url": "https://www.emeraldai.com/",
+    "videos": []
+  },
+  "encharge.com": {
+    "page_url": "https://www.encharge.com",
+    "final_url": "https://www.dynamo.com/assets.htm",
+    "videos": []
+  },
+  "hospitablesmartbnb.com": {
+    "page_url": "https://www.hospitablesmartbnb.com",
+    "error": "HTTPSConnectionPool(host='www.hospitablesmartbnb.com', port=443): Max retries exceeded with url: / (",
+    "videos": []
+  },
+  "kenziquigg.com": {
+    "page_url": "https://www.kenziquigg.com/work/humu",
+    "final_url": "https://www.kenziquigg.com/work/humu",
+    "videos": [
+      {
+        "url": "https://vimeo.com/779396948",
+        "type": "vimeo",
+        "video_id": "779396948"
+      }
+    ]
+  },
+  "erpsoftwarevideos.com": {
+    "page_url": "https://erpsoftwarevideos.com/video/edi-software-for-manufacturing-companies-from-iqms-delmiaworks/",
+    "final_url": "https://erpsoftwarevideos.com/video/edi-software-for-manufacturing-companies-from-iqms-delmiaworks/",
+    "videos": []
+  },
+  "erpnext.involvetechnologies.com": {
+    "page_url": "https://erpnext.involvetechnologies.com/slides",
+    "final_url": "https://erpnext.involvetechnologies.com/slides",
+    "videos": []
+  },
+  "dearinventory.com": {
+    "page_url": "https://www.dearinventory.com",
+    "error": "HTTPSConnectionPool(host='www.dearinventory.com', port=443): Max retries exceeded with url: / (Cause",
+    "videos": []
+  },
+  "amzscout.com": {
+    "page_url": "https://www.amzscout.com",
+    "error": "HTTP 404",
+    "videos": []
+  },
+  "cpiopenfox.com": {
+    "page_url": "https://www.cpiopenfox.com",
+    "error": "HTTPSConnectionPool(host='www.cpiopenfox.com', port=443): Max retries exceeded with url: / (Caused b",
+    "videos": []
+  },
+  "qmetrix.com.sg": {
+    "page_url": "https://qmetrix.com.sg/technology/workday-adaptive-planning/adaptive-insights-videos/",
+    "final_url": "https://qmetrix.com.sg/technology/workday-adaptive-planning/adaptive-insights-videos/",
+    "videos": []
+  },
+  "whitelance.co": {
+    "page_url": "https://whitelance.co/marketplace-reviews/arcadier-marketplace-demo",
+    "final_url": "https://whitelance.co/marketplace-reviews/arcadier-marketplace-demo",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=ALJP3QaGEjY",
+        "type": "youtube_embed",
+        "video_id": "ALJP3QaGEjY"
+      }
+    ]
+  },
+  "bardeen.com": {
+    "page_url": "https://www.bardeen.com",
+    "final_url": "https://www.bardeen.com/",
+    "videos": []
+  },
+  "farmersedge.com": {
+    "page_url": "https://www.farmersedge.com",
+    "error": "HTTPSConnectionPool(host='www.farmersedge.com', port=443): Max retries exceeded with url: / (Caused ",
+    "videos": []
+  },
+  "everfit.com": {
+    "page_url": "https://www.everfit.com",
+    "error": "HTTPSConnectionPool(host='www.everfit.com', port=443): Max retries exceeded with url: / (Caused by N",
+    "videos": []
+  },
+  "akita.com": {
+    "page_url": "https://www.akita.com",
+    "final_url": "https://www.akita.com/",
+    "videos": []
+  },
+  "hemingwayeditor.com": {
+    "page_url": "https://www.hemingwayeditor.com",
+    "final_url": "https://www.hemingwayeditor.com/",
+    "videos": []
+  },
+  "instantly.com": {
+    "page_url": "https://www.instantly.com",
+    "error": "HTTPSConnectionPool(host='www.instantly.com', port=443): Max retries exceeded with url: / (Caused by",
+    "videos": []
+  },
+  "allinoneseo.com": {
+    "page_url": "https://www.allinoneseo.com",
+    "final_url": "https://aioseo.com",
+    "videos": []
+  },
+  "boltnew.com": {
+    "page_url": "https://www.boltnew.com",
+    "final_url": "https://www.boltnew.com/",
+    "videos": []
+  },
+  "tribby3d.com": {
+    "page_url": "https://tribby3d.com/blog/new-youtube-video-of-the-free-column-load-calculator-%F0%9F%8E%A5/",
+    "error": "HTTPSConnectionPool(host='tribby3d.com', port=443): Max retries exceeded with url: /blog/new-youtube",
+    "videos": []
+  },
+  "chromadb.com": {
+    "page_url": "https://www.chromadb.com",
+    "final_url": "https://www.chromadb.com/",
+    "videos": []
+  },
+  "envatoelements.com": {
+    "page_url": "https://www.envatoelements.com",
+    "error": "HTTPSConnectionPool(host='www.envatoelements.com', port=443): Max retries exceeded with url: / (Caus",
+    "videos": []
+  },
+  "realclear.software": {
+    "page_url": "https://realclear.software/lease-harbor-rcs-demos/",
+    "final_url": "https://realclear.software/lease-harbor-rcs-demos/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/497070177",
+        "type": "vimeo",
+        "video_id": "497070177"
+      }
+    ]
+  },
+  "marche.health": {
+    "page_url": "https://marche.health/product-profile/features/U2FsdGVkX1xMl3JkeblLN0mJ70ArxsLZRMt3ltmjpU2SNTrxMl3JkIxGoj1HXK0PRiiW6Nqqvt/U2FsdGVkX19ssVg4sTw0WGUrET3RDcd3PPor21LdEwl50kGZXdm2BUlIY98chrK9O3IRZb",
+    "final_url": "https://marche.health/product-profile/features/U2FsdGVkX1xMl3JkeblLN0mJ70ArxsLZRMt3ltmjpU2SNTrxMl3JkIxGoj1HXK0PRiiW6Nqqvt/U2FsdGVkX19ssVg4sTw0WGUrET3RDcd3PPor21LdEwl50kGZXdm2BUlIY98chrK9O3IRZb",
+    "videos": []
+  },
+  "cloudtalk.com": {
+    "page_url": "https://www.cloudtalk.com",
+    "final_url": "https://www.cloudtalk.io",
+    "videos": []
+  },
+  "bots.bosstsc.com": {
+    "page_url": "https://bots.bosstsc.com/",
+    "final_url": "https://bots.bosstsc.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=6jiNS_4CEug",
+        "type": "youtube_embed",
+        "video_id": "6jiNS_4CEug"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=OObcKRImhi0",
+        "type": "youtube_embed",
+        "video_id": "OObcKRImhi0"
+      }
+    ]
+  },
+  "coderabbit.com": {
+    "page_url": "https://www.coderabbit.com",
+    "final_url": "https://www.coderabbit.ai/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=Fo9jgL_x7hU",
+        "type": "youtube_embed",
+        "video_id": "Fo9jgL_x7hU"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=0WmK5QqqjJY",
+        "type": "youtube_embed",
+        "video_id": "0WmK5QqqjJY"
+      }
+    ]
+  },
+  "deedchek.com": {
+    "page_url": "https://www.deedchek.com/multimedia/demovids.html",
+    "final_url": "https://www.deedchek.com/multimedia/demovids.html",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=YlinizlENM8",
+        "type": "youtube_embed",
+        "video_id": "YlinizlENM8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=DZuZsus4Buk",
+        "type": "youtube_embed",
+        "video_id": "DZuZsus4Buk"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=TaZxsiONrlk",
+        "type": "youtube_embed",
+        "video_id": "TaZxsiONrlk"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=BSlPmKT1ZAU",
+        "type": "youtube_embed",
+        "video_id": "BSlPmKT1ZAU"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=5lqEyMpt21g",
+        "type": "youtube_embed",
+        "video_id": "5lqEyMpt21g"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=uX7JxPBctNw",
+        "type": "youtube_embed",
+        "video_id": "uX7JxPBctNw"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=GdDDlG0puO8",
+        "type": "youtube_embed",
+        "video_id": "GdDDlG0puO8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=dui75sD4w6I",
+        "type": "youtube_embed",
+        "video_id": "dui75sD4w6I"
+      }
+    ]
+  },
+  "fluxx.com": {
+    "page_url": "https://www.fluxx.com",
+    "error": "HTTPSConnectionPool(host='www.fluxx.com', port=443): Max retries exceeded with url: / (Caused by Nam",
+    "videos": []
+  },
+  "cwt.com": {
+    "page_url": "https://www.cwt.com",
+    "error": "HTTPSConnectionPool(host='www.cwt.com', port=443): Max retries exceeded with url: / (Caused by NameR",
+    "videos": []
+  },
+  "almanac.in-jet.eu": {
+    "page_url": "https://www.almanac.in-jet.eu/news.php?readmore=24",
+    "final_url": "https://www.almanac.in-jet.eu/news.php?readmore=24",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=ymEK-5zXb2k",
+        "type": "youtube_embed",
+        "video_id": "ymEK-5zXb2k"
+      }
+    ]
+  },
+  "financebox.co.uk": {
+    "page_url": "https://financebox.co.uk/articles/2021-11-14-every-superhero-needs-a-sidekick-interview-with-fluidly",
+    "final_url": "https://financebox.co.uk/articles/2021-11-14-every-superhero-needs-a-sidekick-interview-with-fluidly",
+    "videos": []
+  },
+  "fathomanalytics.com": {
+    "page_url": "https://www.fathomanalytics.com",
+    "final_url": "https://usefathom.com",
+    "videos": []
+  },
+  "homebase.com": {
+    "page_url": "https://www.homebase.com",
+    "error": "HTTPSConnectionPool(host='www.homebase.com', port=443): Max retries exceeded with url: / (Caused by ",
+    "videos": []
+  },
+  "amity.com": {
+    "page_url": "https://www.amity.com",
+    "error": "HTTP 403",
+    "videos": []
+  },
+  "embersoftware.com": {
+    "page_url": "https://www.embersoftware.com/book-demo",
+    "final_url": "https://www.embersoftware.com/book-demo",
+    "videos": []
+  },
+  "eis.com": {
+    "page_url": "https://www.eis.com",
+    "final_url": "https://www.satisfyer.com/gr",
+    "videos": []
+  },
+  "foodcostpro.ch": {
+    "page_url": "https://www.foodcostpro.ch/",
+    "final_url": "https://www.foodcostpro.ch/en",
+    "videos": []
+  },
+  "agarikitchen.com": {
+    "page_url": "https://agarikitchen.com/",
+    "final_url": "https://agarikitchen.com/",
+    "videos": []
+  },
+  "eeinsider.com": {
+    "page_url": "http://eeinsider.com/videos.html",
+    "final_url": "http://eeinsider.com/videos.html",
+    "videos": [
+      {
+        "url": "https://vimeo.com/57342187",
+        "type": "vimeo",
+        "video_id": "57342187"
+      },
+      {
+        "url": "https://vimeo.com/45411854",
+        "type": "vimeo",
+        "video_id": "45411854"
+      },
+      {
+        "url": "https://vimeo.com/41750105",
+        "type": "vimeo",
+        "video_id": "41750105"
+      },
+      {
+        "url": "https://vimeo.com/39715858",
+        "type": "vimeo",
+        "video_id": "39715858"
+      },
+      {
+        "url": "https://vimeo.com/33198208",
+        "type": "vimeo",
+        "video_id": "33198208"
+      },
+      {
+        "url": "https://vimeo.com/32597376",
+        "type": "vimeo",
+        "video_id": "32597376"
+      },
+      {
+        "url": "https://vimeo.com/32596931",
+        "type": "vimeo",
+        "video_id": "32596931"
+      },
+      {
+        "url": "https://vimeo.com/32597567",
+        "type": "vimeo",
+        "video_id": "32597567"
+      }
+    ]
+  },
+  "granola.com": {
+    "page_url": "https://www.granola.com",
+    "final_url": "https://www.granola.com/",
+    "videos": []
+  },
+  "granular.com": {
+    "page_url": "https://www.granular.com",
+    "error": "HTTPSConnectionPool(host='www.granular.com', port=443): Max retries exceeded with url: / (Caused by ",
+    "videos": []
+  },
+  "seatsone.ai": {
+    "page_url": "https://seatsone.ai/videos/",
+    "final_url": "https://seatsone.ai/videos/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=-f6G2c4nAtw",
+        "type": "youtube_embed",
+        "video_id": "-f6G2c4nAtw"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=wSLh_nc6OPc",
+        "type": "youtube_embed",
+        "video_id": "wSLh_nc6OPc"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=6iw_SopwZf0",
+        "type": "youtube_embed",
+        "video_id": "6iw_SopwZf0"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=zNrxMhYCZsg",
+        "type": "youtube_embed",
+        "video_id": "zNrxMhYCZsg"
+      }
+    ]
+  },
+  "claimgenius.com": {
+    "page_url": "https://www.claimgenius.com",
+    "final_url": "https://claimgenius.com/",
+    "videos": []
+  },
+  "acton.com": {
+    "page_url": "https://www.acton.com",
+    "error": "HTTPSConnectionPool(host='www.acton.com', port=443): Max retries exceeded with url: / (Caused by SSL",
+    "videos": []
+  },
+  "charted.com": {
+    "page_url": "https://www.charted.com",
+    "final_url": "https://charted.com/",
+    "videos": []
+  },
+  "calpodcast.com": {
+    "page_url": "https://www.calpodcast.com/1093703/episodes/10797638-how-legal-tech-is-leveling-the-legal-playing-field-with-casetext-co-founder-pablo-arredondo",
+    "final_url": "https://www.calpodcast.com/1093703/episodes/10797638-how-legal-tech-is-leveling-the-legal-playing-field-with-casetext-co-founder-pablo-arredondo",
+    "videos": []
+  },
+  "esticom.com": {
+    "page_url": "https://www.esticom.com",
+    "error": "HTTP 404",
+    "videos": []
+  },
+  "bizanosa.com": {
+    "page_url": "https://bizanosa.com/hetzner-dedicated-server-setup-video-tutorial/",
+    "final_url": "https://bizanosa.com/hetzner-dedicated-server-setup-video-tutorial/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=obzcAs_rnp8",
+        "type": "youtube_embed",
+        "video_id": "obzcAs_rnp8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=JNbzwkrLanA",
+        "type": "youtube_embed",
+        "video_id": "JNbzwkrLanA"
+      }
+    ]
+  },
+  "ghost.com": {
+    "page_url": "https://www.ghost.com",
+    "error": "HTTPSConnectionPool(host='www.ghost.com', port=443): Max retries exceeded with url: / (Caused by SSL",
+    "videos": []
+  },
+  "hireflow.com": {
+    "page_url": "https://www.hireflow.com",
+    "final_url": "https://www.hireflow.com/",
+    "videos": []
+  },
+  "avail.com": {
+    "page_url": "https://www.avail.com",
+    "final_url": "https://www.avail.com/",
+    "videos": []
+  },
+  "buildwithdave.com": {
+    "page_url": "https://www.buildwithdave.com/book-demo",
+    "final_url": "https://www.buildwithdave.com/book-demo",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=bvJ45B8fXZU",
+        "type": "youtube_embed",
+        "video_id": "bvJ45B8fXZU"
+      }
+    ]
+  },
+  "harvestprofit.com": {
+    "page_url": "https://www.harvestprofit.com",
+    "final_url": "https://www.harvestprofit.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=PqBXciILbTc",
+        "type": "youtube_embed",
+        "video_id": "PqBXciILbTc"
+      }
+    ]
+  },
+  "bindable.com": {
+    "page_url": "https://www.bindable.com",
+    "final_url": "https://bindable.com/",
+    "videos": []
+  },
+  "firecrawl.com": {
+    "page_url": "https://www.firecrawl.com",
+    "final_url": "https://www.firecrawl.dev/",
+    "videos": []
+  },
+  "gopostflow.com": {
+    "page_url": "http://www.gopostflow.com/know-how/comparisons/inlytics-vs-harmonizely",
+    "final_url": "https://getease.io/know-how/comparisons/inlytics-vs-harmonizely",
+    "videos": []
+  },
+  "circa.omgenomics.com": {
+    "page_url": "https://circa.omgenomics.com/",
+    "final_url": "https://circa.omgenomics.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=e_zjPY2vpaM",
+        "type": "youtube_embed",
+        "video_id": "e_zjPY2vpaM"
+      }
+    ]
+  },
+  "evoluteiq.com": {
+    "page_url": "https://www.evoluteiq.com",
+    "final_url": "https://evoluteiq.com/",
+    "videos": []
+  },
+  "getgoing.com": {
+    "page_url": "https://www.getgoing.com",
+    "final_url": "https://www.getgoing.com/",
+    "videos": []
+  },
+  "glintsolar.com": {
+    "page_url": "https://www.glintsolar.com/watch-the-demo-usa",
+    "final_url": "https://www.glintsolar.com/watch-the-demo",
+    "videos": []
+  },
+  "nonprofitlibrary.com": {
+    "page_url": "https://nonprofitlibrary.com/video/grant-management-for-grantseekers-with-granthub-a-demo/",
+    "final_url": "https://nonprofitlibrary.com/video/grant-management-for-grantseekers-with-granthub-a-demo/",
+    "videos": []
+  },
+  "bstglobal.com": {
+    "page_url": "https://www.bstglobal.com",
+    "final_url": "https://bstglobal.com/",
+    "videos": []
+  },
+  "goodship.io": {
+    "page_url": "https://www.goodship.io/laney",
+    "final_url": "https://www.goodship.io/laney",
+    "videos": []
+  },
+  "cosmolex.ca": {
+    "page_url": "https://www.cosmolex.ca/on-demand-demo/",
+    "final_url": "https://www.cosmolex.ca/on-demand-demo/",
+    "videos": [
+      {
+        "url": "https://fast.wistia.net/embed/iframe/0orhc62eog",
+        "type": "wistia",
+        "video_id": "0orhc62eog"
+      }
+    ]
+  },
+  "emrsystems.net": {
+    "page_url": "https://www.emrsystems.net/cpsi-emr-software/",
+    "final_url": "https://www.emrsystems.net/cpsi-emr-software/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=YkU-6g1zmxg",
+        "type": "youtube_embed",
+        "video_id": "YkU-6g1zmxg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Y8ohyXp_p9M",
+        "type": "youtube_embed",
+        "video_id": "Y8ohyXp_p9M"
+      }
+    ]
+  },
+  "cerca.io": {
+    "page_url": "https://cerca.io/en/5-features-franchise-management-software/",
+    "final_url": "https://cerca.io/en/5-features-franchise-management-software/",
+    "videos": []
+  },
+  "clearscope.solutions": {
+    "page_url": "https://clearscope.solutions/homepage",
+    "final_url": "https://clearscope.solutions/homepage",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=lsbzrXrpoyA",
+        "type": "youtube_embed",
+        "video_id": "lsbzrXrpoyA"
+      }
+    ]
+  },
+  "herondata.io": {
+    "page_url": "https://www.herondata.io/",
+    "final_url": "https://www.herondata.io/",
+    "videos": []
+  },
+  "bond.software": {
+    "page_url": "https://bond.software/sectors/emergency-services/",
+    "final_url": "https://bond.software/sectors/emergency-services/",
+    "videos": []
+  },
+  "cetecerp.com": {
+    "page_url": "https://www.cetecerp.com",
+    "final_url": "https://cetecerp.com/",
+    "videos": []
+  },
+  "traxxall.com": {
+    "page_url": "https://traxxall.com/view-360-webcast/",
+    "final_url": "https://traxxall.com/view-360-webcast/",
+    "videos": []
+  },
+  "moverbase.com": {
+    "page_url": "https://www.moverbase.com/tour/paypal-braintree-moverbase/",
+    "final_url": "https://www.moverbase.com/tour/paypal-braintree-moverbase/",
+    "videos": []
+  },
+  "bepbackoffice.com": {
+    "page_url": "https://bepbackoffice.com/about-us/",
+    "final_url": "https://bepbackoffice.com/about-us/",
+    "videos": []
+  },
+  "faunarobotics.com": {
+    "page_url": "https://faunarobotics.com/",
+    "final_url": "https://faunarobotics.com/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/1159645799",
+        "type": "vimeo",
+        "video_id": "1159645799"
+      }
+    ]
+  },
+  "automateio.com": {
+    "page_url": "https://www.automateio.com",
+    "error": "HTTPSConnectionPool(host='www.automateio.com', port=443): Max retries exceeded with url: / (Caused b",
+    "videos": []
+  },
+  "dimmo.ai": {
+    "page_url": "https://www.dimmo.ai/products/Brella",
+    "final_url": "https://www.dimmo.ai/products/Brella",
+    "videos": []
+  },
+  "headway.com": {
+    "page_url": "https://www.headway.com",
+    "error": "HTTPSConnectionPool(host='www.headway.com', port=443): Max retries exceeded with url: / (Caused by S",
+    "videos": []
+  },
+  "aster.com": {
+    "page_url": "https://www.aster.com",
+    "final_url": "https://www.aster.com/",
+    "videos": []
+  },
+  "dtsearch.chelseadistrictlibrary.org": {
+    "page_url": "http://dtsearch.chelseadistrictlibrary.org/dtsearch/Chelsea%20Library/multi_by_year/2007/2007-05-03-ChelseaStandard.pdf",
+    "final_url": "http://dtsearch.chelseadistrictlibrary.org/dtsearch/Chelsea%20Library/multi_by_year/2007/2007-05-03-ChelseaStandard.pdf",
+    "videos": []
+  },
+  "hellobaton.com": {
+    "page_url": "https://hellobaton.com/try-it-free/",
+    "final_url": "https://hellobaton.com/try-it-free/",
+    "videos": []
+  },
+  "interguardsoftware.com": {
+    "page_url": "https://www.interguardsoftware.com/product-overview-video/",
+    "final_url": "https://www.interguardsoftware.com/product-overview-video/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=qlfcXXBbv14",
+        "type": "youtube_embed",
+        "video_id": "qlfcXXBbv14"
+      }
+    ]
+  },
+  "keystroke.ca": {
+    "page_url": "https://www.keystroke.ca/en/blog/act/keystroke-releases-new-act-v20-full-demo-video.html?highlight=WyJ3ZSJd&srsltid=AfmBOoqyc4tXa0IRO6gQ66FtIPYKHoDgkGdippGR164APqsZ7NBbxWtf",
+    "error": "HTTP 403",
+    "videos": []
+  },
+  "confidolegal.com": {
+    "page_url": "https://www.confidolegal.com",
+    "final_url": "https://confidolegal.com/",
+    "videos": []
+  },
+  "connectbooster.com": {
+    "page_url": "https://www.connectbooster.com/integrations/connectwise-sell/",
+    "final_url": "https://www.connectbooster.com/integrations/connectwise-sell/",
+    "videos": []
+  },
+  "jonasconstruction.com": {
+    "page_url": "https://www.jonasconstruction.com",
+    "final_url": "https://www.jonasconstruction.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=lyAPY2qYGJ0",
+        "type": "youtube_embed",
+        "video_id": "lyAPY2qYGJ0"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=_AhqVJVZYB8",
+        "type": "youtube_embed",
+        "video_id": "_AhqVJVZYB8"
+      },
+      {
+        "url": "https://vimeo.com/1044862605",
+        "type": "vimeo",
+        "video_id": "1044862605"
+      },
+      {
+        "url": "https://vimeo.com/1044806643",
+        "type": "vimeo",
+        "video_id": "1044806643"
+      },
+      {
+        "url": "https://vimeo.com/1044866146",
+        "type": "vimeo",
+        "video_id": "1044866146"
+      },
+      {
+        "url": "https://vimeo.com/1044864326",
+        "type": "vimeo",
+        "video_id": "1044864326"
+      },
+      {
+        "url": "https://vimeo.com/1048717748",
+        "type": "vimeo",
+        "video_id": "1048717748"
+      }
+    ]
+  },
+  "fluentstream.com": {
+    "page_url": "https://www.fluentstream.com",
+    "final_url": "https://www.fluentstream.com/",
+    "videos": []
+  },
+  "gynger.io": {
+    "page_url": "https://www.gynger.io/resources/blog/generate-qualified-sales-leads",
+    "final_url": "https://www.gynger.io/resources/blog/generate-qualified-sales-leads",
+    "videos": []
+  },
+  "wiki.izenda.us": {
+    "page_url": "https://wiki.izenda.us/Guides/ReportDesign/2.0-Quick-Start",
+    "error": "HTTP 502",
+    "videos": []
+  },
+  "farmtrader.co.nz": {
+    "page_url": "https://www.farmtrader.co.nz/agco-fuse-event-2018/",
+    "final_url": "https://www.farmtrader.co.nz/agco-fuse-event-2018/",
+    "videos": []
+  },
+  "autoraptor.com": {
+    "page_url": "https://www.autoraptor.com",
+    "final_url": "https://www.autoraptor.com/",
+    "videos": []
+  },
+  "followupcrm.com": {
+    "page_url": "https://www.followupcrm.com",
+    "final_url": "https://www.followupcrm.com/",
+    "videos": []
+  },
+  "formsimplicity.com": {
+    "page_url": "https://www.formsimplicity.com",
+    "final_url": "https://www.formsimplicity.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=VKV80QjYTWA",
+        "type": "youtube_embed",
+        "video_id": "VKV80QjYTWA"
+      }
+    ]
+  },
+  "info-beamer.com": {
+    "page_url": "https://info-beamer.com/raspberry-pi-digital-signage-hevc-4k-video-demo-13218.html",
+    "final_url": "https://info-beamer.com/raspberry-pi-digital-signage-hevc-4k-video-demo-13218.html",
+    "videos": []
+  },
+  "eventdraw.com": {
+    "page_url": "https://www.eventdraw.com",
+    "final_url": "https://www.eventdraw.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=yQCEF2z3Tdo",
+        "type": "youtube_embed",
+        "video_id": "yQCEF2z3Tdo"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=0bXD8IXqfv8",
+        "type": "youtube_embed",
+        "video_id": "0bXD8IXqfv8"
+      }
+    ]
+  },
+  "goproposal.com": {
+    "page_url": "https://www.goproposal.com",
+    "error": "HTTP 403",
+    "videos": []
+  },
+  "gradientai.com": {
+    "page_url": "https://www.gradientai.com",
+    "final_url": "https://www.gradientai.com/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/778634818",
+        "type": "vimeo",
+        "video_id": "778634818"
+      }
+    ]
+  },
+  "quickfms.com": {
+    "page_url": "https://www.quickfms.com/branch-performance-tracking-module",
+    "final_url": "https://www.quickfms.com/branch-performance-tracking-module",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=KJifWHptkqU",
+        "type": "youtube_embed",
+        "video_id": "KJifWHptkqU"
+      }
+    ]
+  },
+  "civicrm.com": {
+    "page_url": "https://www.civicrm.com",
+    "error": "HTTPSConnectionPool(host='www.civicrm.com', port=443): Max retries exceeded with url: / (Caused by S",
+    "videos": []
+  },
+  "clearestimates.com": {
+    "page_url": "https://www.clearestimates.com",
+    "final_url": "https://www.clearestimates.com/",
+    "videos": []
+  },
+  "espressive.com": {
+    "page_url": "https://www.espressive.com",
+    "final_url": "https://resolve.io/",
+    "videos": []
+  },
+  "forecastpro.com": {
+    "page_url": "https://www.forecastpro.com/solutions/forecast-pro/quick-tour/",
+    "final_url": "https://www.forecastpro.com/solutions/forecast-pro/quick-tour/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=DmZo7sBS1sA",
+        "type": "youtube_embed",
+        "video_id": "DmZo7sBS1sA"
+      }
+    ]
+  },
+  "campfire.ai": {
+    "page_url": "https://campfire.ai/demo/decart",
+    "final_url": "https://campfire.ai/demo/decart",
+    "videos": []
+  },
+  "collectly.co": {
+    "page_url": "https://collectly.co/",
+    "final_url": "https://collectly.co/",
+    "videos": []
+  },
+  "3log.com": {
+    "page_url": "https://www.3log.com/contact/book-a-demo/",
+    "final_url": "https://www.3log.com/contact/book-a-demo/",
+    "videos": []
+  },
+  "gamma-rs.ch": {
+    "page_url": "https://www.gamma-rs.ch/gamma-software/software-processing-examples",
+    "final_url": "https://www.gamma-rs.ch/gamma-software/software-processing-examples",
+    "videos": []
+  },
+  "guestwisely.io": {
+    "page_url": "https://guestwisely.io",
+    "final_url": "https://guestwisely.io/",
+    "videos": []
+  },
+  "4degrees.ai": {
+    "page_url": "https://www.4degrees.ai/blog/introducing-4degrees-campaigns",
+    "final_url": "https://www.4degrees.ai/blog/introducing-4degrees-campaigns",
+    "videos": [
+      {
+        "url": "https://fast.wistia.net/embed/iframe/sntrfk23qe",
+        "type": "wistia",
+        "video_id": "sntrfk23qe"
+      }
+    ]
+  },
+  "agiled.app": {
+    "page_url": "https://www.agiled.app",
+    "error": "HTTPSConnectionPool(host='www.agiled.app', port=443): Max retries exceeded with url: / (Caused by SS",
+    "videos": []
+  },
+  "donorbox.com": {
+    "page_url": "https://www.donorbox.com",
+    "final_url": "https://donorbox.org",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=7pmFJ6RMG4Y",
+        "type": "youtube_embed",
+        "video_id": "7pmFJ6RMG4Y"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=BVM0iovpKug",
+        "type": "youtube_embed",
+        "video_id": "BVM0iovpKug"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XpMt3r382R4",
+        "type": "youtube_embed",
+        "video_id": "XpMt3r382R4"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=gxdFGnsUY_8",
+        "type": "youtube_embed",
+        "video_id": "gxdFGnsUY_8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=4MZ5j7aNqdo",
+        "type": "youtube_embed",
+        "video_id": "4MZ5j7aNqdo"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=0yhDmio1pr8",
+        "type": "youtube_embed",
+        "video_id": "0yhDmio1pr8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=nIH6_J-4um8",
+        "type": "youtube_embed",
+        "video_id": "nIH6_J-4um8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=1p3q3UcoLPs",
+        "type": "youtube_embed",
+        "video_id": "1p3q3UcoLPs"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=hIhgaafpiYY",
+        "type": "youtube_embed",
+        "video_id": "hIhgaafpiYY"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=zuivVnq97hE",
+        "type": "youtube_embed",
+        "video_id": "zuivVnq97hE"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=y0KyHqSSnpo",
+        "type": "youtube_embed",
+        "video_id": "y0KyHqSSnpo"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=JCcaKvagihM",
+        "type": "youtube_embed",
+        "video_id": "JCcaKvagihM"
+      }
+    ]
+  },
+  "globalshopsolutions.com": {
+    "page_url": "https://www.globalshopsolutions.com",
+    "final_url": "https://www.globalshopsolutions.com/",
+    "videos": []
+  },
+  "1crm.com": {
+    "page_url": "https://www.1crm.com",
+    "final_url": "https://1crm.com/",
+    "videos": []
+  },
+  "alloy.ai": {
+    "page_url": "https://alloy.ai/resources/?type=video",
+    "final_url": "https://alloy.ai/resources/?type=video",
+    "videos": []
+  },
+  "clientpoint.net": {
+    "page_url": "https://www.clientpoint.net/blog/selling-through-covid-19-and-beyond-creating-connection-on-video-0-0-0",
+    "final_url": "https://www.clientpoint.net/blog/selling-through-covid-19-and-beyond-creating-connection-on-video-0-0-0",
+    "videos": [
+      {
+        "url": "https://vimeo.com/431914067",
+        "type": "vimeo",
+        "video_id": "431914067"
+      },
+      {
+        "url": "https://vimeo.com/447547166",
+        "type": "vimeo",
+        "video_id": "447547166"
+      }
+    ]
+  },
+  "thebullvine.com": {
+    "page_url": "https://www.thebullvine.com/news/cattleytics-on-dragons-den-the-12-million-bet-that-free-whatsapp-is-costing-your-dairy-7300-a-year/",
+    "final_url": "https://www.thebullvine.com/news/cattleytics-on-dragons-den-the-12-million-bet-that-free-whatsapp-is-costing-your-dairy-7300-a-year/",
+    "videos": []
+  },
+  "everafter.ai": {
+    "page_url": "https://www.everafter.ai/happily-recordings/happily-highlight-video",
+    "final_url": "https://www.everafter.ai/happily-recordings/happily-highlight-video",
+    "videos": [
+      {
+        "url": "https://fast.wistia.net/embed/iframe/k8d7krjx5c",
+        "type": "wistia",
+        "video_id": "k8d7krjx5c"
+      }
+    ]
+  },
+  "agencyzoom.com": {
+    "page_url": "https://www.agencyzoom.com",
+    "final_url": "https://www.agencyzoom.com/",
+    "videos": []
+  },
+  "botstar.com": {
+    "page_url": "https://www.botstar.com",
+    "error": "HTTPSConnectionPool(host='www.botstar.com', port=443): Max retries exceeded with url: / (Caused by S",
+    "videos": []
+  },
+  "cherre.com": {
+    "page_url": "https://www.cherre.com",
+    "final_url": "https://cherre.com/",
+    "videos": []
+  },
+  "demandfarm.com": {
+    "page_url": "https://www.demandfarm.com",
+    "final_url": "https://www.demandfarm.com/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/1046289813",
+        "type": "vimeo",
+        "video_id": "1046289813"
+      },
+      {
+        "url": "https://vimeo.com/1047457733",
+        "type": "vimeo",
+        "video_id": "1047457733"
+      }
+    ]
+  },
+  "driveworks.co.uk": {
+    "page_url": "https://www.driveworks.co.uk/resources/driveworkspro/videos/",
+    "final_url": "https://www.driveworks.co.uk/resources/driveworkspro/videos/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=XKc-kFNoL4o",
+        "type": "youtube_embed",
+        "video_id": "XKc-kFNoL4o"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tEc828OHpg8",
+        "type": "youtube_embed",
+        "video_id": "tEc828OHpg8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=7f_JI05mnVA",
+        "type": "youtube_embed",
+        "video_id": "7f_JI05mnVA"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HbwD_KaUx0Q",
+        "type": "youtube_embed",
+        "video_id": "HbwD_KaUx0Q"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=rCkVhb6OdIk",
+        "type": "youtube_embed",
+        "video_id": "rCkVhb6OdIk"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=MHah55BKyAw",
+        "type": "youtube_embed",
+        "video_id": "MHah55BKyAw"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=yN2nDLtyeQ8",
+        "type": "youtube_embed",
+        "video_id": "yN2nDLtyeQ8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=9koeu4F8rVc",
+        "type": "youtube_embed",
+        "video_id": "9koeu4F8rVc"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=gSVca2gmG_c",
+        "type": "youtube_embed",
+        "video_id": "gSVca2gmG_c"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=JPRrMpaMJsk",
+        "type": "youtube_embed",
+        "video_id": "JPRrMpaMJsk"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=MxkFRLC8Yog",
+        "type": "youtube_embed",
+        "video_id": "MxkFRLC8Yog"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ai9OwcAT90c",
+        "type": "youtube_embed",
+        "video_id": "ai9OwcAT90c"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=LWyBpzYQ9Ms",
+        "type": "youtube_embed",
+        "video_id": "LWyBpzYQ9Ms"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=BCa0pREi0ek",
+        "type": "youtube_embed",
+        "video_id": "BCa0pREi0ek"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=jolyCNC-dWo",
+        "type": "youtube_embed",
+        "video_id": "jolyCNC-dWo"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=rU_uvd2dzMY",
+        "type": "youtube_embed",
+        "video_id": "rU_uvd2dzMY"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=GP8JTB2FXsY",
+        "type": "youtube_embed",
+        "video_id": "GP8JTB2FXsY"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=_462iLOyIQc",
+        "type": "youtube_embed",
+        "video_id": "_462iLOyIQc"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=hDKNa0pfPhA",
+        "type": "youtube_embed",
+        "video_id": "hDKNa0pfPhA"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ci_cgZN7cSY",
+        "type": "youtube_embed",
+        "video_id": "ci_cgZN7cSY"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=V2ux4QPEJtA",
+        "type": "youtube_embed",
+        "video_id": "V2ux4QPEJtA"
+      }
+    ]
+  },
+  "howtoweb.co": {
+    "page_url": "https://www.howtoweb.co/solutions/harvestr/",
+    "final_url": "https://www.howtoweb.co/solutions/harvestr/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=SnWch-XlekE",
+        "type": "youtube_embed",
+        "video_id": "SnWch-XlekE"
+      }
+    ]
+  },
+  "hummingbird.co": {
+    "page_url": "https://www.hummingbird.co/demo",
+    "final_url": "https://www.hummingbird.co/demo",
+    "videos": []
+  },
+  "ijungo.com": {
+    "page_url": "https://ijungo.com/video-emails/",
+    "final_url": "https://ijungo.com/video-emails/",
+    "videos": []
+  },
+  "amicusattorney.com": {
+    "page_url": "https://www.amicusattorney.com",
+    "final_url": "https://amicusattorney.com/",
+    "videos": []
+  },
+  "dnb.com.hk": {
+    "page_url": "https://www.dnb.com.hk/dnb-hoovers-learning/",
+    "final_url": "https://www.dnb.com.hk/dnb-hoovers-learning/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=WUktLr5BG80",
+        "type": "youtube_embed",
+        "video_id": "WUktLr5BG80"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=n2QnNxythD4",
+        "type": "youtube_embed",
+        "video_id": "n2QnNxythD4"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=cDoRFFZN4V4",
+        "type": "youtube_embed",
+        "video_id": "cDoRFFZN4V4"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=KhELwJ6Sv7U",
+        "type": "youtube_embed",
+        "video_id": "KhELwJ6Sv7U"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Fubj66qs2y4",
+        "type": "youtube_embed",
+        "video_id": "Fubj66qs2y4"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=NR3YLtv7MEc",
+        "type": "youtube_embed",
+        "video_id": "NR3YLtv7MEc"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=bgD7GS_xsiE",
+        "type": "youtube_embed",
+        "video_id": "bgD7GS_xsiE"
+      }
+    ]
+  },
+  "digitail.com": {
+    "page_url": "https://www.digitail.com",
+    "final_url": "https://digitail.com/",
+    "videos": []
+  },
+  "gradleaders.com": {
+    "page_url": "https://www.gradleaders.com",
+    "final_url": "https://www.gradleaders.com/",
+    "videos": []
+  },
+  "academyofmine.com": {
+    "page_url": "https://www.academyofmine.com",
+    "final_url": "https://www.academyofmine.com/",
+    "videos": []
+  },
+  "oncenter.com": {
+    "page_url": "https://www.oncenter.com/schedule-demo/",
+    "final_url": "https://www.oncenter.com/schedule-demo/",
+    "videos": []
+  },
+  "softwareadvice.com.au": {
+    "page_url": "https://www.softwareadvice.com.au/software/390797/deliverr",
+    "error": "HTTP 403",
+    "videos": []
+  },
+  "floatfinancial.com": {
+    "page_url": "https://floatfinancial.com/video-demo/",
+    "final_url": "https://floatfinancial.com/video-demo/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=kqeFm2EtTH4",
+        "type": "youtube_embed",
+        "video_id": "kqeFm2EtTH4"
+      }
+    ]
+  },
+  "haystackteam.com": {
+    "page_url": "https://www.haystackteam.com/resource/haystack-overview",
+    "final_url": "https://www.haystackteam.com/resource/haystack-overview",
+    "videos": []
+  },
+  "mijares.com": {
+    "page_url": "https://mijares.com/",
+    "final_url": "https://mijares.com/",
+    "videos": []
+  },
+  "abacuslaw.com": {
+    "page_url": "https://www.abacuslaw.com",
+    "final_url": "https://amicusattorney.com/",
+    "videos": []
+  },
+  "acuitymd.com": {
+    "page_url": "https://www.acuitymd.com",
+    "final_url": "https://www.acuitymd.com/",
+    "videos": []
+  },
+  "agentsync.io": {
+    "page_url": "https://agentsync.io/",
+    "final_url": "https://agentsync.io/",
+    "videos": []
+  },
+  "brightinsight.com": {
+    "page_url": "https://www.brightinsight.com",
+    "final_url": "https://www.brightinsight.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=PEDZkZfZFW0",
+        "type": "youtube_embed",
+        "video_id": "PEDZkZfZFW0"
+      }
+    ]
+  },
+  "callproof.com": {
+    "page_url": "https://www.callproof.com",
+    "final_url": "https://callproof.com/",
+    "videos": []
+  },
+  "drizzle.com": {
+    "page_url": "https://www.drizzle.com",
+    "final_url": "https://www.drizzle.com/",
+    "videos": []
+  },
+  "farmraise.com": {
+    "page_url": "https://www.farmraise.com",
+    "final_url": "https://www.farmraise.com/",
+    "videos": []
+  },
+  "alice.io": {
+    "page_url": "https://alice.io",
+    "final_url": "https://alice.io/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/1153868763",
+        "type": "vimeo",
+        "video_id": "1153868763"
+      },
+      {
+        "url": "https://vimeo.com/1153867982",
+        "type": "vimeo",
+        "video_id": "1153867982"
+      }
+    ]
+  },
+  "burnalong.com": {
+    "page_url": "https://www.burnalong.com",
+    "final_url": "https://www.burnalong.com/",
+    "videos": []
+  },
+  "cincsystems.com": {
+    "page_url": "https://cincsystems.com/",
+    "final_url": "https://cincsystems.com/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/1072294150",
+        "type": "vimeo",
+        "video_id": "1072294150"
+      }
+    ]
+  },
+  "count.co": {
+    "page_url": "https://count.co/video/count-demo",
+    "final_url": "https://count.co/video/count-demo",
+    "videos": [
+      {
+        "url": "https://fast.wistia.net/embed/iframe/piqce7u8nm",
+        "type": "wistia",
+        "video_id": "piqce7u8nm"
+      }
+    ]
+  },
+  "hi.ducalis.io": {
+    "page_url": "https://hi.ducalis.io/changelog/release-notes-best-practices",
+    "final_url": "https://hi.ducalis.io/changelog/release-notes-best-practices",
+    "videos": []
+  },
+  "ajera.com": {
+    "page_url": "https://www.ajera.com",
+    "final_url": "https://www.ajera.com/",
+    "videos": []
+  },
+  "arable.com": {
+    "page_url": "https://www.arable.com",
+    "final_url": "https://www.arable.com/",
+    "videos": []
+  },
+  "arrows.to": {
+    "page_url": "https://arrows.to/",
+    "final_url": "https://arrows.to/",
+    "videos": [
+      {
+        "url": "https://fast.wistia.net/embed/iframe/2ok79fx1c8",
+        "type": "wistia",
+        "video_id": "2ok79fx1c8"
+      },
+      {
+        "url": "https://fast.wistia.net/embed/iframe/clxcxkvghc",
+        "type": "wistia",
+        "video_id": "clxcxkvghc"
+      },
+      {
+        "url": "https://fast.wistia.net/embed/iframe/lv17ruc0vp",
+        "type": "wistia",
+        "video_id": "lv17ruc0vp"
+      },
+      {
+        "url": "https://fast.wistia.net/embed/iframe/owou7nqevd",
+        "type": "wistia",
+        "video_id": "owou7nqevd"
+      },
+      {
+        "url": "https://fast.wistia.net/embed/iframe/37k5r3pvt4",
+        "type": "wistia",
+        "video_id": "37k5r3pvt4"
+      },
+      {
+        "url": "https://fast.wistia.net/embed/iframe/yivxheiqzl",
+        "type": "wistia",
+        "video_id": "yivxheiqzl"
+      }
+    ]
+  },
+  "fahimai.com": {
+    "page_url": "https://www.fahimai.com/how-to-use-hour-one",
+    "final_url": "https://www.fahimai.com/how-to-use-hour-one",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=B32kQhIAH6k",
+        "type": "youtube_embed",
+        "video_id": "B32kQhIAH6k"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=PgJH-sYT-fY",
+        "type": "youtube_embed",
+        "video_id": "PgJH-sYT-fY"
+      }
+    ]
+  },
+  "jolt.com": {
+    "page_url": "https://www.jolt.com",
+    "final_url": "https://www.jolt.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=4EYEvrY6ikc",
+        "type": "youtube_embed",
+        "video_id": "4EYEvrY6ikc"
+      }
+    ]
+  },
+  "journyx.com": {
+    "page_url": "https://www.journyx.com",
+    "final_url": "https://journyx.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=YOff-m-Am_0",
+        "type": "youtube_embed",
+        "video_id": "YOff-m-Am_0"
+      }
+    ]
+  },
+  "agworld.com": {
+    "page_url": "https://www.agworld.com",
+    "final_url": "https://www.agworld.com/us/",
+    "videos": []
+  },
+  "artera.io": {
+    "page_url": "https://artera.io/request-a-demo/",
+    "final_url": "https://artera.io/request-a-demo/",
+    "videos": []
+  },
+  "billingplatform.com": {
+    "page_url": "https://www.billingplatform.com",
+    "final_url": "https://billingplatform.com/",
+    "videos": []
+  },
+  "letsbonfire.com": {
+    "page_url": "https://www.letsbonfire.com/demo-download",
+    "error": "HTTP 404",
+    "videos": []
+  },
+  "fairmarkit.com": {
+    "page_url": "https://www.fairmarkit.com",
+    "final_url": "https://www.fairmarkit.com/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/951141445",
+        "type": "vimeo",
+        "video_id": "951141445"
+      }
+    ]
+  },
+  "geniuserp.com": {
+    "page_url": "https://www.geniuserp.com",
+    "final_url": "https://www.geniuserp.com/",
+    "videos": []
+  },
+  "georanker.com": {
+    "page_url": "https://www.georanker.com",
+    "final_url": "https://www.georanker.com/",
+    "videos": []
+  },
+  "gotab.com": {
+    "page_url": "https://www.gotab.com",
+    "final_url": "https://gotab.com/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/1115903616",
+        "type": "vimeo",
+        "video_id": "1115903616"
+      },
+      {
+        "url": "https://vimeo.com/1055989725",
+        "type": "vimeo",
+        "video_id": "1055989725"
+      }
+    ]
+  },
+  "jonasfitness.com": {
+    "page_url": "https://www.jonasfitness.com",
+    "final_url": "https://jonasfitness.com/",
+    "videos": []
+  },
+  "berrycast.com": {
+    "page_url": "https://www.berrycast.com",
+    "final_url": "https://www.berrycast.com/",
+    "videos": []
+  },
+  "caisgroup.com": {
+    "page_url": "https://www.caisgroup.com/videos/in-cais-you-missed-it/discover-cais-iq",
+    "final_url": "https://www.caisgroup.com/videos/in-cais-you-missed-it/discover-cais-iq",
+    "videos": []
+  },
+  "cloudnine.com": {
+    "page_url": "https://www.cloudnine.com",
+    "final_url": "https://cloudnine.com/",
+    "videos": []
+  },
+  "goethena.com": {
+    "page_url": "https://www.goethena.com/post/best-compliance-training-software/",
+    "final_url": "https://www.goethena.com/post/best-compliance-training-software/",
+    "videos": []
+  },
+  "fetcher.ai": {
+    "page_url": "https://fetcher.ai/blog/6-key-strategies-for-recruiting-software-engineers",
+    "final_url": "https://fetcher.ai/blog/6-key-strategies-for-recruiting-software-engineers",
+    "videos": []
+  },
+  "functionpoint.com": {
+    "page_url": "https://www.functionpoint.com",
+    "final_url": "https://functionpoint.com/",
+    "videos": []
+  },
+  "jirav.com": {
+    "page_url": "https://www.jirav.com",
+    "final_url": "https://www.jirav.com/",
+    "videos": []
+  },
+  "altana.com": {
+    "page_url": "https://www.altana.com",
+    "final_url": "https://www.altana.com/",
+    "videos": []
+  },
+  "attendancebot.com": {
+    "page_url": "https://www.attendancebot.com",
+    "final_url": "https://www.attendancebot.com/",
+    "videos": []
+  },
+  "boldpenguin.com": {
+    "page_url": "https://www.boldpenguin.com",
+    "final_url": "https://www.boldpenguin.com/",
+    "videos": []
+  },
+  "botkeeper.com": {
+    "page_url": "https://www.botkeeper.com",
+    "final_url": "https://www.botkeeper.com/",
+    "videos": []
+  },
+  "cincom.com": {
+    "page_url": "https://www.cincom.com",
+    "final_url": "https://www.cincom.com/",
+    "videos": []
+  },
+  "findem.ai": {
+    "page_url": "https://www.findem.ai/knowledge-center/ai-recruitment-tools",
+    "final_url": "https://www.findem.ai/knowledge-center/ai-recruitment-tools",
+    "videos": []
+  },
+  "guidecx.com": {
+    "page_url": "https://www.guidecx.com",
+    "final_url": "https://www.guidecx.com/",
+    "videos": []
+  },
+  "influ2.com": {
+    "page_url": "https://www.influ2.com",
+    "final_url": "https://www.influ2.com/",
+    "videos": []
+  },
+  "accountedge.com": {
+    "page_url": "https://www.accountedge.com",
+    "final_url": "https://www.accountedge.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=tCbSdkksJ_4",
+        "type": "youtube_embed",
+        "video_id": "tCbSdkksJ_4"
+      }
+    ]
+  },
+  "contractorforeman.com": {
+    "page_url": "https://www.contractorforeman.com",
+    "final_url": "https://contractorforeman.com/",
+    "videos": []
+  },
+  "softwareadvice.co.uk": {
+    "page_url": "https://www.softwareadvice.co.uk/software/131986/docket-alarm",
+    "error": "HTTP 403",
+    "videos": []
+  },
+  "erpfocus.com": {
+    "page_url": "https://www.erpfocus.com/e2-shop-system-erp-software-648.html",
+    "final_url": "https://www.erpfocus.com/e2-shop-system-erp-software-648.html",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=NDLH0yhLJbk",
+        "type": "youtube_embed",
+        "video_id": "NDLH0yhLJbk"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ceOO9-Mu5Y0",
+        "type": "youtube_embed",
+        "video_id": "ceOO9-Mu5Y0"
+      }
+    ]
+  },
+  "evisort.com": {
+    "page_url": "https://www.evisort.com",
+    "final_url": "https://www.evisort.com/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/903603031",
+        "type": "vimeo",
+        "video_id": "903603031"
+      }
+    ]
+  },
+  "hotelogix.com": {
+    "page_url": "https://www.hotelogix.com",
+    "final_url": "https://www.hotelogix.com/",
+    "videos": []
+  },
+  "radarr.com": {
+    "page_url": "https://www.radarr.com/blog/iconosquare-develop-your-instagram-strategy/",
+    "final_url": "https://www.radarr.com/blog/iconosquare-develop-your-instagram-strategy/",
+    "videos": []
+  },
+  "advicelocal.com": {
+    "page_url": "https://www.advicelocal.com",
+    "final_url": "https://www.advicelocal.com/",
+    "videos": []
+  },
+  "alyce.com": {
+    "page_url": "https://www.alyce.com",
+    "error": "HTTP 404",
+    "videos": []
+  },
+  "cmicglobal.com": {
+    "page_url": "https://cmicglobal.com/resources/customer-story/dimarco-constructors",
+    "final_url": "https://cmicglobal.com/resources/customer-story/dimarco-constructors",
+    "videos": []
+  },
+  "casepacer.com": {
+    "page_url": "https://www.casepacer.com",
+    "final_url": "https://casepacer.com/",
+    "videos": []
+  },
+  "contractpodai.com": {
+    "page_url": "https://www.contractpodai.com",
+    "final_url": "https://leahai.com/",
+    "videos": []
+  },
+  "currentware.com": {
+    "page_url": "https://www.currentware.com",
+    "final_url": "https://www.currentware.com/",
+    "videos": []
+  },
+  "ebsta.com": {
+    "page_url": "https://www.ebsta.com",
+    "final_url": "https://www.ebsta.com/",
+    "videos": []
+  },
+  "hawksoft.com": {
+    "page_url": "https://www.hawksoft.com",
+    "final_url": "https://www.hawksoft.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=LikQ7t6XedU",
+        "type": "youtube_embed",
+        "video_id": "LikQ7t6XedU"
+      }
+    ]
+  },
+  "impel.ai": {
+    "page_url": "https://impel.ai/feature-tour/",
+    "final_url": "https://impel.ai/feature-tour/",
+    "videos": []
+  },
+  "introhive.com": {
+    "page_url": "https://www.introhive.com",
+    "final_url": "https://www.introhive.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=lJ6SMTksWdE",
+        "type": "youtube_embed",
+        "video_id": "lJ6SMTksWdE"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=KjnNUAJfRFg",
+        "type": "youtube_embed",
+        "video_id": "KjnNUAJfRFg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=vtcqoaqTwrU",
+        "type": "youtube_embed",
+        "video_id": "vtcqoaqTwrU"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tXxLK3WE37k",
+        "type": "youtube_embed",
+        "video_id": "tXxLK3WE37k"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=b89896rF6hk",
+        "type": "youtube_embed",
+        "video_id": "b89896rF6hk"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=SG-_9D6P5D4",
+        "type": "youtube_embed",
+        "video_id": "SG-_9D6P5D4"
+      },
+      {
+        "url": "https://vimeo.com/734452878",
+        "type": "vimeo",
+        "video_id": "734452878"
+      },
+      {
+        "url": "https://vimeo.com/744628960",
+        "type": "vimeo",
+        "video_id": "744628960"
+      },
+      {
+        "url": "https://vimeo.com/744654495",
+        "type": "vimeo",
+        "video_id": "744654495"
+      }
+    ]
+  },
+  "maestroqa.com": {
+    "page_url": "https://www.maestroqa.com",
+    "final_url": "https://www.maestroqa.com/",
+    "videos": []
+  },
+  "10xbanking.com": {
+    "page_url": "https://www.10xbanking.com",
+    "final_url": "https://www.10xbanking.com/",
+    "videos": []
+  },
+  "at-bay.com": {
+    "page_url": "https://www.at-bay.com/learn/",
+    "final_url": "https://www.at-bay.com/learn/",
+    "videos": []
+  },
+  "boldbi.com": {
+    "page_url": "https://www.boldbi.com",
+    "final_url": "https://www.boldbi.com/",
+    "videos": []
+  },
+  "carrd.com": {
+    "page_url": "https://www.carrd.com",
+    "final_url": "https://carrd.co/",
+    "videos": []
+  },
+  "cxtsoftware.com": {
+    "page_url": "https://cxtsoftware.com/demo/",
+    "final_url": "https://cxtsoftware.com/demo/",
+    "videos": []
+  },
+  "dragonboat.io": {
+    "page_url": "https://dragonboat.io/solutions/strategic-portfolio-management-spm/",
+    "final_url": "https://dragonboat.io/solutions/strategic-portfolio-management-spm/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/1014875538",
+        "type": "vimeo",
+        "video_id": "1014875538"
+      }
+    ]
+  },
+  "flywheel.io": {
+    "page_url": "https://flywheel.io/insights/youtube-insights/flywheel-demo",
+    "final_url": "https://flywheel.io/insights/youtube-insights/flywheel-demo",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=Rzvmxj-JOQE",
+        "type": "youtube_embed",
+        "video_id": "Rzvmxj-JOQE"
+      }
+    ]
+  },
+  "simulmedia.com": {
+    "page_url": "https://www.simulmedia.com/book-of-unreached/goodrx",
+    "final_url": "https://www.simulmedia.com/book-of-unreached/goodrx",
+    "videos": []
+  },
+  "hcss.com": {
+    "page_url": "https://www.hcss.com",
+    "final_url": "https://www.hcss.com/",
+    "videos": []
+  },
+  "astra.com": {
+    "page_url": "https://www.astra.com",
+    "final_url": "https://astra.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=O8Tdm797BzM",
+        "type": "youtube_embed",
+        "video_id": "O8Tdm797BzM"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=8jlQmW7mnYM",
+        "type": "youtube_embed",
+        "video_id": "8jlQmW7mnYM"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HztFm2XGO7s",
+        "type": "youtube_embed",
+        "video_id": "HztFm2XGO7s"
+      },
+      {
+        "url": "https://vimeo.com/1157292015",
+        "type": "vimeo",
+        "video_id": "1157292015"
+      },
+      {
+        "url": "https://vimeo.com/1157292036",
+        "type": "vimeo",
+        "video_id": "1157292036"
+      },
+      {
+        "url": "https://vimeo.com/1157292060",
+        "type": "vimeo",
+        "video_id": "1157292060"
+      },
+      {
+        "url": "https://vimeo.com/1157292074",
+        "type": "vimeo",
+        "video_id": "1157292074"
+      },
+      {
+        "url": "https://vimeo.com/1157292087",
+        "type": "vimeo",
+        "video_id": "1157292087"
+      }
+    ]
+  },
+  "atomicwork.com": {
+    "page_url": "https://www.atomicwork.com",
+    "final_url": "https://www.atomicwork.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=8csAg5zovEk",
+        "type": "youtube_embed",
+        "video_id": "8csAg5zovEk"
+      },
+      {
+        "url": "https://vimeo.com/1143738927",
+        "type": "vimeo",
+        "video_id": "1143738927"
+      },
+      {
+        "url": "https://vimeo.com/1023849537",
+        "type": "vimeo",
+        "video_id": "1023849537"
+      },
+      {
+        "url": "https://vimeo.com/1083095563",
+        "type": "vimeo",
+        "video_id": "1083095563"
+      },
+      {
+        "url": "https://vimeo.com/1071749401",
+        "type": "vimeo",
+        "video_id": "1071749401"
+      },
+      {
+        "url": "https://vimeo.com/1121821144",
+        "type": "vimeo",
+        "video_id": "1121821144"
+      }
+    ]
+  },
+  "tmssoftware.com": {
+    "page_url": "https://www.tmssoftware.com/site/videos.asp?p=aurelius&srsltid=AfmBOooTm7kToQuc0WezLZvqSwQJN_VVwnD4wLez0R9zv86f3adLxyN2",
+    "final_url": "https://www.tmssoftware.com/site/videos.asp?p=aurelius&srsltid=AfmBOooTm7kToQuc0WezLZvqSwQJN_VVwnD4wLez0R9zv86f3adLxyN2",
+    "videos": []
+  },
+  "behalf.com": {
+    "page_url": "https://www.behalf.com",
+    "final_url": "https://www.behalf.com/",
+    "videos": []
+  },
+  "brokermint.com": {
+    "page_url": "https://www.brokermint.com",
+    "final_url": "https://brokermint.com/",
+    "videos": []
+  },
+  "calamp.com": {
+    "page_url": "https://www.calamp.com",
+    "final_url": "https://www.calamp.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=yt3AYZndwaE",
+        "type": "youtube_embed",
+        "video_id": "yt3AYZndwaE"
+      },
+      {
+        "url": "https://vimeo.com/762014040",
+        "type": "vimeo",
+        "video_id": "762014040"
+      }
+    ]
+  },
+  "clockshark.com": {
+    "page_url": "https://www.clockshark.com",
+    "error": "HTTP 403",
+    "videos": []
+  },
+  "craft.io": {
+    "page_url": "https://craft.io/resources/videos/",
+    "final_url": "https://craft.io/resources/videos/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=P67oUMCM_jg",
+        "type": "youtube_embed",
+        "video_id": "P67oUMCM_jg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=LwS8l0yA6hA",
+        "type": "youtube_embed",
+        "video_id": "LwS8l0yA6hA"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ssxo1xurK44",
+        "type": "youtube_embed",
+        "video_id": "ssxo1xurK44"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=sItrzX6vZdc",
+        "type": "youtube_embed",
+        "video_id": "sItrzX6vZdc"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=hiPs_3SzQvw",
+        "type": "youtube_embed",
+        "video_id": "hiPs_3SzQvw"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=yIXJF9pzKHo",
+        "type": "youtube_embed",
+        "video_id": "yIXJF9pzKHo"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=mfubYcdm2Kg",
+        "type": "youtube_embed",
+        "video_id": "mfubYcdm2Kg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=viGGnfIvog8",
+        "type": "youtube_embed",
+        "video_id": "viGGnfIvog8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=wLp4ZBkx9SM",
+        "type": "youtube_embed",
+        "video_id": "wLp4ZBkx9SM"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=stB7gFW9dFU",
+        "type": "youtube_embed",
+        "video_id": "stB7gFW9dFU"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=77wTHf_nK9E",
+        "type": "youtube_embed",
+        "video_id": "77wTHf_nK9E"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=eZ6rIYd3cu4",
+        "type": "youtube_embed",
+        "video_id": "eZ6rIYd3cu4"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-f2CAYjGp34",
+        "type": "youtube_embed",
+        "video_id": "-f2CAYjGp34"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=GuzHj5jHcJ0",
+        "type": "youtube_embed",
+        "video_id": "GuzHj5jHcJ0"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Vi38Gqp_cKo",
+        "type": "youtube_embed",
+        "video_id": "Vi38Gqp_cKo"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=vTjCq_p9EH4",
+        "type": "youtube_embed",
+        "video_id": "vTjCq_p9EH4"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=0MPQfsmteuA",
+        "type": "youtube_embed",
+        "video_id": "0MPQfsmteuA"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=b7pVKVZvyT8",
+        "type": "youtube_embed",
+        "video_id": "b7pVKVZvyT8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HxLt3ojj4bc",
+        "type": "youtube_embed",
+        "video_id": "HxLt3ojj4bc"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=s4Q_TaVKAw4",
+        "type": "youtube_embed",
+        "video_id": "s4Q_TaVKAw4"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Dyv3bg309yg",
+        "type": "youtube_embed",
+        "video_id": "Dyv3bg309yg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=PJUJJAXP0bk",
+        "type": "youtube_embed",
+        "video_id": "PJUJJAXP0bk"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=3iqw67GmTMM",
+        "type": "youtube_embed",
+        "video_id": "3iqw67GmTMM"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=kjUTsE7iXwg",
+        "type": "youtube_embed",
+        "video_id": "kjUTsE7iXwg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=W_dWPcpWeYY",
+        "type": "youtube_embed",
+        "video_id": "W_dWPcpWeYY"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=pqxqmeDRf54",
+        "type": "youtube_embed",
+        "video_id": "pqxqmeDRf54"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=kYfOW7G1Se4",
+        "type": "youtube_embed",
+        "video_id": "kYfOW7G1Se4"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=I2YsA1WAmFI",
+        "type": "youtube_embed",
+        "video_id": "I2YsA1WAmFI"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=RyfhYwCvFiM",
+        "type": "youtube_embed",
+        "video_id": "RyfhYwCvFiM"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=6_uxI7kqXXs",
+        "type": "youtube_embed",
+        "video_id": "6_uxI7kqXXs"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=zZC6m5k1kbQ",
+        "type": "youtube_embed",
+        "video_id": "zZC6m5k1kbQ"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=hHAt80Qczg0",
+        "type": "youtube_embed",
+        "video_id": "hHAt80Qczg0"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=gNBGmJZWMWc",
+        "type": "youtube_embed",
+        "video_id": "gNBGmJZWMWc"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=OpNCN7CJz1Q",
+        "type": "youtube_embed",
+        "video_id": "OpNCN7CJz1Q"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=byug_gY6qoQ",
+        "type": "youtube_embed",
+        "video_id": "byug_gY6qoQ"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=NIbxgfcik4s",
+        "type": "youtube_embed",
+        "video_id": "NIbxgfcik4s"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=wGO3nJlq_7U",
+        "type": "youtube_embed",
+        "video_id": "wGO3nJlq_7U"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=2wAHm-fwyvI",
+        "type": "youtube_embed",
+        "video_id": "2wAHm-fwyvI"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=fFpyiiLZaPw",
+        "type": "youtube_embed",
+        "video_id": "fFpyiiLZaPw"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=eZzCgWQP7to",
+        "type": "youtube_embed",
+        "video_id": "eZzCgWQP7to"
+      }
+    ]
+  },
+  "gloo.com": {
+    "page_url": "https://www.gloo.com",
+    "final_url": "https://gloo.com/",
+    "videos": []
+  },
+  "hyro.ai": {
+    "page_url": "https://www.hyro.ai/resources/videos/",
+    "error": "HTTP 403",
+    "videos": []
+  },
+  "ineight.com": {
+    "page_url": "https://www.ineight.com",
+    "final_url": "https://ineight.com/",
+    "videos": []
+  },
+  "agriwebb.com": {
+    "page_url": "https://www.agriwebb.com",
+    "final_url": "https://www.agriwebb.com/",
+    "videos": []
+  },
+  "allflex.global": {
+    "page_url": "https://www.allflex.global/na/downloads/",
+    "final_url": "https://www.allflex.global/na/downloads/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=zrvXiUjs168",
+        "type": "youtube_embed",
+        "video_id": "zrvXiUjs168"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=neSZJshfxkk",
+        "type": "youtube_embed",
+        "video_id": "neSZJshfxkk"
+      }
+    ]
+  },
+  "anomalo.com": {
+    "page_url": "https://www.anomalo.com",
+    "final_url": "https://www.anomalo.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=YJRS6QBdkKg",
+        "type": "youtube_embed",
+        "video_id": "YJRS6QBdkKg"
+      }
+    ]
+  },
+  "getbridge.com": {
+    "page_url": "https://www.getbridge.com/",
+    "final_url": "https://www.getbridge.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=vvXiJSfr-hM",
+        "type": "youtube_embed",
+        "video_id": "vvXiJSfr-hM"
+      }
+    ]
+  },
+  "dashword.com": {
+    "page_url": "https://www.dashword.com",
+    "final_url": "https://www.dashword.com/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/773100060",
+        "type": "vimeo",
+        "video_id": "773100060"
+      }
+    ]
+  },
+  "everwebinar.com": {
+    "page_url": "https://www.everwebinar.com",
+    "final_url": "https://everwebinar.com/",
+    "videos": []
+  },
+  "go.arcoro.com": {
+    "page_url": "https://go.arcoro.com/exaktime/demo-videos",
+    "final_url": "https://go.arcoro.com/exaktime/demo-videos",
+    "videos": []
+  },
+  "gpstrackit.com": {
+    "page_url": "https://www.gpstrackit.com",
+    "error": "HTTP 403",
+    "videos": []
+  },
+  "issuetrak.com": {
+    "page_url": "https://www.issuetrak.com",
+    "final_url": "https://www.issuetrak.com/",
+    "videos": []
+  },
+  "aivo.co": {
+    "page_url": "https://www.aivo.co/blog/video-conversational-ai-the-first-step-towards-the-metaverse",
+    "final_url": "https://www.aivo.co/blog/video-conversational-ai-the-first-step-towards-the-metaverse",
+    "videos": []
+  },
+  "assembled.com": {
+    "page_url": "https://www.assembled.com",
+    "final_url": "https://www.assembled.com/",
+    "videos": []
+  },
+  "bigtime.net": {
+    "page_url": "https://www.bigtime.net/blogs/bigtime-wallet-demo/",
+    "final_url": "https://www.bigtime.net/blogs/bigtime-wallet-demo/",
+    "videos": [
+      {
+        "url": "https://vimeo.com/1021024213",
+        "type": "vimeo",
+        "video_id": "1021024213"
+      }
+    ]
+  },
+  "advids.co": {
+    "page_url": "https://advids.co/blog/software-demo-overview-video",
+    "final_url": "https://advids.co/blog/software-demo-overview-video",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=Kgtia9fGAKs",
+        "type": "youtube_embed",
+        "video_id": "Kgtia9fGAKs"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=NoyCnWbKKEU",
+        "type": "youtube_embed",
+        "video_id": "NoyCnWbKKEU"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=X5O4Xr9_vOg",
+        "type": "youtube_embed",
+        "video_id": "X5O4Xr9_vOg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=cGuh5XAdowg",
+        "type": "youtube_embed",
+        "video_id": "cGuh5XAdowg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=QGvNfGu_dio",
+        "type": "youtube_embed",
+        "video_id": "QGvNfGu_dio"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ESjj5Q7uC5I",
+        "type": "youtube_embed",
+        "video_id": "ESjj5Q7uC5I"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=QD-zYBoj7E0",
+        "type": "youtube_embed",
+        "video_id": "QD-zYBoj7E0"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=sHQCcmgciCc",
+        "type": "youtube_embed",
+        "video_id": "sHQCcmgciCc"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=eiLlciXvpPk",
+        "type": "youtube_embed",
+        "video_id": "eiLlciXvpPk"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Q4XVTZMHP3s",
+        "type": "youtube_embed",
+        "video_id": "Q4XVTZMHP3s"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=p8LlFe4v_D8",
+        "type": "youtube_embed",
+        "video_id": "p8LlFe4v_D8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=BCeKGj-WT1o",
+        "type": "youtube_embed",
+        "video_id": "BCeKGj-WT1o"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=bc4PWLxFiIU",
+        "type": "youtube_embed",
+        "video_id": "bc4PWLxFiIU"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=fC9XnpI8ahk",
+        "type": "youtube_embed",
+        "video_id": "fC9XnpI8ahk"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=wYPqGF5dHPA",
+        "type": "youtube_embed",
+        "video_id": "wYPqGF5dHPA"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=XEqh9t04wj0",
+        "type": "youtube_embed",
+        "video_id": "XEqh9t04wj0"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=c8g69iUCVZQ",
+        "type": "youtube_embed",
+        "video_id": "c8g69iUCVZQ"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=2awcKBgsPw0",
+        "type": "youtube_embed",
+        "video_id": "2awcKBgsPw0"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=dUx-LeAFWoY",
+        "type": "youtube_embed",
+        "video_id": "dUx-LeAFWoY"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=lQHNducx3do",
+        "type": "youtube_embed",
+        "video_id": "lQHNducx3do"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=hb2ieC-m8lw",
+        "type": "youtube_embed",
+        "video_id": "hb2ieC-m8lw"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=gX1xE3JtVAU",
+        "type": "youtube_embed",
+        "video_id": "gX1xE3JtVAU"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=oFVpH0CrLuw",
+        "type": "youtube_embed",
+        "video_id": "oFVpH0CrLuw"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=f7WjgCEyrV8",
+        "type": "youtube_embed",
+        "video_id": "f7WjgCEyrV8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=GwVF3Mf3zY8",
+        "type": "youtube_embed",
+        "video_id": "GwVF3Mf3zY8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=GoJsUEEtvOQ",
+        "type": "youtube_embed",
+        "video_id": "GoJsUEEtvOQ"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=AO5iO0ULlcI",
+        "type": "youtube_embed",
+        "video_id": "AO5iO0ULlcI"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=qOgM5tAvBv0",
+        "type": "youtube_embed",
+        "video_id": "qOgM5tAvBv0"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Ftf-a5mZASQ",
+        "type": "youtube_embed",
+        "video_id": "Ftf-a5mZASQ"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=zKsvds3nYLM",
+        "type": "youtube_embed",
+        "video_id": "zKsvds3nYLM"
+      }
+    ]
+  },
+  "clientsuccess.com": {
+    "page_url": "https://www.clientsuccess.com",
+    "final_url": "https://www.clientsuccess.com/",
+    "videos": []
+  },
+  "codat.io": {
+    "page_url": "https://codat.io/",
+    "final_url": "https://codat.io/",
+    "videos": []
+  },
+  "condens.io": {
+    "page_url": "https://condens.io/help/-/getting-started/",
+    "final_url": "https://condens.io/help/-/getting-started/",
+    "videos": []
+  },
+  "disco.co": {
+    "page_url": "https://www.disco.co/demo-preview",
+    "videos": [],
+    "method": "headless"
+  },
+  "dragapp.com": {
+    "page_url": "https://www.dragapp.com/watch-demo/",
+    "final_url": "https://www.dragapp.com/watch-demo/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=Ogb0cdt606I",
+        "type": "youtube_embed",
+        "video_id": "Ogb0cdt606I"
+      }
+    ]
+  },
+  "dundas.com": {
+    "page_url": "https://www.dundas.com/resources/videos/how-to-build-a-dashboard",
+    "final_url": "https://www.dundas.com/resources/videos/how-to-build-a-dashboard",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=JBXhsQ5HnW8",
+        "type": "youtube_embed",
+        "video_id": "JBXhsQ5HnW8"
+      }
+    ]
+  },
+  "featurespace.com": {
+    "page_url": "https://www.featurespace.com",
+    "final_url": "https://www.featurespace.com/",
+    "videos": []
+  },
+  "gladia.io": {
+    "page_url": "https://www.gladia.io/",
+    "final_url": "https://www.gladia.io/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=toAcpe0LSpI",
+        "type": "youtube_embed",
+        "video_id": "toAcpe0LSpI"
+      }
+    ]
+  },
+  "greyorange.com": {
+    "page_url": "https://www.greyorange.com",
+    "final_url": "https://www.greyorange.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=vK1qNh0P6fU",
+        "type": "youtube_embed",
+        "video_id": "vK1qNh0P6fU"
+      }
+    ]
+  },
+  "6river.com": {
+    "page_url": "https://6river.com/wp-content/uploads/2018/05/526396c930f2cf8c0e18eb4af4e08db02eebcbe2.12.pdf",
+    "final_url": "https://6river.com/wp-content/uploads/2018/05/526396c930f2cf8c0e18eb4af4e08db02eebcbe2.12.pdf",
+    "videos": []
+  },
+  "bigcontacts.com": {
+    "page_url": "https://www.bigcontacts.com",
+    "final_url": "https://www.bigcontacts.com/",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=ssnCG-dTX0c",
+        "type": "youtube_embed",
+        "video_id": "ssnCG-dTX0c"
+      }
+    ]
+  },
+  "blackkite.com": {
+    "page_url": "https://www.blackkite.com",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=xlnCtwqvGHI",
+        "type": "youtube_embed",
+        "video_id": "xlnCtwqvGHI"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=m8rZjMII264",
+        "type": "youtube_embed",
+        "video_id": "m8rZjMII264"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=0Oju2gq6dzg",
+        "type": "youtube_embed",
+        "video_id": "0Oju2gq6dzg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=KqmVJRlpPIU",
+        "type": "youtube_embed",
+        "video_id": "KqmVJRlpPIU"
+      }
+    ],
+    "method": "headless"
+  },
+  "calamari.io": {
+    "page_url": "https://www.calamari.io/",
+    "final_url": "https://www.calamari.io/",
+    "videos": []
+  },
+  "waydev.co": {
+    "page_url": "https://waydev.co/codeclimate-alternatives/",
+    "final_url": "https://waydev.co/codeclimate-alternatives/",
+    "videos": []
+  },
+  "https://beacons.ai/": {
+    "page_url": "https://www.beacons.com",
+    "error": "HTTPSConnectionPool(host='www.beacons.com', port=443): Max retries exceeded with url: / (Caused by N",
+    "videos": []
+  },
+  "https://imagekit.io/": {
+    "page_url": "https://www.imagekit.com",
+    "final_url": "https://www.imagekit.com/",
+    "videos": []
+  },
+  "https://codefresh.io/": {
+    "page_url": "https://www.codefresh.com",
+    "error": "HTTPSConnectionPool(host='www.codefresh.com', port=443): Max retries exceeded with url: / (Caused by",
+    "videos": []
+  },
+  "https://countly.com/": {
+    "page_url": "https://countly.net/",
+    "final_url": "https://countly.net/",
+    "videos": []
+  },
+  "https://farm.bot/": {
+    "page_url": "https://www.farmbot.com",
+    "error": "HTTPSConnectionPool(host='www.farmbot.com', port=443): Max retries exceeded with url: / (Caused by N",
+    "videos": []
+  },
+  "https://www.cashflow-manager.com.au/": {
+    "page_url": "https://www.cashflowmanager.com",
+    "error": "HTTPSConnectionPool(host='www.cashflowmanager.com', port=443): Max retries exceeded with url: / (Cau",
+    "videos": []
+  },
+  "https://floatapp.com/": {
+    "page_url": "https://www.floatcashflow.com",
+    "error": "HTTPSConnectionPool(host='www.floatcashflow.com', port=443): Max retries exceeded with url: / (Cause",
+    "videos": []
+  }
+}

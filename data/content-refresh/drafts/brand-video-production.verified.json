@@ -1,0 +1,303 @@
+{
+  "slug": "brand-video-production",
+  "page_brand": null,
+  "total_findings": 16,
+  "by_severity": {
+    "unconfirmed": 6,
+    "likely": 3,
+    "needs_check": 7
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Henriksen](https://www.synthesia.io/blog/authors/elly-henriksen) February 21, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        282,
+        294
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "A marketer's guide to brand video production in 2025",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ AI avatars",
+      "context": "below. It comes with text-to-speech in [120+ languages](https://www.synthesia.io/features/languages), [160+ AI avatars](https://www.synthesia.io/features/avatars) (digital doubles of real actors), and professional [video",
+      "span": [
+        15472,
+        15487
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Create professional branded content fast with AI",
+        "heading_level": 2,
+        "line": 199
+      },
+      "sentence": "It comes with text-to-speech in [120+ languages](https://www.synthesia.io/features/languages), [160+ AI avatars](https://www.synthesia.io/features/avatars) (digital doubles of real actors), and professional [video templates](https://www.synthesia.io/templates) you can fully customize to reflect your brand.",
+      "severity": "likely",
+      "title": "Synthesia avatars count slightly stale (160+ vs 240+)",
+      "suggested_fix": "Synthesia now advertises **240+ avatars** on the homepage. Worth refreshing '160+ avatars' → '240+ avatars' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Henriksen](https://www.synthesia.io/blog/authors/elly-henriksen) February 21, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        298,
+        312
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "A marketer's guide to brand video production in 2025",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "120+ languages",
+      "context": "maker that turns text into engaging brand videos like the one below. It comes with text-to-speech in [120+ languages](https://www.synthesia.io/features/languages), [160+ AI avatars](https://www.synthesia.io/features/avatars)",
+      "span": [
+        15409,
+        15423
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "120+"
+      },
+      "location": {
+        "heading": "Create professional branded content fast with AI",
+        "heading_level": 2,
+        "line": 199
+      },
+      "sentence": "It comes with text-to-speech in [120+ languages](https://www.synthesia.io/features/languages), [160+ AI avatars](https://www.synthesia.io/features/avatars) (digital doubles of real actors), and professional [video templates](https://www.synthesia.io/templates) you can fully customize to reflect your brand.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (120+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '120+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        16681,
+        16695
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Ready to click that CTA and try a free demo?",
+        "heading_level": 2,
+        "line": 219
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "title",
+      "text": "2025",
+      "context": "A marketer's guide to brand video production in 2025",
+      "span": [
+        50,
+        54
+      ],
+      "meta": {
+        "subtype": "dated_title_year",
+        "ref_year": 2025,
+        "months_old": 15
+      },
+      "location": {
+        "heading": "A marketer's guide to brand video production in 2025",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "A marketer's guide to brand video production in 2025",
+      "title": "Title references outdated year (2025)",
+      "suggested_fix": "Title contains the year '2025' which is no longer current (today is 2026). Update to the current year or drop the year stamp so the article doesn't need annual renames.",
+      "severity": "likely",
+      "source": "",
+      "source_note": "Detected from H1."
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "video _and_ storytelling. They make your content more impactful, giving you a higher ROI. In fact, [90%](https://www.wyzowl.com/video-marketing-statistics/) of video marketers say video has helped them increase",
+      "span": [
+        3438,
+        3441
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Why create a brand video?",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "In fact, [90%](https://www.wyzowl.com/video-marketing-statistics/) of video marketers say video has helped them increase brand awareness and 39% attribute ROI to brand awareness metrics.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '90%'",
+      "suggested_fix": "Stat reference: `90%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "39%",
+      "context": "[90%](https://www.wyzowl.com/video-marketing-statistics/) of video marketers say video has helped them increase brand awareness and 39% attribute ROI to brand awareness metrics. A strong brand attracts more customers while reducing the",
+      "span": [
+        3569,
+        3572
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Why create a brand video?",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "In fact, [90%](https://www.wyzowl.com/video-marketing-statistics/) of video marketers say video has helped them increase brand awareness and 39% attribute ROI to brand awareness metrics.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '39%'",
+      "suggested_fix": "Stat reference: `39%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2025",
+      "context": "# A marketer's guide to brand video production in 2025 ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/65e89895c5a4b8d764c0f792_Elly.webp)",
+      "span": [
+        47,
+        54
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "A marketer's guide to brand video production in 2025",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "A marketer's guide to brand video production in 2025",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2025'",
+      "suggested_fix": "Stat reference: `in 2025`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.messimessages.com/za/index.html",
+      "context": "",
+      "span": [
+        13292,
+        13335
+      ],
+      "meta": {
+        "domain": "www.messimessages.com",
+        "anchor": "brand video chatbot"
+      },
+      "location": {
+        "heading": "Tip 6: Include interactive elements",
+        "heading_level": 3,
+        "line": 171
+      },
+      "sentence": "Check out this [brand video chatbot](https://www.messimessages.com/za/index.html) that Lays did in partnership with Messi, a famous Argentinian soccer player.",
+      "severity": "confirmed",
+      "title": "Dead link (unreachable)",
+      "suggested_fix": "Link is unreachable (no HTTP response — DNS failure, refused connection, or site is down). Remove or replace.",
+      "source": "",
+      "source_note": "HEAD status: 000"
+    },
+    {
+      "type": "link",
+      "text": "https://twitter.com/JamesCleverly/status/1720335352940949970?ref_src=twsrc%5Etfw",
+      "context": "",
+      "span": [
+        14098,
+        14178
+      ],
+      "meta": {
+        "domain": "twitter.com",
+        "anchor": "November 3, 2023"
+      },
+      "location": {
+        "heading": "Tip 7: Leverage user-generated content",
+        "heading_level": 3,
+        "line": 183
+      },
+      "sentence": "[pic.twitter.com/kKO4vOstXB](https://t.co/kKO4vOstXB) > > — James Cleverly🇬🇧 (@JamesCleverly) [November 3, 2023](https://twitter.com/JamesCleverly/status/1720335352940949970?ref_src=twsrc%5Etfw)",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "twitter.com blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/ellynhenriksen/",
+      "context": "",
+      "span": [
+        40674,
+        42029
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (999)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 999). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 999"
+    }
+  ]
+}

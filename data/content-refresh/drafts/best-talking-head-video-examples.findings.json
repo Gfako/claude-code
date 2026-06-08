@@ -1,0 +1,87 @@
+{
+  "counts": {
+    "feature": 2,
+    "link": 2
+  },
+  "total": 4,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) January 22, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        279,
+        291
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "14 Best Talking Head Video Examples (+Editable Templates)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) January 22, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [Talking",
+      "span": [
+        295,
+        309
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "14 Best Talking Head Video Examples (+Editable Templates)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "link",
+      "text": "https://www.masterclass.com/articles/what-is-three-point-lighting-learn-about-the-lighting-technique-and-tips-for-the-best-three-point-lighting-setups",
+      "context": "",
+      "span": [
+        10541,
+        10691
+      ],
+      "meta": {
+        "domain": "www.masterclass.com",
+        "anchor": "3-point lighting."
+      },
+      "location": {
+        "heading": "**\\#3: Lighting is the difference between amateur and expert**",
+        "heading_level": 3,
+        "line": 146
+      },
+      "sentence": "While you can also include natural lighting in your setup, make sure that you soften all shadows from your light sources using the principle of [3-point lighting.](https://www.masterclass.com/articles/what-is-three-point-lighting-learn-about-the-lighting-technique-and-tips-for-the-best-three-point-lighting-setups)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kyleodefey/",
+      "context": "",
+      "span": [
+        33082,
+        34433
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

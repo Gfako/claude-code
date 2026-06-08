@@ -1,0 +1,226 @@
+{
+  "slug": "ai-speech-technologies-for-user-experiences",
+  "page_brand": null,
+  "total_findings": 15,
+  "by_severity": {
+    "unconfirmed": 7,
+    "needs_check": 8
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) April 25, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        290,
+        302
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "9 ways AI speech technologies are revolutionizing user experiences",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) April 25, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        306,
+        320
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "9 ways AI speech technologies are revolutionizing user experiences",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        11405,
+        11419
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "The Future of Interaction: AI Speech Technologies",
+        "heading_level": 2,
+        "line": 133
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "85%",
+      "context": "understanding and kind. Research indicates that AI can classify emotional states with an accuracy rate of up to 85% by analyzing vocal patterns. ## 3\\. Multilingual support As globalization accelerates, AI speech",
+      "span": [
+        3826,
+        3829
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "2\\. Emotion recognition",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "Research indicates that AI can classify emotional states with an accuracy rate of up to 85% by analyzing vocal patterns.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '85%'",
+      "suggested_fix": "Stat reference: `85%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "protect user data. [Voice biometric solutions](https://www.pindrop.com/) can reduce fraud by up to 90%, highlighting the security benefits of this technology in protecting user data. ## 5\\. Seamless multimodal",
+      "span": [
+        4748,
+        4751
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "4\\. Voice biometrics for enhanced security",
+        "heading_level": 2,
+        "line": 65
+      },
+      "sentence": "[Voice biometric solutions](https://www.pindrop.com/) can reduce fraud by up to 90%, highlighting the security benefits of this technology in protecting user data.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '90%'",
+      "suggested_fix": "Stat reference: `90%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "and environments. Continuous learning algorithms have shown a potential performance [improvement of 40%](https://www.nature.com/articles/s42256-019-0080-x) over time, underscoring the adaptive learning capability",
+      "span": [
+        6953,
+        6956
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "9\\. Continuous learning and adaptation",
+        "heading_level": 2,
+        "line": 85
+      },
+      "sentence": "Continuous learning algorithms have shown a potential performance [improvement of 40%](https://www.nature.com/articles/s42256-019-0080-x) over time, underscoring the adaptive learning capability of AI speech interfaces.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '40%'",
+      "suggested_fix": "Stat reference: `40%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "by 2024",
+      "context": "devices](https://www.statista.com/statistics/973815/worldwide-digital-voice-assistant-in-use/) in use by 2024. ## 8\\. AI speech in customer service AI speech technologies are revolutionizing customer service",
+      "span": [
+        6197,
+        6204
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "7\\. Voice-activated IoT devices",
+        "heading_level": 2,
+        "line": 77
+      },
+      "sentence": "The proliferation of voice-assisted devices is evident, with forecasts predicting over [8.4 billion devices](https://www.statista.com/statistics/973815/worldwide-digital-voice-assistant-in-use/) in use by 2024.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'by 2024'",
+      "suggested_fix": "Stat reference: `by 2024`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://promotions.bankofamerica.com/digitalbanking/mobilebanking/erica",
+      "context": "",
+      "span": [
+        6448,
+        6519
+      ],
+      "meta": {
+        "domain": "promotions.bankofamerica.com",
+        "anchor": "Erica"
+      },
+      "location": {
+        "heading": "8\\. AI speech in customer service",
+        "heading_level": 2,
+        "line": 81
+      },
+      "sentence": "Bank of America’s virtual assistant, [Erica](https://promotions.bankofamerica.com/digitalbanking/mobilebanking/erica), uses AI speech technology to assist customers with banking tasks, proving the efficiency of AI in improving customer service interactions.",
+      "severity": "confirmed",
+      "title": "Dead link (404)",
+      "suggested_fix": "Link returns 404. Remove or replace.",
+      "source": "",
+      "source_note": "HEAD status: 404"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        32481,
+        33833
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

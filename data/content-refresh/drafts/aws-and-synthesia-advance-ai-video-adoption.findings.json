@@ -1,0 +1,107 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 1,
+    "link": 1
+  },
+  "total": 5,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Tjerrild](https://www.synthesia.io/blog/authors/steffen-tjerrild) September 17, 2025 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        310,
+        322
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "AWS and Synthesia extend their collaboration to advance AI video adoption",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Tjerrild](https://www.synthesia.io/blog/authors/steffen-tjerrild) September 17, 2025 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        326,
+        340
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "AWS and Synthesia extend their collaboration to advance AI video adoption",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        4762,
+        4776
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Looking ahead",
+        "heading_level": 2,
+        "line": 57
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "since 2017",
+      "context": "scaled through the use of AWS. ## **Synthesia joins AWS Marketplace** We've been scaling with AWS since 2017, making video creation and distribution accessible to our tens of thousands of enterprise customers.",
+      "span": [
+        2159,
+        2169
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "**Synthesia joins AWS Marketplace**",
+        "heading_level": 2,
+        "line": 31
+      },
+      "sentence": "We've been scaling with AWS since 2017, making video creation and distribution accessible to our tens of thousands of enterprise customers."
+    },
+    {
+      "type": "link",
+      "text": "https://aws.amazon.com/marketplace/pp/prodview-4gualii44yjze",
+      "context": "",
+      "span": [
+        2361,
+        2421
+      ],
+      "meta": {
+        "domain": "aws.amazon.com",
+        "anchor": "Synthesia is now available in AWS Marketplace"
+      },
+      "location": {
+        "heading": "**Synthesia joins AWS Marketplace**",
+        "heading_level": 2,
+        "line": 31
+      },
+      "sentence": "As the next step on our journey together, [Synthesia is now available in AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-4gualii44yjze), a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on AWS. The new listing gives enterprises a streamlined way to adopt and scale generative video tools within existing procurement channels."
+    }
+  ]
+}

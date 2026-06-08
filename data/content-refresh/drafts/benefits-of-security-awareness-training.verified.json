@@ -1,0 +1,692 @@
+{
+  "slug": "benefits-of-security-awareness-training",
+  "page_brand": null,
+  "total_findings": 41,
+  "by_severity": {
+    "unconfirmed": 21,
+    "needs_check": 20
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Kevin Alster](https://www.synthesia.io/blog/authors/kevin-alster) June 10, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        270,
+        282
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "9 Vital Benefits of Security Awareness Training",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) June 10, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        286,
+        300
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "9 Vital Benefits of Security Awareness Training",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        18234,
+        18248
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Create engaging and scalable security awareness training with AI",
+        "heading_level": 2,
+        "line": 229
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "25%",
+      "context": "described in Netflix's recent docuseries. These aren't isolated incidents. Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year,",
+      "span": [
+        5607,
+        5610
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year, and the annual average cost of cybercrime is [predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '25%'",
+      "suggested_fix": "Stat reference: `25%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "67%",
+      "context": "[dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year. ## 1\\. You set standard guidelines that reduce the risk of human error [88%](https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error)",
+      "span": [
+        6964,
+        6967
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 81
+      },
+      "sentence": "rs say that thanks to improved security defense, the percentage of deals lost due to perceived inadequacies in a company's cybersecurity posture [dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '67%'",
+      "suggested_fix": "Stat reference: `67%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "38%",
+      "context": "[dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year. ## 1\\. You set standard guidelines that reduce the risk of human error [88%](https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error)",
+      "span": [
+        6971,
+        6974
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 81
+      },
+      "sentence": "that thanks to improved security defense, the percentage of deals lost due to perceived inadequacies in a company's cybersecurity posture [dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '38%'",
+      "suggested_fix": "Stat reference: `38%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "88%",
+      "context": "from 67% to 38% in a year. ## 1\\. You set standard guidelines that reduce the risk of human error [88%](https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error) of security breaches",
+      "span": [
+        7060,
+        7063
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "1\\. You set standard guidelines that reduce the risk of human error",
+        "heading_level": 2,
+        "line": 85
+      },
+      "sentence": "[88%](https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error) of security breaches are caused by employee mistakes, which can be avoided with proper security awareness training.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '88%'",
+      "suggested_fix": "Stat reference: `88%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "80%",
+      "context": "information, minimize risk, and even prevent data breaches. That's why, with phishing attacks alone, [80%](https://www.infosecurity-magazine.com/blogs/employee-cyber-awareness-crisis/) of organizations noticed",
+      "span": [
+        8276,
+        8279
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "2\\. Your routine training prevents data vulnerability",
+        "heading_level": 2,
+        "line": 100
+      },
+      "sentence": "That's why, with phishing attacks alone, [80%](https://www.infosecurity-magazine.com/blogs/employee-cyber-awareness-crisis/) of organizations noticed that their security awareness training program made their employees more vigilant about the peril and less vulnerable to this threat.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '80%'",
+      "suggested_fix": "Stat reference: `80%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "46%",
+      "context": "awareness program trains everyone to keep the castle safe and spot sneaky attackers. Did you know? 🤔 [46%](https://www.terranovasecurity.com/blog/cyber-security-statistics) of all cyber breaches are reported",
+      "span": [
+        9701,
+        9704
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "3\\. Your \"Security posture\" across all departments improves significantly",
+        "heading_level": 2,
+        "line": 122
+      },
+      "sentence": "[46%](https://www.terranovasecurity.com/blog/cyber-security-statistics) of all cyber breaches are reported at companies with less than 1,000 employees.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '46%'",
+      "suggested_fix": "Stat reference: `46%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "industry regulations and standards Non-compliance can be very costly. A McKinsey survey found that [40%](https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-digital-trust-truly-matters) of",
+      "span": [
+        10312,
+        10315
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "4\\. You're always compliant with industry regulations and standards",
+        "heading_level": 2,
+        "line": 135
+      },
+      "sentence": "A McKinsey survey found that [40%](https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-digital-trust-truly-matters) of customers stopped buying from a company after a security breach.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '40%'",
+      "suggested_fix": "Stat reference: `40%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "2%",
+      "context": "less severe violation could [cost](https://drata.com/blog/cost-of-non-compliance) a company either 2% of its worldwide annual revenue or €10 million, whichever is more. Security training brings you closer",
+      "span": [
+        10658,
+        10660
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "4\\. You're always compliant with industry regulations and standards",
+        "heading_level": 2,
+        "line": 135
+      },
+      "sentence": "Additionally, the General Data Protection Regulation (GDPR) says that even a less severe violation could [cost](https://drata.com/blog/cost-of-non-compliance) a company either 2% of its worldwide annual revenue or €10 million, whichever is more.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '2%'",
+      "suggested_fix": "Stat reference: `2%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "45%",
+      "context": "response to security incidents Knowing how to act in a crisis makes all the difference. Yet only [45%](https://frsecure.com/blog/incident-response-statistics-how-do-you-compare/) of companies have an incident",
+      "span": [
+        11251,
+        11254
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "5\\. Awareness speeds up response to security incidents",
+        "heading_level": 2,
+        "line": 143
+      },
+      "sentence": "Yet only [45%](https://frsecure.com/blog/incident-response-statistics-how-do-you-compare/) of companies have an incident response plan.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '45%'",
+      "suggested_fix": "Stat reference: `45%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "sensitive data with employee password management Weak passwords are a common cause of data breaches, with [30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.)",
+      "span": [
+        12235,
+        12238
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "6\\. Protect sensitive data with employee password management",
+        "heading_level": 2,
+        "line": 157
+      },
+      "sentence": "Weak passwords are a common cause of data breaches, with [30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing security incidents because of cracked passwords.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '30%'",
+      "suggested_fix": "Stat reference: `30%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "[30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing",
+      "span": [
+        12355,
+        12358
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "6\\. Protect sensitive data with employee password management",
+        "heading_level": 2,
+        "line": 157
+      },
+      "sentence": "Weak passwords are a common cause of data breaches, with [30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing security incidents because of cracked passwords.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '30%'",
+      "suggested_fix": "Stat reference: `30%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "25%",
+      "context": "[30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing",
+      "span": [
+        12358,
+        12361
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "6\\. Protect sensitive data with employee password management",
+        "heading_level": 2,
+        "line": 157
+      },
+      "sentence": "Weak passwords are a common cause of data breaches, with [30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing security incidents because of cracked passwords.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '25%'",
+      "suggested_fix": "Stat reference: `25%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "65%",
+      "context": "protection, and peace of mind you will increase across all teams and departments. Did you know? 🤔 [65%](https://go.cynet.com/ciso-stress-survey) of Chief Information Security Officers say work-related stress",
+      "span": [
+        15817,
+        15820
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "8\\. You maintain a gold standard of employee safety and wellbeing",
+        "heading_level": 2,
+        "line": 199
+      },
+      "sentence": "[65%](https://go.cynet.com/ciso-stress-survey) of Chief Information Security Officers say work-related stress affects their ability to protect the organization.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '65%'",
+      "suggested_fix": "Stat reference: `65%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "79%",
+      "context": "your CISOs and IT experts dedicated mental health support. ## 9\\. You earn consumers' trust For [79%](https://www.marketingcharts.com/brand-related/brand-metrics-230076) of consumers, data protection",
+      "span": [
+        16082,
+        16085
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "9\\. You earn consumers' trust",
+        "heading_level": 2,
+        "line": 203
+      },
+      "sentence": "For [79%](https://www.marketingcharts.com/brand-related/brand-metrics-230076) of consumers, data protection is the most important factor in trusting a company — more important than fast customer service or consistent experiences.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '79%'",
+      "suggested_fix": "Stat reference: `79%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "In 2023",
+      "context": "## The importance of security awareness Preventing cyberattacks is easier than fixing their damage. In 2023, two Danish hosting providers [lost all customer data](https://techmonitor.ai/technology/cybersecurity/ransomware-attack-on-cloudnordic-azerocloud-loses-all-data)",
+      "span": [
+        4939,
+        4946
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "In 2023, two Danish hosting providers [lost all customer data](https://techmonitor.ai/technology/cybersecurity/ransomware-attack-on-cloudnordic-azerocloud-loses-all-data) to a ransomware attack and had to shut down.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'In 2023'",
+      "suggested_fix": "Stat reference: `In 2023`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "by 2027",
+      "context": "[predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022. Ignoring the importance of cybersecurity training and its impact on",
+      "span": [
+        5929,
+        5936
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year, and the annual average cost of cybercrime is [predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'by 2027'",
+      "suggested_fix": "Stat reference: `by 2027`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2022",
+      "context": "[predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022. Ignoring the importance of cybersecurity training and its impact on security awareness can lead to",
+      "span": [
+        5960,
+        5967
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year, and the annual average cost of cybercrime is [predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2022'",
+      "suggested_fix": "Stat reference: `in 2022`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "6.9 million users",
+      "context": "to a ransomware attack and had to shut down. Similarly, 23andMe faced a major data breach affecting 6.9 million users, resulting in multiple [class action lawsuits](https://www.bleepingcomputer.com/news/security/23andme-hit-with-lawsuits-after-hacker-leaks-stolen-genetics-data/).",
+      "span": [
+        5210,
+        5227
+      ],
+      "meta": {
+        "subtype": "large_magnitude"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "Similarly, 23andMe faced a major data breach affecting 6.9 million users, resulting in multiple [class action lawsuits](https://www.bleepingcomputer.com/news/security/23andme-hit-with-lawsuits-after-hacker-leaks-stolen-genetics-data/).",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '6.9 million users'",
+      "suggested_fix": "Stat reference: `6.9 million users`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/",
+      "context": "",
+      "span": [
+        5612,
+        5700
+      ],
+      "meta": {
+        "domain": "www.skyboxsecurity.com",
+        "anchor": "25%"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year, and the annual average cost of cybercrime is [predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022.",
+      "severity": "confirmed",
+      "title": "Dead link (404)",
+      "suggested_fix": "Link returns 404. Remove or replace.",
+      "source": "",
+      "source_note": "HEAD status: 404"
+    },
+    {
+      "type": "link",
+      "text": "https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE",
+      "context": "",
+      "span": [
+        6619,
+        6957
+      ],
+      "meta": {
+        "domain": "logrhythm.com",
+        "anchor": "dropped"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 81
+      },
+      "sentence": "Business leaders say that thanks to improved security defense, the percentage of deals lost due to perceived inadequacies in a company's cybersecurity posture [dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year.",
+      "severity": "confirmed",
+      "title": "Dead link (404)",
+      "suggested_fix": "Link returns 404. Remove or replace.",
+      "source": "",
+      "source_note": "HEAD status: 404"
+    },
+    {
+      "type": "link",
+      "text": "https://www.terranovasecurity.com/blog/cyber-security-statistics",
+      "context": "",
+      "span": [
+        9706,
+        9770
+      ],
+      "meta": {
+        "domain": "www.terranovasecurity.com",
+        "anchor": "46%"
+      },
+      "location": {
+        "heading": "3\\. Your \"Security posture\" across all departments improves significantly",
+        "heading_level": 2,
+        "line": 122
+      },
+      "sentence": "[46%](https://www.terranovasecurity.com/blog/cyber-security-statistics) of all cyber breaches are reported at companies with less than 1,000 employees.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-digital-trust-truly-matters",
+      "context": "",
+      "span": [
+        10317,
+        10412
+      ],
+      "meta": {
+        "domain": "www.mckinsey.com",
+        "anchor": "40%"
+      },
+      "location": {
+        "heading": "4\\. You're always compliant with industry regulations and standards",
+        "heading_level": 2,
+        "line": 135
+      },
+      "sentence": "A McKinsey survey found that [40%](https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-digital-trust-truly-matters) of customers stopped buying from a company after a security breach.",
+      "severity": "confirmed",
+      "title": "Dead link (unreachable)",
+      "suggested_fix": "Link is unreachable (no HTTP response — DNS failure, refused connection, or site is down). Remove or replace.",
+      "source": "",
+      "source_note": "HEAD status: 000"
+    },
+    {
+      "type": "link",
+      "text": "https://drata.com/blog/cost-of-non-compliance",
+      "context": "",
+      "span": [
+        10594,
+        10639
+      ],
+      "meta": {
+        "domain": "drata.com",
+        "anchor": "cost"
+      },
+      "location": {
+        "heading": "4\\. You're always compliant with industry regulations and standards",
+        "heading_level": 2,
+        "line": 135
+      },
+      "sentence": "Additionally, the General Data Protection Regulation (GDPR) says that even a less severe violation could [cost](https://drata.com/blog/cost-of-non-compliance) a company either 2% of its worldwide annual revenue or €10 million, whichever is more.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.marketingcharts.com/brand-related/brand-metrics-230076",
+      "context": "",
+      "span": [
+        16087,
+        16153
+      ],
+      "meta": {
+        "domain": "www.marketingcharts.com",
+        "anchor": "79%"
+      },
+      "location": {
+        "heading": "9\\. You earn consumers' trust",
+        "heading_level": 2,
+        "line": 203
+      },
+      "sentence": "For [79%](https://www.marketingcharts.com/brand-related/brand-metrics-230076) of consumers, data protection is the most important factor in trusting a company — more important than fast customer service or consistent experiences.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=EUR_EEUR_GEN&amp;utm_content=SecurityTeam&amp;utm_term=cyber%20security%20protection&amp;utm_program=EURcpc&amp;gad_source=1&amp;gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE",
+      "context": "",
+      "span": [
+        25220,
+        25608
+      ],
+      "meta": {
+        "domain": "logrhythm.com",
+        "anchor": "dropped"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "confirmed",
+      "title": "Dead link (404)",
+      "suggested_fix": "Link returns 404. Remove or replace.",
+      "source": "",
+      "source_note": "HEAD status: 404"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        43954,
+        45306
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

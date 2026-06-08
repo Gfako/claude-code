@@ -1,0 +1,3278 @@
+[
+  {
+    "email": "cooper.savage@vimeo.com",
+    "first_name": "Cooper",
+    "last_name": "Savage",
+    "company": "Vimeo",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://vimeo.com/blog/post/video-content-marketing-strategy",
+      "article_topic": "Video content marketing strategy guide \u2014 types of videos, distribution platforms, best practices",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "kelsie.rusnak@shopify.com",
+    "first_name": "Kelsie",
+    "last_name": "Rusnak",
+    "company": "Shopify",
+    "position": "Partner Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://www.shopify.com/blog/content-localization",
+      "article_topic": "How to create a content localization strategy for international ecommerce growth",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "leo@userway.org",
+    "first_name": "Leo",
+    "last_name": "Perez",
+    "company": "UserWay",
+    "position": "Support Engineer",
+    "custom_fields": {
+      "article_url": "https://userway.org/blog/accessible-videos/",
+      "article_topic": "Guide to making videos accessible \u2014 WCAG standards, ADA compliance, 10 tips",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "karly.gelardi@zapier.com",
+    "first_name": "Karly",
+    "last_name": "Gelardi",
+    "company": "Zapier",
+    "position": "Chief of Staff",
+    "custom_fields": {
+      "article_url": "https://zapier.com/blog/best-ai-video-generator/",
+      "article_topic": "Roundup of 18 best AI video generators in 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak_for_translator",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "erinmcinrue-savage@activecampaign.com",
+    "first_name": "Erin",
+    "last_name": "McInrue Savage",
+    "company": "ActiveCampaign",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://www.activecampaign.com/blog/localized-marketing",
+      "article_topic": "6-step blueprint for building localized marketing campaigns across global markets",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "gertron@yoast.com",
+    "first_name": "Gertron",
+    "last_name": "Jan\u00dfen",
+    "company": "Yoast",
+    "position": "Facility Assistant",
+    "custom_fields": {
+      "article_url": "https://yoast.com/hreflang-ultimate-guide/",
+      "article_topic": "Technical guide to implementing hreflang tags for multilingual websites",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "neil@neilpatel.com",
+    "first_name": "Neil",
+    "last_name": "Patel",
+    "company": "Neil Patel",
+    "position": "Marketing And Sales",
+    "custom_fields": {
+      "article_url": "https://neilpatel.com/blog/how-to-international-seo/",
+      "article_topic": "Comprehensive guide to international SEO \u2014 targeting global audiences, URL structures, content localization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "adaline.colton@deepl.com",
+    "first_name": "Adaline",
+    "last_name": "Colton",
+    "company": "DeepL",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://www.deepl.com/en/blog/deepl-articulate-localized-workplace-learning",
+      "article_topic": "DeepL + Articulate partnership for localizing workplace e-learning training",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "caroline.wiemann@on24.com",
+    "first_name": "Caroline",
+    "last_name": "Wiemann",
+    "company": "ON24",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://www.on24.com/blog/how-to-repurpose-your-webinar-series-content/",
+      "article_topic": "Comprehensive guide on repurposing webinar content into blogs, videos, podcasts, courses",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "mnesmith@bamboohr.com",
+    "first_name": "Matthew",
+    "last_name": "NeSmith",
+    "company": "BambooHR",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://www.bamboohr.com/blog/compliance-training",
+      "article_topic": "What compliance training is, why it matters, and how to build a program",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "jgrenier@articulate.com",
+    "first_name": "Justin",
+    "last_name": "Grenier",
+    "company": "Articulate",
+    "position": "Vice President of Client Services",
+    "custom_fields": {
+      "article_url": "https://www.articulate.com/blog/multilingual-onboarding-why-you-need-it-and-how-to-do-it/",
+      "article_topic": "Why multilingual onboarding matters and how to implement it \u2014 4 reasons + 4 implementation steps",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "elizabeth@weglot.com",
+    "first_name": "Elizabeth",
+    "last_name": "Pokorny",
+    "company": "Weglot",
+    "position": "Head of Content",
+    "custom_fields": {
+      "article_url": "https://www.weglot.com/blog/content-localization",
+      "article_topic": "Building a content localization strategy \u2014 steps, best practices, website focus",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "neha.khawas@contentful.com",
+    "first_name": "Neha",
+    "last_name": "Khawas",
+    "company": "Contentful",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://www.contentful.com/blog/multilingual-content-marketing/",
+      "article_topic": "Multilingual content marketing at scale \u2014 translation vs localization, AI tools, structured content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "s.powers@techsmith.com",
+    "first_name": "Sherri",
+    "last_name": "Powers",
+    "company": "TechSmith",
+    "position": "Vice President of Marketing",
+    "custom_fields": {
+      "article_url": "https://www.techsmith.com/blog/videos-for-customer-connection/",
+      "article_topic": "How video builds customer connections \u2014 personalization, trust, global reach, translation",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "yuliia@crowdin.com",
+    "first_name": "Yuliia",
+    "last_name": "Makarenko",
+    "company": "Crowdin",
+    "position": "Partnership Manager",
+    "custom_fields": {
+      "article_url": "https://crowdin.com/blog/content-localization",
+      "article_topic": "Content localization best practices \u2014 strategy, cultural adaptation, tools, implementation guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "ben@aioseo.com",
+    "first_name": "Ben",
+    "last_name": "Rojas",
+    "company": "AIOSEO",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://aioseo.com/the-beginners-guide-to-wordpress-multilingual-seo/",
+      "article_topic": "WordPress multilingual SEO guide \u2014 plugins, hreflang, translation, keyword research",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "lorelei.trisca@deel.com",
+    "first_name": "Lorelei",
+    "last_name": "Trisca",
+    "company": "Deel",
+    "position": "Content Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://www.deel.com/blog/companies-best-onboarding-programs/",
+      "article_topic": "11 companies with best onboarding programs \u2014 Zapier, Buffer, Google, Netflix, Spotify, etc.",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "shannon.adams@oysterhr.com",
+    "first_name": "Shannon",
+    "last_name": "Adams",
+    "company": "Oyster HR",
+    "position": "Senior Sales Executive",
+    "custom_fields": {
+      "article_url": "https://www.oysterhr.com/library/onboarding-best-practices",
+      "article_topic": "10 onboarding best practices \u2014 preboarding, personalization, goals, automation, feedback",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "adumont@globalization-partners.com",
+    "first_name": "Andrea",
+    "last_name": "Dumont",
+    "company": "G-P",
+    "position": "Vp Marketing",
+    "custom_fields": {
+      "article_url": "https://www.globalization-partners.com/blog/tips-for-onboarding-international-employees/",
+      "article_topic": "Tips for onboarding international employees globally \u2014 local adaptation, compliance, AI tools",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "jgrenier@articulate.com",
+    "first_name": "Justin",
+    "last_name": "Grenier",
+    "company": "Articulate",
+    "position": "Vice President of Client Services",
+    "custom_fields": {
+      "article_url": "https://community.articulate.com/blog/articles/e-learning-localization-best-practices/1220822",
+      "article_topic": "E-Learning Localization Best Practices",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "tetiana@learnworlds.com",
+    "first_name": "Tetiana",
+    "last_name": "Stuzhna",
+    "company": "LearnWorlds",
+    "position": "Director of Demand Generation",
+    "custom_fields": {
+      "article_url": "https://www.learnworlds.com/blog/customer-education/customer-education-strategy/",
+      "article_topic": "Customer education strategy: Scaling success",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "maria@transifex.com",
+    "first_name": "Maria",
+    "last_name": "Araka",
+    "company": "Transifex",
+    "position": "HR Business Partner",
+    "custom_fields": {
+      "article_url": "https://www.transifex.com/blog/how-to-automate-multilingual-video-at-the-speed-of-localization",
+      "article_topic": "How to Automate Multilingual Video",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "alex.valdez@streamyard.com",
+    "first_name": "Alex",
+    "last_name": "Valdez",
+    "company": "StreamYard",
+    "position": "Technical Support Manager",
+    "custom_fields": {
+      "article_url": "https://streamyard.com/blog/repurpose-video-content-ai-streamyard",
+      "article_topic": "How to Repurpose Video Content With AI",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "eylon.cohen@kaltura.com",
+    "first_name": "Eylon",
+    "last_name": "Cohen",
+    "company": "Kaltura",
+    "position": "Senior Vice President of Sales",
+    "custom_fields": {
+      "article_url": "https://corp.kaltura.com/blog/saas-video-marketing-strategy-for-growth-examples-and-video-types/",
+      "article_topic": "SaaS video marketing strategy for growth",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "alexander@clipchamp.com",
+    "first_name": "Alexander",
+    "last_name": "Dreiling",
+    "company": "Clipchamp",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://clipchamp.com/en/blog/video-based-knowledge-remote-teams/",
+      "article_topic": "Share knowledge with remote teams using videos",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "dan@payproglobal.com",
+    "first_name": "Dan",
+    "last_name": "Ilovan",
+    "company": "PayPro Global",
+    "position": "Chief Marketing Officer",
+    "custom_fields": {
+      "article_url": "https://payproglobal.com/how-to/expand-saas-business-internationally/",
+      "article_topic": "How to Expand SaaS Business Internationally",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "renee.daly@panopto.com",
+    "first_name": "Renee",
+    "last_name": "West",
+    "company": "Panopto",
+    "position": "Director of Revenue Operations",
+    "custom_fields": {
+      "article_url": "https://www.panopto.com/blog/microlearning-in-elearning/",
+      "article_topic": "Microlearning in eLearning: Transform Your Training",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "contact@learndash.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "LearnDash",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.learndash.com/blog/how-to-translate-your-online-course-and-why-its-a-good-idea/",
+      "article_topic": "How to Translate Your Online Course",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "daisuke.nakayama@safetyculture.com",
+    "first_name": "Daisuke",
+    "last_name": "Nakayama",
+    "company": "Safetyculture",
+    "position": "Director of Partnerships",
+    "custom_fields": {
+      "article_url": "https://training.safetyculture.com/blog/elearning-translation-services/",
+      "article_topic": "10 Elearning providers with translation services",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "kdeldjoui@localizejs.com",
+    "first_name": "Kevin",
+    "last_name": "Deldjoui",
+    "company": "LocalizeJS",
+    "position": "Account Executive",
+    "custom_fields": {
+      "article_url": "https://localizejs.com/articles/the-ultimate-guide-to-video-marketing-strategy",
+      "article_topic": "The Ultimate Guide to Video Marketing Strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "brandi@cincopa.com",
+    "first_name": "Brandi",
+    "last_name": "Scallion",
+    "company": "Cincopa",
+    "position": "Business Development Manager",
+    "custom_fields": {
+      "article_url": "https://www.cincopa.com/blog/how-to-localize-e-learning-videos-for-a-global-audience/",
+      "article_topic": "Localize E-Learning Videos for Global Audience",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "kelly.pfeil@ukg.com",
+    "first_name": "Kelly",
+    "last_name": "Pfeil",
+    "company": "UKG",
+    "position": "Employee Relations Manager",
+    "custom_fields": {
+      "article_url": "https://www.ukg.com/blog/hr-leaders/hrs-guide-cultural-competence-global-workforce",
+      "article_topic": "HR Guide to Cultural Competence in Global Workforce",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jillian.als@leadfeeder.com",
+    "first_name": "Jillian",
+    "last_name": "Als",
+    "company": "Leadfeeder",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://www.leadfeeder.com/blog/marketing-strategy/b2b-video-marketing-strategy/",
+      "article_topic": "B2B Video Marketing: 6 Tips",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "rebecca@screenpal.com",
+    "first_name": "Rebecca",
+    "last_name": "Y",
+    "company": "ScreenPal",
+    "position": "Growth Marketing Director",
+    "custom_fields": {
+      "article_url": "https://screenpal.com/blog/product-demo-videos",
+      "article_topic": "How to create product demo videos",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "isabella.sooma@aihr.com",
+    "first_name": "Isabella",
+    "last_name": "Sooma",
+    "company": "AIHR",
+    "position": "Content Director",
+    "custom_fields": {
+      "article_url": "https://www.aihr.com/blog/global-hr-management/",
+      "article_topic": "9 Successful Global HR Management Strategies",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jonas.singelmann@powtoon.com",
+    "first_name": "Jonas",
+    "last_name": "Singelmann",
+    "company": "Powtoon",
+    "position": "Vice President of Marketing",
+    "custom_fields": {
+      "article_url": "https://www.powtoon.com/blog/microsoft-teams-5-ways-video-can-enhance-team-communication/",
+      "article_topic": "5 Ways Video Enhances Team Communication in MS Teams",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "nicolas.l@artlist.io",
+    "first_name": "Nicolas",
+    "last_name": "Lempert",
+    "company": "Artlist",
+    "position": "Director of Sales Operations",
+    "custom_fields": {
+      "article_url": "https://artlist.io/blog/elevenlabs-multilingual-v2-live-on-artlist/",
+      "article_topic": "ElevenLabs Multilingual v2 on Artlist",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "ambre.saez@playplay.com",
+    "first_name": "Ambre",
+    "last_name": "Sa\u00ebz",
+    "company": "PlayPlay",
+    "position": "Content Creator",
+    "custom_fields": {
+      "article_url": "https://playplay.com/blog/repurpose-video-content/",
+      "article_topic": "7 Ways to Repurpose Your Video Content in 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "chailey@prosci.com",
+    "first_name": "Clinton",
+    "last_name": "Hailey",
+    "company": "Prosci",
+    "position": "Director of Marketing Operations",
+    "custom_fields": {
+      "article_url": "https://www.prosci.com/blog/implementing-change-management-on-a-global",
+      "article_topic": "Implement Change Management on Global Scale",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "michael.cloward@dacast.com",
+    "first_name": "Michael",
+    "last_name": "Cloward",
+    "company": "Dacast",
+    "position": "Sales Director",
+    "custom_fields": {
+      "article_url": "https://www.dacast.com/blog/video-training-platform/",
+      "article_topic": "Ultimate Guide to Video Training Platform",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "robin.nichols@360learning.com",
+    "first_name": "Robin",
+    "last_name": "Nichols",
+    "company": "360Learning",
+    "position": "Content Lead",
+    "custom_fields": {
+      "article_url": "https://360learning.com/blog/360learning-ai-translations/",
+      "article_topic": "Scale Global Training with One-Click Translations",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "erik@3playmedia.com",
+    "first_name": "Erik",
+    "last_name": "Ducker",
+    "company": "3Play Media",
+    "position": "Senior Director, Product Marketing",
+    "custom_fields": {
+      "article_url": "https://www.3playmedia.com/blog/subtitling-vs-dubbing/",
+      "article_topic": "Subtitling vs. Dubbing: Which is Right?",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "jessy.siemens@superside.com",
+    "first_name": "Jessy",
+    "last_name": "Siemens",
+    "company": "Superside",
+    "position": "Director of Lifecycle Marketing",
+    "custom_fields": {
+      "article_url": "https://www.superside.com/blog/content-localization",
+      "article_topic": "Mastering Global Markets With Content Localization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "ben.pearson@navattic.com",
+    "first_name": "Ben",
+    "last_name": "Pearson",
+    "company": "Navattic",
+    "position": "Head of Sales",
+    "custom_fields": {
+      "article_url": "https://www.navattic.com/blog/how-to-scale-global-sales-enablement",
+      "article_topic": "How Intermedia Scaled Global Sales Enablement",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "sonia.moaiery@skilljar.com",
+    "first_name": "Sonia",
+    "last_name": "Moaiery",
+    "company": "Skilljar",
+    "position": "Director of Product Marketing",
+    "custom_fields": {
+      "article_url": "https://www.skilljar.com/blog/how-to-create-a-content-localization-strategy-for-a-global-learner-audience-best-practices",
+      "article_topic": "Content Localization Strategy for Global Learner Audience",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "cliff@speechify.com",
+    "first_name": "Cliff",
+    "last_name": "Weitzman",
+    "company": "Speechify",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://speechify.com/blog/podcast-dubbing/",
+      "article_topic": "Podcast Dubbing: Bridging Languages",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "adrian@poeditor.com",
+    "first_name": "Adrian",
+    "last_name": "Basalic",
+    "company": "POEditor",
+    "position": "Chief Technology Officer",
+    "custom_fields": {
+      "article_url": "https://poeditor.com/blog/global-localization-examples/",
+      "article_topic": "10 Global localization examples",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "agrimshaw@rws.com",
+    "first_name": "Alison",
+    "last_name": "Grimshaw",
+    "company": "RWS",
+    "position": "Supply Chain Director",
+    "custom_fields": {
+      "article_url": "https://www.rws.com/blog/what-is-video-localization/",
+      "article_topic": "What Is Video Localization? A Strategic Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "giulia@happyscribe.com",
+    "first_name": "Giulia",
+    "last_name": "Zaffiro",
+    "company": "Happy Scribe",
+    "position": "People Operations Manager",
+    "custom_fields": {
+      "article_url": "https://www.happyscribe.com/blog/localizing-elearning-courses-guide",
+      "article_topic": "Localizing Your E-Learning Courses: A Full Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "hello@ewebinar.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "eWebinar",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://ewebinar.com/blog/7-creative-ways-to-repurpose-your-webinar-content",
+      "article_topic": "7 Creative Ways to Repurpose Your Webinar Content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jburke@clearcompany.com",
+    "first_name": "Jason",
+    "last_name": "Burke",
+    "company": "ClearCompany",
+    "position": "Director of Marketing",
+    "custom_fields": {
+      "article_url": "https://clearcompany.com/resources/blog/remote-employee-engagement-strategies",
+      "article_topic": "Remote Employee Engagement Strategies",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "seongsoo@chartmogul.com",
+    "first_name": "Seongsoo",
+    "last_name": "Lee",
+    "company": "ChartMogul",
+    "position": "Creative Director",
+    "custom_fields": {
+      "article_url": "https://chartmogul.com/blog/prepare-saas-global-expansion/",
+      "article_topic": "How to prepare your SaaS for global expansion",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "stephan.schoening@phrase.com",
+    "first_name": "Stephan",
+    "last_name": "Sch\u00f6ning",
+    "company": "Phrase",
+    "position": "Vice President of Marketing",
+    "custom_fields": {
+      "article_url": "https://phrase.com/blog/posts/language-industry-trends-2026/",
+      "article_topic": "Key Trends Shaping the Language Industry in 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "maria.burke@amnhealthcare.com",
+    "first_name": "Maria",
+    "last_name": "Burke",
+    "company": "AMN Healthcare",
+    "position": "Operations Associate",
+    "custom_fields": {
+      "article_url": "https://www.amnhealthcare.com/amn-insights/language-services/whitepapers/beyond-words-boosting-patient-safety-with-video-localization/",
+      "article_topic": "Boosting Patient Safety with Video Localization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "christy.liu@universumglobal.com",
+    "first_name": "Christy",
+    "last_name": "Liu",
+    "company": "Universum",
+    "position": "Partner Relations Manager",
+    "custom_fields": {
+      "article_url": "https://universumglobal.com/resources/blog/employer-branding-videos:-how-to-create-them-and-best-examples/",
+      "article_topic": "Creating Inspiring Employer Branding Videos",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "bkassiff@smartling.com",
+    "first_name": "Ben",
+    "last_name": "Kassiff",
+    "company": "Smartling",
+    "position": "Sales Director",
+    "custom_fields": {
+      "article_url": "https://www.smartling.com/blog/ai-for-video-localization",
+      "article_topic": "AI for video localization: 6 best practices",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "eugene@akool.com",
+    "first_name": "Eugene",
+    "last_name": "Nam",
+    "company": "Akool",
+    "position": "Marketing Specialist",
+    "custom_fields": {
+      "article_url": "https://akool.com/blog-posts/ai-training-videos",
+      "article_topic": "AI Training Videos: Translation Tools Simplify Global",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "jenna.long@ignitevisibility.com",
+    "first_name": "Jenna",
+    "last_name": "Long",
+    "company": "Ignite Visibility",
+    "position": "Director of Paid Media",
+    "custom_fields": {
+      "article_url": "https://ignitevisibility.com/video-marketing-guide/",
+      "article_topic": "Developing a Video Marketing Strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "dana.hirshhorn@guidde.com",
+    "first_name": "Dana",
+    "last_name": "Hirshhorn",
+    "company": "Guidde",
+    "position": "Marketing Operations Manager",
+    "custom_fields": {
+      "article_url": "https://www.guidde.com/knowledge-hub/onboarding-video-best-practices-guide-2026",
+      "article_topic": "Onboarding Video Best Practices: Complete Guide 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "katalin.adorjan@lokalise.com",
+    "first_name": "Katalin",
+    "last_name": "Adorj\u00e1n",
+    "company": "Lokalise",
+    "position": "Senior HR Business Partner",
+    "custom_fields": {
+      "article_url": "https://lokalise.com/blog/marketing-localization/",
+      "article_topic": "Marketing Localization: Strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "chris.coats@lemonlight.com",
+    "first_name": "Chris",
+    "last_name": "Coats",
+    "company": "Lemonlight",
+    "position": "Creative Director",
+    "custom_fields": {
+      "article_url": "https://www.lemonlight.com/blog/scale-global-campaigns-using-ai-video-localization/",
+      "article_topic": "Scale Global Campaigns Using AI Video Localization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "amanda.wilkinson@lionbridge.com",
+    "first_name": "Amanda",
+    "last_name": "Wilkinson",
+    "company": "Lionbridge",
+    "position": "Director of Demand Generation",
+    "custom_fields": {
+      "article_url": "https://www.lionbridge.com/blog/translation-localization/top-5-tips-for-localizing-video-and-audio-content/",
+      "article_topic": "Top 5 Tips for Localizing Video and Audio Content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "andrea.acosta@simpleshow.com",
+    "first_name": "Andrea",
+    "last_name": "Acosta",
+    "company": "simpleshow",
+    "position": "Vice President of Sales and Marketing",
+    "custom_fields": {
+      "article_url": "https://simpleshow.com/blog/how-to-create-inclusive-corporate-videos-for-global-audiences/",
+      "article_topic": "How to create inclusive corporate videos for global audiences",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "matthew.schwartz@verbit.ai",
+    "first_name": "Matthew",
+    "last_name": "Schwartz",
+    "company": "Verbit",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://verbit.ai/general/dubbing-and-localization-what-you-need-to-know/",
+      "article_topic": "AI dubbing and content localization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "podzak@hrcloud.com",
+    "first_name": "Paula",
+    "last_name": "Odzak",
+    "company": "HR Cloud",
+    "position": "Marketing Specialist",
+    "custom_fields": {
+      "article_url": "https://www.hrcloud.com/blog/global-employee-onboarding-guide",
+      "article_topic": "Global Employee Onboarding Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "ktesoro@daytranslations.com",
+    "first_name": "Karina",
+    "last_name": "Tesoro",
+    "company": "Day Translations",
+    "position": "Shift Supervisor",
+    "custom_fields": {
+      "article_url": "https://www.daytranslations.com/blog/audio-and-video-translation-capturing-multilingual-audiences-through-media/",
+      "article_topic": "Audio and Video Translation",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "aisling.harrison@pagetiger.com",
+    "first_name": "Aisling",
+    "last_name": "Harrison",
+    "company": "PageTiger",
+    "position": "Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://www.pagetiger.com/blog/5-emerging-learning-and-development-trends",
+      "article_topic": "5 Emerging Learning and Development Trends for 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "lauren.forrester@thoughtindustries.com",
+    "first_name": "Lauren",
+    "last_name": "Forrester",
+    "company": "Thought Industries",
+    "position": "Senior Vice President, Global Growth Marketing",
+    "custom_fields": {
+      "article_url": "https://www.thoughtindustries.com/blog/customer-education-strategy/",
+      "article_topic": "How to Build an Effective Customer Education Strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "roy@axioshq.com",
+    "first_name": "Roy",
+    "last_name": "Schwartz",
+    "company": "Axios HQ",
+    "position": "Chief Executive Officer",
+    "custom_fields": {
+      "article_url": "https://www.axioshq.com/insights/remote-employee-engagement-how-to-boost-employee-engagement-in-remote-and-hybrid-settings",
+      "article_topic": "Remote employee engagement: How to boost",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "tobias.jedlund@vectorsolutions.com",
+    "first_name": "Tobias",
+    "last_name": "Jedlund",
+    "company": "Vector Solutions",
+    "position": "Content Director",
+    "custom_fields": {
+      "article_url": "https://www.vectorsolutions.com/resources/course-catalogs/health-safety-environment-hse-foreign-language-training-library/",
+      "article_topic": "Multilingual Safety Training HSE Library",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "sineenad.chaihong@darwinbox.com",
+    "first_name": "Sineenad",
+    "last_name": "Chaihong",
+    "company": "Darwinbox",
+    "position": "Sales Director",
+    "custom_fields": {
+      "article_url": "https://darwinbox.com/blog/how-darwinbox-enables-localization",
+      "article_topic": "How Darwinbox Enables Localization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "jdewey@transperfect.com",
+    "first_name": "Jenn",
+    "last_name": "Dewey",
+    "company": "TransPerfect",
+    "position": "Business Development Director",
+    "custom_fields": {
+      "article_url": "https://www.transperfect.com/blog/10-best-practices-video-localization",
+      "article_topic": "10 Best Practices for Video Localization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "jdewey@transperfect.com",
+    "first_name": "Jenn",
+    "last_name": "Dewey",
+    "company": "TransPerfect",
+    "position": "Business Development Director",
+    "custom_fields": {
+      "article_url": "https://globallink.transperfect.com/blog/multilingual-marketing-how-to-reach-foreign-language-audiences",
+      "article_topic": "How to Reach a Global Audience with Multilingual Marketing",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "sophie.williams@chronus.com",
+    "first_name": "Sophie",
+    "last_name": "Williams",
+    "company": "Chronus",
+    "position": "Director of Product Marketing",
+    "custom_fields": {
+      "article_url": "https://chronus.com/blog/engaging-remote-workers",
+      "article_topic": "Ultimate Guide for Remote Employee Engagement",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "mikek@trados.com",
+    "first_name": "Mike",
+    "last_name": "Kidd",
+    "company": "Trados",
+    "position": "Vice President Of Sales And Marketing",
+    "custom_fields": {
+      "article_url": "https://www.trados.com/blog/taking-your-business-into-a-new-market/",
+      "article_topic": "Taking your business into a new market",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "cthornton@moveworks.com",
+    "first_name": "Cicely",
+    "last_name": "Thornton",
+    "company": "Moveworks",
+    "position": "Director of Employee Relations",
+    "custom_fields": {
+      "article_url": "https://www.moveworks.com/us/en/resources/blog/global-hr-service-delivery",
+      "article_topic": "How AI Transforms Global HR Service Delivery",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "david.flach@bloomfire.com",
+    "first_name": "David",
+    "last_name": "Flach",
+    "company": "Bloomfire",
+    "position": "Director of Product Marketing",
+    "custom_fields": {
+      "article_url": "https://bloomfire.com/blog/knowledge-sharing-platform-vs-knowledge-base/",
+      "article_topic": "Knowledge Sharing Platform Vs Knowledge Base",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "zohaib@resemble.ai",
+    "first_name": "Zohaib",
+    "last_name": "Ahmed",
+    "company": "Resemble AI",
+    "position": "Founder",
+    "custom_fields": {
+      "article_url": "https://www.resemble.ai/best-voice-ai-models-multilingual-speech/",
+      "article_topic": "Best Multilingual AI Text-To-Speech Tools 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "victor.gleyze@sociabble.com",
+    "first_name": "Victor",
+    "last_name": "Gleyze",
+    "company": "Sociabble",
+    "position": "Director of Product Marketing",
+    "custom_fields": {
+      "article_url": "https://www.sociabble.com/blog/sociabble-features/video-communication-uniting-global-teams/",
+      "article_topic": "Video Communication: Uniting Global Teams",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "support@videoscribe.co",
+    "first_name": "",
+    "last_name": "",
+    "company": "VideoScribe",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://blog.videoscribe.co/going-global-with-your-explainer-video-voice-over",
+      "article_topic": "Going global with your explainer video voice-over",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "ofert@tomedes.com",
+    "first_name": "Ofer",
+    "last_name": "Tirosh",
+    "company": "Tomedes",
+    "position": "Chief Executive Officer",
+    "custom_fields": {
+      "article_url": "https://www.tomedes.com/tomedes-insider/what-is-tik-tok.php",
+      "article_topic": "TikTok: Localization Done Right at Global Scale",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "anton@papirfly.com",
+    "first_name": "Anton",
+    "last_name": "Gorodnyanskiy",
+    "company": "Papirfly",
+    "position": "Director of Display Advertising",
+    "custom_fields": {
+      "article_url": "https://www.papirfly.com/blog/employer-branding/localized-employer-branding-regional-talent/",
+      "article_topic": "Localized employer branding: Regional talent",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "erika@testimonialhero.com",
+    "first_name": "Erika",
+    "last_name": "Oliveros",
+    "company": "Testimonial Hero",
+    "position": "Video Editor",
+    "custom_fields": {
+      "article_url": "https://www.testimonialhero.com/blog/8-of-the-best-testimonial-videos-and-what-makes-them-great",
+      "article_topic": "8 Best Testimonial Videos",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "m.fedorenko@smartcat.com",
+    "first_name": "Miroslava",
+    "last_name": "Fedorenko",
+    "company": "Smartcat",
+    "position": "Chief of Staff",
+    "custom_fields": {
+      "article_url": "https://www.smartcat.com/training-video-creator/",
+      "article_topic": "Training Video Creator - Powered by AI",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "support@getblend.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "BLEND",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.getblend.com/blog/influencers-video-content-localization-strategy/",
+      "article_topic": "Video Content Localization Strategy with Influencers",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "maria@rask.ai",
+    "first_name": "Maria",
+    "last_name": "Chmir",
+    "company": "Rask AI",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://www.rask.ai/blog/how-video-content-localization-can-help-scaling-products-global",
+      "article_topic": "How Video Content Localization Can Help Scaling Your Products",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "cidonie@desygner.com",
+    "first_name": "Cidonie",
+    "last_name": "Richards",
+    "company": "Desygner",
+    "position": "Marketing Communications Director",
+    "custom_fields": {
+      "article_url": "https://desygner.com/blog/content-localization/",
+      "article_topic": "Content Localization: 5 Key Areas to Go Global",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "kelly@maestra.ai",
+    "first_name": "Kelly",
+    "last_name": "Vandermeeren",
+    "company": "Maestra",
+    "position": "Client Solutions Manager",
+    "custom_fields": {
+      "article_url": "https://maestra.ai/blogs/video-localization-10-best-practices",
+      "article_topic": "What Is Video Localization? 10 Best Practices",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "mara@captions.ai",
+    "first_name": "Mara",
+    "last_name": "Dilts",
+    "company": "Captions",
+    "position": "Content Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://captions.ai/blog/video-localization-a-complete-guide-for-global-brands",
+      "article_topic": "What Is Video Localization? A Guide For Global Brands",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "julia@typeface.ai",
+    "first_name": "Julia",
+    "last_name": "Vasconcelos",
+    "company": "Typeface",
+    "position": "Senior Director of Strategy and Operations",
+    "custom_fields": {
+      "article_url": "https://www.typeface.ai/blog/how-to-use-ai-to-repurpose-video-content",
+      "article_topic": "How to Use AI to Repurpose Videos",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "joey@enboarder.com",
+    "first_name": "Joey",
+    "last_name": "Greenwald",
+    "company": "Enboarder",
+    "position": "Chief Marketing Officer",
+    "custom_fields": {
+      "article_url": "https://enboarder.com/blog/best-onboarding-practices/",
+      "article_topic": "Onboarding Best Practices",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "adam.stead@globalapptesting.com",
+    "first_name": "Adam",
+    "last_name": "Stead",
+    "company": "Global App Testing",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://www.globalapptesting.com/localization-testing/localization-gtm-strategy",
+      "article_topic": "Localization: Crucial Step in GTM Strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "shawn@theinvestorspodcast.com",
+    "first_name": "Shawn",
+    "last_name": "O'Malley",
+    "company": "The Investor's Podcast",
+    "position": "Chief Editor",
+    "custom_fields": {
+      "article_url": "https://www.theinvestorspodcast.com/business/global-podcasting-strategies-for-translating-your-audio-content/",
+      "article_topic": "Global Podcasting: Strategies for Translating Audio",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "donna@bigvu.tv",
+    "first_name": "Donna",
+    "last_name": "Heller",
+    "company": "BIGVU",
+    "position": "Vice President of Marketing",
+    "custom_fields": {
+      "article_url": "https://bigvu.tv/blog/drive-global-e-commerce-sales-master-multilingual/",
+      "article_topic": "Drive Global E-commerce Sales: Master Multilingual Video",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "team@creatify.ai",
+    "first_name": "Creatify",
+    "last_name": "Team",
+    "company": "Creatify",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://creatify.ai/blog/reaching-global-audiences-with-multilingual-video-content",
+      "article_topic": "Reaching Global Audiences with Multilingual Video Content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "paula@idearocketanimation.com",
+    "first_name": "Paula",
+    "last_name": "Beauchamps",
+    "company": "IdeaRocket Animation",
+    "position": "Account Executive",
+    "custom_fields": {
+      "article_url": "https://idearocketanimation.com/18413-distribute-video-content/",
+      "article_topic": "10 Clever Ways To Distribute and Repurpose Video Content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "avidal@intellum.com",
+    "first_name": "Andres",
+    "last_name": "Vidal",
+    "company": "Intellum",
+    "position": "Director of Demand Generation",
+    "custom_fields": {
+      "article_url": "https://www.intellum.com/resources/blog/2026-learning-and-development-trends",
+      "article_topic": "2026 L&D Trends: How AI Is Reshaping Learning",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jimmy@superpath.co",
+    "first_name": "Jimmy",
+    "last_name": "Daly",
+    "company": "Superpath",
+    "position": "Cofounder",
+    "custom_fields": {
+      "article_url": "https://www.superpath.co/blog/global-content-strategy",
+      "article_topic": "Guide to Creating a Global Content Strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "smeier@directiveconsulting.com",
+    "first_name": "Sara",
+    "last_name": "Meier",
+    "company": "Directive Consulting",
+    "position": "Vice President of Content Marketing",
+    "custom_fields": {
+      "article_url": "https://directiveconsulting.com/blog/the-b2b-expansion-marketing-playbook-for-rapid-hyper-localized-market-entry/",
+      "article_topic": "B2B Expansion Marketing Playbook",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "laurenk@speechmatics.com",
+    "first_name": "Lauren",
+    "last_name": "King",
+    "company": "Speechmatics",
+    "position": "Chief Marketing Officer",
+    "custom_fields": {
+      "article_url": "https://www.speechmatics.com/company/articles-and-news/best-tts-apis-in-2025-top-12-text-to-speech-services-for-developers",
+      "article_topic": "Best TTS APIs in 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jessica.hussaini@banzai.io",
+    "first_name": "Jessica",
+    "last_name": "Hussaini",
+    "company": "Banzai",
+    "position": "Field Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://www.banzai.io/blog/video-marketing-strategy-guide",
+      "article_topic": "Level Up Your Video Marketing Strategy: Ultimate Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "blaine@castmagic.io",
+    "first_name": "Blaine",
+    "last_name": "Bolus",
+    "company": "Castmagic",
+    "position": "Co-Founder",
+    "custom_fields": {
+      "article_url": "https://www.castmagic.io/post/repurposing-video-content",
+      "article_topic": "10 Expert Tips for Repurposing Video Content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "dwallace@epiphan.com",
+    "first_name": "Dan",
+    "last_name": "Wallace",
+    "company": "Epiphan",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://www.epiphan.com/blog/sales-enablement-strategy/",
+      "article_topic": "5 ways video can support sales enablement",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "caroline.andersen@languagewire.com",
+    "first_name": "Caroline",
+    "last_name": "Andersen",
+    "company": "LanguageWire",
+    "position": "Business Development Director",
+    "custom_fields": {
+      "article_url": "https://www.languagewire.com/blog/how-to-make-a-good-explainer-video/",
+      "article_topic": "How to make a good explainer video",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "monish.munshi@usemultiplier.com",
+    "first_name": "Monish",
+    "last_name": "Munshi",
+    "company": "Multiplier",
+    "position": "Chief Marketing Officer",
+    "custom_fields": {
+      "article_url": "https://www.usemultiplier.com/global-hr/guide-to-global-employer-branding",
+      "article_topic": "Guide to Global Employer Branding",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "dora.murgu@interprefy.com",
+    "first_name": "Dora",
+    "last_name": "Murgu",
+    "company": "Interprefy",
+    "position": "Chief Operations Officer",
+    "custom_fields": {
+      "article_url": "https://www.interprefy.com/resources/blog/the-language-technology-landscape-an-enterprise-buyers-guide",
+      "article_topic": "Language Technology Landscape 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "viviana@amberscript.com",
+    "first_name": "Viviana",
+    "last_name": "Lagreca",
+    "company": "Amberscript",
+    "position": "Subtitler",
+    "custom_fields": {
+      "article_url": "https://www.amberscript.com/en/blog/dubbing-vs-subtitles-are-they-both-necessary-for-translation/",
+      "article_topic": "Dubbing vs Subtitles: Are They Both Necessary?",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "k.haidarzhyi@academyocean.com",
+    "first_name": "Kostiantyn",
+    "last_name": "Haidarzhyi",
+    "company": "Academyocean",
+    "position": "Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://academyocean.com/features/multilingual-lms",
+      "article_topic": "Multilingual LMS for Diverse E-Learning",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "deirdre.cleere@welocalize.com",
+    "first_name": "Deirdre",
+    "last_name": "Cleere",
+    "company": "Welocalize",
+    "position": "Director of Partnerships",
+    "custom_fields": {
+      "article_url": "https://www.welocalize.com/insights/is-your-marketing-localization-strategy-ready-for-whats-next-trends-for-global-teams/",
+      "article_topic": "Marketing Localization Strategy Trends",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "craig.coffey@woodwing.com",
+    "first_name": "Craig",
+    "last_name": "Coffey",
+    "company": "WoodWing",
+    "position": "Vice President, Cloud Operations",
+    "custom_fields": {
+      "article_url": "https://www.woodwing.com/blog/building-a-knowledge-sharing-culture-to-boost-remote-team-engagement",
+      "article_topic": "Knowledge sharing culture to boost remote engagement",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "paige@talkingpts.org",
+    "first_name": "Paige",
+    "last_name": "DeLozier",
+    "company": "TalkingPoints",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://talkingpts.org/blog/engage-all-families-with-translated-video-captions/6036/",
+      "article_topic": "Engage families with translated video captions",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "allanf@ulatus.com",
+    "first_name": "Allan",
+    "last_name": "Fernandes",
+    "company": "Ulatus",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://www.ulatus.com/translation-blog/why-are-video-translation-services-essential-for-the-healthcare-industry/",
+      "article_topic": "Why Video Translation is Vital for Healthcare",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "tim.mclain@lilt.com",
+    "first_name": "Tim",
+    "last_name": "McLain",
+    "company": "Lilt",
+    "position": "Vice President of Public Sector",
+    "custom_fields": {
+      "article_url": "https://lilt.com/blog/best-ai-translation-tools-choosing-the-right-platform-for-global-communication",
+      "article_topic": "Best AI Translation Tools: Choosing the Right Platform",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "chloe@saastock.com",
+    "first_name": "Chlo\u00eb",
+    "last_name": "Dormand",
+    "company": "SaaStock",
+    "position": "Content Marketing Director",
+    "custom_fields": {
+      "article_url": "https://www.saastock.com/blog/how-to-prepare-for-global-expansion/",
+      "article_topic": "How to prepare your SaaS for global expansion",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "fionawalker@goodhabitz.com",
+    "first_name": "Fiona",
+    "last_name": "Walker",
+    "company": "GoodHabitz",
+    "position": "Director of Partnerships",
+    "custom_fields": {
+      "article_url": "https://www.goodhabitz.com/resources/blog/multilingual-learning-for-global-workforces",
+      "article_topic": "Why multilingual learning is essential",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "sumayyah@almcorp.com",
+    "first_name": "Sumayyah",
+    "last_name": "Hussein",
+    "company": "Almcom",
+    "position": "Content Manager",
+    "custom_fields": {
+      "article_url": "https://almcorp.com/blog/video-seo-ranking-youtube-google-search-rank-your-videos-at-the-top/",
+      "article_topic": "Video SEO: Ranking Videos on YouTube and Google",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "emma@7taps.com",
+    "first_name": "Emma",
+    "last_name": "Hollawell",
+    "company": "7taps",
+    "position": "Sales Manager",
+    "custom_fields": {
+      "article_url": "https://www.7taps.com/case-study/delivering-job-aids-with-7taps-around-24-countries",
+      "article_topic": "Creating inclusive job aids with microlearning",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "andrea.willman@teamsoftware.com",
+    "first_name": "Andrea",
+    "last_name": "Willman",
+    "company": "Team Software",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://teamsoftware.com/blog/engaging-distributed-teams-through-technology",
+      "article_topic": "Engaging Distributed Teams Through Technology",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "margarita@alconost.com",
+    "first_name": "Margarita",
+    "last_name": "Shvetsova",
+    "company": "Alconost",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://alconost.com/en/blog/tiktok",
+      "article_topic": "Behind-the-Scenes Look at TikTok Localization Strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "info@perso.ai",
+    "first_name": "",
+    "last_name": "",
+    "company": "Perso AI",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://perso.ai/de/blog/fastest-way-to-make-multilingual-videos",
+      "article_topic": "Fastest Way to Make Multilingual Videos",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "tanner@voquent.com",
+    "first_name": "Tanner",
+    "last_name": "Mulay",
+    "company": "Voquent",
+    "position": "Video Editor",
+    "custom_fields": {
+      "article_url": "https://www.voquent.com/blog/how-to-grow-your-channel-with-the-youtube-multi-audio-track-feature/",
+      "article_topic": "How to Grow your Channel with YouTube Multi Audio",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "brett@myshyft.com",
+    "first_name": "Brett",
+    "last_name": "Patrontasch",
+    "company": "MyShyft",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://www.myshyft.com/blog/multilingual-shift-communication/",
+      "article_topic": "Multilingual Shift Change Communication",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "bittu@devopsschool.com",
+    "first_name": "Bittu",
+    "last_name": "Kumar",
+    "company": "DevOps School",
+    "position": "Advisor",
+    "custom_fields": {
+      "article_url": "https://www.devopsschool.com/blog/top-10-ai-multilingual-voiceover-tools-in-2025-features-pros-cons-comparison/",
+      "article_topic": "Top 10 AI Multilingual Voiceover Tools 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "ap@camb.ai",
+    "first_name": "Avneesh",
+    "last_name": "Prakash",
+    "company": "Camb AI",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://www.camb.ai/es/blog-post/the-ultimate-guide-to-video-translation-tools-and-tips",
+      "article_topic": "Ultimate Guide to Video Translation Tools",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "fabian.greiler@celum.com",
+    "first_name": "Fabian",
+    "last_name": "Greiler",
+    "company": "CELUM",
+    "position": "Vice President of Marketing",
+    "custom_fields": {
+      "article_url": "https://www.celum.com/en/blog/sales-enablement-strategy/",
+      "article_topic": "How to create a winning Sales Enablement Strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "support@thewordpoint.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "The Word Point",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://thewordpoint.com/blog/e-learning-localization-and-e-learning-translation-requirements-guide",
+      "article_topic": "E-Learning Localization and Translation Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "helmut@lingohub.com",
+    "first_name": "Helmut",
+    "last_name": "Juskewycz",
+    "company": "Lingohub",
+    "position": "Chief Executive Officer",
+    "custom_fields": {
+      "article_url": "https://lingohub.com/blog/how-to-localize-an-e-learning-product-challenges-and-best-practices",
+      "article_topic": "How to localize an e-learning product",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "vince.a@vmgstudios.com",
+    "first_name": "Vince",
+    "last_name": "Allen",
+    "company": "VMG Studios",
+    "position": "Video Producer",
+    "custom_fields": {
+      "article_url": "https://blog.vmgstudios.com/localization-versus-translation-video-marketing",
+      "article_topic": "Localization vs. Translation",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "support@fish.audio",
+    "first_name": "",
+    "last_name": "",
+    "company": "Fish Audio",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://fish.audio/blog/ai-audio-translation/",
+      "article_topic": "AI Audio Translation: Complete Guide 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "hello@onesky.ai",
+    "first_name": "",
+    "last_name": "",
+    "company": "OneSky",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://onesky.ai/blog/localization-marketing",
+      "article_topic": "Localization Marketing 101: Build a Global Brand",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "effie.salourou@translate.one",
+    "first_name": "Effie",
+    "last_name": "Salourou",
+    "company": "Translate.One",
+    "position": "Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://www.translate.one/how-to-increase-your-global-audience-reach-with-video-translation/",
+      "article_topic": "Increase Global Reach With Video Translation",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "acarey@netchex.com",
+    "first_name": "Alexis",
+    "last_name": "Carey",
+    "company": "Netchex",
+    "position": "Senior Manager, Head of Sales Development Representatives",
+    "custom_fields": {
+      "article_url": "https://netchex.com/the-language-of-learning-the-importance-of-multilingual-training/",
+      "article_topic": "Importance of Multilingual Training",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "daniel.schwartz@acclaro.com",
+    "first_name": "Daniel",
+    "last_name": "Schwartz",
+    "company": "Acclaro",
+    "position": "Vice President of Marketing",
+    "custom_fields": {
+      "article_url": "https://www.acclaro.com/blog/maximizing-impact-with-localized-video-your-complete-guide/",
+      "article_topic": "Maximizing Impact with Localized Video",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "hello@vozo.ai",
+    "first_name": "",
+    "last_name": "",
+    "company": "Vozo",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.vozo.ai/blogs/dub-vs-subtitles",
+      "article_topic": "Dub vs Subtitles: Which is Better for Video Localization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "anuja@dubverse.ai",
+    "first_name": "Anuja",
+    "last_name": "Dhawan",
+    "company": "Dubverse",
+    "position": "Co-Founder",
+    "custom_fields": {
+      "article_url": "https://dubverse.ai/blog/how-to-get-more-views-on-youtube/",
+      "article_topic": "How to Get More Views on YouTube",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "edaga@powell-software.com",
+    "first_name": "Esther",
+    "last_name": "Daga",
+    "company": "Powell Software",
+    "position": "Chief Marketing Officer",
+    "custom_fields": {
+      "article_url": "https://powell-software.com/resources/blog/employee-engagement-strategies/",
+      "article_topic": "10 Employee Engagement Strategies for Remote Teams",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "georgia@bluetext.com",
+    "first_name": "Georgia",
+    "last_name": "Putney",
+    "company": "Bluetext",
+    "position": "Campaign Manager",
+    "custom_fields": {
+      "article_url": "https://bluetext.com/blog/creating-scalable-content-marketing-frameworks-for-global-saas-companies/",
+      "article_topic": "Scalable Content Marketing Frameworks for Global SaaS",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "support@distribution.ai",
+    "first_name": "",
+    "last_name": "",
+    "company": "Distribution AI",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.distribution.ai/blog/content-localization-shorts-reels-tiktok",
+      "article_topic": "Content Localization for Shorts, Reels & TikTok",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "ana@sync.so",
+    "first_name": "Ana",
+    "last_name": "Solis",
+    "company": "Sync Labs",
+    "position": "Post Production Editor",
+    "custom_fields": {
+      "article_url": "https://sync.so/blog/how-to-use-ai-lip-sync-tools-for-professional-video-editing-step-by-step-guide-2/",
+      "article_topic": "How to use ai lip-sync tools for video editing",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "kim.shouler@argosmultilingual.com",
+    "first_name": "Kim",
+    "last_name": "Shouler",
+    "company": "Argos Multilingual",
+    "position": "Business Development Director",
+    "custom_fields": {
+      "article_url": "https://www.argosmultilingual.com/blog/global-compliance-local-consistency-ensuring-effective-localized-training-worldwide",
+      "article_topic": "Global Compliance, Local Consistency",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "hhershey@motionpoint.com",
+    "first_name": "Harvey",
+    "last_name": "Hershey",
+    "company": "MotionPoint",
+    "position": "Sales Executive",
+    "custom_fields": {
+      "article_url": "https://www.motionpoint.com/blog/unlocking-new-markets-with-localized-video-content-in-2025/",
+      "article_topic": "Unlocking New Markets with Localized Video Content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "vanessa@gmrtranscription.com",
+    "first_name": "Vanessa",
+    "last_name": "Almodovar",
+    "company": "GMR Transcription",
+    "position": "Client Relationship Manager",
+    "custom_fields": {
+      "article_url": "https://www.gmrtranscription.com/blog/podcast-translation-are-podcasts-getting-more-multilingual",
+      "article_topic": "Podcast Translation: More Multilingual?",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "yogesh.kumar@qandle.com",
+    "first_name": "Yogesh",
+    "last_name": "Kumar",
+    "company": "Qandle",
+    "position": "Quality Assurance Engineer",
+    "custom_fields": {
+      "article_url": "https://www.qandle.com/blog/ai-for-global-hr/",
+      "article_topic": "AI Global HR: Managing Multilingual Remote Teams",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "shrea@clueso.io",
+    "first_name": "Shrea",
+    "last_name": "Sharma",
+    "company": "Clueso",
+    "position": "Support Specialist",
+    "custom_fields": {
+      "article_url": "https://www.clueso.io/blog/ai-video-translation",
+      "article_topic": "AI Video Translation for Customer Education",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "jefferson@localizationinstitute.com",
+    "first_name": "Jefferson",
+    "last_name": "Clark",
+    "company": "Localization Institute",
+    "position": "Conference Manager",
+    "custom_fields": {
+      "article_url": "https://www.localizationinstitute.com/a-media-localization-primer-types-challenges-and-future-avenues/",
+      "article_topic": "A Media Localization Primer",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "florencia.mino@guildhawk.com",
+    "first_name": "Florencia",
+    "last_name": "Mi\u00f1o",
+    "company": "Guildhawk",
+    "position": "Project Coordinator",
+    "custom_fields": {
+      "article_url": "https://www.guildhawk.com/blog/what-is-ai-dubbing-your-comprehensive-guide-from-guildhawk",
+      "article_topic": "What is AI Dubbing? Comprehensive guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "info@coggno.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "Coggno",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://coggno.com/blog/how-to-scale-compliance-training-globally-choosing-a-company-with-multilingual-support/",
+      "article_topic": "How to Scale Compliance Training Globally",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "morgan@herenow.film",
+    "first_name": "Morgan",
+    "last_name": "C",
+    "company": "Here & Now Films",
+    "position": "Director of Production",
+    "custom_fields": {
+      "article_url": "https://www.herenow.film/video-seo-guide",
+      "article_topic": "Video SEO Guide For YouTube & Google",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "lori@rallyrecruitmentmarketing.com",
+    "first_name": "Lori",
+    "last_name": "Sylvia",
+    "company": "Rally",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://rallyrecruitmentmarketing.com/2025/09/best-employer-brand-video-examples-2025-featuring-atb-westpac-and-cbre/",
+      "article_topic": "Best Employer Brand Video Examples 2025",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "sakshi@youngurbanproject.com",
+    "first_name": "Sakshi",
+    "last_name": "Jonwal",
+    "company": "Young Urban Project",
+    "position": "Content Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://www.youngurbanproject.com/best-ai-voiceover-tools/",
+      "article_topic": "Best AI Voiceover Tools 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "support@lipsync.studio",
+    "first_name": "",
+    "last_name": "",
+    "company": "Lip Sync Studio",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://lipsync.studio/blog/how-to-lip-sync-video",
+      "article_topic": "Complete Guide to AI-Powered Video Lip Synchronization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "atikaejaz@humanfocus.co.uk",
+    "first_name": "Atika",
+    "last_name": "Ejaz",
+    "company": "Human Focus",
+    "position": "Senior Content Writer",
+    "custom_fields": {
+      "article_url": "https://humanfocus.co.uk/blog/multilingual-health-and-safety-platform-experience/",
+      "article_topic": "Multilingual Health and Safety Platform",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jpanayotov@proceedinnovative.com",
+    "first_name": "Jasmine",
+    "last_name": "Panayotov",
+    "company": "Proceed Innovative",
+    "position": "Managing Partner",
+    "custom_fields": {
+      "article_url": "https://www.proceedinnovative.com/blog/video-seo-guide-2025/",
+      "article_topic": "Video SEO in 2025: 10 Proven Ways to Rank",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "joseph@flagright.com",
+    "first_name": "Joseph",
+    "last_name": "Ibitola",
+    "company": "Flagright",
+    "position": "Director of Demand Generation",
+    "custom_fields": {
+      "article_url": "https://www.flagright.com/post/the-definitive-guide-to-mastering-multilingual-compliance-in-global-operations",
+      "article_topic": "A Guide to Mastering Multilingual Compliance",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "mikes@trainn.co",
+    "first_name": "Mike",
+    "last_name": "Savio",
+    "company": "Trainn",
+    "position": "Sales Manager",
+    "custom_fields": {
+      "article_url": "https://trainn.co/blog/how-to-use-videos-in-customer-service/",
+      "article_topic": "Enhance Customer Service with Videos",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "lynn@redokun.com",
+    "first_name": "Lynn",
+    "last_name": "Yuen",
+    "company": "Redokun",
+    "position": "Customer Success Specialist",
+    "custom_fields": {
+      "article_url": "https://redokun.com/blog/marketing-localization",
+      "article_topic": "Marketing Localization 101 Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "madlena@5mins.ai",
+    "first_name": "Madlena",
+    "last_name": "Pozlevic",
+    "company": "5mins.ai",
+    "position": "Customer Success Manager",
+    "custom_fields": {
+      "article_url": "https://www.5mins.ai/resources/blog/the-multi-format-magic-of-microlearning-platforms-video-text-and-interactive-training-success",
+      "article_topic": "Multi-Format Magic of Microlearning Platforms",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "amrita@beverlyboy.com",
+    "first_name": "Amrita",
+    "last_name": "James",
+    "company": "Beverly Boy Productions",
+    "position": "Production Assistant",
+    "custom_fields": {
+      "article_url": "https://beverlyboy.com/filmmaking/what-is-multilingual-testimonial-production/",
+      "article_topic": "What Is Multilingual Testimonial Production",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "eran@growth-engines.com",
+    "first_name": "Eran",
+    "last_name": "Regev",
+    "company": "Growth Engines",
+    "position": "Owner",
+    "custom_fields": {
+      "article_url": "https://growth-engines.com/insights/branding/maintaining-consistent-brand-identity-across-digital-markets",
+      "article_topic": "Consistent Brand Identity Across Digital Markets",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "anastasiia.f@bluecarrot.io",
+    "first_name": "Anastasiia",
+    "last_name": "Fedchenko",
+    "company": "Blue Carrot",
+    "position": "Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://bluecarrot.io/blog/how-to-develop-multilingual-e-learning-videos-8-steps-to-global-success/",
+      "article_topic": "8 Steps to Develop Multilingual E-Learning Video Content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "alec@supertone.ai",
+    "first_name": "Alec",
+    "last_name": "Kim",
+    "company": "Supertone AI",
+    "position": "Head of Product",
+    "custom_fields": {
+      "article_url": "https://www.supertone.ai/en/work/global-content-my-voice-ai-23-languages",
+      "article_topic": "Complete Guide to AI Voice Cloning in 23 Languages",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "avi.kapoor@ssojet.com",
+    "first_name": "Avi",
+    "last_name": "Kapoor",
+    "company": "SSOJet",
+    "position": "Customer Success Engineer",
+    "custom_fields": {
+      "article_url": "https://ssojet.com/blog/video-translation-for-sso-training",
+      "article_topic": "How Video Translation Enhances Multilingual User Training",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "hello@wowto.ai",
+    "first_name": "",
+    "last_name": "",
+    "company": "WowTo",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://wowto.ai/blog/how-to-create-a-content-localization-strategy-for-customer-education",
+      "article_topic": "Content Localization Strategy for Customer Education",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "jonna.ekman@storykit.io",
+    "first_name": "Jonna",
+    "last_name": "Ekman",
+    "company": "Storykit",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://storykit.io/blog/repurpose-video-content",
+      "article_topic": "5 ways to repurpose video content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "bridget@veracontent.com",
+    "first_name": "Bridget",
+    "last_name": "Langer",
+    "company": "VeraContent",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://veracontent.com/mix/global-content-strategy/",
+      "article_topic": "Creating a global content strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "grace.cowan@xtm.ai",
+    "first_name": "Grace",
+    "last_name": "Cowan",
+    "company": "XTM",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://xtm.ai/blog/content-localization",
+      "article_topic": "Everything you need to know about content localization",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "security@pixeltable.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "PixelTable",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.pixeltable.com/blog/automated-video-translation-voiceover-pipeline",
+      "article_topic": "Automated Video Translation Pipeline",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "justin@shootsta.com",
+    "first_name": "Justin",
+    "last_name": "Walker",
+    "company": "Shootsta",
+    "position": "Content Manager",
+    "custom_fields": {
+      "article_url": "https://shootsta.com/blog/video-content-localization-global-markets/",
+      "article_topic": "Video Content Localization for Global Markets",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "support@bizky.ai",
+    "first_name": "",
+    "last_name": "",
+    "company": "Bizky",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://bizky.ai/blog/employee-engagement-in-global-remote-teams/",
+      "article_topic": "Employee Engagement in Global Remote Teams",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "maleeha.tak@emptrust.com",
+    "first_name": "Maleeha",
+    "last_name": "Tak",
+    "company": "EmpTrust",
+    "position": "Marketing Associate",
+    "custom_fields": {
+      "article_url": "https://www.emptrust.com/multilingual-onboarding-the-art-of-driving-employee-engagement-with-translated-material/",
+      "article_topic": "Multilingual Onboarding: Driving Employee Engagement",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "enej.ravbar@taia.io",
+    "first_name": "Enej",
+    "last_name": "Ravbar",
+    "company": "Taia Translations",
+    "position": "Project Coordinator",
+    "custom_fields": {
+      "article_url": "https://taia.io/resources/blog/localization-trends-future-global-communication/",
+      "article_topic": "Top 5 Localization Trends in 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "reyes.nina@interprenet.net",
+    "first_name": "Nina",
+    "last_name": "Reyes",
+    "company": "Interprenet",
+    "position": "Global Marketing Director",
+    "custom_fields": {
+      "article_url": "https://interprenet.net/multilingual-subtitling",
+      "article_topic": "Multilingual Subtitling Services",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "dan@birdeatsbug.com",
+    "first_name": "Dan",
+    "last_name": "Makarov",
+    "company": "Bird Eats Bug",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://birdeatsbug.com/blog/video-captioning-best-practices",
+      "article_topic": "15 Video Captioning Best Practices",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "chris@coffeepals.com",
+    "first_name": "Chris",
+    "last_name": "Carnduff",
+    "company": "CoffeePals",
+    "position": "Co-Founder",
+    "custom_fields": {
+      "article_url": "https://www.coffeepals.com/blog/how-to-make-collaboration-work-across-time-zones-and-global-teams",
+      "article_topic": "Collaboration Across Time Zones and Global Teams",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "lmyers@lipdub.ai",
+    "first_name": "Laura",
+    "last_name": "Myers",
+    "company": "LipDub AI",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://www.lipdub.ai/blogs/marketing-localization",
+      "article_topic": "Marketing Localization: 7 Best Practices",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "senthil@exemplary.ai",
+    "first_name": "Senthil",
+    "last_name": "Palanisamy",
+    "company": "Exemplary AI",
+    "position": "Chief Product Officer",
+    "custom_fields": {
+      "article_url": "https://exemplary.ai/en/blog/repurpose-webinar-content",
+      "article_topic": "12+ Smart ways to repurpose your webinar",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jodi@mytonomy.com",
+    "first_name": "Jodi",
+    "last_name": "Hetzel",
+    "company": "Mytonomy",
+    "position": "Vice President of Sales",
+    "custom_fields": {
+      "article_url": "https://www.mytonomy.com/blog/digital-patient-education-microlearning-guide-for-health-systems",
+      "article_topic": "Digital Patient Education Microlearning Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "hello@filmgrail.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "Film Grail",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://filmgrail.com/blog/how-to-localize-video-content-for-global-audiences/",
+      "article_topic": "How to Localize Video Content for Global Audiences",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "sven.semet@assimasolutions.com",
+    "first_name": "Sven",
+    "last_name": "Semet",
+    "company": "Assima Solutions",
+    "position": "Business Development Executive",
+    "custom_fields": {
+      "article_url": "https://assimasolutions.com/resources/blog/why-traditional-onboarding-fails-for-global-teams-and-what-to-do-about-it/",
+      "article_topic": "Multilingual Onboarding Challenges",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "victoria.wildow@jrlanguage.com",
+    "first_name": "Victoria",
+    "last_name": "Wildow",
+    "company": "JR Language",
+    "position": "Marketing Coordinator",
+    "custom_fields": {
+      "article_url": "https://jrlanguage.com/blog/elearning-translation-essential-best-practices-for-a-global-audience/",
+      "article_topic": "eLearning Translation: Essential Best Practices",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "amit.vadgama@omniplexlearning.com",
+    "first_name": "Amit",
+    "last_name": "Vadgama",
+    "company": "Omniplex Learning",
+    "position": "Business Development Executive",
+    "custom_fields": {
+      "article_url": "https://omniplexlearning.com/blog/whats-new-in-ld-trends-you-cant-ignore-in-2026/",
+      "article_topic": "L&D Trends you can't ignore in 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "yaghoob.amani@techclass.com",
+    "first_name": "Yaghoob",
+    "last_name": "Amani",
+    "company": "TechClass",
+    "position": "Operations Manager",
+    "custom_fields": {
+      "article_url": "https://www.techclass.com/resources/learning-and-development-articles/multi-language-member-training-reaching-a-diverse-audience",
+      "article_topic": "Multi-Language Member Training",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jwhittington@globalinterpreting.com",
+    "first_name": "Joe",
+    "last_name": "Whittington",
+    "company": "Global Interpreting",
+    "position": "Vice President of Sales",
+    "custom_fields": {
+      "article_url": "https://globalinterpreting.com/blog/patient-education-materials-ensuring-accessibility-for-lep-populations/",
+      "article_topic": "Patient Education Materials: Accessibility for LEP",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jessica@storiesincorporated.com",
+    "first_name": "Jessica",
+    "last_name": "Mcfadden",
+    "company": "Stories Inc",
+    "position": "Head Of Marketing",
+    "custom_fields": {
+      "article_url": "https://storiesincorporated.com/best-employer-branding-videos/",
+      "article_topic": "Best Employer Branding Videos: Ultimate List",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "wdickinson@ititranslates.com",
+    "first_name": "Will",
+    "last_name": "Dickinson",
+    "company": "ITI Translates",
+    "position": "Marketing Coordinator",
+    "custom_fields": {
+      "article_url": "https://ititranslates.com/navigating-dei-changes-what-it-means-for-language-services/",
+      "article_topic": "DEI Changes: What it Means for Language Services",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "silvia.grosheva@adverbum.com",
+    "first_name": "Silvia",
+    "last_name": "Grosheva",
+    "company": "Ad Verbum",
+    "position": "Project Manager",
+    "custom_fields": {
+      "article_url": "https://www.adverbum.com/post/best-ai-translation-tools-in-2026-ranked-8",
+      "article_topic": "Top 8 Best AI Translation Tools 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "alexandru@vatis.tech",
+    "first_name": "Alexandru",
+    "last_name": "Topala",
+    "company": "Vatis Tech",
+    "position": "Tech Support",
+    "custom_fields": {
+      "article_url": "https://vatis.tech/blog/how-to-translate-youtube-videos-your-easy-guide",
+      "article_topic": "How to Translate YouTube Videos: Easy Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "dhaman@interproinc.com",
+    "first_name": "Dean",
+    "last_name": "Haman",
+    "company": "InterPro Inc",
+    "position": "Business Development Manager",
+    "custom_fields": {
+      "article_url": "https://www.interproinc.com/3-reasons-why-elearning-translation-is-important-for-manufacturers/",
+      "article_topic": "eLearning Translation: Boosting Global Workforce Skills",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "susanbergdoll@ehscareers.com",
+    "first_name": "Susan",
+    "last_name": "Bergdoll",
+    "company": "EHS Careers",
+    "position": "Support Manager",
+    "custom_fields": {
+      "article_url": "https://ehscareers.com/employer-blog/multilingual-safety-programs-beyond-google-translate/",
+      "article_topic": "Multilingual Safety Programs: Beyond Google Translate",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jeremy.rouet@weet.co",
+    "first_name": "Jeremy",
+    "last_name": "Rouet",
+    "company": "Weet",
+    "position": "CTO",
+    "custom_fields": {
+      "article_url": "https://weet.co/blog/knowledge-base-video-everything-you-need-to-know",
+      "article_topic": "Knowledge Base Video: Everything You Need to Know",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "hello@ottolearn.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "OttoLearn",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.ottolearn.com/post/111-simplify-multilingual-content-with-the-right-microlearning-platform",
+      "article_topic": "Simplify Multilingual Content with Microlearning Platform",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "darrenj@ivannovation.com",
+    "first_name": "Darren",
+    "last_name": "Jansen",
+    "company": "IvanNovation",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://ivannovation.com/blog/how-to-translate-videos/",
+      "article_topic": "How to Translate Videos: Step-by-Step Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "krista@atlantictraining.com",
+    "first_name": "Krista",
+    "last_name": "Barnes",
+    "company": "Atlanticcom",
+    "position": "Virtual Assistant",
+    "custom_fields": {
+      "article_url": "https://www.atlantictraining.com/blog/multilingual-safety-training-companies/",
+      "article_topic": "Multilingual Safety Training Companies: Top 5",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jill@multilingualconnections.com",
+    "first_name": "Jill",
+    "last_name": "Bishop",
+    "company": "Multilingual Connections",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://multilingualconnections.com/blog/the-power-of-translation-in-building-a-more-inclusive-workplace-culture/",
+      "article_topic": "Translation in Building Inclusive Workplace Culture",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "cori.enghusen@deephow.com",
+    "first_name": "Cori",
+    "last_name": "Enghusen",
+    "company": "DeepHow",
+    "position": "Account Executive",
+    "custom_fields": {
+      "article_url": "https://deephow.com/blog/8-expert-tips-for-video-training",
+      "article_topic": "8 expert tips for creating video training for skilled workforce",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "tracy.b@goodmanlantern.com",
+    "first_name": "Tracy",
+    "last_name": "Buenk",
+    "company": "Goodman Lantern",
+    "position": "Editor",
+    "custom_fields": {
+      "article_url": "https://goodmanlantern.com/blog/enterprise-content-marketing-strategy/",
+      "article_topic": "Scalable Content Marketing Strategy",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "jun.chen@transyncai.com",
+    "first_name": "Jun",
+    "last_name": "Chen",
+    "company": "Transync AI",
+    "position": "",
+    "custom_fields": {
+      "article_url": "https://www.transyncai.com/blog/how-to-translate-youtube-video-to-english/",
+      "article_topic": "How to Translate YouTube Video to English",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "roeste@adhoc-translations.com",
+    "first_name": "Christoffer",
+    "last_name": "R\u00f6ste",
+    "company": "Ad Hoc Translations",
+    "position": "Sales Director",
+    "custom_fields": {
+      "article_url": "https://www.adhoc-translations.com/blog/how-to-translate-annual-reports/",
+      "article_topic": "How to Translate Annual Reports",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "cassandras@learningzen.com",
+    "first_name": "Cassandra",
+    "last_name": "Stephens",
+    "company": "Learning Zen",
+    "position": "Customer Care",
+    "custom_fields": {
+      "article_url": "https://www.learningzen.com/elearning/luma1-transforming-your-videos-into-engaging-tutorials/",
+      "article_topic": "Transforming Videos Into Engaging Tutorials",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "parker@1stopasia.com",
+    "first_name": "Penny",
+    "last_name": "Smith",
+    "company": "1-StopAsia",
+    "position": "Translator",
+    "custom_fields": {
+      "article_url": "https://www.1stopasia.com/blog/voice-cloning-ai-dubbing-multilingual-content/",
+      "article_topic": "Voice Cloning and AI Dubbing for Scalable Global Content",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "support@shortgenius.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "Short Genius",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://shortgenius.com/blog/lip-sync-ai",
+      "article_topic": "A Creator's Guide to Mastering Lip Sync AI",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "sorin.paun@codeoftalent.com",
+    "first_name": "Sorin",
+    "last_name": "Paun",
+    "company": "Code of Talent",
+    "position": "Managing Partner",
+    "custom_fields": {
+      "article_url": "https://codeoftalent.com/blog/franchise-training-program-for-hospitality/",
+      "article_topic": "Franchise Training Program for Hospitality",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "svetlana.bulega@pitchavatar.com",
+    "first_name": "Svetlana",
+    "last_name": "Bulega",
+    "company": "Pitch Avatar",
+    "position": "Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://pitchavatar.com/video-dubbing-guide/",
+      "article_topic": "Video Dubbing: Process, Tools & AI Trends",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "support@tryhooked.ai",
+    "first_name": "",
+    "last_name": "",
+    "company": "Hooked AI",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.tryhooked.ai/blog/best-ai-video-creation-tools",
+      "article_topic": "12 Best AI Video Creation Tools",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "bernard@bonomotion.com",
+    "first_name": "Bernard",
+    "last_name": "Bonomo",
+    "company": "BonoBono Motion",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://bonomotion.com/understanding-video-production-costs/",
+      "article_topic": "Understanding Video Production Costs",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "steven.bussey@andovar.com",
+    "first_name": "Steven",
+    "last_name": "Bussey",
+    "company": "Andovar",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://blog.andovar.com/elearning-localization-ultimate-guide",
+      "article_topic": "eLearning Localization: Ultimate Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "mariana.n@travod.com",
+    "first_name": "Mariana",
+    "last_name": "Nicolaescu",
+    "company": "Travod",
+    "position": "Operations Manager",
+    "custom_fields": {
+      "article_url": "https://travod.com/blog/rise-of-global-video",
+      "article_topic": "The rise of global video: A guide to professional video",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "support@aimagicx.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "AI MagicX",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.aimagicx.com/blog/ai-dubbing-video-localization-global-growth-2026",
+      "article_topic": "Scale Content Globally with AI Dubbing",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "hello@webrand.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "Webrand",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://webrand.com/blog/localization/enterprise-top-5-multilingual-content-management-challenges-solutions",
+      "article_topic": "Top 5 Multilingual Content Management Challenges",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "daniel@vireovideo.com",
+    "first_name": "Daniel",
+    "last_name": "Gogolin",
+    "company": "Vireo Video",
+    "position": "Marketing Director",
+    "custom_fields": {
+      "article_url": "https://www.vireovideo.com/how-to-reach-global-audiences-on-youtube/",
+      "article_topic": "How to Reach Global Audiences on YouTube",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "ekta@jobpixel.com",
+    "first_name": "Ekta",
+    "last_name": "Oswal",
+    "company": "JobPixel",
+    "position": "Marketing Operations Manager",
+    "custom_fields": {
+      "article_url": "https://blog.jobpixel.com/enhancing-diversity-inclusion-multilingual-video-campaigns",
+      "article_topic": "Enhancing Diversity with Multilingual Video Campaigns",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "chris.walker@tyfoom.com",
+    "first_name": "Chris",
+    "last_name": "Walker",
+    "company": "Tyfoom",
+    "position": "Vice President of Marketing",
+    "custom_fields": {
+      "article_url": "https://www.tyfoom.com/blog/video-killed-the-lecture-star-why-your-brain-craves-video-learning/",
+      "article_topic": "Video-based Microlearning Trains The Brain For More",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "ebru@ollang.com",
+    "first_name": "Ebru",
+    "last_name": "Gul",
+    "company": "Ollang",
+    "position": "CEO",
+    "custom_fields": {
+      "article_url": "https://blog.ollang.com/en/blog-details/subtitling-videos-for-global-employees",
+      "article_topic": "Subtitling Corporate Videos For A Global Workforce",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "simon@captioningstar.com",
+    "first_name": "Simon",
+    "last_name": "Thomas",
+    "company": "Captioning Star",
+    "position": "Business Development Manager",
+    "custom_fields": {
+      "article_url": "https://www.captioningstar.com/blog/lip-dubbing-guide/",
+      "article_topic": "Ultimate Guide to Lip Dubbing",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "jay@udext.com",
+    "first_name": "Jay",
+    "last_name": "Nasibov",
+    "company": "Udext",
+    "position": "Co-Founder",
+    "custom_fields": {
+      "article_url": "https://www.udext.com/blog/multilingual-safety-briefings-for-distributed-workforces",
+      "article_topic": "Multilingual Safety Briefings for Distributed Workforces",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "hello@hashmeta.ai",
+    "first_name": "",
+    "last_name": "",
+    "company": "Hashmeta",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.hashmeta.ai/en/blog/ai-content-localization-how-to-adapt-marketing-content-for-global-markets-at-scale",
+      "article_topic": "How to Adapt Marketing Content for Global Markets at Scale",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "b.goni@optimational.com",
+    "first_name": "Bel\u00e9n",
+    "last_name": "Go\u00f1i",
+    "company": "Optimational",
+    "position": "Language Coordinator",
+    "custom_fields": {
+      "article_url": "https://optimational.com/blog/youtube-video-translation-best-practices-for-seo/",
+      "article_topic": "SEO Best Practices for YouTube Video Translation",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "kike@thinkbrandedmedia.com",
+    "first_name": "Kike",
+    "last_name": "Colombo",
+    "company": "Think Branded Media",
+    "position": "Senior Video Editor",
+    "custom_fields": {
+      "article_url": "https://thinkbrandedmedia.com/blog/expanding-your-reach-tips-for-adding-multiple-languages-to-subtitles/",
+      "article_topic": "Tips for Adding Multiple Languages to Subtitles",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "info@convey911.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "Convey 911",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.convey911.com/blog/translation-in-communication",
+      "article_topic": "Translation in Communication Guide",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "service@aglatech14.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "Aglatech14",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.aglatech14.com/en/how-to-make-your-videos-accessible-with-multilingual-subtitles/",
+      "article_topic": "Inclusive videos: importance of multilingual subtitles",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "hello@saasconsult.co",
+    "first_name": "",
+    "last_name": "",
+    "company": "SaaS Consult",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://saasconsult.co/blog/saas-gtm-strategy-international-expansion/",
+      "article_topic": "SaaS GTM for International Markets",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "james@almtranslations.com",
+    "first_name": "James",
+    "last_name": "Spaven",
+    "company": "ALM Translations",
+    "position": "Director of Customer Relations",
+    "custom_fields": {
+      "article_url": "https://www.almtranslations.com/news/using-ai-video-services-in-internal-communication-strategies/",
+      "article_topic": "Using AI Video Services in Internal Communication",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "guptas@spoken-here.com",
+    "first_name": "Sricha",
+    "last_name": "Gupta",
+    "company": "Spoken Here",
+    "position": "Quality Manager",
+    "custom_fields": {
+      "article_url": "https://spoken-here.com/best-practices/multilingual-videos-improving-training-for-non-english-speaking-employees/",
+      "article_topic": "Multilingual Videos Improve Training for Non-English Employees",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "abhijitm@braahmam.net",
+    "first_name": "Abhijit",
+    "last_name": "Mohanty",
+    "company": "Braahmam",
+    "position": "Director of Production",
+    "custom_fields": {
+      "article_url": "https://www.braahmam.net/post/how-professional-subtitling-services-improve-multilingual-video-content",
+      "article_topic": "Professional subtitling services improve multilingual video",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "hello@ngram.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "nGram",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://www.ngram.com/blog/article/best-product-demo-video-makers",
+      "article_topic": "10 Best Product Demo Video Makers in 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "akshay@aviewint.com",
+    "first_name": "Akshay",
+    "last_name": "Maharaj",
+    "company": "A-View International",
+    "position": "Co-Founder",
+    "custom_fields": {
+      "article_url": "https://aviewint.com/blog/video-localization",
+      "article_topic": "Video Localization: Adapting Content for Global Audience",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "support@speakatoo.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "Speakatoo",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://articles.speakatoo.com/best-ai-voice-generator-tools-in-2026-why-speakatoo-leads-the-voice-tech-revolution/",
+      "article_topic": "Best AI Voice Generator Tools 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "eugenia.nemkova@trembit.com",
+    "first_name": "Eugenia",
+    "last_name": "Nemkova",
+    "company": "Trembit",
+    "position": "Chief Marketing Officer",
+    "custom_fields": {
+      "article_url": "https://trembit.com/blog/speech-to-speech-translation-solutions-with-ai-voice-cloning-explained/",
+      "article_topic": "Speech-to-speech Translation with AI Voice Cloning",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "ramy@fatcowdigital.com",
+    "first_name": "Ramy",
+    "last_name": "Nassar",
+    "company": "Fat Cow Digital",
+    "position": "Founder",
+    "custom_fields": {
+      "article_url": "https://fatcowdigital.com/blog/ai-topics/ai-text-to-speech-guide-2026/",
+      "article_topic": "Ultimate Guide to AI Text-to-Speech 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "no_fit",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "leon@dubly.ai",
+    "first_name": "Leon",
+    "last_name": "Bach",
+    "company": "Dubly",
+    "position": "Growth Marketing Manager",
+    "custom_fields": {
+      "article_url": "https://dubly.ai/blog/how-to-translate-youtube-videos-professionally-and-reach-a-global-audience",
+      "article_topic": "How to Translate YouTube Videos Professionally",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "ryley@ugcfactory.io",
+    "first_name": "Ryley",
+    "last_name": "Gordon",
+    "company": "UGC Factory",
+    "position": "Creative Director",
+    "custom_fields": {
+      "article_url": "https://www.ugcfactory.io/blog/tiktok-translation-for-captions-how-it-works-why-it-matters-2025",
+      "article_topic": "TikTok Caption Translation: How It Works",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "medium",
+      "outreach_track": "niche_edit"
+    }
+  },
+  {
+    "email": "hello@voiceovermaker.com",
+    "first_name": "",
+    "last_name": "",
+    "company": "VoiceOver Maker",
+    "position": "General Contact",
+    "custom_fields": {
+      "article_url": "https://voiceovermaker.com/blog/free-ai-voice-generator-2025/",
+      "article_topic": "Free AI Voice Generator: Best TTS Tools 2026",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "nmarkovic@easycontent.io",
+    "first_name": "Nikola",
+    "last_name": "Markovic",
+    "company": "EasyContent",
+    "position": "Co-Founder",
+    "custom_fields": {
+      "article_url": "https://easycontent.io/resources/content-templates-for-global-consistency/",
+      "article_topic": "Content Templates for Global Consistency",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "weak",
+      "outreach_track": "generic_pitch"
+    }
+  },
+  {
+    "email": "manahil.javed@translinguist.com",
+    "first_name": "Manahil",
+    "last_name": "Javed",
+    "company": "TransLinguist",
+    "position": "Marketing Associate",
+    "custom_fields": {
+      "article_url": "https://translinguist.com/blog/translating-youtube-videos-can-increase-viewers-and-revenue/",
+      "article_topic": "Does Translating YouTube Videos Increase Views",
+      "synthesia_target_page": "https://www.synthesia.io/features/video-translator",
+      "fit_strength": "strong",
+      "outreach_track": "niche_edit"
+    }
+  }
+]

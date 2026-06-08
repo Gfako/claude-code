@@ -1,0 +1,274 @@
+{
+  "slug": "chatgpt-script",
+  "page_brand": null,
+  "total_findings": 14,
+  "by_severity": {
+    "unconfirmed": 9,
+    "needs_check": 5
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) June 3, 2024 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        253,
+        265
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "How To Write Video Scripts With ChatGPT",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create AI videos with 240+ avatars in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)",
+      "span": [
+        17462,
+        17474
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Ready to generate a video script in the next few minutes?",
+        "heading_level": 2,
+        "line": 232
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create AI videos with 240+ avatars in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) June 3, 2024 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [What",
+      "span": [
+        269,
+        283
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "How To Write Video Scripts With ChatGPT",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create AI videos with 240+ avatars in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)",
+      "span": [
+        17478,
+        17492
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Ready to generate a video script in the next few minutes?",
+        "heading_level": 2,
+        "line": 232
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create AI videos with 240+ avatars in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "and style based on your instructions. While ChatGPT is particularly popular and known by more than [40%](https://www.statista.com/topics/10446/chatgpt/#topicOverview) of US adults, it's not the only generative",
+      "span": [
+        3381,
+        3384
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "What is ChatGPT?",
+        "heading_level": 2,
+        "line": 49
+      },
+      "sentence": "While ChatGPT is particularly popular and known by more than [40%](https://www.statista.com/topics/10446/chatgpt/#topicOverview) of US adults, it's not the only generative AI script writer.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '40%'",
+      "suggested_fix": "Stat reference: `40%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "workers](https://news.mit.edu/2023/study-finds-chatgpt-boosts-worker-productivity-writing-0714) complete their tasks 40% faster and with an 18% increased output quality. ### Option 1: Direct interaction with ChatGPT To",
+      "span": [
+        4792,
+        4795
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How to generate a video script in ChatGPT",
+        "heading_level": 2,
+        "line": 66
+      },
+      "sentence": "[ChatGPT workers](https://news.mit.edu/2023/study-finds-chatgpt-boosts-worker-productivity-writing-0714) complete their tasks 40% faster and with an 18% increased output quality.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '40%'",
+      "suggested_fix": "Stat reference: `40%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "18%",
+      "context": "workers](https://news.mit.edu/2023/study-finds-chatgpt-boosts-worker-productivity-writing-0714) complete their tasks 40% faster and with an 18% increased output quality. ### Option 1: Direct interaction with ChatGPT To start directly with ChatGPT,",
+      "span": [
+        4815,
+        4818
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How to generate a video script in ChatGPT",
+        "heading_level": 2,
+        "line": 66
+      },
+      "sentence": "[ChatGPT workers](https://news.mit.edu/2023/study-finds-chatgpt-boosts-worker-productivity-writing-0714) complete their tasks 40% faster and with an 18% increased output quality.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '18%'",
+      "suggested_fix": "Stat reference: `18%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "1 million users",
+      "context": "Google, previously Bard), Claude, Perplexity AI, and Chatsonic. Did you know? 🤔 ChatGPT surpassed 1 million users in the first five days it became available in November 2022. The latest estimations from 2024 indicate",
+      "span": [
+        3641,
+        3656
+      ],
+      "meta": {
+        "subtype": "large_magnitude"
+      },
+      "location": {
+        "heading": "What is ChatGPT?",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "ChatGPT surpassed 1 million users in the first five days it became available in November 2022.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '1 million users'",
+      "suggested_fix": "Stat reference: `1 million users`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "180.5 million users",
+      "context": "available in November 2022. The latest estimations from 2024 indicate it currently has approximately 180.5 million users worldwide. ## How to generate a video script in ChatGPT It's easy to generate content for your video",
+      "span": [
+        3791,
+        3810
+      ],
+      "meta": {
+        "subtype": "large_magnitude"
+      },
+      "location": {
+        "heading": "What is ChatGPT?",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "The latest estimations from 2024 indicate it currently has approximately 180.5 million users worldwide.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '180.5 million users'",
+      "suggested_fix": "Stat reference: `180.5 million users`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://chatgpt.com/",
+      "context": "",
+      "span": [
+        4936,
+        4956
+      ],
+      "meta": {
+        "domain": "chatgpt.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "Option 1: Direct interaction with ChatGPT",
+        "heading_level": 3,
+        "line": 70
+      },
+      "sentence": "To start directly with ChatGPT, sign up at https://chatgpt.com/ for a free OpenAI account.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "chatgpt.com blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        39205,
+        40554
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

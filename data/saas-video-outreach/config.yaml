@@ -1,0 +1,80 @@
+# ============================================================
+# SaaS Video Outreach - Configuration
+# ============================================================
+# API keys are stored in .env (not here).
+
+# --- Discovery Settings ---
+discovery:
+  # Capterra categories to scrape (slug -> Apify actor input)
+  categories:
+    - slug: crm-software
+      label: "CRM Software"
+      url: "https://www.capterra.com/customer-relationship-management-software/"
+    - slug: project-management-software
+      label: "Project Management"
+      url: "https://www.capterra.com/project-management-software/"
+    - slug: marketing-automation-software
+      label: "Marketing Automation"
+      url: "https://www.capterra.com/marketing-automation-software/"
+    - slug: video-conferencing-software
+      label: "Video Conferencing"
+      url: "https://www.capterra.com/video-conferencing-software/"
+    - slug: help-desk-software
+      label: "Help Desk"
+      url: "https://www.capterra.com/help-desk-software/"
+    - slug: human-resource-software
+      label: "HR Software"
+      url: "https://www.capterra.com/human-resource-software/"
+    - slug: accounting-software
+      label: "Accounting"
+      url: "https://www.capterra.com/accounting-software/"
+    - slug: e-commerce-software
+      label: "Ecommerce"
+      url: "https://www.capterra.com/e-commerce-software/"
+    - slug: lms-software
+      label: "LMS"
+      url: "https://www.capterra.com/lms-software/"
+    - slug: customer-success-software
+      label: "Customer Success"
+      url: "https://www.capterra.com/customer-success-software/"
+
+  # Max listings per category from Apify
+  max_per_category: 200
+
+# --- Video Detection Settings ---
+video_detection:
+  # YouTube API: max results when searching for company channel
+  youtube_max_results: 5
+  # Max recent videos to store per company's YouTube channel
+  youtube_recent_videos: 5
+  # Search provider for Google Video fallback
+  search_provider: "serper"
+
+# --- Enrichment Settings ---
+enrichment:
+  # Ahrefs batch size (max 100 per API call)
+  ahrefs_batch_size: 100
+  # Lusha: target job titles in priority order
+  lusha_target_titles:
+    - "VP Marketing"
+    - "Head of Marketing"
+    - "CMO"
+    - "Head of Video"
+    - "Head of Content"
+    - "CEO"
+    - "Founder"
+    - "Co-founder"
+    - "CTO"
+  # Max contacts per company
+  lusha_max_contacts: 3
+
+# --- Rate Limiting ---
+rate_limits:
+  youtube_api_delay: 0.5
+  search_delay: 1.0
+  lusha_delay: 2.0
+  apify_poll_interval: 10
+
+# --- Review Server ---
+review:
+  default_port: 8080

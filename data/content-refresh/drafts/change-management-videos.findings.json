@@ -1,0 +1,239 @@
+{
+  "counts": {
+    "feature": 2,
+    "link": 10
+  },
+  "total": 12,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Vidor](https://www.synthesia.io/blog/authors/amy-vidor) March 11, 2026 Create engaging training videos in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [What",
+      "span": [
+        282,
+        296
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "How Video Training Sustains Change at Scale",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create engaging training videos in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create engaging training videos in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)",
+      "span": [
+        14555,
+        14569
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "How to get started",
+        "heading_level": 2,
+        "line": 240
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create engaging training videos in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.tandfonline.com/doi/10.1080/23311975.2025.2478447",
+      "context": "",
+      "span": [
+        2699,
+        2760
+      ],
+      "meta": {
+        "domain": "www.tandfonline.com",
+        "anchor": "Cummings & Worley, 2025"
+      },
+      "location": {
+        "heading": "What is change management?",
+        "heading_level": 2,
+        "line": 53
+      },
+      "sentence": "A comprehensive review of organizational change research describes a steady increase in the pace and complexity of change across sectors ( [Cummings & Worley, 2025](https://www.tandfonline.com/doi/10.1080/23311975.2025.2478447))."
+    },
+    {
+      "type": "link",
+      "text": "https://www.researchgate.net/publication/351455727_The_determinants_of_organizational_change_management_success_Literature_review_and_case_study",
+      "context": "",
+      "span": [
+        2997,
+        3141
+      ],
+      "meta": {
+        "domain": "www.researchgate.net",
+        "anchor": "Al-Haddad & Kotnour, 2015"
+      },
+      "location": {
+        "heading": "What is change management?",
+        "heading_level": 2,
+        "line": 58
+      },
+      "sentence": "Research reviewing determinants of change success finds many initiatives struggle during implementation and follow-through, even when planning is strong ( [Al-Haddad & Kotnour, 2015](https://www.researchgate.net/publication/351455727_The_determinants_of_organizational_change_management_success_Literature_review_and_case_study))."
+    },
+    {
+      "type": "link",
+      "text": "https://journals.sagepub.com/doi/10.1177/18479790211016273",
+      "context": "",
+      "span": [
+        3441,
+        3499
+      ],
+      "meta": {
+        "domain": "journals.sagepub.com",
+        "anchor": "Burnes et al., 2021"
+      },
+      "location": {
+        "heading": "What is change management?",
+        "heading_level": 2,
+        "line": 63
+      },
+      "sentence": "A systematic review of established change models identified numerous recurring success factors, with leadership alignment, communication quality, and stakeholder engagement among the most frequently cited drivers ( [Burnes et al., 2021](https://journals.sagepub.com/doi/10.1177/18479790211016273))."
+    },
+    {
+      "type": "link",
+      "text": "https://www.sciencedirect.com/science/article/pii/S0090261622000067",
+      "context": "",
+      "span": [
+        4057,
+        4124
+      ],
+      "meta": {
+        "domain": "www.sciencedirect.com",
+        "anchor": "Hughes, 2022"
+      },
+      "location": {
+        "heading": "What is change management?",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "Research in _Organizational Dynamics_ argues for evidence-based approaches across the change process, including sustained communication and feedback loops ( [Hughes, 2022](https://www.sciencedirect.com/science/article/pii/S0090261622000067))."
+    },
+    {
+      "type": "link",
+      "text": "https://link.springer.com/article/10.1007/s40593-025-00481-x",
+      "context": "",
+      "span": [
+        7758,
+        7818
+      ],
+      "meta": {
+        "domain": "link.springer.com",
+        "anchor": "Navarrete et al., 2025"
+      },
+      "location": {
+        "heading": "What supports change after the rollout phase ends?",
+        "heading_level": 2,
+        "line": 137
+      },
+      "sentence": "A 2025 review of 250+ studies on video-based learning found that outcomes depend heavily on design choices such as pacing, visuals, and structure ( [Navarrete et al., 2025](https://link.springer.com/article/10.1007/s40593-025-00481-x))."
+    },
+    {
+      "type": "link",
+      "text": "https://psycnet.apa.org/record/2009-09091-000",
+      "context": "",
+      "span": [
+        8067,
+        8112
+      ],
+      "meta": {
+        "domain": "psycnet.apa.org",
+        "anchor": "Mayer, 2009"
+      },
+      "location": {
+        "heading": "What supports change after the rollout phase ends?",
+        "heading_level": 2,
+        "line": 142
+      },
+      "sentence": "Research on multimedia learning shows that combining words and visuals while minimizing extraneous detail supports comprehension and transfer to real tasks ( [Mayer, 2009](https://psycnet.apa.org/record/2009-09091-000))."
+    },
+    {
+      "type": "link",
+      "text": "https://www.cambridge.org/core/books/multimedia-learning/segmenting-principle/37240877DDA0362355ADB39936027982",
+      "context": "",
+      "span": [
+        11723,
+        11833
+      ],
+      "meta": {
+        "domain": "www.cambridge.org",
+        "anchor": "short, segmented content works better than one long run"
+      },
+      "location": {
+        "heading": "What does sustained change look like?",
+        "heading_level": 2,
+        "line": 188
+      },
+      "sentence": "People dip in between meetings, while multitasking, and with limited attention, so [short, segmented content works better than one long run](https://www.cambridge.org/core/books/multimedia-learning/segmenting-principle/37240877DDA0362355ADB39936027982)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/redundancy-principle-in-multimedia-learning/448A5532008EB4B4BA17DBEB5A421920",
+      "context": "",
+      "span": [
+        12015,
+        12170
+      ],
+      "meta": {
+        "domain": "www.cambridge.org",
+        "anchor": "learning takes a hit (the redundancy problem)"
+      },
+      "location": {
+        "heading": "What does sustained change look like?",
+        "heading_level": 2,
+        "line": 194
+      },
+      "sentence": "Dense on-screen text plus narration forces people to read and listen at the same time, and [learning takes a hit (the redundancy problem)](https://www.cambridge.org/core/books/cambridge-handbook-of-multimedia-learning/redundancy-principle-in-multimedia-learning/448A5532008EB4B4BA17DBEB5A421920)."
+    },
+    {
+      "type": "link",
+      "text": "https://link.springer.com/article/10.1007/BF00375135",
+      "context": "",
+      "span": [
+        12361,
+        12413
+      ],
+      "meta": {
+        "domain": "link.springer.com",
+        "anchor": "you add extra mental work that doesn’t help them learn the task"
+      },
+      "location": {
+        "heading": "What does sustained change look like?",
+        "heading_level": 2,
+        "line": 200
+      },
+      "sentence": "When people have to split attention across dense text and visuals, [you add extra mental work that doesn’t help them learn the task](https://link.springer.com/article/10.1007/BF00375135)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        35014,
+        36363
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

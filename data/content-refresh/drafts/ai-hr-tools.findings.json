@@ -1,0 +1,404 @@
+{
+  "counts": {
+    "feature": 4,
+    "stat": 9,
+    "link": 8
+  },
+  "total": 21,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) March 25, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        245,
+        257
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "10 Practical Uses of AI in HR",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) March 25, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        261,
+        275
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "10 Practical Uses of AI in HR",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "70+ languages",
+      "context": "like Synthesia, you can instantly translate any video's audio, in-video text, and even subtitles into 70+ languages. ## Use 3: Facilitate training resources for ongoing employee support On-demand and just-in-time",
+      "span": [
+        7745,
+        7758
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "70+"
+      },
+      "location": {
+        "heading": "Use 2: Translate communication in multiple languages for global teams",
+        "heading_level": 2,
+        "line": 95
+      },
+      "sentence": "Using an [AI video translator](https://www.synthesia.io/features/video-translator) like Synthesia, you can instantly translate any video's audio, in-video text, and even subtitles into 70+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        20937,
+        20951
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Empower your HR to create AI videos for internal comms",
+        "heading_level": 2,
+        "line": 250
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "93%",
+      "context": "streamlines time-consuming, human-error-prone processes. And that's not just the \"ideal.\" In fact, [93%](https://peoplespheres.com/12-statistics-showing-the-power-of-automation-and-ai-in-hr/) of the companies",
+      "span": [
+        3110,
+        3113
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How useful is AI in HR?",
+        "heading_level": 2,
+        "line": 51
+      },
+      "sentence": "And that's not just the \"ideal.\" In fact, [93%](https://peoplespheres.com/12-statistics-showing-the-power-of-automation-and-ai-in-hr/) of the companies that adopted automation for talent acquisition and management processes report significant time savings and improved efficiency."
+    },
+    {
+      "type": "stat",
+      "text": "66%",
+      "context": "objectives. It automates manual tasks to reduce costs and makes human resources more employee-centric. [66%](https://peoplespheres.com/12-statistics-showing-the-power-of-automation-and-ai-in-hr/) of business",
+      "span": [
+        4056,
+        4059
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How will AI impact the HR industry?",
+        "heading_level": 2,
+        "line": 59
+      },
+      "sentence": "[66%](https://peoplespheres.com/12-statistics-showing-the-power-of-automation-and-ai-in-hr/) of business leaders looking to boost efficiency and productivity think the solution is AI and automation."
+    },
+    {
+      "type": "stat",
+      "text": "70%",
+      "context": "suggest upskilling or reskilling opportunities. They can also make human resources more capable. [70%](https://www.apollotechnical.com/recruitment-statistics/) of workers aren't actively looking for a",
+      "span": [
+        9418,
+        9421
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 4: Assist employees with career pathing",
+        "heading_level": 2,
+        "line": 115
+      },
+      "sentence": "[70%](https://www.apollotechnical.com/recruitment-statistics/) of workers aren't actively looking for a new job, but they'd consider a switch if the right offer came along."
+    },
+    {
+      "type": "stat",
+      "text": "200%",
+      "context": "Consulting](https://www.synthesia.io/case-studies/gruenewald-consulting) used AI to create 125+ weekly outreach videos. They increased response rates by 200% and the number of candidates submitted for consideration by 30%. Here's an example of such an AI outreach",
+      "span": [
+        12197,
+        12201
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 5: Strategize workforce planning",
+        "heading_level": 2,
+        "line": 144
+      },
+      "sentence": "They increased response rates by 200% and the number of candidates submitted for consideration by 30%."
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "videos. They increased response rates by 200% and the number of candidates submitted for consideration by 30%. Here's an example of such an AI outreach video created for the position of Head of Human Resources:",
+      "span": [
+        12262,
+        12265
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 5: Strategize workforce planning",
+        "heading_level": 2,
+        "line": 144
+      },
+      "sentence": "They increased response rates by 200% and the number of candidates submitted for consideration by 30%."
+    },
+    {
+      "type": "stat",
+      "text": "61%",
+      "context": "formations based on cultural compatibility, work styles, and communication preferences. Did you know? 🤔 [61%](https://www.linkedin.com/pulse/crucial-role-cultural-fit-hiring-why-matters/) of employees believe",
+      "span": [
+        15004,
+        15007
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 7: Assess and improve cultural fit during hiring and team formations",
+        "heading_level": 2,
+        "line": 180
+      },
+      "sentence": "[61%](https://www.linkedin.com/pulse/crucial-role-cultural-fit-hiring-why-matters/) of employees believe a poor cultural fit would make them unhappy in their jobs."
+    },
+    {
+      "type": "stat",
+      "text": "20%",
+      "context": "unhappy in their jobs. Organizations that prioritize cultural fit during the hiring process experience a 20% lower turnover rate. ## Use 8: Streamline performance management and employee reviews Employee development",
+      "span": [
+        15249,
+        15252
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 7: Assess and improve cultural fit during hiring and team formations",
+        "heading_level": 2,
+        "line": 180
+      },
+      "sentence": "Organizations that prioritize cultural fit during the hiring process experience a 20% lower turnover rate."
+    },
+    {
+      "type": "stat",
+      "text": "56%",
+      "context": "integration with multiple languages and HRIS platforms. ## Use 10: Implement AI-driven wellness programs [56%](https://www.zippia.com/advice/employee-wellness-statistics/) of people who participate in company",
+      "span": [
+        18378,
+        18381
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 10: Implement AI-driven wellness programs",
+        "heading_level": 2,
+        "line": 214
+      },
+      "sentence": "[56%](https://www.zippia.com/advice/employee-wellness-statistics/) of people who participate in company wellness programs have fewer sick days."
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "employee communications identifies stress or mental health issues early, enabling timely support. [30%](https://www.zippia.com/advice/employee-wellness-statistics/) of workers say these programs detected",
+      "span": [
+        19234,
+        19237
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Use 10: Implement AI-driven wellness programs",
+        "heading_level": 2,
+        "line": 222
+      },
+      "sentence": "[30%](https://www.zippia.com/advice/employee-wellness-statistics/) of workers say these programs detected a disease they had and were able to begin treatment before it progressed."
+    },
+    {
+      "type": "link",
+      "text": "https://peoplespheres.com/12-statistics-showing-the-power-of-automation-and-ai-in-hr/",
+      "context": "",
+      "span": [
+        3115,
+        3200
+      ],
+      "meta": {
+        "domain": "peoplespheres.com",
+        "anchor": "93%"
+      },
+      "location": {
+        "heading": "How useful is AI in HR?",
+        "heading_level": 2,
+        "line": 51
+      },
+      "sentence": "And that's not just the \"ideal.\" In fact, [93%](https://peoplespheres.com/12-statistics-showing-the-power-of-automation-and-ai-in-hr/) of the companies that adopted automation for talent acquisition and management processes report significant time savings and improved efficiency."
+    },
+    {
+      "type": "link",
+      "text": "https://www.apollotechnical.com/recruitment-statistics/",
+      "context": "",
+      "span": [
+        9423,
+        9478
+      ],
+      "meta": {
+        "domain": "www.apollotechnical.com",
+        "anchor": "70%"
+      },
+      "location": {
+        "heading": "Use 4: Assist employees with career pathing",
+        "heading_level": 2,
+        "line": 115
+      },
+      "sentence": "[70%](https://www.apollotechnical.com/recruitment-statistics/) of workers aren't actively looking for a new job, but they'd consider a switch if the right offer came along."
+    },
+    {
+      "type": "link",
+      "text": "https://www.remofirst.com/freedom-of-work-index/2024",
+      "context": "",
+      "span": [
+        10909,
+        10961
+      ],
+      "meta": {
+        "domain": "www.remofirst.com",
+        "anchor": "emerging workforce trends"
+      },
+      "location": {
+        "heading": "Use 5: Strategize workforce planning",
+        "heading_level": 2,
+        "line": 127
+      },
+      "sentence": "They predict personnel needs, forecast turnover, and identify [emerging workforce trends](https://www.remofirst.com/freedom-of-work-index/2024) in a constantly shifting reality of remote work."
+    },
+    {
+      "type": "link",
+      "text": "https://www.techtarget.com/searchhrsoftware/definition/HireVue",
+      "context": "",
+      "span": [
+        13917,
+        13979
+      ],
+      "meta": {
+        "domain": "www.techtarget.com",
+        "anchor": "check out here"
+      },
+      "location": {
+        "heading": "Use 6: Automate candidate screening, matching, and communication",
+        "heading_level": 2,
+        "line": 164
+      },
+      "sentence": "HireVue**: The most popular option for full-service candidate screening whose TechTarget review you can [check out here](https://www.techtarget.com/searchhrsoftware/definition/HireVue)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/pulse/crucial-role-cultural-fit-hiring-why-matters/",
+      "context": "",
+      "span": [
+        15009,
+        15085
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": "61%"
+      },
+      "location": {
+        "heading": "Use 7: Assess and improve cultural fit during hiring and team formations",
+        "heading_level": 2,
+        "line": 180
+      },
+      "sentence": "[61%](https://www.linkedin.com/pulse/crucial-role-cultural-fit-hiring-why-matters/) of employees believe a poor cultural fit would make them unhappy in their jobs."
+    },
+    {
+      "type": "link",
+      "text": "https://www.prnewswire.com/news-releases/lattice-unveils-a-bold-evolution-for-its-people-platform-powered-by-artificial-intelligence-announces-ai-engagement-insights-built-on-openai-302080242.html",
+      "context": "",
+      "span": [
+        15891,
+        16087
+      ],
+      "meta": {
+        "domain": "www.prnewswire.com",
+        "anchor": "press release"
+      },
+      "location": {
+        "heading": "Use 8: Streamline performance management and employee reviews",
+        "heading_level": 2,
+        "line": 186
+      },
+      "sentence": "Their recent [press release](https://www.prnewswire.com/news-releases/lattice-unveils-a-bold-evolution-for-its-people-platform-powered-by-artificial-intelligence-announces-ai-engagement-insights-built-on-openai-302080242.html) goes deep into the platform's AI capabilities."
+    },
+    {
+      "type": "link",
+      "text": "https://www.zippia.com/advice/employee-wellness-statistics/",
+      "context": "",
+      "span": [
+        18383,
+        18442
+      ],
+      "meta": {
+        "domain": "www.zippia.com",
+        "anchor": "56%"
+      },
+      "location": {
+        "heading": "Use 10: Implement AI-driven wellness programs",
+        "heading_level": 2,
+        "line": 214
+      },
+      "sentence": "[56%](https://www.zippia.com/advice/employee-wellness-statistics/) of people who participate in company wellness programs have fewer sick days."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        45475,
+        46824
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

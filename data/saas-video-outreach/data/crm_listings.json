@@ -1,0 +1,734 @@
+[
+  {
+    "name": "Pipedrive",
+    "capterra_url": "https://www.capterra.com/p/132666/Pipedrive/",
+    "rating": 4.5,
+    "review_count": 3042
+  },
+  {
+    "name": "monday CRM",
+    "capterra_url": "https://www.capterra.com/p/245800/Monday-CRM/",
+    "rating": 4.7,
+    "review_count": 453
+  },
+  {
+    "name": "Zoho CRM",
+    "capterra_url": "https://www.capterra.com/p/155928/Zoho-CRM/",
+    "rating": 4.3,
+    "review_count": 6958
+  },
+  {
+    "name": "kintone",
+    "capterra_url": "https://www.capterra.com/p/143607/kintone/",
+    "rating": 4.7,
+    "review_count": 153
+  },
+  {
+    "name": "Clio",
+    "capterra_url": "https://www.capterra.com/p/105428/Clio/",
+    "rating": 4.6,
+    "review_count": 1690
+  },
+  {
+    "name": "Less Annoying CRM",
+    "capterra_url": "https://www.capterra.com/p/118921/Less-Annoying-CRM/",
+    "rating": 4.8,
+    "review_count": 644
+  },
+  {
+    "name": "CallProof",
+    "capterra_url": "https://www.capterra.com/p/131553/CallProof/",
+    "rating": 4.1,
+    "review_count": 28
+  },
+  {
+    "name": "Odoo",
+    "capterra_url": "https://www.capterra.com/p/135618/Odoo/",
+    "rating": 4.2,
+    "review_count": 1286
+  },
+  {
+    "name": "TaskSuite",
+    "capterra_url": "https://www.capterra.com/p/10018704/TaskSuite/",
+    "rating": 5.0,
+    "review_count": 4
+  },
+  {
+    "name": "Bitrix24",
+    "capterra_url": "https://www.capterra.com/p/113540/Bitrix24/",
+    "rating": 4.2,
+    "review_count": 979
+  },
+  {
+    "name": "Bigin by Zoho CRM",
+    "capterra_url": "https://www.capterra.com/p/204998/Bigin-by-Zoho-CRM/",
+    "rating": 4.7,
+    "review_count": 715
+  },
+  {
+    "name": "Constant Contact",
+    "capterra_url": "https://www.capterra.com/p/31898/Constant-Contact/",
+    "rating": 4.3,
+    "review_count": 2898
+  },
+  {
+    "name": "InfluxMD",
+    "capterra_url": "https://www.capterra.com/p/169346/Influx-MD/",
+    "rating": 4.5,
+    "review_count": 18
+  },
+  {
+    "name": "Creatio CRM",
+    "capterra_url": "https://www.capterra.com/p/130149/bpm-online-CRM/",
+    "rating": 4.7,
+    "review_count": 133
+  },
+  {
+    "name": "Copper",
+    "capterra_url": "https://www.capterra.com/p/141642/Copper/",
+    "rating": 4.4,
+    "review_count": 622
+  },
+  {
+    "name": "Rings AI",
+    "capterra_url": "https://www.capterra.com/p/10033762/Rings-AI/",
+    "rating": 5.0,
+    "review_count": 1
+  },
+  {
+    "name": "Apptivo",
+    "capterra_url": "https://www.capterra.com/p/228915/Apptivo/",
+    "rating": 4.4,
+    "review_count": 708
+  },
+  {
+    "name": "WorkZeal",
+    "capterra_url": "https://www.capterra.com/p/10033730/WorkZeal/",
+    "rating": 0,
+    "review_count": 0
+  },
+  {
+    "name": "Ricochet360",
+    "capterra_url": "https://www.capterra.com/p/141932/Ricochet/",
+    "rating": 4.8,
+    "review_count": 82
+  },
+  {
+    "name": "The Magazine Manager",
+    "capterra_url": "https://www.capterra.com/p/77189/The-Magazine-Manager/",
+    "rating": 4.8,
+    "review_count": 348
+  },
+  {
+    "name": "HoneyBook",
+    "capterra_url": "https://www.capterra.com/p/162588/HoneyBook/",
+    "rating": 4.7,
+    "review_count": 674
+  },
+  {
+    "name": "ShareCRM",
+    "capterra_url": "https://www.capterra.com/p/10032563/ShareCRM/",
+    "rating": 0,
+    "review_count": 0
+  },
+  {
+    "name": "Caspio",
+    "capterra_url": "https://www.capterra.com/p/137206/Caspio/",
+    "rating": 4.6,
+    "review_count": 248
+  },
+  {
+    "name": "Lead Docket",
+    "capterra_url": "https://www.capterra.com/p/176004/LeadDocket/",
+    "rating": 4.9,
+    "review_count": 62
+  },
+  {
+    "name": "Daylite for Mac",
+    "capterra_url": "https://www.capterra.com/p/116272/Daylite-for-Mac/",
+    "rating": 4.6,
+    "review_count": 361
+  },
+  {
+    "name": "JobNimbus",
+    "capterra_url": "https://www.capterra.com/p/126797/JobNimbus/",
+    "rating": 4.6,
+    "review_count": 480
+  },
+  {
+    "name": "Salesforce Sales Cloud",
+    "capterra_url": "https://www.capterra.com/p/61368/Salesforce/",
+    "rating": 4.4,
+    "review_count": 18760
+  },
+  {
+    "name": "NetSuite",
+    "capterra_url": "https://www.capterra.com/p/135757/NetSuite/",
+    "rating": 4.2,
+    "review_count": 1827
+  },
+  {
+    "name": "HubSpot CRM",
+    "capterra_url": "https://www.capterra.com/p/152373/HubSpot-CRM/",
+    "rating": 4.5,
+    "review_count": 4442
+  },
+  {
+    "name": "Mokapen",
+    "capterra_url": "https://www.capterra.com/p/209827/Mokapen/",
+    "rating": 4.6,
+    "review_count": 167
+  },
+  {
+    "name": "Rolldog",
+    "capterra_url": "https://www.capterra.com/p/237184/Rolldog-Complete/",
+    "rating": 4.9,
+    "review_count": 33
+  },
+  {
+    "name": "Mautic",
+    "capterra_url": "https://www.capterra.com/p/211361/Mautic-by-HEM/",
+    "rating": 4.5,
+    "review_count": 2
+  },
+  {
+    "name": "BigContacts",
+    "capterra_url": "https://www.capterra.com/p/102669/BigContacts/",
+    "rating": 4.3,
+    "review_count": 205
+  },
+  {
+    "name": "Maximizer CRM",
+    "capterra_url": "https://www.capterra.com/p/154610/Maximizer-CRM/",
+    "rating": 4.1,
+    "review_count": 366
+  },
+  {
+    "name": "Marketing 360",
+    "capterra_url": "https://www.capterra.com/p/148516/Marketing-360/",
+    "rating": 4.5,
+    "review_count": 1128
+  },
+  {
+    "name": "Cerca",
+    "capterra_url": "https://www.capterra.com/p/230100/Cerca/",
+    "rating": 4.8,
+    "review_count": 35
+  },
+  {
+    "name": "eWay-CRM",
+    "capterra_url": "https://www.capterra.com/p/152769/eWay-CRM/",
+    "rating": 4.5,
+    "review_count": 806
+  },
+  {
+    "name": "RAYNET CRM",
+    "capterra_url": "https://www.capterra.com/p/136797/RAYNET-CRM/",
+    "rating": 4.9,
+    "review_count": 27
+  },
+  {
+    "name": "Capsule",
+    "capterra_url": "https://www.capterra.com/p/124041/Capsule/",
+    "rating": 4.5,
+    "review_count": 167
+  },
+  {
+    "name": "EngageBay CRM",
+    "capterra_url": "https://www.capterra.com/p/178819/EngageBay-Marketing/",
+    "rating": 4.7,
+    "review_count": 906
+  },
+  {
+    "name": "Mailchimp",
+    "capterra_url": "https://www.capterra.com/p/110228/MailChimp/",
+    "rating": 4.5,
+    "review_count": 17542
+  },
+  {
+    "name": "Dynamics 365",
+    "capterra_url": "https://www.capterra.com/p/157279/Dynamics-365/",
+    "rating": 4.4,
+    "review_count": 5804
+  },
+  {
+    "name": "ClickUp",
+    "capterra_url": "https://www.capterra.com/p/158833/ClickUp/",
+    "rating": 4.6,
+    "review_count": 4550
+  },
+  {
+    "name": "Zendesk Suite",
+    "capterra_url": "https://www.capterra.com/p/164283/Zendesk/",
+    "rating": 4.4,
+    "review_count": 4066
+  },
+  {
+    "name": "Brevo",
+    "capterra_url": "https://www.capterra.com/p/132996/brevo/",
+    "rating": 4.6,
+    "review_count": 3382
+  },
+  {
+    "name": "ActiveCampaign",
+    "capterra_url": "https://www.capterra.com/p/79367/ActiveCampaign/",
+    "rating": 4.6,
+    "review_count": 2557
+  },
+  {
+    "name": "Airtable",
+    "capterra_url": "https://www.capterra.com/p/146652/Airtable/",
+    "rating": 4.6,
+    "review_count": 2216
+  },
+  {
+    "name": "Nimble",
+    "capterra_url": "https://www.capterra.com/p/123032/Nimble/",
+    "rating": 4.4,
+    "review_count": 1867
+  },
+  {
+    "name": "LiveAgent",
+    "capterra_url": "https://www.capterra.com/p/102188/LiveAgent/",
+    "rating": 4.7,
+    "review_count": 1748
+  },
+  {
+    "name": "Keap",
+    "capterra_url": "https://www.capterra.com/p/76390/Infusionsoft/",
+    "rating": 4.1,
+    "review_count": 1297
+  },
+  {
+    "name": "Act!",
+    "capterra_url": "https://www.capterra.com/p/175860/Act/",
+    "rating": 3.9,
+    "review_count": 847
+  },
+  {
+    "name": "Any.do",
+    "capterra_url": "https://www.capterra.com/p/173614/Any-do/",
+    "rating": 4.7,
+    "review_count": 829
+  },
+  {
+    "name": "mHelpDesk",
+    "capterra_url": "https://www.capterra.com/p/77264/mHelpDesk/",
+    "rating": 4.3,
+    "review_count": 823
+  },
+  {
+    "name": "Salesforce Service Cloud",
+    "capterra_url": "https://www.capterra.com/p/136189/Salesforce/",
+    "rating": 4.5,
+    "review_count": 811
+  },
+  {
+    "name": "SendPulse",
+    "capterra_url": "https://www.capterra.com/p/146369/SendPulse/",
+    "rating": 4.6,
+    "review_count": 763
+  },
+  {
+    "name": "Insightly",
+    "capterra_url": "https://www.capterra.com/p/130671/Insightly/",
+    "rating": 4.0,
+    "review_count": 654
+  },
+  {
+    "name": "Pipeline CRM",
+    "capterra_url": "https://www.capterra.com/p/75608/PipelineDeals/",
+    "rating": 4.3,
+    "review_count": 621
+  },
+  {
+    "name": "Freshsales",
+    "capterra_url": "https://www.capterra.com/p/155563/Freshsales/",
+    "rating": 4.5,
+    "review_count": 620
+  },
+  {
+    "name": "Meritto",
+    "capterra_url": "https://www.capterra.com/p/250169/Comprehensive-Admission-Suite/",
+    "rating": 4.6,
+    "review_count": 616
+  },
+  {
+    "name": "Nutshell",
+    "capterra_url": "https://www.capterra.com/p/144340/Nutshell/",
+    "rating": 4.4,
+    "review_count": 616
+  },
+  {
+    "name": "Sage Intacct",
+    "capterra_url": "https://www.capterra.com/p/76/Intacct/",
+    "rating": 4.3,
+    "review_count": 592
+  },
+  {
+    "name": "Tripleseat",
+    "capterra_url": "https://www.capterra.com/p/118047/Tripleseat/",
+    "rating": 4.7,
+    "review_count": 572
+  },
+  {
+    "name": "Kylas Sales CRM",
+    "capterra_url": "https://www.capterra.com/p/210630/Kylas/",
+    "rating": 4.8,
+    "review_count": 570
+  },
+  {
+    "name": "BoldTrail",
+    "capterra_url": "https://www.capterra.com/p/176447/BoldTrail/",
+    "rating": 4.4,
+    "review_count": 560
+  },
+  {
+    "name": "Wise Agent",
+    "capterra_url": "https://www.capterra.com/p/20680/The-Wise-Agent/",
+    "rating": 4.4,
+    "review_count": 531
+  },
+  {
+    "name": "Salesforce Marketing Cloud",
+    "capterra_url": "https://www.capterra.com/p/248536/Salesforce-Marketing-Cloud/",
+    "rating": 4.2,
+    "review_count": 526
+  },
+  {
+    "name": "Agile CRM",
+    "capterra_url": "https://www.capterra.com/p/135148/Agile-CRM/",
+    "rating": 4.1,
+    "review_count": 524
+  },
+  {
+    "name": "Klaviyo",
+    "capterra_url": "https://www.capterra.com/p/156699/Klaviyo/",
+    "rating": 4.6,
+    "review_count": 522
+  },
+  {
+    "name": "Podium",
+    "capterra_url": "https://www.capterra.com/p/164285/Podium/",
+    "rating": 4.3,
+    "review_count": 522
+  },
+  {
+    "name": "PracticePanther Legal Software",
+    "capterra_url": "https://www.capterra.com/p/140231/PracticePanther-Legal-Software/",
+    "rating": 4.7,
+    "review_count": 519
+  },
+  {
+    "name": "Thryv",
+    "capterra_url": "https://www.capterra.com/p/156926/Thryv/",
+    "rating": 4.2,
+    "review_count": 505
+  },
+  {
+    "name": "HubSpot Sales Hub",
+    "capterra_url": "https://www.capterra.com/p/214215/HubSpot-SalesHub/",
+    "rating": 4.5,
+    "review_count": 496
+  },
+  {
+    "name": "Streak",
+    "capterra_url": "https://www.capterra.com/p/124465/Streak/",
+    "rating": 4.5,
+    "review_count": 479
+  },
+  {
+    "name": "Deltek Vision",
+    "capterra_url": "https://www.capterra.com/p/1404/Deltek-Vision/",
+    "rating": 4.1,
+    "review_count": 471
+  },
+  {
+    "name": "Spotler CRM",
+    "capterra_url": "https://www.capterra.com/p/88929/Really-Simple-Systems-CRM/",
+    "rating": 4.5,
+    "review_count": 453
+  },
+  {
+    "name": "Ploomes CRM",
+    "capterra_url": "https://www.capterra.com/p/207290/Ploomes/",
+    "rating": 4.9,
+    "review_count": 412
+  },
+  {
+    "name": "SugarCRM",
+    "capterra_url": "https://www.capterra.com/p/231638/SugarCRM/",
+    "rating": 3.8,
+    "review_count": 410
+  },
+  {
+    "name": "Flowlu",
+    "capterra_url": "https://www.capterra.com/p/166656/FLowlu/",
+    "rating": 4.8,
+    "review_count": 387
+  },
+  {
+    "name": "Kickserv",
+    "capterra_url": "https://www.capterra.com/p/122541/Kickserv/",
+    "rating": 4.4,
+    "review_count": 386
+  },
+  {
+    "name": "Convoso",
+    "capterra_url": "https://www.capterra.com/p/76768/Cloud-Predictive-Dialer/",
+    "rating": 4.5,
+    "review_count": 385
+  },
+  {
+    "name": "Sage 100",
+    "capterra_url": "https://www.capterra.com/p/227232/Sage-100cloud/",
+    "rating": 4.1,
+    "review_count": 367
+  },
+  {
+    "name": "Podio",
+    "capterra_url": "https://www.capterra.com/p/128631/Podio/",
+    "rating": 4.3,
+    "review_count": 362
+  },
+  {
+    "name": "Agiled",
+    "capterra_url": "https://www.capterra.com/p/206203/Agiled/",
+    "rating": 4.7,
+    "review_count": 350
+  },
+  {
+    "name": "SAP Business One",
+    "capterra_url": "https://www.capterra.com/p/214667/SAP-Business-One/",
+    "rating": 4.3,
+    "review_count": 340
+  },
+  {
+    "name": "Vtiger CRM",
+    "capterra_url": "https://www.capterra.com/p/112491/vtiger-CRM/",
+    "rating": 4.3,
+    "review_count": 336
+  },
+  {
+    "name": "Quickbase",
+    "capterra_url": "https://www.capterra.com/p/157262/QuickBase/",
+    "rating": 4.4,
+    "review_count": 326
+  },
+  {
+    "name": "ONLYOFFICE Workspace",
+    "capterra_url": "https://www.capterra.com/p/141243/ONLYOFFICE/",
+    "rating": 4.5,
+    "review_count": 324
+  },
+  {
+    "name": "TOP PRODUCER",
+    "capterra_url": "https://www.capterra.com/p/152143/Top-Producer-CRM/",
+    "rating": 4.0,
+    "review_count": 323
+  },
+  {
+    "name": "OpenCRM",
+    "capterra_url": "https://www.capterra.com/p/129881/OpenCRM/",
+    "rating": 4.6,
+    "review_count": 294
+  },
+  {
+    "name": "Firefish",
+    "capterra_url": "https://www.capterra.com/p/226344/Firefish/",
+    "rating": 4.6,
+    "review_count": 291
+  },
+  {
+    "name": "vcita",
+    "capterra_url": "https://www.capterra.com/p/142264/Appointment-Scheduling/",
+    "rating": 4.4,
+    "review_count": 290
+  },
+  {
+    "name": "Front",
+    "capterra_url": "https://www.capterra.com/p/132901/Front/",
+    "rating": 4.5,
+    "review_count": 285
+  },
+  {
+    "name": "Octopus CRM",
+    "capterra_url": "https://www.capterra.com/p/204641/Octopus-CRM/",
+    "rating": 4.6,
+    "review_count": 274
+  },
+  {
+    "name": "AutoRaptor CRM",
+    "capterra_url": "https://www.capterra.com/p/118844/AutoRaptor-CRM/",
+    "rating": 4.6,
+    "review_count": 269
+  },
+  {
+    "name": "Virtuagym",
+    "capterra_url": "https://www.capterra.com/p/132191/Virtuagym/",
+    "rating": 3.8,
+    "review_count": 263
+  },
+  {
+    "name": "Scoro",
+    "capterra_url": "https://www.capterra.com/p/142042/Scoro/",
+    "rating": 4.5,
+    "review_count": 262
+  },
+  {
+    "name": "Xactly Incent",
+    "capterra_url": "https://www.capterra.com/p/41694/Xactly-Incent/",
+    "rating": 4.2,
+    "review_count": 252
+  },
+  {
+    "name": "Popl",
+    "capterra_url": "https://www.capterra.com/p/252928/Popl/",
+    "rating": 4.7,
+    "review_count": 249
+  },
+  {
+    "name": "CINC",
+    "capterra_url": "https://www.capterra.com/p/152829/CINC/",
+    "rating": 4.1,
+    "review_count": 248
+  },
+  {
+    "name": "SAP Customer Experience",
+    "capterra_url": "https://www.capterra.com/p/77372/SAP-CRM/",
+    "rating": 4.3,
+    "review_count": 245
+  },
+  {
+    "name": "Acumatica Cloud ERP",
+    "capterra_url": "https://www.capterra.com/p/96371/Acumatica-Cloud-ERP/",
+    "rating": 4.4,
+    "review_count": 243
+  },
+  {
+    "name": "BoomTown",
+    "capterra_url": "https://www.capterra.com/p/151892/BoomTown/",
+    "rating": 4.5,
+    "review_count": 239
+  },
+  {
+    "name": "VanillaSoft",
+    "capterra_url": "https://www.capterra.com/p/27609/VanillaSoft/",
+    "rating": 4.6,
+    "review_count": 232
+  },
+  {
+    "name": "Velocify",
+    "capterra_url": "https://www.capterra.com/p/129463/Velocify/",
+    "rating": 4.3,
+    "review_count": 231
+  },
+  {
+    "name": "FollowUp CRM",
+    "capterra_url": "https://www.capterra.com/p/137381/FollowUp-Power/",
+    "rating": 4.5,
+    "review_count": 228
+  },
+  {
+    "name": "Kajabi",
+    "capterra_url": "https://www.capterra.com/p/154682/Kajabi/",
+    "rating": 4.4,
+    "review_count": 226
+  },
+  {
+    "name": "Salesforce Starter",
+    "capterra_url": "https://www.capterra.com/p/227088/Salesforce-Starter/",
+    "rating": 4.4,
+    "review_count": 222
+  },
+  {
+    "name": "Pipeliner CRM",
+    "capterra_url": "https://www.capterra.com/p/125911/Pipeliner-CRM/",
+    "rating": 4.6,
+    "review_count": 215
+  },
+  {
+    "name": "Snov.io",
+    "capterra_url": "https://www.capterra.com/p/182902/Snovio/",
+    "rating": 4.5,
+    "review_count": 215
+  },
+  {
+    "name": "Commusoft",
+    "capterra_url": "https://www.capterra.com/p/149651/Commusoft/",
+    "rating": 4.7,
+    "review_count": 209
+  },
+  {
+    "name": "CDK Global",
+    "capterra_url": "https://www.capterra.com/p/122988/CDK-Global/",
+    "rating": 4.1,
+    "review_count": 207
+  },
+  {
+    "name": "Claris FileMaker",
+    "capterra_url": "https://www.capterra.com/p/162784/FileMaker/",
+    "rating": 4.3,
+    "review_count": 206
+  },
+  {
+    "name": "Deskera ERP",
+    "capterra_url": "https://www.capterra.com/p/10006773/Deskera-ERP/",
+    "rating": 4.5,
+    "review_count": 205
+  },
+  {
+    "name": "Issuetrak",
+    "capterra_url": "https://www.capterra.com/p/16499/Issuetrak/",
+    "rating": 4.6,
+    "review_count": 204
+  },
+  {
+    "name": "NiceJob",
+    "capterra_url": "https://www.capterra.com/p/142037/NiceJob/",
+    "rating": 4.9,
+    "review_count": 202
+  },
+  {
+    "name": "Wati",
+    "capterra_url": "https://www.capterra.com/p/204314/WATI/",
+    "rating": 4.6,
+    "review_count": 202
+  },
+  {
+    "name": "FranConnect",
+    "capterra_url": "https://www.capterra.com/p/79205/FranConnect-Franchise-Software/",
+    "rating": 4.3,
+    "review_count": 202
+  },
+  {
+    "name": "SalesRabbit",
+    "capterra_url": "https://www.capterra.com/p/157329/Sales-Rabbit/",
+    "rating": 4.2,
+    "review_count": 191
+  },
+  {
+    "name": "Kommo",
+    "capterra_url": "https://www.capterra.com/p/120048/amoCRM/",
+    "rating": 4.3,
+    "review_count": 188
+  },
+  {
+    "name": "Tracker",
+    "capterra_url": "https://www.capterra.com/p/141766/TrackerRMS/",
+    "rating": 4.7,
+    "review_count": 186
+  },
+  {
+    "name": "Glue Up",
+    "capterra_url": "https://www.capterra.com/p/134209/Glue-Up/",
+    "rating": 4.5,
+    "review_count": 186
+  },
+  {
+    "name": "HubSpot Service Hub",
+    "capterra_url": "https://www.capterra.com/p/182476/HubSpot-Service-Hub/",
+    "rating": 4.4,
+    "review_count": 186
+  }
+]

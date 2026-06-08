@@ -1,0 +1,87 @@
+{
+  "counts": {
+    "feature": 2,
+    "link": 2
+  },
+  "total": 4,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) February 4, 2026 Create engaging training videos in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [Compliance",
+      "span": [
+        293,
+        307
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "How to Create Compliance Training Videos (+ Templates)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create engaging training videos in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create engaging training videos in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)",
+      "span": [
+        7626,
+        7640
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Step 5: Publish, review, and update regularly",
+        "heading_level": 2,
+        "line": 146
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create engaging training videos in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)"
+    },
+    {
+      "type": "link",
+      "text": "https://arxiv.org/abs/2502.02880",
+      "context": "",
+      "span": [
+        4461,
+        4493
+      ],
+      "meta": {
+        "domain": "arxiv.org",
+        "anchor": "Lira et al., 2025"
+      },
+      "location": {
+        "heading": "Why examples work better than explanations in compliance training",
+        "heading_level": 2,
+        "line": 82
+      },
+      "sentence": "A recent large-scale study on AI-supported learning found that exposure to high-quality, worked examples—shown in context and aligned to clear performance standards—led to lasting improvements in independent performance, even after the AI was removed ( [Lira et al., 2025](https://arxiv.org/abs/2502.02880))."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        25493,
+        26845
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

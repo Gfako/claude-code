@@ -1,0 +1,1748 @@
+[
+  {
+    "name": "ACH.com",
+    "domain": "achcom.com",
+    "dr": 0,
+    "norm": "achcom"
+  },
+  {
+    "name": "AWS API Gateway",
+    "domain": "awsapigateway.com",
+    "dr": 0,
+    "norm": "aws api gateway"
+  },
+  {
+    "name": "AWS CDK",
+    "domain": "awscdk.com",
+    "dr": 0,
+    "norm": "aws cdk"
+  },
+  {
+    "name": "Abnormal AI",
+    "domain": "abnormalai.com",
+    "dr": 0,
+    "norm": "abnormal ai"
+  },
+  {
+    "name": "Airtable Forms",
+    "domain": "airtableforms.com",
+    "dr": 0,
+    "norm": "airtable forms"
+  },
+  {
+    "name": "AllSeated (Prismm)",
+    "domain": "allseatedprismm.com",
+    "dr": 0,
+    "norm": "allseated prismm"
+  },
+  {
+    "name": "Announcekit",
+    "domain": "announcekit.com",
+    "dr": 0,
+    "norm": "announcekit"
+  },
+  {
+    "name": "Asana Rules",
+    "domain": "asanarules.com",
+    "dr": 0,
+    "norm": "asana rules"
+  },
+  {
+    "name": "Bookkeeper360",
+    "domain": "thebeautyroom.uk",
+    "dr": 0,
+    "norm": "bookkeeper360"
+  },
+  {
+    "name": "Botsociety",
+    "domain": "botsociety.com",
+    "dr": 0,
+    "norm": "botsociety"
+  },
+  {
+    "name": "Brevo (Sendinblue)",
+    "domain": "brevosendinblue.com",
+    "dr": 0,
+    "norm": "brevo sendinblue"
+  },
+  {
+    "name": "Certinia (FinancialForce)",
+    "domain": "certiniafinancialforce.com",
+    "dr": 0,
+    "norm": "certinia financialforce"
+  },
+  {
+    "name": "Citrix ShareFile",
+    "domain": "citrixsharefile.com",
+    "dr": 0,
+    "norm": "citrix sharefile"
+  },
+  {
+    "name": "D2L Brightspace",
+    "domain": "d2lbrightspace.com",
+    "dr": 0,
+    "norm": "d2l brightspace"
+  },
+  {
+    "name": "Drafting Assistant",
+    "domain": "draftingassistant.com",
+    "dr": 0,
+    "norm": "drafting assistant"
+  },
+  {
+    "name": "Emerald AI",
+    "domain": "emeraldai.com",
+    "dr": 0,
+    "norm": "emerald ai"
+  },
+  {
+    "name": "Encharge",
+    "domain": "encharge.com",
+    "dr": 0,
+    "norm": "encharge"
+  },
+  {
+    "name": "Firebase Auth",
+    "domain": "firebaseauth.com",
+    "dr": 0,
+    "norm": "firebase auth"
+  },
+  {
+    "name": "Freshworks CRM",
+    "domain": "freshworkscrm.com",
+    "dr": 0,
+    "norm": "freshworks crm"
+  },
+  {
+    "name": "GitHub Actions",
+    "domain": "githubactions.com",
+    "dr": 0,
+    "norm": "github actions"
+  },
+  {
+    "name": "Google Data Studio (Looker Studio)",
+    "domain": "googledatastudiolookerstudio.com",
+    "dr": 0,
+    "norm": "google data studio looker studio"
+  },
+  {
+    "name": "Hospitable (Smartbnb)",
+    "domain": "hospitablesmartbnb.com",
+    "dr": 0,
+    "norm": "hospitable smartbnb"
+  },
+  {
+    "name": "HubSpot CRM",
+    "domain": "hubspotcrm.com",
+    "dr": 0,
+    "norm": "hubspot crm"
+  },
+  {
+    "name": "HubSpot Marketing Hub",
+    "domain": "hubspotmarketinghub.com",
+    "dr": 0,
+    "norm": "hubspot marketing hub"
+  },
+  {
+    "name": "HubSpot Sales Hub",
+    "domain": "hubspotsaleshub.com",
+    "dr": 0,
+    "norm": "hubspotles hub"
+  },
+  {
+    "name": "Humu",
+    "domain": "kenziquigg.com",
+    "dr": 0,
+    "norm": "humu"
+  },
+  {
+    "name": "IQMS (DELMIAworks)",
+    "domain": "erpsoftwarevideos.com",
+    "dr": 0,
+    "norm": "iqms delmiaworks"
+  },
+  {
+    "name": "John Deere Operations Center",
+    "domain": "johndeereoperationscenter.com",
+    "dr": 0,
+    "norm": "john deere operations center"
+  },
+  {
+    "name": "ERPNext",
+    "domain": "erpnext.involvetechnologies.com",
+    "dr": 0.1,
+    "norm": "erpnext"
+  },
+  {
+    "name": "DEAR Inventory",
+    "domain": "dearinventory.com",
+    "dr": 0.3,
+    "norm": "dear inventory"
+  },
+  {
+    "name": "Float Cash Flow",
+    "domain": "floatcashflow.com",
+    "dr": 0.3,
+    "norm": "float cash flow"
+  },
+  {
+    "name": "Google Cloud Platform",
+    "domain": "googlecloudplatform.com",
+    "dr": 0.3,
+    "norm": "google cloud platform"
+  },
+  {
+    "name": "Cashflow Manager",
+    "domain": "cashflowmanager.com",
+    "dr": 0.6,
+    "norm": "cashflow manager"
+  },
+  {
+    "name": "AMZScout",
+    "domain": "amzscout.com",
+    "dr": 0.9,
+    "norm": "amzscout"
+  },
+  {
+    "name": "CPI OpenFox",
+    "domain": "cpiopenfox.com",
+    "dr": 0.9,
+    "norm": "cpi openfox"
+  },
+  {
+    "name": "Adaptive Insights",
+    "domain": "qmetrix.com.sg",
+    "dr": 1.5,
+    "norm": "adaptive insights"
+  },
+  {
+    "name": "Countly",
+    "domain": "countly.net",
+    "dr": 1.5,
+    "norm": "countly"
+  },
+  {
+    "name": "FarmBot",
+    "domain": "farmbot.com",
+    "dr": 1.5,
+    "norm": "farmbot"
+  },
+  {
+    "name": "Arcadier",
+    "domain": "whitelance.co",
+    "dr": 1.7,
+    "norm": "arcadier"
+  },
+  {
+    "name": "Bardeen",
+    "domain": "bardeen.com",
+    "dr": 2.2,
+    "norm": "bardeen"
+  },
+  {
+    "name": "Farmers Edge",
+    "domain": "farmersedge.com",
+    "dr": 2.3,
+    "norm": "farmers edge"
+  },
+  {
+    "name": "Everfit",
+    "domain": "everfit.com",
+    "dr": 3.0,
+    "norm": "everfit"
+  },
+  {
+    "name": "Akita",
+    "domain": "akita.com",
+    "dr": 3.4,
+    "norm": "akita"
+  },
+  {
+    "name": "Hemingway Editor",
+    "domain": "hemingwayeditor.com",
+    "dr": 4.0,
+    "norm": "hemingway editor"
+  },
+  {
+    "name": "Instantly",
+    "domain": "instantly.com",
+    "dr": 4.6,
+    "norm": "instantly"
+  },
+  {
+    "name": "All in One SEO",
+    "domain": "allinoneseo.com",
+    "dr": 6.0,
+    "norm": "all in one seo"
+  },
+  {
+    "name": "Bolt.new",
+    "domain": "boltnew.com",
+    "dr": 6.0,
+    "norm": "boltnew"
+  },
+  {
+    "name": "Column",
+    "domain": "tribby3d.com",
+    "dr": 6.0,
+    "norm": "column"
+  },
+  {
+    "name": "FigJam",
+    "domain": "figjammobile.com",
+    "dr": 6.0,
+    "norm": "figjam"
+  },
+  {
+    "name": "ChromaDB",
+    "domain": "chromadb.com",
+    "dr": 7.0,
+    "norm": "chromadb"
+  },
+  {
+    "name": "Codefresh",
+    "domain": "codefresh.com",
+    "dr": 7.0,
+    "norm": "codefresh"
+  },
+  {
+    "name": "Envato Elements",
+    "domain": "envatoelements.com",
+    "dr": 7.0,
+    "norm": "envato elements"
+  },
+  {
+    "name": "Harbor",
+    "domain": "realclear.software",
+    "dr": 7.0,
+    "norm": "harbor"
+  },
+  {
+    "name": "Inato",
+    "domain": "marche.health",
+    "dr": 8.0,
+    "norm": "inato"
+  },
+  {
+    "name": "CloudTalk",
+    "domain": "cloudtalk.com",
+    "dr": 9.0,
+    "norm": "cloudtalk"
+  },
+  {
+    "name": "Egencia",
+    "domain": "egencia.be",
+    "dr": 9.0,
+    "norm": "egencia"
+  },
+  {
+    "name": "ImageKit",
+    "domain": "imagekit.com",
+    "dr": 9.0,
+    "norm": "imagekit"
+  },
+  {
+    "name": "Bbot",
+    "domain": "bots.bosstsc.com",
+    "dr": 10.0,
+    "norm": "bbot"
+  },
+  {
+    "name": "CodeRabbit",
+    "domain": "coderabbit.com",
+    "dr": 10.0,
+    "norm": "coderabbit"
+  },
+  {
+    "name": "Deed",
+    "domain": "deedchek.com",
+    "dr": 10.0,
+    "norm": "deed"
+  },
+  {
+    "name": "Divvy",
+    "domain": "divvydigital.com",
+    "dr": 10.0,
+    "norm": "divvy"
+  },
+  {
+    "name": "Fluxx",
+    "domain": "fluxx.com",
+    "dr": 10.0,
+    "norm": "fluxx"
+  },
+  {
+    "name": "Beacons",
+    "domain": "beacons.com",
+    "dr": 11.0,
+    "norm": "beacons"
+  },
+  {
+    "name": "CWT",
+    "domain": "cwt.com",
+    "dr": 11.0,
+    "norm": "cwt"
+  },
+  {
+    "name": "Almanac",
+    "domain": "almanac.in-jet.eu",
+    "dr": 12.0,
+    "norm": "almanac"
+  },
+  {
+    "name": "Dynamics 365",
+    "domain": "endeavour365.ca",
+    "dr": 13.0,
+    "norm": "dynamics 365"
+  },
+  {
+    "name": "Fluidly",
+    "domain": "financebox.co.uk",
+    "dr": 13.0,
+    "norm": "fluidly"
+  },
+  {
+    "name": "Fathom Analytics",
+    "domain": "fathomanalytics.com",
+    "dr": 14.0,
+    "norm": "fathom analytics"
+  },
+  {
+    "name": "Homebase",
+    "domain": "homebase.com",
+    "dr": 14.0,
+    "norm": "homebase"
+  },
+  {
+    "name": "Amity",
+    "domain": "amity.com",
+    "dr": 15.0,
+    "norm": "amity"
+  },
+  {
+    "name": "Ember",
+    "domain": "embersoftware.com",
+    "dr": 16.0,
+    "norm": "ember"
+  },
+  {
+    "name": "EIS",
+    "domain": "eis.com",
+    "dr": 18.0,
+    "norm": "eis"
+  },
+  {
+    "name": "FoodCost Pro",
+    "domain": "foodcostpro.ch",
+    "dr": 18.0,
+    "norm": "foodcost pro"
+  },
+  {
+    "name": "Google Forms",
+    "domain": "googleforms.com",
+    "dr": 18.0,
+    "norm": "google forms"
+  },
+  {
+    "name": "Freshdesk Field Service",
+    "domain": "webmarketing.academy",
+    "dr": 20.0,
+    "norm": "freshdesk field service"
+  },
+  {
+    "name": "Google Workspace",
+    "domain": "googleworkspace.com",
+    "dr": 20.0,
+    "norm": "google workspace"
+  },
+  {
+    "name": "Agari",
+    "domain": "agarikitchen.com",
+    "dr": 21.0,
+    "norm": "agari"
+  },
+  {
+    "name": "ExpressionEngine",
+    "domain": "eeinsider.com",
+    "dr": 21.0,
+    "norm": "expressionengine"
+  },
+  {
+    "name": "Granola",
+    "domain": "granola.com",
+    "dr": 21.0,
+    "norm": "granola"
+  },
+  {
+    "name": "Granular",
+    "domain": "granular.com",
+    "dr": 21.0,
+    "norm": "granular"
+  },
+  {
+    "name": "Apigee (Google)",
+    "domain": "apiquality.io",
+    "dr": 22.0,
+    "norm": "apigee google"
+  },
+  {
+    "name": "BigQuery",
+    "domain": "softwaresim.com",
+    "dr": 23.0,
+    "norm": "bigquery"
+  },
+  {
+    "name": "Campus Management",
+    "domain": "seatsone.ai",
+    "dr": 23.0,
+    "norm": "campus management"
+  },
+  {
+    "name": "Claim Genius",
+    "domain": "claimgenius.com",
+    "dr": 23.0,
+    "norm": "claim genius"
+  },
+  {
+    "name": "Act-On",
+    "domain": "acton.com",
+    "dr": 24.0,
+    "norm": "acton"
+  },
+  {
+    "name": "Charted",
+    "domain": "charted.com",
+    "dr": 24.0,
+    "norm": "charted"
+  },
+  {
+    "name": "Casetext",
+    "domain": "calpodcast.com",
+    "dr": 25.0,
+    "norm": "casetext"
+  },
+  {
+    "name": "Esticom",
+    "domain": "esticom.com",
+    "dr": 25.0,
+    "norm": "esticom"
+  },
+  {
+    "name": "Google Classroom",
+    "domain": "demorest.habershamschools.com",
+    "dr": 25.0,
+    "norm": "google classroom"
+  },
+  {
+    "name": "Hetzner",
+    "domain": "bizanosa.com",
+    "dr": 25.0,
+    "norm": "hetzner"
+  },
+  {
+    "name": "Epic Systems",
+    "domain": "epicsystems.com",
+    "dr": 26.0,
+    "norm": "epic"
+  },
+  {
+    "name": "Ghost",
+    "domain": "ghost.com",
+    "dr": 26.0,
+    "norm": "ghost"
+  },
+  {
+    "name": "Hireflow",
+    "domain": "hireflow.com",
+    "dr": 26.0,
+    "norm": "hireflow"
+  },
+  {
+    "name": "Avail",
+    "domain": "avail.com",
+    "dr": 27.0,
+    "norm": "avail"
+  },
+  {
+    "name": "Dave",
+    "domain": "buildwithdave.com",
+    "dr": 27.0,
+    "norm": "dave"
+  },
+  {
+    "name": "Harvest Profit",
+    "domain": "harvestprofit.com",
+    "dr": 27.0,
+    "norm": "harvest profit"
+  },
+  {
+    "name": "Bindable",
+    "domain": "bindable.com",
+    "dr": 29.0,
+    "norm": "bindable"
+  },
+  {
+    "name": "Firecrawl",
+    "domain": "firecrawl.com",
+    "dr": 29.0,
+    "norm": "firecrawl"
+  },
+  {
+    "name": "Inlytics",
+    "domain": "gopostflow.com",
+    "dr": 29.0,
+    "norm": "inlytics"
+  },
+  {
+    "name": "Circa",
+    "domain": "circa.omgenomics.com",
+    "dr": 31.0,
+    "norm": "circa"
+  },
+  {
+    "name": "EvoluteIQ",
+    "domain": "evoluteiq.com",
+    "dr": 31.0,
+    "norm": "evoluteiq"
+  },
+  {
+    "name": "GetGoing",
+    "domain": "getgoing.com",
+    "dr": 31.0,
+    "norm": "getgoing"
+  },
+  {
+    "name": "GitHub Copilot",
+    "domain": "githubcopilot.com",
+    "dr": 31.0,
+    "norm": "github copilot"
+  },
+  {
+    "name": "Glint",
+    "domain": "glintsolar.com",
+    "dr": 31.0,
+    "norm": "glint"
+  },
+  {
+    "name": "GrantHub",
+    "domain": "nonprofitlibrary.com",
+    "dr": 31.0,
+    "norm": "granthub"
+  },
+  {
+    "name": "BST Global",
+    "domain": "bstglobal.com",
+    "dr": 32.0,
+    "norm": "bst"
+  },
+  {
+    "name": "GoodShip",
+    "domain": "goodship.io",
+    "dr": 32.0,
+    "norm": "goodship"
+  },
+  {
+    "name": "CosmoLex",
+    "domain": "cosmolex.ca",
+    "dr": 33.0,
+    "norm": "cosmolex"
+  },
+  {
+    "name": "CPSI",
+    "domain": "emrsystems.net",
+    "dr": 34.0,
+    "norm": "cpsi"
+  },
+  {
+    "name": "Cerca",
+    "domain": "cerca.io",
+    "dr": 34.0,
+    "norm": "cerca"
+  },
+  {
+    "name": "Clearscope",
+    "domain": "clearscope.solutions",
+    "dr": 34.0,
+    "norm": "clearscope"
+  },
+  {
+    "name": "Heron Data",
+    "domain": "herondata.io",
+    "dr": 34.0,
+    "norm": "heron data"
+  },
+  {
+    "name": "Bond",
+    "domain": "bond.software",
+    "dr": 35.0,
+    "norm": "bond"
+  },
+  {
+    "name": "Cetec ERP",
+    "domain": "cetecerp.com",
+    "dr": 35.0,
+    "norm": "cetec erp"
+  },
+  {
+    "name": "Airplane",
+    "domain": "traxxall.com",
+    "dr": 36.0,
+    "norm": "airplane"
+  },
+  {
+    "name": "Braintree",
+    "domain": "moverbase.com",
+    "dr": 36.0,
+    "norm": "braintree"
+  },
+  {
+    "name": "Buyers Edge Platform",
+    "domain": "bepbackoffice.com",
+    "dr": 36.0,
+    "norm": "buyers edge platform"
+  },
+  {
+    "name": "Fauna",
+    "domain": "faunarobotics.com",
+    "dr": 36.0,
+    "norm": "fauna"
+  },
+  {
+    "name": "Automate.io",
+    "domain": "automateio.com",
+    "dr": 37.0,
+    "norm": "automateio"
+  },
+  {
+    "name": "Brella",
+    "domain": "dimmo.ai",
+    "dr": 37.0,
+    "norm": "brella"
+  },
+  {
+    "name": "Headway",
+    "domain": "headway.com",
+    "dr": 37.0,
+    "norm": "headway"
+  },
+  {
+    "name": "Aster",
+    "domain": "aster.com",
+    "dr": 38.0,
+    "norm": "aster"
+  },
+  {
+    "name": "Avail (Realtor.com)",
+    "domain": "dtsearch.chelseadistrictlibrary.org",
+    "dr": 38.0,
+    "norm": "avail realtorcom"
+  },
+  {
+    "name": "Baton",
+    "domain": "hellobaton.com",
+    "dr": 38.0,
+    "norm": "baton"
+  },
+  {
+    "name": "InterGuard",
+    "domain": "interguardsoftware.com",
+    "dr": 38.0,
+    "norm": "interguard"
+  },
+  {
+    "name": "Act!",
+    "domain": "keystroke.ca",
+    "dr": 39.0,
+    "norm": "act"
+  },
+  {
+    "name": "Confido Legal",
+    "domain": "confidolegal.com",
+    "dr": 39.0,
+    "norm": "confido legal"
+  },
+  {
+    "name": "ConnectWise Sell",
+    "domain": "connectbooster.com",
+    "dr": 39.0,
+    "norm": "connectwise sell"
+  },
+  {
+    "name": "Jonas Construction",
+    "domain": "jonasconstruction.com",
+    "dr": 39.0,
+    "norm": "jonas construction"
+  },
+  {
+    "name": "FluentStream",
+    "domain": "fluentstream.com",
+    "dr": 40.0,
+    "norm": "fluentstream"
+  },
+  {
+    "name": "Gynger",
+    "domain": "gynger.io",
+    "dr": 40.0,
+    "norm": "gynger"
+  },
+  {
+    "name": "Izenda",
+    "domain": "wiki.izenda.us",
+    "dr": 40.0,
+    "norm": "izenda"
+  },
+  {
+    "name": "AGCO Fuse",
+    "domain": "farmtrader.co.nz",
+    "dr": 41.0,
+    "norm": "agco fuse"
+  },
+  {
+    "name": "AutoRaptor CRM",
+    "domain": "autoraptor.com",
+    "dr": 41.0,
+    "norm": "autoraptor crm"
+  },
+  {
+    "name": "FollowUp CRM",
+    "domain": "followupcrm.com",
+    "dr": 41.0,
+    "norm": "followup crm"
+  },
+  {
+    "name": "Form Simplicity",
+    "domain": "formsimplicity.com",
+    "dr": 41.0,
+    "norm": "form simplicity"
+  },
+  {
+    "name": "Beamer",
+    "domain": "info-beamer.com",
+    "dr": 42.0,
+    "norm": "beamer"
+  },
+  {
+    "name": "EventDraw",
+    "domain": "eventdraw.com",
+    "dr": 42.0,
+    "norm": "eventdraw"
+  },
+  {
+    "name": "GoProposal",
+    "domain": "goproposal.com",
+    "dr": 42.0,
+    "norm": "goproposal"
+  },
+  {
+    "name": "Gradient AI",
+    "domain": "gradientai.com",
+    "dr": 42.0,
+    "norm": "gradient ai"
+  },
+  {
+    "name": "Branch",
+    "domain": "quickfms.com",
+    "dr": 43.0,
+    "norm": "branch"
+  },
+  {
+    "name": "CiviCRM",
+    "domain": "civicrm.com",
+    "dr": 43.0,
+    "norm": "civicrm"
+  },
+  {
+    "name": "Clear Estimates",
+    "domain": "clearestimates.com",
+    "dr": 43.0,
+    "norm": "clear estimates"
+  },
+  {
+    "name": "Espressive",
+    "domain": "espressive.com",
+    "dr": 43.0,
+    "norm": "espressive"
+  },
+  {
+    "name": "Forecast",
+    "domain": "forecastpro.com",
+    "dr": 43.0,
+    "norm": "forecast"
+  },
+  {
+    "name": "Campfire Software",
+    "domain": "campfire.ai",
+    "dr": 44.0,
+    "norm": "campfire"
+  },
+  {
+    "name": "Collectly",
+    "domain": "collectly.co",
+    "dr": 44.0,
+    "norm": "collectly"
+  },
+  {
+    "name": "Forestry",
+    "domain": "3log.com",
+    "dr": 44.0,
+    "norm": "forestry"
+  },
+  {
+    "name": "Gamma",
+    "domain": "gamma-rs.ch",
+    "dr": 44.0,
+    "norm": "gamma"
+  },
+  {
+    "name": "365villas",
+    "domain": "guestwisely.io",
+    "dr": 45.0,
+    "norm": "365villas"
+  },
+  {
+    "name": "4Degrees",
+    "domain": "4degrees.ai",
+    "dr": 45.0,
+    "norm": "4degrees"
+  },
+  {
+    "name": "Agiled",
+    "domain": "agiled.app",
+    "dr": 45.0,
+    "norm": "agiled"
+  },
+  {
+    "name": "Donorbox",
+    "domain": "donorbox.com",
+    "dr": 46.0,
+    "norm": "donorbox"
+  },
+  {
+    "name": "Global Shop Solutions",
+    "domain": "globalshopsolutions.com",
+    "dr": 46.0,
+    "norm": "global shop"
+  },
+  {
+    "name": "1CRM",
+    "domain": "1crm.com",
+    "dr": 47.0,
+    "norm": "1crm"
+  },
+  {
+    "name": "Alloy",
+    "domain": "alloy.ai",
+    "dr": 47.0,
+    "norm": "alloy"
+  },
+  {
+    "name": "Clientpoint",
+    "domain": "clientpoint.net",
+    "dr": 47.0,
+    "norm": "clientpoint"
+  },
+  {
+    "name": "Connecterra",
+    "domain": "thebullvine.com",
+    "dr": 47.0,
+    "norm": "connecterra"
+  },
+  {
+    "name": "EverAfter",
+    "domain": "everafter.ai",
+    "dr": 47.0,
+    "norm": "everafter"
+  },
+  {
+    "name": "AgencyZoom",
+    "domain": "agencyzoom.com",
+    "dr": 48.0,
+    "norm": "agencyzoom"
+  },
+  {
+    "name": "BotStar",
+    "domain": "botstar.com",
+    "dr": 48.0,
+    "norm": "botstar"
+  },
+  {
+    "name": "Cherre",
+    "domain": "cherre.com",
+    "dr": 48.0,
+    "norm": "cherre"
+  },
+  {
+    "name": "DemandFarm",
+    "domain": "demandfarm.com",
+    "dr": 48.0,
+    "norm": "demandfarm"
+  },
+  {
+    "name": "DriveWorks",
+    "domain": "driveworks.co.uk",
+    "dr": 48.0,
+    "norm": "driveworks"
+  },
+  {
+    "name": "Harvestr",
+    "domain": "howtoweb.co",
+    "dr": 48.0,
+    "norm": "harvestr"
+  },
+  {
+    "name": "Hummingbird",
+    "domain": "hummingbird.co",
+    "dr": 48.0,
+    "norm": "hummingbird"
+  },
+  {
+    "name": "Jungo",
+    "domain": "ijungo.com",
+    "dr": 48.0,
+    "norm": "jungo"
+  },
+  {
+    "name": "Amicus Attorney",
+    "domain": "amicusattorney.com",
+    "dr": 49.0,
+    "norm": "amicus attorney"
+  },
+  {
+    "name": "D&B Hoovers",
+    "domain": "dnb.com.hk",
+    "dr": 49.0,
+    "norm": "db hoovers"
+  },
+  {
+    "name": "Digitail",
+    "domain": "digitail.com",
+    "dr": 49.0,
+    "norm": "digitail"
+  },
+  {
+    "name": "GradLeaders",
+    "domain": "gradleaders.com",
+    "dr": 49.0,
+    "norm": "gradleaders"
+  },
+  {
+    "name": "HubSpot CMS",
+    "domain": "connect.plusyourbusiness.com",
+    "dr": 49.0,
+    "norm": "hubspot cms"
+  },
+  {
+    "name": "Academy of Mine",
+    "domain": "academyofmine.com",
+    "dr": 50.0,
+    "norm": "academy of mine"
+  },
+  {
+    "name": "Center",
+    "domain": "oncenter.com",
+    "dr": 50.0,
+    "norm": "center"
+  },
+  {
+    "name": "Deliverr",
+    "domain": "softwareadvice.com.au",
+    "dr": 50.0,
+    "norm": "deliverr"
+  },
+  {
+    "name": "Float",
+    "domain": "floatfinancial.com",
+    "dr": 50.0,
+    "norm": "float"
+  },
+  {
+    "name": "Haystack",
+    "domain": "haystackteam.com",
+    "dr": 50.0,
+    "norm": "haystack"
+  },
+  {
+    "name": "ADP",
+    "domain": "mijares.com",
+    "dr": 51.0,
+    "norm": "adp"
+  },
+  {
+    "name": "AbacusLaw",
+    "domain": "abacuslaw.com",
+    "dr": 51.0,
+    "norm": "abacuslaw"
+  },
+  {
+    "name": "AcuityMD",
+    "domain": "acuitymd.com",
+    "dr": 51.0,
+    "norm": "acuitymd"
+  },
+  {
+    "name": "AgentSync",
+    "domain": "agentsync.io",
+    "dr": 51.0,
+    "norm": "agentsync"
+  },
+  {
+    "name": "BrightInsight",
+    "domain": "brightinsight.com",
+    "dr": 51.0,
+    "norm": "brightinsight"
+  },
+  {
+    "name": "CallProof",
+    "domain": "callproof.com",
+    "dr": 51.0,
+    "norm": "callproof"
+  },
+  {
+    "name": "Drizzle",
+    "domain": "drizzle.com",
+    "dr": 51.0,
+    "norm": "drizzle"
+  },
+  {
+    "name": "FarmRaise",
+    "domain": "farmraise.com",
+    "dr": 51.0,
+    "norm": "farmraise"
+  },
+  {
+    "name": "ActiveFence",
+    "domain": "alice.io",
+    "dr": 52.0,
+    "norm": "activefence"
+  },
+  {
+    "name": "Burnalong",
+    "domain": "burnalong.com",
+    "dr": 52.0,
+    "norm": "burnalong"
+  },
+  {
+    "name": "CINC",
+    "domain": "cincsystems.com",
+    "dr": 52.0,
+    "norm": "cinc"
+  },
+  {
+    "name": "Count",
+    "domain": "count.co",
+    "dr": 52.0,
+    "norm": "count"
+  },
+  {
+    "name": "Ducalis",
+    "domain": "hi.ducalis.io",
+    "dr": 52.0,
+    "norm": "ducalis"
+  },
+  {
+    "name": "Ajera",
+    "domain": "ajera.com",
+    "dr": 53.0,
+    "norm": "ajera"
+  },
+  {
+    "name": "Arable",
+    "domain": "arable.com",
+    "dr": 53.0,
+    "norm": "arable"
+  },
+  {
+    "name": "Arrows",
+    "domain": "arrows.to",
+    "dr": 53.0,
+    "norm": "arrows"
+  },
+  {
+    "name": "Hour One",
+    "domain": "fahimai.com",
+    "dr": 53.0,
+    "norm": "hour one"
+  },
+  {
+    "name": "Jolt",
+    "domain": "jolt.com",
+    "dr": 53.0,
+    "norm": "jolt"
+  },
+  {
+    "name": "Journyx",
+    "domain": "journyx.com",
+    "dr": 53.0,
+    "norm": "journyx"
+  },
+  {
+    "name": "AgWorld",
+    "domain": "agworld.com",
+    "dr": 54.0,
+    "norm": "agworld"
+  },
+  {
+    "name": "Artera",
+    "domain": "artera.io",
+    "dr": 54.0,
+    "norm": "artera"
+  },
+  {
+    "name": "BillingPlatform",
+    "domain": "billingplatform.com",
+    "dr": 54.0,
+    "norm": "billingplatform"
+  },
+  {
+    "name": "Bonfire",
+    "domain": "letsbonfire.com",
+    "dr": 54.0,
+    "norm": "bonfire"
+  },
+  {
+    "name": "Fairmarkit",
+    "domain": "fairmarkit.com",
+    "dr": 54.0,
+    "norm": "fairmarkit"
+  },
+  {
+    "name": "Genius ERP",
+    "domain": "geniuserp.com",
+    "dr": 54.0,
+    "norm": "genius erp"
+  },
+  {
+    "name": "GeoRanker",
+    "domain": "georanker.com",
+    "dr": 54.0,
+    "norm": "georanker"
+  },
+  {
+    "name": "GoTab",
+    "domain": "gotab.com",
+    "dr": 54.0,
+    "norm": "gotab"
+  },
+  {
+    "name": "Jonas Fitness",
+    "domain": "jonasfitness.com",
+    "dr": 54.0,
+    "norm": "jonas fitness"
+  },
+  {
+    "name": "Berrycast",
+    "domain": "berrycast.com",
+    "dr": 55.0,
+    "norm": "berrycast"
+  },
+  {
+    "name": "CAIS",
+    "domain": "caisgroup.com",
+    "dr": 55.0,
+    "norm": "cais"
+  },
+  {
+    "name": "CloudNine",
+    "domain": "cloudnine.com",
+    "dr": 55.0,
+    "norm": "cloudnine"
+  },
+  {
+    "name": "Ethena",
+    "domain": "goethena.com",
+    "dr": 55.0,
+    "norm": "ethena"
+  },
+  {
+    "name": "Fetcher",
+    "domain": "fetcher.ai",
+    "dr": 55.0,
+    "norm": "fetcher"
+  },
+  {
+    "name": "Function Point",
+    "domain": "functionpoint.com",
+    "dr": 55.0,
+    "norm": "function point"
+  },
+  {
+    "name": "Jirav",
+    "domain": "jirav.com",
+    "dr": 55.0,
+    "norm": "jirav"
+  },
+  {
+    "name": "Afterpay",
+    "domain": "softwareadvice.ie",
+    "dr": 56.0,
+    "norm": "afterpay"
+  },
+  {
+    "name": "Altana",
+    "domain": "altana.com",
+    "dr": 56.0,
+    "norm": "altana"
+  },
+  {
+    "name": "AttendanceBot",
+    "domain": "attendancebot.com",
+    "dr": 56.0,
+    "norm": "attendancebot"
+  },
+  {
+    "name": "Bold Penguin",
+    "domain": "boldpenguin.com",
+    "dr": 56.0,
+    "norm": "bold penguin"
+  },
+  {
+    "name": "Botkeeper",
+    "domain": "botkeeper.com",
+    "dr": 56.0,
+    "norm": "botkeeper"
+  },
+  {
+    "name": "Cincom",
+    "domain": "cincom.com",
+    "dr": 56.0,
+    "norm": "cincom"
+  },
+  {
+    "name": "Findem",
+    "domain": "findem.ai",
+    "dr": 56.0,
+    "norm": "findem"
+  },
+  {
+    "name": "GUIDEcx",
+    "domain": "guidecx.com",
+    "dr": 56.0,
+    "norm": "guidecx"
+  },
+  {
+    "name": "Influ2",
+    "domain": "influ2.com",
+    "dr": 56.0,
+    "norm": "influ2"
+  },
+  {
+    "name": "AccountEdge",
+    "domain": "accountedge.com",
+    "dr": 57.0,
+    "norm": "accountedge"
+  },
+  {
+    "name": "Contractor Foreman",
+    "domain": "contractorforeman.com",
+    "dr": 57.0,
+    "norm": "contractor foreman"
+  },
+  {
+    "name": "Docket Alarm",
+    "domain": "softwareadvice.co.uk",
+    "dr": 57.0,
+    "norm": "docket alarm"
+  },
+  {
+    "name": "E2 Shop System",
+    "domain": "erpfocus.com",
+    "dr": 57.0,
+    "norm": "e2 shop system"
+  },
+  {
+    "name": "Evisort",
+    "domain": "evisort.com",
+    "dr": 57.0,
+    "norm": "evisort"
+  },
+  {
+    "name": "Hotelogix",
+    "domain": "hotelogix.com",
+    "dr": 57.0,
+    "norm": "hotelogix"
+  },
+  {
+    "name": "Iconosquare",
+    "domain": "radarr.com",
+    "dr": 57.0,
+    "norm": "iconosquare"
+  },
+  {
+    "name": "Advice Local",
+    "domain": "advicelocal.com",
+    "dr": 58.0,
+    "norm": "advice local"
+  },
+  {
+    "name": "Alyce",
+    "domain": "alyce.com",
+    "dr": 58.0,
+    "norm": "alyce"
+  },
+  {
+    "name": "CMiC",
+    "domain": "cmicglobal.com",
+    "dr": 58.0,
+    "norm": "cmic"
+  },
+  {
+    "name": "CasePacer",
+    "domain": "casepacer.com",
+    "dr": 58.0,
+    "norm": "casepacer"
+  },
+  {
+    "name": "ContractPodAi",
+    "domain": "contractpodai.com",
+    "dr": 58.0,
+    "norm": "contractpodai"
+  },
+  {
+    "name": "Crossplane",
+    "domain": "okteto.com",
+    "dr": 58.0,
+    "norm": "crossplane"
+  },
+  {
+    "name": "CurrentWare",
+    "domain": "currentware.com",
+    "dr": 58.0,
+    "norm": "currentware"
+  },
+  {
+    "name": "Ebsta",
+    "domain": "ebsta.com",
+    "dr": 58.0,
+    "norm": "ebsta"
+  },
+  {
+    "name": "HawkSoft",
+    "domain": "hawksoft.com",
+    "dr": 58.0,
+    "norm": "hawksoft"
+  },
+  {
+    "name": "Impel",
+    "domain": "impel.ai",
+    "dr": 58.0,
+    "norm": "impel"
+  },
+  {
+    "name": "Introhive",
+    "domain": "introhive.com",
+    "dr": 58.0,
+    "norm": "introhive"
+  },
+  {
+    "name": "MaestroQA",
+    "domain": "maestroqa.com",
+    "dr": 58.0,
+    "norm": "maestroqa"
+  },
+  {
+    "name": "10x Banking",
+    "domain": "10xbanking.com",
+    "dr": 59.0,
+    "norm": "10x banking"
+  },
+  {
+    "name": "Allscripts",
+    "domain": "autodemo.com",
+    "dr": 59.0,
+    "norm": "allscripts"
+  },
+  {
+    "name": "At-Bay",
+    "domain": "at-bay.com",
+    "dr": 59.0,
+    "norm": "atbay"
+  },
+  {
+    "name": "Bold BI",
+    "domain": "boldbi.com",
+    "dr": 59.0,
+    "norm": "bold bi"
+  },
+  {
+    "name": "Carrd",
+    "domain": "carrd.com",
+    "dr": 59.0,
+    "norm": "carrd"
+  },
+  {
+    "name": "Courier",
+    "domain": "cxtsoftware.com",
+    "dr": 59.0,
+    "norm": "courier"
+  },
+  {
+    "name": "Dragonboat",
+    "domain": "dragonboat.io",
+    "dr": 59.0,
+    "norm": "dragonboat"
+  },
+  {
+    "name": "Flywheel",
+    "domain": "flywheel.io",
+    "dr": 59.0,
+    "norm": "flywheel"
+  },
+  {
+    "name": "GoodRx",
+    "domain": "simulmedia.com",
+    "dr": 59.0,
+    "norm": "goodrx"
+  },
+  {
+    "name": "HCSS",
+    "domain": "hcss.com",
+    "dr": 59.0,
+    "norm": "hcss"
+  },
+  {
+    "name": "Astra",
+    "domain": "astra.com",
+    "dr": 60.0,
+    "norm": "astra"
+  },
+  {
+    "name": "Atomicwork",
+    "domain": "atomicwork.com",
+    "dr": 60.0,
+    "norm": "atomicwork"
+  },
+  {
+    "name": "Aurelius",
+    "domain": "tmssoftware.com",
+    "dr": 60.0,
+    "norm": "aurelius"
+  },
+  {
+    "name": "Beeline",
+    "domain": "beeline.com",
+    "dr": 60.0,
+    "norm": "beeline"
+  },
+  {
+    "name": "Behalf",
+    "domain": "behalf.com",
+    "dr": 60.0,
+    "norm": "behalf"
+  },
+  {
+    "name": "Brokermint",
+    "domain": "brokermint.com",
+    "dr": 60.0,
+    "norm": "brokermint"
+  },
+  {
+    "name": "CalAmp",
+    "domain": "calamp.com",
+    "dr": 60.0,
+    "norm": "calamp"
+  },
+  {
+    "name": "ClockShark",
+    "domain": "clockshark.com",
+    "dr": 60.0,
+    "norm": "clockshark"
+  },
+  {
+    "name": "Craft",
+    "domain": "craft.io",
+    "dr": 60.0,
+    "norm": "craft"
+  },
+  {
+    "name": "Gloo",
+    "domain": "gloo.com",
+    "dr": 60.0,
+    "norm": "gloo"
+  },
+  {
+    "name": "Hyro AI",
+    "domain": "hyro.ai",
+    "dr": 60.0,
+    "norm": "hyro ai"
+  },
+  {
+    "name": "InEight",
+    "domain": "ineight.com",
+    "dr": 60.0,
+    "norm": "ineight"
+  },
+  {
+    "name": "Istio",
+    "domain": "devopsschool.com",
+    "dr": 60.0,
+    "norm": "istio"
+  },
+  {
+    "name": "AgriWebb",
+    "domain": "agriwebb.com",
+    "dr": 61.0,
+    "norm": "agriwebb"
+  },
+  {
+    "name": "Allflex",
+    "domain": "allflex.global",
+    "dr": 61.0,
+    "norm": "allflex"
+  },
+  {
+    "name": "Anomalo",
+    "domain": "anomalo.com",
+    "dr": 61.0,
+    "norm": "anomalo"
+  },
+  {
+    "name": "Area 1 Security",
+    "domain": "cloudflare.tv",
+    "dr": 61.0,
+    "norm": "area 1 security"
+  },
+  {
+    "name": "Bridge",
+    "domain": "getbridge.com",
+    "dr": 61.0,
+    "norm": "bridge"
+  },
+  {
+    "name": "Dashword",
+    "domain": "dashword.com",
+    "dr": 61.0,
+    "norm": "dashword"
+  },
+  {
+    "name": "EverWebinar",
+    "domain": "everwebinar.com",
+    "dr": 61.0,
+    "norm": "everwebinar"
+  },
+  {
+    "name": "ExakTime",
+    "domain": "go.arcoro.com",
+    "dr": 61.0,
+    "norm": "exaktime"
+  },
+  {
+    "name": "GPS Trackit",
+    "domain": "gpstrackit.com",
+    "dr": 61.0,
+    "norm": "gps trackit"
+  },
+  {
+    "name": "Issuetrak",
+    "domain": "issuetrak.com",
+    "dr": 61.0,
+    "norm": "issuetrak"
+  },
+  {
+    "name": "Aivo",
+    "domain": "aivo.co",
+    "dr": 62.0,
+    "norm": "aivo"
+  },
+  {
+    "name": "Assembled",
+    "domain": "assembled.com",
+    "dr": 62.0,
+    "norm": "assembled"
+  },
+  {
+    "name": "BigTime",
+    "domain": "bigtime.net",
+    "dr": 62.0,
+    "norm": "bigtime"
+  },
+  {
+    "name": "ChannelAdvisor",
+    "domain": "advids.co",
+    "dr": 62.0,
+    "norm": "channeladvisor"
+  },
+  {
+    "name": "ClientSuccess",
+    "domain": "clientsuccess.com",
+    "dr": 62.0,
+    "norm": "clientsuccess"
+  },
+  {
+    "name": "Codat",
+    "domain": "codat.io",
+    "dr": 62.0,
+    "norm": "codat"
+  },
+  {
+    "name": "Condens",
+    "domain": "condens.io",
+    "dr": 62.0,
+    "norm": "condens"
+  },
+  {
+    "name": "DISCO",
+    "domain": "disco.co",
+    "dr": 62.0,
+    "norm": "disco"
+  },
+  {
+    "name": "Drag",
+    "domain": "dragapp.com",
+    "dr": 62.0,
+    "norm": "drag"
+  },
+  {
+    "name": "Dundas BI",
+    "domain": "dundas.com",
+    "dr": 62.0,
+    "norm": "dundas bi"
+  },
+  {
+    "name": "Featurespace",
+    "domain": "featurespace.com",
+    "dr": 62.0,
+    "norm": "featurespace"
+  },
+  {
+    "name": "Gladia",
+    "domain": "gladia.io",
+    "dr": 62.0,
+    "norm": "gladia"
+  },
+  {
+    "name": "GreyOrange",
+    "domain": "greyorange.com",
+    "dr": 62.0,
+    "norm": "greyorange"
+  },
+  {
+    "name": "6 River Systems",
+    "domain": "6river.com",
+    "dr": 63.0,
+    "norm": "6 river"
+  },
+  {
+    "name": "BigContacts",
+    "domain": "bigcontacts.com",
+    "dr": 63.0,
+    "norm": "bigcontacts"
+  },
+  {
+    "name": "Black Kite",
+    "domain": "blackkite.com",
+    "dr": 63.0,
+    "norm": "black kite"
+  },
+  {
+    "name": "Calamari",
+    "domain": "calamari.io",
+    "dr": 63.0,
+    "norm": "calamari"
+  },
+  {
+    "name": "CodeClimate",
+    "domain": "waydev.co",
+    "dr": 63.0,
+    "norm": "codeclimate"
+  }
+]

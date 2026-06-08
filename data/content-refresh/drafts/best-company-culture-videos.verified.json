@@ -1,0 +1,109 @@
+{
+  "slug": "best-company-culture-videos",
+  "page_brand": null,
+  "total_findings": 6,
+  "by_severity": {
+    "unconfirmed": 2,
+    "needs_check": 4
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Amy Vidor](https://www.synthesia.io/blog/authors/amy-vidor) March 16, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        283,
+        295
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Company Culture Video Example: How We Did It at Synthesia",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Vidor](https://www.synthesia.io/blog/authors/amy-vidor) March 16, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [Get",
+      "span": [
+        299,
+        313
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Company Culture Video Example: How We Did It at Synthesia",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://doi.org/10.1108/K-01-2022-0119",
+      "context": "",
+      "span": [
+        1599,
+        1637
+      ],
+      "meta": {
+        "domain": "doi.org",
+        "anchor": "Fairness is strongly linked to retention."
+      },
+      "location": {
+        "heading": "Company Culture Video Example: How We Did It at Synthesia",
+        "heading_level": 1,
+        "line": 37
+      },
+      "sentence": "[Culture is a top factor in job choice.](https://www.linkedin.com/business/talent/blog/talent-acquisition/what-candidates-want-in-2025) - [Growth and development are a core driver of employer attractiveness.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.858217/full) - [Fairness is strongly linked to retention.](https://doi.org/10.1108/K-01-2022-0119)",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        24396,
+        25745
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

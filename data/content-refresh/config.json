@@ -1,0 +1,69 @@
+{
+  "sitemap_url": "https://www.synthesia.io/sitemap.xml",
+  "url_patterns": {
+    "blog": "^https://www\\.synthesia\\.io/post/",
+    "alternatives": "^https://www\\.synthesia\\.io/alternatives/"
+  },
+  "urls_per_day": 15,
+  "competitors": {
+    "heygen": "https://www.heygen.com/pricing",
+    "veed": "https://www.veed.io/pricing",
+    "colossyan": "https://www.colossyan.com/pricing",
+    "d-id": "https://www.d-id.com/pricing",
+    "elai": "https://elai.io/pricing",
+    "hour-one": "https://hourone.ai/pricing",
+    "invideo": "https://invideo.io/ai/pricing",
+    "deepbrain": "https://www.deepbrain.io/pricing",
+    "google-vids": "https://workspace.google.com/products/vids/"
+  },
+  "synthesia_pricing_url": "https://www.synthesia.io/pricing",
+  "synthesia_product_alias_terms": [
+    "Synthesia",
+    "STUDIO",
+    "Express-1",
+    "EXPRESS-1"
+  ],
+  "ai_model_terms": [
+    "GPT-4", "GPT-4o", "GPT-4.5", "GPT-5", "GPT-5.1",
+    "Claude 3", "Claude 3.5", "Claude 4", "Claude 4.5", "Claude 4.6", "Claude 4.7",
+    "Gemini 1.5", "Gemini 2", "Gemini 2.5",
+    "Llama 3", "Llama 4",
+    "DALL-E", "DALL-E 3",
+    "Sora",
+    "Stable Diffusion",
+    "Midjourney"
+  ],
+  "stat_staleness_months": 18,
+  "scoring_weights": {
+    "pricing": 15,
+    "title": 15,
+    "meta": 15,
+    "link": 12,
+    "feature": 10,
+    "stat": 7,
+    "ai-news": 5
+  },
+  "severity_thresholds": {
+    "Low": 0,
+    "Medium": 21,
+    "High": 46,
+    "Critical": 76
+  },
+  "score_cap": 100,
+  "slack": {
+    "changelog_channel_id": "C029EFJ65NF",
+    "changelog_channel_name": "product-changelog",
+    "findings_channel_id": "C0AUZFBGR29",
+    "findings_channel_name": "light-content-refreshes",
+    "changelog_lookback_days": 90
+  },
+  "notion": {
+    "database_id": "a9aac15246ef4b6ea8383033f5a82f8c",
+    "data_source_id": "2ad51d70-d7de-4085-b031-d6089beaa5b4",
+    "database_url": "https://www.notion.so/a9aac15246ef4b6ea8383033f5a82f8c"
+  },
+  "airops": {
+    "scrape_grid_id": 61652,
+    "note": "Use AirOps grid for scraping, per user preference (reference_airops_scrape_grid.md)"
+  }
+}

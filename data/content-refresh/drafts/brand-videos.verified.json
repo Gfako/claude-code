@@ -1,0 +1,179 @@
+{
+  "slug": "brand-videos",
+  "page_brand": null,
+  "total_findings": 11,
+  "by_severity": {
+    "unconfirmed": 6,
+    "needs_check": 5
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) February 7, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        263,
+        275
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "12 Brilliant examples of brand videos",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) February 7, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        279,
+        293
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "12 Brilliant examples of brand videos",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        20763,
+        20777
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "How to create compelling brand videos in minutes",
+        "heading_level": 2,
+        "line": 284
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "55%",
+      "context": "lasting impression, increasing brand loyalty, and driving sales. When people connect with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future,",
+      "span": [
+        4458,
+        4461
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How do you make a good branding video?",
+        "heading_level": 2,
+        "line": 74
+      },
+      "sentence": "When people connect with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '55%'",
+      "suggested_fix": "Stat reference: `55%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "44%",
+      "context": "[55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase. This connection leads to the second",
+      "span": [
+        4565,
+        4568
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How do you make a good branding video?",
+        "heading_level": 2,
+        "line": 74
+      },
+      "sentence": "When people connect with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '44%'",
+      "suggested_fix": "Stat reference: `44%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "15%",
+      "context": "[55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase. This connection leads to the second major benefit — trust. In today's market,",
+      "span": [
+        4608,
+        4611
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How do you make a good branding video?",
+        "heading_level": 2,
+        "line": 74
+      },
+      "sentence": "When people connect with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '15%'",
+      "suggested_fix": "Stat reference: `15%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        46192,
+        47544
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

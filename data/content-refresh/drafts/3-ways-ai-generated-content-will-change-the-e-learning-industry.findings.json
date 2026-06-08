@@ -1,0 +1,278 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 1,
+    "link": 10
+  },
+  "total": 14,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Riparbelli](https://www.synthesia.io/blog/authors/victor-riparbelli) August 24, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        298,
+        310
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "3 Ways AI-Generated Content Will Change the eLearning Industry",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Riparbelli](https://www.synthesia.io/blog/authors/victor-riparbelli) August 24, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        314,
+        328
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "3 Ways AI-Generated Content Will Change the eLearning Industry",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        9667,
+        9681
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "A better way of making e-learning courses",
+        "heading_level": 2,
+        "line": 125
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "in 2017",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/65e89896c5a4b8d764c0f977_Victor.webp) Victor Riparbelli Victor Riparbelli is co-founder of Synthesia, launched in 2017 with AI researchers. With a decade in tech entrepreneurship, he combines technical expertise and academic",
+      "span": [
+        9229,
+        9236
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "A better way of making e-learning courses",
+        "heading_level": 2,
+        "line": 117
+      },
+      "sentence": "Victor Riparbelli is co-founder of Synthesia, launched in 2017 with AI researchers."
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=QiiSAvKJIHo",
+      "context": "",
+      "span": [
+        3248,
+        3291
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "AI videos"
+      },
+      "location": {
+        "heading": "3 Ways AI-Generated Content Will Change the eLearning Industry",
+        "heading_level": 1,
+        "line": 37
+      },
+      "sentence": "You might have seen those [AI videos](https://www.youtube.com/watch?v=QiiSAvKJIHo) doing the rounds, the ones that have people dropping their jaws in awe at the sight of them."
+    },
+    {
+      "type": "link",
+      "text": "https://hbr.org/2012/08/speak-to-global-customers-in-t",
+      "context": "",
+      "span": [
+        3849,
+        3903
+      ],
+      "meta": {
+        "domain": "hbr.org",
+        "anchor": "72 percent of consumers"
+      },
+      "location": {
+        "heading": "1\\. Course translation: Remove the language barriers",
+        "heading_level": 2,
+        "line": 47
+      },
+      "sentence": "Research shows that [72 percent of consumers](https://hbr.org/2012/08/speak-to-global-customers-in-t) prefer products with information in their own language."
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=VfvX2ToA1Ig",
+      "context": "",
+      "span": [
+        4757,
+        4800
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "Normal Dubbing vs. AI Dubbing"
+      },
+      "location": {
+        "heading": "1\\. Course translation: Remove the language barriers",
+        "heading_level": 2,
+        "line": 57
+      },
+      "sentence": "AI Dubbing](https://www.youtube.com/watch?v=VfvX2ToA1Ig) [Synthesia](https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg",
+      "context": "",
+      "span": [
+        4814,
+        4870
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "Synthesia"
+      },
+      "location": {
+        "heading": "1\\. Course translation: Remove the language barriers",
+        "heading_level": 2,
+        "line": 57
+      },
+      "sentence": "AI Dubbing](https://www.youtube.com/watch?v=VfvX2ToA1Ig) [Synthesia](https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg)"
+    },
+    {
+      "type": "link",
+      "text": "https://yt3.ggpht.com/vR72EVpFnd5516yPGxYv08PITyyVST5tf8y5kWNrwDgPUJtzEUx9GUHB05SRlaTk-LQ8djA4DQ=s68-c-k-c0x00ffffff-no-rj",
+      "context": "",
+      "span": [
+        4892,
+        5014
+      ],
+      "meta": {
+        "domain": "yt3.ggpht.com",
+        "anchor": "thumbnail-image"
+      },
+      "location": {
+        "heading": "1\\. Course translation: Remove the language barriers",
+        "heading_level": 2,
+        "line": 59
+      },
+      "sentence": "![thumbnail-image](https://yt3.ggpht.com/vR72EVpFnd5516yPGxYv08PITyyVST5tf8y5kWNrwDgPUJtzEUx9GUHB05SRlaTk-LQ8djA4DQ=s68-c-k-c0x00ffffff-no-rj)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.bbc.com/news/av/technology-46104437",
+      "context": "",
+      "span": [
+        5224,
+        5271
+      ],
+      "meta": {
+        "domain": "www.bbc.com",
+        "anchor": "create the same video with multiple languages"
+      },
+      "location": {
+        "heading": "1\\. Course translation: Remove the language barriers",
+        "heading_level": 2,
+        "line": 65
+      },
+      "sentence": "It has the power to [create the same video with multiple languages](https://www.bbc.com/news/av/technology-46104437), as if each language was uniquely filmed for its audience."
+    },
+    {
+      "type": "link",
+      "text": "https://www.leadinglearning.com/cost-to-create-e-learning/",
+      "context": "",
+      "span": [
+        7198,
+        7256
+      ],
+      "meta": {
+        "domain": "www.leadinglearning.com",
+        "anchor": "estimated that a one-hour e-learning course takes between 90 to 240 hours"
+      },
+      "location": {
+        "heading": "3\\. Virtual Presenters",
+        "heading_level": 2,
+        "line": 87
+      },
+      "sentence": "It’s [estimated that a one-hour e-learning course takes between 90 to 240 hours](https://www.leadinglearning.com/cost-to-create-e-learning/) to develop, with a whole course costing around £8,000."
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=279qKem3mao",
+      "context": "",
+      "span": [
+        7401,
+        7444
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "AI-generated content"
+      },
+      "location": {
+        "heading": "3\\. Virtual Presenters",
+        "heading_level": 2,
+        "line": 89
+      },
+      "sentence": "[AI-generated content](https://www.youtube.com/watch?v=279qKem3mao) drastically cuts down both time and cost, thanks to virtual presenters."
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=smoniOSFbKM",
+      "context": "",
+      "span": [
+        7994,
+        8037
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "inserts the recording into the original studio footage"
+      },
+      "location": {
+        "heading": "3\\. Virtual Presenters",
+        "heading_level": 2,
+        "line": 91
+      },
+      "sentence": "The tech takes any new video made by a presenter - no matter where they’re located and what they’re wearing - and seamlessly [inserts the recording into the original studio footage](https://www.youtube.com/watch?v=smoniOSFbKM)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/victorriparbelli/",
+      "context": "",
+      "span": [
+        59255,
+        60612
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

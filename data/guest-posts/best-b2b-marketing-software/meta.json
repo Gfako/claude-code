@@ -1,0 +1,10 @@
+{
+  "article_type": "listicle",
+  "has_pricing": true,
+  "has_tool_mentions": true,
+  "has_clearscope": false,
+  "host": "marketingexpertshub.com",
+  "target_word_count_pre_humanize": 2700,
+  "target_word_count_post_humanize": 3300,
+  "first_person_intensity": "light"
+}

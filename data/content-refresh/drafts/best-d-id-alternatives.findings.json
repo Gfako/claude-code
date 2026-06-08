@@ -1,0 +1,518 @@
+{
+  "counts": {
+    "feature": 15,
+    "stat": 1,
+    "link": 10
+  },
+  "total": 26,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) February 25, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        276,
+        288
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "The 6 Best D-ID Alternatives In 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "240+ AI avatars",
+      "context": "Pros | Notable Cons | Cheapest Plan (Monthly) | | --- | --- | --- | --- | --- | --- | | Synthesia | 240+ AI avatars, multilingual translation, voice cloning (29 langs), AI Playground, enterprise publishing | 160+ generation,",
+      "span": [
+        2734,
+        2749
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "How do these D-ID alternatives compare?",
+        "heading_level": 2,
+        "line": 54
+      },
+      "sentence": "| Tool | Key Features | Language Support | Notable Pros | Notable Cons | Cheapest Plan (Monthly) | | --- | --- | --- | --- | --- | --- | | Synthesia | 240+ AI avatars, multilingual translation, voice cloning (29 langs), AI Playground, enterprise publishing | 160+ generation, 139 translation | Highly realistic English avatars, seamless in-editor translation, strong enterprise controls | No Safari support, slower rendering, no automation agent | $29 / mo — Starter | | Creatify | 1500+ avatars, Aurora image-to-video model, batch ad creation, A/B testing, analytics, AI music | Multilingual support (manual translation) | Industry-leading UGC realism, built for pe"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) February 25, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [🎬",
+      "span": [
+        292,
+        306
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "The 6 Best D-ID Alternatives In 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "70+ languages",
+      "context": "| Avatar 4 engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation",
+      "span": [
+        3476,
+        3489
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "heygen",
+        "value": "70+"
+      },
+      "location": {
+        "heading": "How do these D-ID alternatives compare?",
+        "heading_level": 2,
+        "line": 56
+      },
+      "sentence": "afari support, slower rendering, no automation agent | $29 / mo — Starter | | Creatify | 1500+ avatars, Aurora image-to-video model, batch ad creation, A/B testing, analytics, AI music | Multilingual support (manual translation) | Industry-leading UGC realism, built for performance ads, campaign tracking | No built-in auto-translate, credit-based pricing complexity | $39 / mo — Starter | | HeyGen | Avatar 4 engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation requires separate workflow, premium realism tied to credits | $29 / mo — Creator | | AI Studios | 2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo — Personal | | Elai | URL/PP"
+    },
+    {
+      "type": "feature",
+      "text": "150+ languages",
+      "context": "2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality,",
+      "span": [
+        3792,
+        3806
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "elai",
+        "value": "150+"
+      },
+      "location": {
+        "heading": "How do these D-ID alternatives compare?",
+        "heading_level": 2,
+        "line": 57
+      },
+      "sentence": "in auto-translate, credit-based pricing complexity | $39 / mo — Starter | | HeyGen | Avatar 4 engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation requires separate workflow, premium realism tied to credits | $29 / mo — Creator | | AI Studios | 2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo — Personal | | Elai | URL/PPTX-to-video, SCORM export, interactive modules, voice cloning, automation-first workflow | 100+ languages | Extremely fast rendering, strong document automation | Weaker realism, hair compositing issues, flat voice tone | $29 / mo — Creator | | Colossyan | Text-to-video, SCORM export, slide-based editor, branching q"
+    },
+    {
+      "type": "feature",
+      "text": "100+ languages",
+      "context": "| URL/PPTX-to-video, SCORM export, interactive modules, voice cloning, automation-first workflow | 100+ languages | Extremely fast rendering, strong document automation | Weaker realism, hair compositing issues, flat",
+      "span": [
+        4080,
+        4094
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "elai",
+        "value": "100+"
+      },
+      "location": {
+        "heading": "How do these D-ID alternatives compare?",
+        "heading_level": 2,
+        "line": 58
+      },
+      "sentence": "Translation requires separate workflow, premium realism tied to credits | $29 / mo — Creator | | AI Studios | 2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo — Personal | | Elai | URL/PPTX-to-video, SCORM export, interactive modules, voice cloning, automation-first workflow | 100+ languages | Extremely fast rendering, strong document automation | Weaker realism, hair compositing issues, flat voice tone | $29 / mo — Creator | | Colossyan | Text-to-video, SCORM export, slide-based editor, branching quizzes, AI dubbing | 80–100+ languages | Structured training focus, LMS-ready exports, integrated translation | Less natural gestures, occasional rendering freeze | $27 / mo — Starter |"
+    },
+    {
+      "type": "feature",
+      "text": "100+ languages",
+      "context": "| | Colossyan | Text-to-video, SCORM export, slide-based editor, branching quizzes, AI dubbing | 80–100+ languages | Structured training focus, LMS-ready exports, integrated translation | Less natural gestures, occasional",
+      "span": [
+        4330,
+        4344
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "colossyan",
+        "value": "100+"
+      },
+      "location": {
+        "heading": "How do these D-ID alternatives compare?",
+        "heading_level": 2,
+        "line": 59
+      },
+      "sentence": "ation, gesture control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo — Personal | | Elai | URL/PPTX-to-video, SCORM export, interactive modules, voice cloning, automation-first workflow | 100+ languages | Extremely fast rendering, strong document automation | Weaker realism, hair compositing issues, flat voice tone | $29 / mo — Creator | | Colossyan | Text-to-video, SCORM export, slide-based editor, branching quizzes, AI dubbing | 80–100+ languages | Structured training focus, LMS-ready exports, integrated translation | Less natural gestures, occasional rendering freeze | $27 / mo — Starter |"
+    },
+    {
+      "type": "feature",
+      "text": "29 languages",
+      "context": "It supports 160+ generation languages and 139 translation languages, with voice cloning available in 29 languages. Translation happens directly inside the editor — I did not need to leave the platform. In my Spanish",
+      "span": [
+        7176,
+        7188
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "29"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 105
+      },
+      "sentence": "It supports 160+ generation languages and 139 translation languages, with voice cloning available in 29 languages."
+    },
+    {
+      "type": "feature",
+      "text": "70+ languages",
+      "context": "customization. ### How strong is localization and multilingual support? HeyGen supports generation in **70+ languages and 175+ dialects**. In my Spanish localization test, pacing and lip-sync were preserved, and speech",
+      "span": [
+        16465,
+        16478
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "heygen",
+        "value": "70+"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 282
+      },
+      "sentence": "HeyGen supports generation in **70+ languages and 175+ dialects**."
+    },
+    {
+      "type": "feature",
+      "text": "150+ languages",
+      "context": "English. ### How strong is localization and multilingual support? AI Studios supports AI dubbing in **150+ languages**. In my Spanish test, speech pacing was preserved, and lip-sync held up well. However, translated",
+      "span": [
+        21663,
+        21677
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "d-id",
+        "value": "150+"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 377
+      },
+      "sentence": "AI Studios supports AI dubbing in **150+ languages**."
+    },
+    {
+      "type": "feature",
+      "text": "100+ languages",
+      "context": "more cohesive and stable. ### How strong is localization and multilingual support? Elai supports **100+ languages** and includes built-in translation features. In my testing, translated outputs preserved timing and",
+      "span": [
+        26015,
+        26029
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "elai",
+        "value": "100+"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 463
+      },
+      "sentence": "Elai supports **100+ languages** and includes built-in translation features."
+    },
+    {
+      "type": "feature",
+      "text": "100+ languages",
+      "context": "animation needs. ### How strong is localization and multilingual support? Colossyan supports **80-100+ languages** with built-in dubbing and translation directly inside the editor. This makes creating multilingual",
+      "span": [
+        30557,
+        30571
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "colossyan",
+        "value": "100+"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 557
+      },
+      "sentence": "Colossyan supports **80-100+ languages** with built-in dubbing and translation directly inside the editor."
+    },
+    {
+      "type": "feature",
+      "text": "140+ voice",
+      "context": "speech rhythm, and output did not show noticeable drift over longer sentences. Creatify integrates 140+ voice characters and offers choice of voice engines (including ElevenLabs). This gives better flexibility",
+      "span": [
+        11348,
+        11358
+      ],
+      "meta": {
+        "subtype": "voices",
+        "brand": "d-id",
+        "value": "140+"
+      },
+      "location": {
+        "heading": "How good are the voices and lip-sync?",
+        "heading_level": 3,
+        "line": 188
+      },
+      "sentence": "Creatify integrates 140+ voice characters and offers choice of voice engines (including ElevenLabs)."
+    },
+    {
+      "type": "feature",
+      "text": "175+ dialects",
+      "context": "engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation requires separate",
+      "span": [
+        3491,
+        3504
+      ],
+      "meta": {
+        "subtype": "accents",
+        "brand": "heygen",
+        "value": "175+"
+      },
+      "location": {
+        "heading": "How do these D-ID alternatives compare?",
+        "heading_level": 2,
+        "line": 56
+      },
+      "sentence": "slower rendering, no automation agent | $29 / mo — Starter | | Creatify | 1500+ avatars, Aurora image-to-video model, batch ad creation, A/B testing, analytics, AI music | Multilingual support (manual translation) | Industry-leading UGC realism, built for performance ads, campaign tracking | No built-in auto-translate, credit-based pricing complexity | $39 / mo — Starter | | HeyGen | Avatar 4 engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation requires separate workflow, premium realism tied to credits | $29 / mo — Creator | | AI Studios | 2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo — Personal | | Elai | URL/PPTX-to-video, SC"
+    },
+    {
+      "type": "feature",
+      "text": "175+ dialects",
+      "context": "strong is localization and multilingual support? HeyGen supports generation in **70+ languages and 175+ dialects**. In my Spanish localization test, pacing and lip-sync were preserved, and speech sounded appropriately",
+      "span": [
+        16483,
+        16496
+      ],
+      "meta": {
+        "subtype": "accents",
+        "brand": "heygen",
+        "value": "175+"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 282
+      },
+      "sentence": "HeyGen supports generation in **70+ languages and 175+ dialects**."
+    },
+    {
+      "type": "stat",
+      "text": "In 2026",
+      "context": "# The 6 Best D-ID Alternatives In 2026 (Tried & Tested) ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/68aeef36a305728ec4c4a118_kyle.jpg)",
+      "span": [
+        31,
+        38
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The 6 Best D-ID Alternatives In 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "The 6 Best D-ID Alternatives In 2026 (Tried & Tested)"
+    },
+    {
+      "type": "link",
+      "text": "https://creatify.ai/",
+      "context": "",
+      "span": [
+        9478,
+        9498
+      ],
+      "meta": {
+        "domain": "creatify.ai",
+        "anchor": "**https://creatify.ai/**"
+      },
+      "location": {
+        "heading": "2\\. Creatify",
+        "heading_level": 2,
+        "line": 162
+      },
+      "sentence": "URL: [**https://creatify.ai/**](https://creatify.ai/)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.aistudios.com/",
+      "context": "",
+      "span": [
+        19122,
+        19148
+      ],
+      "meta": {
+        "domain": "www.aistudios.com",
+        "anchor": "**https://www.aistudios.com/**"
+      },
+      "location": {
+        "heading": "4\\. AI Studios",
+        "heading_level": 2,
+        "line": 343
+      },
+      "sentence": "URL: [**https://www.aistudios.com/**](https://www.aistudios.com/)"
+    },
+    {
+      "type": "link",
+      "text": "https://elai.io/",
+      "context": "",
+      "span": [
+        24305,
+        24321
+      ],
+      "meta": {
+        "domain": "elai.io",
+        "anchor": "**https://elai.io/**"
+      },
+      "location": {
+        "heading": "5\\. Elai",
+        "heading_level": 2,
+        "line": 435
+      },
+      "sentence": "URL: [**https://elai.io/**](https://elai.io/)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.colossyan.com/",
+      "context": "",
+      "span": [
+        28164,
+        28190
+      ],
+      "meta": {
+        "domain": "www.colossyan.com",
+        "anchor": "**https://www.colossyan.com/**"
+      },
+      "location": {
+        "heading": "6\\. Colossyan",
+        "heading_level": 2,
+        "line": 523
+      },
+      "sentence": "URL: [**https://www.colossyan.com/**](https://www.colossyan.com/)"
+    },
+    {
+      "type": "link",
+      "text": "https://creatify.ai/**",
+      "context": "",
+      "span": [
+        9454,
+        9476
+      ],
+      "meta": {
+        "domain": "creatify.ai",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "2\\. Creatify",
+        "heading_level": 2,
+        "line": 162
+      },
+      "sentence": "URL: [**https://creatify.ai/**](https://creatify.ai/)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.heygen.com/**",
+      "context": "",
+      "span": [
+        14298,
+        14323
+      ],
+      "meta": {
+        "domain": "www.heygen.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "3\\. Heygen",
+        "heading_level": 2,
+        "line": 246
+      },
+      "sentence": "URL: **https://www.heygen.com/"
+    },
+    {
+      "type": "link",
+      "text": "https://www.aistudios.com/**",
+      "context": "",
+      "span": [
+        19092,
+        19120
+      ],
+      "meta": {
+        "domain": "www.aistudios.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "4\\. AI Studios",
+        "heading_level": 2,
+        "line": 343
+      },
+      "sentence": "URL: [**https://www.aistudios.com/**](https://www.aistudios.com/)"
+    },
+    {
+      "type": "link",
+      "text": "https://elai.io/**",
+      "context": "",
+      "span": [
+        24285,
+        24303
+      ],
+      "meta": {
+        "domain": "elai.io",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "5\\. Elai",
+        "heading_level": 2,
+        "line": 435
+      },
+      "sentence": "URL: [**https://elai.io/**](https://elai.io/)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.colossyan.com/**",
+      "context": "",
+      "span": [
+        28134,
+        28162
+      ],
+      "meta": {
+        "domain": "www.colossyan.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "6\\. Colossyan",
+        "heading_level": 2,
+        "line": 523
+      },
+      "sentence": "URL: [**https://www.colossyan.com/**](https://www.colossyan.com/)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kyleodefey/",
+      "context": "",
+      "span": [
+        90824,
+        92175
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

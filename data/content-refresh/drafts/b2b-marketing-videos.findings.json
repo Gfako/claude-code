@@ -1,0 +1,276 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 3,
+    "link": 8
+  },
+  "total": 14,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        286,
+        298
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "6 Types Of B2B Marketing Videos To Supercharge Your Strategy",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        302,
+        316
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "6 Types Of B2B Marketing Videos To Supercharge Your Strategy",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        10771,
+        10785
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Ready to dive in and make your own B2B marketing videos?",
+        "heading_level": 2,
+        "line": 198
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "86%",
+      "context": "denies that B2B marketing videos are a powerful tool for businesses of any size. Did you know? 💡 [86% of marketers](https://www.wyzowl.com/video-marketing-statistics/) say video helps them generate leads.",
+      "span": [
+        1842,
+        1845
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "6 Types Of B2B Marketing Videos To Supercharge Your Strategy",
+        "heading_level": 1,
+        "line": 41
+      },
+      "sentence": "[86% of marketers](https://www.wyzowl.com/video-marketing-statistics/) say video helps them generate leads."
+    },
+    {
+      "type": "stat",
+      "text": "50%",
+      "context": "prospects, leads, and customers need to know about your product or service. Did you know? 💡 Almost 50% of internet users watched a how-to tutorial video every week. That's why B2B marketing campaigns should",
+      "span": [
+        3828,
+        3831
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Improve onboarding & retention: B2B educational videos",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "Almost 50% of internet users watched a how-to tutorial video every week."
+    },
+    {
+      "type": "stat",
+      "text": "in 2023",
+      "context": "everywhere you scroll, there’s a video waiting. A video there to educate, entertain, sell, or help. 🤳 And in 2023 and beyond, no one denies that B2B marketing videos are a powerful tool for businesses of any size.",
+      "span": [
+        1715,
+        1722
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "6 Types Of B2B Marketing Videos To Supercharge Your Strategy",
+        "heading_level": 1,
+        "line": 37
+      },
+      "sentence": "And in 2023 and beyond, no one denies that B2B marketing videos are a powerful tool for businesses of any size."
+    },
+    {
+      "type": "link",
+      "text": "https://www.wyzowl.com/video-marketing-statistics/",
+      "context": "",
+      "span": [
+        1860,
+        1910
+      ],
+      "meta": {
+        "domain": "www.wyzowl.com",
+        "anchor": "86% of marketers"
+      },
+      "location": {
+        "heading": "6 Types Of B2B Marketing Videos To Supercharge Your Strategy",
+        "heading_level": 1,
+        "line": 41
+      },
+      "sentence": "[86% of marketers](https://www.wyzowl.com/video-marketing-statistics/) say video helps them generate leads."
+    },
+    {
+      "type": "link",
+      "text": "https://giphy.com/gifs/BTTF-back-to-the-future-bttf-one-6pnhed4tm1WyPfuEed?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fwww.synthesia.io%2F",
+      "context": "",
+      "span": [
+        8494,
+        8666
+      ],
+      "meta": {
+        "domain": "giphy.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "Best video type to win trust: B2B case study videos",
+        "heading_level": 2,
+        "line": 149
+      },
+      "sentence": "[![Marty Mcfly Doc GIF by Back to the Future Trilogy](https://media4.giphy.com/media/v1.Y2lkPWRkYTI0ZDUwam81Ym55aGwwenUyM3M0dHh0bTAyeHpxMTkwbXh5enMwbGNzMnpwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6pnhed4tm1WyPfuEed/200w.webp)\\\\ '\\\\ \\\\ '](https://giphy.com/gifs/BTTF-back-to-the-future-bttf-one-6pnhed4tm1WyPfuEed?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fwww.synthesia.io%2F)"
+    },
+    {
+      "type": "link",
+      "text": "https://giphy.com/BTTF?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fwww.synthesia.io%2F",
+      "context": "",
+      "span": [
+        8788,
+        8908
+      ],
+      "meta": {
+        "domain": "giphy.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "Best video type to win trust: B2B case study videos",
+        "heading_level": 2,
+        "line": 157
+      },
+      "sentence": "[Back to the Future Trilogy\\\\ \\\\ @bttf\\\\ \\\\ ![](https://giphy.com/static/img/embeds/verified-badge.svg)](https://giphy.com/BTTF?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fwww.synthesia.io%2F)"
+    },
+    {
+      "type": "link",
+      "text": "https://giphy.com/gifs/BTTF-back-to-the-future-bttf-one-6pnhed4tm1WyPfuEed?utm_source=iframe&amp;utm_medium=embed&amp;utm_campaign=Embeds&amp;utm_term=https%3A%2F%2Fwww.synthesia.io%2F",
+      "context": "",
+      "span": [
+        28741,
+        29637
+      ],
+      "meta": {
+        "domain": "giphy.com",
+        "anchor": "''"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://giphy.com/BTTF?utm_source=iframe&amp;utm_medium=embed&amp;utm_campaign=Embeds&amp;utm_term=https%3A%2F%2Fwww.synthesia.io%2F",
+      "context": "",
+      "span": [
+        30553,
+        31131
+      ],
+      "meta": {
+        "domain": "giphy.com",
+        "anchor": "Back to the Future Trilogy@bttf"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://giphy.com/?utm_source=iframe&amp;utm_medium=embed&amp;utm_campaign=Embeds&amp;utm_term=https%3A%2F%2Fwww.synthesia.io%2F",
+      "context": "",
+      "span": [
+        31384,
+        32431
+      ],
+      "meta": {
+        "domain": "giphy.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://giphy.com/gifs/BTTF-back-to-the-future-bttf-one-6pnhed4tm1WyPfuEed?utm_source=iframe&amp;utm_medium=embed&amp;utm_campaign=Embeds&amp;utm_term=https%3A%2F%2Fwww.synthesia.io%2F&amp;ref=fave",
+      "context": "",
+      "span": [
+        33002,
+        33377
+      ],
+      "meta": {
+        "domain": "giphy.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        38194,
+        39546
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

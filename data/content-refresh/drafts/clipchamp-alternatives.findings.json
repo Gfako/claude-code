@@ -1,0 +1,128 @@
+{
+  "counts": {
+    "feature": 5,
+    "link": 1
+  },
+  "total": 6,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        264,
+        276
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Top 5 Clipchamp Alternatives For Video Editing",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "140+ avatars",
+      "context": "[tools](https://www.synthesia.io/tools), and you're done. ### Pros of Synthesia - No need to hire real actors or equipment (140+ avatars). - [Voice clone](https://www.synthesia.io/features/ai-voice-cloning) and 400+ [AI voices](https://www.synthesia.io/features/ai-voice-generator)",
+      "span": [
+        4212,
+        4224
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "140+"
+      },
+      "location": {
+        "heading": "Pros of Synthesia",
+        "heading_level": 3,
+        "line": 104
+      },
+      "sentence": "No need to hire real actors or equipment (140+ avatars)."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        280,
+        294
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Top 5 Clipchamp Alternatives For Video Editing",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "120 languages",
+      "context": "PowerPoint presentations to videos. - Easy to update videos. - Drag and drop. - Localize videos in over 120 languages and accents. - Video templates are fully editable. - Screen recording. - Impressive security standards",
+      "span": [
+        4502,
+        4515
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "120"
+      },
+      "location": {
+        "heading": "Pros of Synthesia",
+        "heading_level": 3,
+        "line": 109
+      },
+      "sentence": "Localize videos in over 120 languages and accents."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        12624,
+        12638
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "What is the best ClipChamp alternative to create videos no one will forget?",
+        "heading_level": 2,
+        "line": 313
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        35489,
+        36838
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

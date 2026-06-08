@@ -1,0 +1,146 @@
+Cluster_ID,Cluster_Name,Sub_Cluster,Intent,Keyword,Search_Volume,Synthesia_Coverage,Priority,Action_Note
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script to video ai,1000,Semantic,Top Priority,Promote conversion flow to primary H2
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script to video,400,Semantic,Top Priority,"Currently rank ~80; reframe page H2 to ""Convert your script into an AI video"""
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",ai video generator from script,400,Semantic,Top Priority,Add explicit FAQ
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",ai script to video generator,200,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",ai video creator from script,150,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script to video ai generator,150,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script to video generator,150,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script video,150,Direct,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",ai video maker from script,100,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",ai script to video,100,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script to ai video,100,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script for video,100,Direct,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script to video maker,90,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",ai video from script,80,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",scripted video,70,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",ai movie generator from script,40,Gap,Quick Win,Add FAQ entry
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",video generator from script,30,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",ai script video generator,20,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script vidéo,20,Gap,Adjacent,French variant; consider FR localization
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",ai to create video from script,10,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Generic phrasing,"User has a script, wants to convert it into a video",script to,30,Off-topic,Skip,Fragment / parser noise
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",create ai video from script,100,Semantic,Top Priority,Use verb in body copy: ""Create an AI video from your script"""
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",create video from script,80,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",convert script to video,60,Gap,Top Priority,"Add ""Convert"" verb explicitly to H2 or FAQ"
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",ai generate video from script,60,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",create video from script ai,50,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",generate video from script,50,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",turn script into video ai,40,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",turn script into video,30,Semantic,Top Priority,"Add ""Turn"" verb in body / FAQ"
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",ai generated video from script,30,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",turn a script into a video,30,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Create/Generate/Turn verbs,"Same conversion intent, action-verb framing",ai create video from script,30,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Free modifier,"Free / no-paywall version of conversion intent",script to video ai free,300,Semantic,Top Priority,"Lead with ""Free"" claim in H2 + add ""no watermark"" mention if true"
+1,Script-to-Video conversion (CORE),Free modifier,"Free / no-paywall version of conversion intent",ai script to video generator free,150,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Free modifier,"Free / no-paywall version of conversion intent",script to video free,100,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Free modifier,"Free / no-paywall version of conversion intent",free script to video ai,100,Semantic,Top Priority,
+1,Script-to-Video conversion (CORE),Best modifier,"Comparative / commercial intent",best script to video ai,150,Gap,Top Priority,"Add a ""Why Synthesia is the best…"" section with comparison points"
+2,Script-to-Animation,Animation output,"Convert script into animated video specifically",script to animation ai,50,Gap,Quick Win,"Add ""Animated avatars"" framing or ""script-to-animation"" callout"
+2,Script-to-Animation,Animation output,"Convert script into animated video specifically",script to animated video ai,30,Gap,Quick Win,
+2,Script-to-Animation,Animation output,"Convert script into animated video specifically",ai script to animation,10,Gap,Quick Win,
+3,AI Script Writing (current page positioning),AI script generator core,"User wants AI to write them a script",ai script generator,5800,Direct,Defend,Already H1; rank 23 — improve internal links + on-page UX
+3,AI Script Writing (current page positioning),AI script generator core,"User wants AI to write them a script",script generator,2900,Direct,Defend,
+3,AI Script Writing (current page positioning),AI script generator core,"User wants AI to write them a script",ai script generator free,150,Direct,Defend,
+3,AI Script Writing (current page positioning),AI script generator core,"User wants AI to write them a script",ai script generator online free,90,Direct,Defend,
+3,AI Script Writing (current page positioning),AI script generator core,"User wants AI to write them a script",ai generator script,70,Direct,Defend,
+3,AI Script Writing (current page positioning),AI script generator core,"User wants AI to write them a script",ai script video generator,20,Direct,Defend,
+3,AI Script Writing (current page positioning),AI script generator core,"User wants AI to write them a script",auto script generator,20,Semantic,Adjacent,
+3,AI Script Writing (current page positioning),Generic 'script ai' / 'ai script',"Two-word generic queries",script ai,800,Direct,Defend,
+3,AI Script Writing (current page positioning),Generic 'script ai' / 'ai script',"Two-word generic queries",a script,800,Semantic,Adjacent,Generic — likely intent split
+3,AI Script Writing (current page positioning),Generic 'script ai' / 'ai script',"Two-word generic queries",ai script,350,Direct,Defend,
+3,AI Script Writing (current page positioning),Generic 'script ai' / 'ai script',"Two-word generic queries",scripting ai,150,Semantic,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",video script generator,1000,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",video script,1000,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",ai video script generator,350,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",video scripts,200,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",video script writer,200,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",ai video script,150,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",ai generated scripts,100,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",ai generated script,90,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",free video script generator,90,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",video script generator online free,80,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",ai video script writer,60,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",video script editor,60,Semantic,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",video script ai,60,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",video script maker,60,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",short video script,50,Direct,Defend,
+3,AI Script Writing (current page positioning),Video script generator,"Specifically for video scripts",video script creator,40,Direct,Defend,
+3,AI Script Writing (current page positioning),Best/free script writing software,"Comparative + software framing",script builder,400,Gap,Quick Win,Add bullet listing Synthesia as a script-builder
+3,AI Script Writing (current page positioning),Best/free script writing software,"Comparative + software framing",script writing program,250,Gap,Quick Win,
+3,AI Script Writing (current page positioning),Best/free script writing software,"Comparative + software framing",best free script writing software,200,Gap,Quick Win,
+3,AI Script Writing (current page positioning),Best/free script writing software,"Comparative + software framing",best ai script writer,150,Semantic,Defend,
+3,AI Script Writing (current page positioning),Generic 'write a script',"Imperative + format queries",write script,150,Direct,Defend,
+3,AI Script Writing (current page positioning),Generic 'write a script',"Imperative + format queries",proper script format,200,Gap,Adjacent,Educational — likely better as blog post
+3,AI Script Writing (current page positioning),Generic 'write a script',"Imperative + format queries",upload script,20,Gap,Adjacent,
+3,AI Script Writing (current page positioning),Generic 'write a script',"Imperative + format queries",audio video script,10,Gap,Adjacent,
+4,Movie/Film script writing,Long-form film/TV scripts,"User wants AI to write a movie or short-film script",ai movie script generator,350,Gap,Quick Win,Add use case bullet: ""Movie / short film scripts"""
+4,Movie/Film script writing,Long-form film/TV scripts,"User wants AI to write a movie or short-film script",how to write a script for a short film,300,Gap,Adjacent,Better as blog content
+4,Movie/Film script writing,Long-form film/TV scripts,"User wants AI to write a movie or short-film script",ai movie script generator free,50,Gap,Quick Win,
+4,Movie/Film script writing,Long-form film/TV scripts,"User wants AI to write a movie or short-film script",movie script maker online free,50,Gap,Quick Win,
+4,Movie/Film script writing,Long-form film/TV scripts,"User wants AI to write a movie or short-film script",free ai movie script generator,20,Gap,Quick Win,
+4,Movie/Film script writing,Long-form film/TV scripts,"User wants AI to write a movie or short-film script",ai tv script generator,10,Gap,Adjacent,
+5,YouTube script generation,YouTube-specific use case,"YouTube creators specifically",free ai youtube script generator,80,Semantic,Quick Win,"Add explicit ""YouTube script"" use case + FAQ"
+5,YouTube script generation,YouTube-specific use case,"YouTube creators specifically",youtube video script generator free,50,Semantic,Quick Win,
+6,Sales script,Sales/outbound use case,"Sales reps writing call/demo scripts",sales script,350,Gap,Quick Win,"Mention ""sales script"" by name in use cases (currently mentions sales but not the phrase)"
+7,How-to (educational),Editorial / educational queries,"User learning how to write a script",how to write a script for a video,250,Direct,Defend,Currently a brief FAQ; expand into a 3-step section
+7,How-to (educational),Editorial / educational queries,"User learning how to write a script",how to script a video,40,Gap,Quick Win,
+7,How-to (educational),Editorial / educational queries,"User learning how to write a script",how to create a video script,40,Gap,Quick Win,
+7,How-to (educational),Editorial / educational queries,"User learning how to write a script",how to make a video script,40,Gap,Quick Win,
+7,How-to (educational),Editorial / educational queries,"User learning how to write a script",how to create a script for a video,30,Gap,Quick Win,
+7,How-to (educational),Editorial / educational queries,"User learning how to write a script",creating a script for a video,30,Gap,Quick Win,
+8,Article/Blog → Video,Adjacent input format,"Convert blog/article into video instead of script",article to video ai,80,Gap,Adjacent,"Add use case: ""Turn an article or blog post into a video"""
+8,Article/Blog → Video,Adjacent input format,"Convert blog/article into video instead of script",convert article to video,60,Gap,Adjacent,
+8,Article/Blog → Video,Adjacent input format,"Convert blog/article into video instead of script",article to video creator,60,Gap,Adjacent,
+8,Article/Blog → Video,Adjacent input format,"Convert blog/article into video instead of script",turn blog post into video,60,Gap,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",ai text to video generator free,3700,Semantic,Adjacent,Better targeted by a dedicated text-to-video page
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",ai video generator from text free,2500,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",free text to video ai,2100,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",ai video generator from text,2100,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",free text to video ai generator,1300,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",text to video ai free online,1200,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",free text to video,700,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",free text to video generator,500,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",best text to video ai generator,400,Gap,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",text to video ai free without watermark,300,Gap,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",best free ai text to video generator,300,Gap,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",text to video ai tools,250,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",visual ai generator,250,Gap,Skip,Too broad
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",best ai video generator for youtube,250,Gap,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",ai text to video generator,200,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",ai video from text,200,Semantic,Adjacent,
+9,Generic Text-to-Video (broader),Sibling intent,"Text/prompt → video, broader than scripts",generate video from text,150,Semantic,Adjacent,
+10,Generic 'make AI videos',Top-of-funnel queries,"How-to / general AI video creation",free ai video creator,2300,Semantic,Adjacent,Better for /ai-video-generator or homepage
+10,Generic 'make AI videos',Top-of-funnel queries,"How-to / general AI video creation",how to create ai videos,1100,Semantic,Adjacent,
+10,Generic 'make AI videos',Top-of-funnel queries,"How-to / general AI video creation",free ai generated videos,700,Gap,Adjacent,
+10,Generic 'make AI videos',Top-of-funnel queries,"How-to / general AI video creation",best ai video app,600,Gap,Adjacent,
+10,Generic 'make AI videos',Top-of-funnel queries,"How-to / general AI video creation",how do you make ai videos,450,Gap,Adjacent,
+10,Generic 'make AI videos',Top-of-funnel queries,"How-to / general AI video creation",how to create ai videos for free,250,Gap,Adjacent,
+10,Generic 'make AI videos',Top-of-funnel queries,"How-to / general AI video creation",what ai can create videos,250,Gap,Adjacent,
+10,Generic 'make AI videos',Top-of-funnel queries,"How-to / general AI video creation",free ai video editing software,250,Gap,Adjacent,
+10,Generic 'make AI videos',Top-of-funnel queries,"How-to / general AI video creation",how to make an ai video for free,150,Gap,Adjacent,
+11,AI avatars / audio inputs,Avatar & audio-input variants,"Avatar/voice-led generators",ai avatar video generator free,200,Semantic,Adjacent,Better for /ai-avatars
+11,AI avatars / audio inputs,Avatar & audio-input variants,"Avatar/voice-led generators",ai talking avatar generator free,200,Semantic,Adjacent,
+11,AI avatars / audio inputs,Avatar & audio-input variants,"Avatar/voice-led generators",ai video generator from audio,150,Gap,Adjacent,
+12,Reel / short-form,Reel-specific,"Instagram/TikTok reel format",reel generator,200,Gap,Adjacent,Likely better for a dedicated reels page
+13,Off-topic / page-features (low priority),Off-topic noise,"Page-feature mentions, not core script-to-video",stock video,9800,Off-topic,Skip,
+13,Off-topic / page-features (low priority),Off-topic noise,"Page-feature mentions, not core script-to-video",stock videos,8400,Off-topic,Skip,
+13,Off-topic / page-features (low priority),Off-topic noise,"Page-feature mentions, not core script-to-video",add subtitles to video free,400,Off-topic,Skip,
+13,Off-topic / page-features (low priority),Off-topic noise,"Page-feature mentions, not core script-to-video",how to turn a screen recording into an audio file,400,Off-topic,Skip,
+13,Off-topic / page-features (low priority),Off-topic noise,"Page-feature mentions, not core script-to-video",free storyboard creator,350,Off-topic,Skip,
+13,Off-topic / page-features (low priority),Off-topic noise,"Page-feature mentions, not core script-to-video",add song to video online free,200,Off-topic,Skip,
+13,Off-topic / page-features (low priority),Off-topic noise,"Page-feature mentions, not core script-to-video",how to get video transcript youtube,200,Off-topic,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",canva ai video generator,6300,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",heygen ai video generator,2700,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",heygen video translation,2400,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",toolbaz script writer,1200,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",canva ai video,900,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",heygen demo,800,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",app scripts,700,Branded,Skip,Apps Script (Google) — different intent
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",heygen translation,700,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",how to do a voiceover on canva,200,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",canva text to video,150,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",pictory script to video,100,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",powered by phpmotion - free video script,30,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",canva script,30,Branded,Skip,
+14,Branded competitor (exclude),Brand mentions,"Won't drive traffic to Synthesia page",text to video canva,10,Branded,Skip,

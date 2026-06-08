@@ -1,0 +1,194 @@
+{
+  "counts": {
+    "pricing": 8,
+    "stat": 4,
+    "link": 2
+  },
+  "total": 14,
+  "findings": [
+    {
+      "type": "pricing",
+      "text": "$0/mo",
+      "context": ". How does Synthesia stack up against HeyGen? ## Synthesia plans [Just the basics\\\\ \\\\ Basic\\\\ \\\\ $0/mo\\\\ \\\\ 10 minutes of video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal us",
+      "span": [
+        14636,
+        14641
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "0"
+      }
+    },
+    {
+      "type": "pricing",
+      "text": "$18/mo",
+      "context": "video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal use\\\\ \\\\ Starter\\\\ \\\\ $18/mo\\\\ \\\\ 120 minutes of video/year. Billed yearly.\\\\ \\\\ Get started](https://www.synthesia.io/pricing)",
+      "span": [
+        14761,
+        14767
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "18"
+      }
+    },
+    {
+      "type": "pricing",
+      "text": "$64/mo",
+      "context": "tarted](https://www.synthesia.io/pricing) [Most popular\\\\ \\\\ For small businesses\\\\ \\\\ Creator\\\\ \\\\ $64/mo\\\\ \\\\ 360 minutes of video/year. Billed yearly.\\\\ \\\\ Get started](https://www.synthesia.io/pricing)",
+      "span": [
+        14925,
+        14931
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "64"
+      }
+    },
+    {
+      "type": "pricing",
+      "text": "$18/mo",
+      "context": "o generators on the market, but it falls short of the market leader, Synthesia. Synthesia starts at $18/month whereas HeyGens start at $24/month, so we recommend choosing Synthesia to take advantage of its",
+      "span": [
+        24222,
+        24228
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "18"
+      }
+    },
+    {
+      "type": "pricing",
+      "text": "$24/mo",
+      "context": "falls short of the market leader, Synthesia. Synthesia starts at $18/month whereas HeyGens start at $24/month, so we recommend choosing Synthesia to take advantage of its superior features and more realisti",
+      "span": [
+        24257,
+        24263
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "24"
+      }
+    },
+    {
+      "type": "pricing",
+      "text": "$0 per month",
+      "context": "f some other platforms. ### How much is HeyGen? Heygen offers several pricing plans: - **Free**: $0 per month for 1 minute of video. - **Creator**: $24 per month (max. 5 minutes per video). - **Teams:** $69 pe",
+      "span": [
+        24757,
+        24769
+      ],
+      "meta": {
+        "brand": "heygen",
+        "currency": "$",
+        "amount": "0"
+      }
+    },
+    {
+      "type": "pricing",
+      "text": "$24 per month",
+      "context": "eygen offers several pricing plans: - **Free**: $0 per month for 1 minute of video. - **Creator**: $24 per month (max. 5 minutes per video). - **Teams:** $69 per month (max. 60 minutes per video). - **Enterprise*",
+      "span": [
+        24808,
+        24821
+      ],
+      "meta": {
+        "brand": "heygen",
+        "currency": "$",
+        "amount": "24"
+      }
+    },
+    {
+      "type": "pricing",
+      "text": "$69 per month",
+      "context": "month for 1 minute of video. - **Creator**: $24 per month (max. 5 minutes per video). - **Teams:** $69 per month (max. 60 minutes per video). - **Enterprise**: Custom pricing based on specific needs. ### Who own",
+      "span": [
+        24863,
+        24876
+      ],
+      "meta": {
+        "brand": "heygen",
+        "currency": "$",
+        "amount": "69"
+      }
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "performance based on your script. - The most secure AI Video platform for business, trusted by over 90% of Fortune 100. - Enterprise-ready, fully collaborative platform to create, manage and share videos",
+      "span": [
+        297,
+        300
+      ],
+      "meta": {
+        "subtype": "percent"
+      }
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "a5a9dfa1_ShieldCheck-Grey.svg) ### The most secure AI video platform for business, trusted by over 90% of Fortune 100 Our AI avatars can only be created with explicit human consent, and we enforce stri",
+      "span": [
+        3358,
+        3361
+      ],
+      "meta": {
+        "subtype": "percent"
+      }
+    },
+    {
+      "type": "stat",
+      "text": "in 2020",
+      "context": "- **Enterprise**: Custom pricing based on specific needs. ### Who owns HeyGen? HeyGen was started in 2020 in China. It is a privately held company owned by Joshua Xu and Wayne Liang. Xu is the CEO of the c",
+      "span": [
+        25006,
+        25013
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      }
+    },
+    {
+      "type": "stat",
+      "text": "over 50,000 companies",
+      "context": "5b300a2e_Pause-dark.svg) ![](https://img.youtube.com/vi/OL2aF7y-d38/sddefault.jpg)Play Trusted by over 50,000 companies of all sizes ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65fd58d0045adba14a961",
+      "span": [
+        842,
+        863
+      ],
+      "meta": {
+        "subtype": "large_count"
+      }
+    },
+    {
+      "type": "link",
+      "text": "https://www.g2.com/categories/video-communications?utf8=%E2%9C%93&selected_view=trending&segment=enterprise#grid",
+      "context": "",
+      "span": [
+        15974,
+        16086
+      ],
+      "meta": {
+        "domain": "www.g2.com"
+      }
+    },
+    {
+      "type": "link",
+      "text": "https://www.g2.com/categories/video-communications?utf8=%E2%9C%93&amp;selected_view=trending&amp;segment=enterprise#grid",
+      "context": " target=\"_blank\" class=\"position-relative min-width-100-percent w-inline-block\">",
+      "span": [
+        85590,
+        85797
+      ],
+      "meta": {
+        "domain": "www.g2.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+AWS API Gateway|awsapigateway.com|aws api gateway
+AWS CDK|awscdk.com|aws cdk
+Airtable Forms|airtableforms.com|airtable forms
+AllSeated (Prismm)|allseatedprismm.com|allseated prismm
+Announcekit|announcekit.com|announcekit
+Asana Rules|asanarules.com|asana rules
+Bookkeeper360|thebeautyroom.uk|bookkeeper360
+Botsociety|botsociety.com|botsociety
+Brevo (Sendinblue)|brevosendinblue.com|brevo sendinblue
+Certinia (FinancialForce)|certiniafinancialforce.com|certinia financialforce
+Citrix ShareFile|citrixsharefile.com|citrix sharefile
+D2L Brightspace|d2lbrightspace.com|d2l brightspace
+Drafting Assistant|draftingassistant.com|drafting assistant
+Emerald AI|emeraldai.com|emerald ai
+Encharge|encharge.com|encharge
+Firebase Auth|firebaseauth.com|firebase auth
+GitHub Actions|githubactions.com|github actions
+Hospitable (Smartbnb)|hospitablesmartbnb.com|hospitable smartbnb
+Humu|kenziquigg.com|humu
+IQMS (DELMIAworks)|erpsoftwarevideos.com|iqms delmiaworks
+ERPNext|erpnext.involvetechnologies.com|erpnext
+DEAR Inventory|dearinventory.com|dear inventory
+Float Cash Flow|floatcashflow.com|float cash flow
+Cashflow Manager|cashflowmanager.com|cashflow manager
+AMZScout|amzscout.com|amzscout
+CPI OpenFox|cpiopenfox.com|cpi openfox
+Countly|countly.net|countly
+FarmBot|farmbot.com|farmbot
+Arcadier|whitelance.co|arcadier
+Bardeen|bardeen.com|bardeen
+Everfit|everfit.com|everfit
+Akita|akita.com|akita
+Hemingway Editor|hemingwayeditor.com|hemingway editor
+Instantly|instantly.com|instantly
+All in One SEO|allinoneseo.com|all in one seo
+Column|tribby3d.com|column
+FigJam|figjammobile.com|figjam
+ChromaDB|chromadb.com|chromadb
+Codefresh|codefresh.com|codefresh
+Inato|marche.health|inato
+CloudTalk|cloudtalk.com|cloudtalk
+Egencia|egencia.be|egencia
+ImageKit|imagekit.com|imagekit
+CodeRabbit|coderabbit.com|coderabbit
+Divvy|divvydigital.com|divvy
+Fluxx|fluxx.com|fluxx
+Beacons|beacons.com|beacons
+CWT|cwt.com|cwt
+Almanac|almanac.in-jet.eu|almanac
+Dynamics 365|endeavour365.ca|dynamics 365
+Fathom Analytics|fathomanalytics.com|fathom analytics
+Homebase|homebase.com|homebase
+Amity|amity.com|amity
+EIS|eis.com|eis
+FoodCost Pro|foodcostpro.ch|foodcost pro
+Freshdesk Field Service|webmarketing.academy|freshdesk field service
+Agari|agarikitchen.com|agari
+ExpressionEngine|eeinsider.com|expressionengine
+Granola|granola.com|granola
+Granular|granular.com|granular
+BigQuery|softwaresim.com|bigquery
+Campus Management|seatsone.ai|campus management
+Claim Genius|claimgenius.com|claim genius
+Charted|charted.com|charted
+Casetext|calpodcast.com|casetext
+Esticom|esticom.com|esticom
+Hetzner|bizanosa.com|hetzner
+Epic Systems|epicsystems.com|epic
+Hireflow|hireflow.com|hireflow
+Dave|buildwithdave.com|dave
+Harvest Profit|harvestprofit.com|harvest profit
+Bindable|bindable.com|bindable
+Firecrawl|firecrawl.com|firecrawl
+Inlytics|gopostflow.com|inlytics
+EvoluteIQ|evoluteiq.com|evoluteiq
+GetGoing|getgoing.com|getgoing
+GitHub Copilot|githubcopilot.com|github copilot
+Glint|glintsolar.com|glint
+GrantHub|nonprofitlibrary.com|granthub
+BST Global|bstglobal.com|bst
+GoodShip|goodship.io|goodship
+CosmoLex|cosmolex.ca|cosmolex
+CPSI|emrsystems.net|cpsi
+Cerca|cerca.io|cerca
+Heron Data|herondata.io|heron data
+Cetec ERP|cetecerp.com|cetec erp
+Airplane|traxxall.com|airplane
+Braintree|moverbase.com|braintree
+Buyers Edge Platform|bepbackoffice.com|buyers edge platform
+Fauna|faunarobotics.com|fauna
+Automate.io|automateio.com|automateio
+Brella|dimmo.ai|brella
+Headway|headway.com|headway
+Baton|hellobaton.com|baton
+InterGuard|interguardsoftware.com|interguard
+Act!|keystroke.ca|act
+Confido Legal|confidolegal.com|confido legal
+Jonas Construction|jonasconstruction.com|jonas construction
+FluentStream|fluentstream.com|fluentstream
+Gynger|gynger.io|gynger
+Izenda|wiki.izenda.us|izenda
+AutoRaptor CRM|autoraptor.com|autoraptor crm
+FollowUp CRM|followupcrm.com|followup crm
+Beamer|info-beamer.com|beamer
+EventDraw|eventdraw.com|eventdraw
+GoProposal|goproposal.com|goproposal
+Gradient AI|gradientai.com|gradient ai
+Branch|quickfms.com|branch
+CiviCRM|civicrm.com|civicrm
+Espressive|espressive.com|espressive
+Campfire Software|campfire.ai|campfire
+Collectly|collectly.co|collectly
+Forestry|3log.com|forestry
+Gamma|gamma-rs.ch|gamma
+365villas|guestwisely.io|365villas
+4Degrees|4degrees.ai|4degrees
+Agiled|agiled.app|agiled
+Donorbox|donorbox.com|donorbox
+1CRM|1crm.com|1crm
+Clientpoint|clientpoint.net|clientpoint
+Connecterra|thebullvine.com|connecterra
+EverAfter|everafter.ai|everafter
+AgencyZoom|agencyzoom.com|agencyzoom
+BotStar|botstar.com|botstar
+Cherre|cherre.com|cherre
+DemandFarm|demandfarm.com|demandfarm
+Harvestr|howtoweb.co|harvestr
+Hummingbird|hummingbird.co|hummingbird
+Jungo|ijungo.com|jungo
+Amicus Attorney|amicusattorney.com|amicus attorney
+Digitail|digitail.com|digitail
+GradLeaders|gradleaders.com|gradleaders
+Academy of Mine|academyofmine.com|academy of mine
+Float|floatfinancial.com|float
+ADP|mijares.com|adp
+AcuityMD|acuitymd.com|acuitymd
+AgentSync|agentsync.io|agentsync
+CallProof|callproof.com|callproof
+Drizzle|drizzle.com|drizzle
+FarmRaise|farmraise.com|farmraise
+Burnalong|burnalong.com|burnalong
+Ducalis|hi.ducalis.io|ducalis
+Ajera|ajera.com|ajera
+Arable|arable.com|arable
+Arrows|arrows.to|arrows
+Hour One|fahimai.com|hour one
+Jolt|jolt.com|jolt
+Journyx|journyx.com|journyx
+AgWorld|agworld.com|agworld
+Artera|artera.io|artera
+BillingPlatform|billingplatform.com|billingplatform
+Bonfire|letsbonfire.com|bonfire
+Fairmarkit|fairmarkit.com|fairmarkit
+GeoRanker|georanker.com|georanker
+GoTab|gotab.com|gotab
+Jonas Fitness|jonasfitness.com|jonas fitness
+Berrycast|berrycast.com|berrycast
+CloudNine|cloudnine.com|cloudnine
+Ethena|goethena.com|ethena
+Fetcher|fetcher.ai|fetcher
+Function Point|functionpoint.com|function point
+Jirav|jirav.com|jirav
+Afterpay|softwareadvice.ie|afterpay
+Altana|altana.com|altana
+AttendanceBot|attendancebot.com|attendancebot
+Bold Penguin|boldpenguin.com|bold penguin
+Botkeeper|botkeeper.com|botkeeper
+Cincom|cincom.com|cincom
+Findem|findem.ai|findem
+GUIDEcx|guidecx.com|guidecx
+Influ2|influ2.com|influ2
+AccountEdge|accountedge.com|accountedge
+Evisort|evisort.com|evisort
+Hotelogix|hotelogix.com|hotelogix
+Advice Local|advicelocal.com|advice local
+Alyce|alyce.com|alyce
+CMiC|cmicglobal.com|cmic
+CasePacer|casepacer.com|casepacer
+Crossplane|okteto.com|crossplane
+CurrentWare|currentware.com|currentware
+Ebsta|ebsta.com|ebsta
+HawkSoft|hawksoft.com|hawksoft
+Impel|impel.ai|impel
+Introhive|introhive.com|introhive
+MaestroQA|maestroqa.com|maestroqa
+10x Banking|10xbanking.com|10x banking
+Allscripts|autodemo.com|allscripts
+At-Bay|at-bay.com|atbay
+Bold BI|boldbi.com|bold bi
+Carrd|carrd.com|carrd
+Dragonboat|dragonboat.io|dragonboat
+Flywheel|flywheel.io|flywheel
+GoodRx|simulmedia.com|goodrx
+Atomicwork|atomicwork.com|atomicwork
+Aurelius|tmssoftware.com|aurelius
+Behalf|behalf.com|behalf
+Brokermint|brokermint.com|brokermint
+CalAmp|calamp.com|calamp
+ClockShark|clockshark.com|clockshark
+Gloo|gloo.com|gloo
+Hyro AI|hyro.ai|hyro ai
+InEight|ineight.com|ineight
+Istio|devopsschool.com|istio
+AgriWebb|agriwebb.com|agriwebb
+Allflex|allflex.global|allflex
+Anomalo|anomalo.com|anomalo
+Area 1 Security|cloudflare.tv|area 1 security
+Dashword|dashword.com|dashword
+EverWebinar|everwebinar.com|everwebinar
+ExakTime|go.arcoro.com|exaktime
+GPS Trackit|gpstrackit.com|gps trackit
+Issuetrak|issuetrak.com|issuetrak
+Aivo|aivo.co|aivo
+Assembled|assembled.com|assembled
+BigTime|bigtime.net|bigtime
+ChannelAdvisor|advids.co|channeladvisor
+ClientSuccess|clientsuccess.com|clientsuccess
+Codat|codat.io|codat
+Condens|condens.io|condens
+Dundas BI|dundas.com|dundas bi
+Featurespace|featurespace.com|featurespace
+Gladia|gladia.io|gladia
+6 River Systems|6river.com|6 river
+BigContacts|bigcontacts.com|bigcontacts
+Calamari|calamari.io|calamari
+CodeClimate|waydev.co|codeclimate

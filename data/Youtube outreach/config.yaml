@@ -1,0 +1,170 @@
+# ============================================================
+# Youtube Outreach - Configuration
+# ============================================================
+# API keys are stored in .env (not here). See .env.example.
+
+# --- Discovery Settings ---
+discovery:
+  subscriber_min: 5000
+  subscriber_max: 50000
+  videos_to_check: 10          # videos per channel to check for dubbing (by date + by views)
+  max_results_per_search: 50   # YouTube API max per page
+
+  # Target countries (ISO 3166-1 alpha-2) mapped to their primary language
+  targets:
+    - country: ES
+      language: es
+      label: "Spain"
+    - country: MX
+      language: es
+      label: "Mexico"
+    - country: AR
+      language: es
+      label: "Argentina"
+    - country: CO
+      language: es
+      label: "Colombia"
+    - country: BR
+      language: pt
+      label: "Brazil"
+    - country: PT
+      language: pt
+      label: "Portugal"
+    - country: IT
+      language: it
+      label: "Italy"
+    - country: GR
+      language: el
+      label: "Greece"
+    - country: US
+      language: en
+      label: "United States"
+    - country: GB
+      language: en
+      label: "United Kingdom"
+    - country: AU
+      language: en
+      label: "Australia"
+
+  # Niche keywords per language
+  niche_keywords:
+    en:
+      - "tutorial"
+      - "how to"
+      - "review"
+      - "personal finance"
+      - "learn"
+      - "tips and tricks"
+      - "cooking recipe"
+      - "fitness workout"
+      - "entrepreneurship"
+      - "travel vlog"
+      - "productivity"
+      - "career advice"
+      - "tech review"
+      - "language learning"
+      - "self improvement"
+    es:
+      - "tutorial"
+      - "cómo hacer"
+      - "review"
+      - "finanzas personales"
+      - "aprende"
+      - "receta de cocina"
+      - "rutina de ejercicio"
+      - "emprendimiento"
+      - "viaje vlog"
+      - "productividad"
+      - "consejos"
+      - "tecnología review"
+      - "aprender idiomas"
+      - "desarrollo personal"
+    pt:
+      - "tutorial"
+      - "como fazer"
+      - "review"
+      - "finanças pessoais"
+      - "aprenda"
+      - "receita"
+      - "treino"
+      - "empreendedorismo"
+      - "viagem vlog"
+      - "produtividade"
+      - "dicas"
+      - "tecnologia review"
+      - "aprender idiomas"
+      - "desenvolvimento pessoal"
+    it:
+      - "tutorial"
+      - "come fare"
+      - "recensione"
+      - "finanza personale"
+      - "impara"
+      - "ricetta"
+      - "allenamento"
+      - "imprenditoria"
+      - "viaggio vlog"
+      - "produttività"
+      - "consigli"
+      - "tecnologia recensione"
+      - "imparare lingue"
+      - "crescita personale"
+    el:
+      - "tutorial"
+      - "πώς να"
+      - "κριτική"
+      - "προσωπικά οικονομικά"
+      - "μάθε"
+      - "συνταγή"
+      - "γυμναστική"
+      - "επιχειρηματικότητα"
+      - "ταξίδι vlog"
+      - "παραγωγικότητα"
+      - "συμβουλές"
+      - "τεχνολογία"
+      - "εκμάθηση γλωσσών"
+
+  # Heuristics for identifying individual creators vs organizations
+  org_indicators:
+    - "official"
+    - "network"
+    - "media"
+    - "news"
+    - "tv"
+    - "records"
+    - "entertainment"
+    - "studios"
+    - "corporation"
+    - "inc."
+    - "ltd"
+    - "gmbh"
+    - "s.a."
+    - "s.r.l."
+
+  creator_indicators:
+    - "i "
+    - "my "
+    - "me "
+    - "subscribe"
+    - "hey guys"
+    - "what's up"
+    - "welcome back"
+    - "follow me"
+    - "contact me"
+
+# --- Enrichment Settings ---
+enrichment:
+  request_delay: 2.0    # seconds between About page scrapes
+  max_retries: 3
+
+# --- Synthesia Settings ---
+synthesia:
+  lipsync_enabled: true
+  video_duration: "adaptive"
+  visibility: "private"
+
+# --- Rate Limiting ---
+rate_limits:
+  youtube_api_delay: 0.5
+  ytdlp_delay: 3.0
+  about_page_delay: 2.0

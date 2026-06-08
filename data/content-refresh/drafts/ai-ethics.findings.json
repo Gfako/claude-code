@@ -1,0 +1,503 @@
+{
+  "counts": {
+    "feature": 4,
+    "stat": 5,
+    "link": 17
+  },
+  "total": 26,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) January 24, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        273,
+        285
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) January 24, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        289,
+        303
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "130+ languages",
+      "context": "lifelike [AI avatars](https://www.synthesia.io/features/avatars) that can narrate almost anything in [130+ languages](https://www.synthesia.io/features/languages). The potential for misuse cannot be ignored, and reinforcing",
+      "span": [
+        18375,
+        18389
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "130+"
+      },
+      "location": {
+        "heading": "Synthesia’s stance on AI ethics",
+        "heading_level": 2,
+        "line": 205
+      },
+      "sentence": "After all, our users generate videos from plain text, using lifelike [AI avatars](https://www.synthesia.io/features/avatars) that can narrate almost anything in [130+ languages](https://www.synthesia.io/features/languages)."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        21619,
+        21633
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Embrace ethical AI along with Synthesia",
+        "heading_level": 2,
+        "line": 247
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "52%",
+      "context": "aspect of our lives, we need it guided by transparency, fairness, and accountability. For now, only [52%](https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai)",
+      "span": [
+        1808,
+        1811
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "For now, only [52%](https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai) of companies practice some level of responsible AI, and 79% say implementations are limited in scale and scope."
+    },
+    {
+      "type": "stat",
+      "text": "79%",
+      "context": "[52%](https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai) of companies practice some level of responsible AI, and 79% say implementations are limited in scale and scope. Meanwhile, [35%](https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture's%202022%20Tech,for%20their%20misuse%20of%20AI.)",
+      "span": [
+        1970,
+        1973
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "For now, only [52%](https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai) of companies practice some level of responsible AI, and 79% say implementations are limited in scale and scope."
+    },
+    {
+      "type": "stat",
+      "text": "35%",
+      "context": "some level of responsible AI, and 79% say implementations are limited in scale and scope. Meanwhile, [35%](https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture's%202022%20Tech,for%20their%20misuse%20of%20AI.)",
+      "span": [
+        2039,
+        2042
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 41
+      },
+      "sentence": "Meanwhile, [35%](https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture's%202022%20Tech,for%20their%20misuse%20of%20AI.) of global consumers trust how organizations are implementing AI."
+    },
+    {
+      "type": "stat",
+      "text": "84%",
+      "context": "Employees who received poor ethics training act just like those without any training. By contrast, [84%](https://www.gallup.com/workplace/357113/hard-truths-ethics-compliance-training.aspx) of those who",
+      "span": [
+        16714,
+        16717
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Tip 4: Foster a culture of ethical awareness",
+        "heading_level": 3,
+        "line": 185
+      },
+      "sentence": "By contrast, [84%](https://www.gallup.com/workplace/357113/hard-truths-ethics-compliance-training.aspx) of those who rated their ethics training as excellent say they know what to do when dealing with unethical behaviors."
+    },
+    {
+      "type": "stat",
+      "text": "in 2023",
+      "context": "innovation. Conversely, it can lead to significant privacy invasions and data breaches. For example, in 2023, [Samsung](https://mashable.com/article/samsung-chatgpt-leak-details#:~:text=Samsung%20employees%20have%20learned%20this,ChatGPT%20to%20check%20source%20code.)",
+      "span": [
+        5124,
+        5131
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "Why are AI ethics important?",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "For example, in 2023, [Samsung](https://mashable.com/article/samsung-chatgpt-leak-details#:~:text=Samsung%20employees%20have%20learned%20this,ChatGPT%20to%20check%20source%20code.) suffered when developers unintentionally exposed sensitive data while integrating their code into ChatGPT."
+    },
+    {
+      "type": "link",
+      "text": "https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai",
+      "context": "",
+      "span": [
+        1813,
+        1912
+      ],
+      "meta": {
+        "domain": "mitsloan.mit.edu",
+        "anchor": "52%"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "For now, only [52%](https://mitsloan.mit.edu/ideas-made-to-matter/new-report-documents-business-benefits-responsible-ai) of companies practice some level of responsible AI, and 79% say implementations are limited in scale and scope."
+    },
+    {
+      "type": "link",
+      "text": "https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture's%202022%20Tech,for%20their%20misuse%20of%20AI",
+      "context": "",
+      "span": [
+        2044,
+        2294
+      ],
+      "meta": {
+        "domain": "www.accenture.com",
+        "anchor": "35%"
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 41
+      },
+      "sentence": "Meanwhile, [35%](https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture's%202022%20Tech,for%20their%20misuse%20of%20AI.) of global consumers trust how organizations are implementing AI."
+    },
+    {
+      "type": "link",
+      "text": "https://www.theguardian.com/technology/2018/oct/10/amazon-hiring-ai-gender-bias-recruiting-engine",
+      "context": "",
+      "span": [
+        4689,
+        4786
+      ],
+      "meta": {
+        "domain": "www.theguardian.com",
+        "anchor": "Amazon's hiring algorithms"
+      },
+      "location": {
+        "heading": "Why are AI ethics important?",
+        "heading_level": 2,
+        "line": 71
+      },
+      "sentence": "A notorious example of biased AI came from [Amazon's hiring algorithms](https://www.theguardian.com/technology/2018/oct/10/amazon-hiring-ai-gender-bias-recruiting-engine)."
+    },
+    {
+      "type": "link",
+      "text": "https://mashable.com/article/samsung-chatgpt-leak-details#:~:text=Samsung%20employees%20have%20learned%20this,ChatGPT%20to%20check%20source%20code",
+      "context": "",
+      "span": [
+        5143,
+        5290
+      ],
+      "meta": {
+        "domain": "mashable.com",
+        "anchor": "Samsung"
+      },
+      "location": {
+        "heading": "Why are AI ethics important?",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "For example, in 2023, [Samsung](https://mashable.com/article/samsung-chatgpt-leak-details#:~:text=Samsung%20employees%20have%20learned%20this,ChatGPT%20to%20check%20source%20code.) suffered when developers unintentionally exposed sensitive data while integrating their code into ChatGPT."
+    },
+    {
+      "type": "link",
+      "text": "https://twitter.com/JamesCleverly/status/1720335352940949970?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1720335352940949970%7Ctwgr%5E4e8495cb01ed5462cda6cddb9fb1436354165109%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.synthesia.io%2Fpost%2Fresponsible-ai",
+      "context": "",
+      "span": [
+        5741,
+        6001
+      ],
+      "meta": {
+        "domain": "twitter.com",
+        "anchor": "collaboration"
+      },
+      "location": {
+        "heading": "Why are AI ethics important?",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "In response, James Cleverly, the Foreign Secretary of the United Kingdom, recently embarked on a unique [collaboration](https://twitter.com/JamesCleverly/status/1720335352940949970?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1720335352940949970%7Ctwgr%5E4e8495cb01ed5462cda6cddb9fb1436354165109%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.synthesia.io%2Fpost%2Fresponsible-ai) with the [AI video generator](https://www.synthesia.io/features/ai-video-generator) Synthesia to advocate for the safe and responsible use of AI technologies."
+    },
+    {
+      "type": "link",
+      "text": "https://algorithmwatch.org/en/",
+      "context": "",
+      "span": [
+        11938,
+        11968
+      ],
+      "meta": {
+        "domain": "algorithmwatch.org",
+        "anchor": "AlgorithmWatch"
+      },
+      "location": {
+        "heading": "Organizations that promote AI ethics",
+        "heading_level": 2,
+        "line": 134
+      },
+      "sentence": "[AlgorithmWatch](https://algorithmwatch.org/en/) is a non-profit human rights organization."
+    },
+    {
+      "type": "link",
+      "text": "https://ainowinstitute.org/",
+      "context": "",
+      "span": [
+        12295,
+        12322
+      ],
+      "meta": {
+        "domain": "ainowinstitute.org",
+        "anchor": "AI Now Institute"
+      },
+      "location": {
+        "heading": "Organizations that promote AI ethics",
+        "heading_level": 2,
+        "line": 136
+      },
+      "sentence": "[AI Now Institute](https://ainowinstitute.org/) is an AI research center dedicated to understanding the social implications of artificial intelligence."
+    },
+    {
+      "type": "link",
+      "text": "https://www.darpa.mil/",
+      "context": "",
+      "span": [
+        12574,
+        12596
+      ],
+      "meta": {
+        "domain": "www.darpa.mil",
+        "anchor": "DARPA"
+      },
+      "location": {
+        "heading": "Organizations that promote AI ethics",
+        "heading_level": 2,
+        "line": 138
+      },
+      "sentence": "[DARPA](https://www.darpa.mil/) is primarily known for its role in developing emerging technologies for the U.S."
+    },
+    {
+      "type": "link",
+      "text": "https://humancompatible.ai/",
+      "context": "",
+      "span": [
+        12930,
+        12957
+      ],
+      "meta": {
+        "domain": "humancompatible.ai",
+        "anchor": "CHAI"
+      },
+      "location": {
+        "heading": "Organizations that promote AI ethics",
+        "heading_level": 2,
+        "line": 140
+      },
+      "sentence": "[CHAI](https://humancompatible.ai/), the Center for Human-Compatible Artificial Intelligence, focuses on designing AI systems that operate according to human principles and values."
+    },
+    {
+      "type": "link",
+      "text": "https://cybercemetery.unt.edu/nscai/20211005220330/https://www.nscai.gov/",
+      "context": "",
+      "span": [
+        13212,
+        13285
+      ],
+      "meta": {
+        "domain": "cybercemetery.unt.edu",
+        "anchor": "NASCAI"
+      },
+      "location": {
+        "heading": "Organizations that promote AI ethics",
+        "heading_level": 2,
+        "line": 142
+      },
+      "sentence": "[NASCAI](https://cybercemetery.unt.edu/nscai/20211005220330/https://www.nscai.gov/) is a collaborative effort that brings experts from various sectors together to promote AI safety and ethics."
+    },
+    {
+      "type": "link",
+      "text": "https://www.gallup.com/workplace/357113/hard-truths-ethics-compliance-training.aspx",
+      "context": "",
+      "span": [
+        16719,
+        16802
+      ],
+      "meta": {
+        "domain": "www.gallup.com",
+        "anchor": "84%"
+      },
+      "location": {
+        "heading": "Tip 4: Foster a culture of ethical awareness",
+        "heading_level": 3,
+        "line": 185
+      },
+      "sentence": "By contrast, [84%](https://www.gallup.com/workplace/357113/hard-truths-ethics-compliance-training.aspx) of those who rated their ethics training as excellent say they know what to do when dealing with unethical behaviors."
+    },
+    {
+      "type": "link",
+      "text": "https://syntheticmedia.partnershiponai.org/",
+      "context": "",
+      "span": [
+        20041,
+        20084
+      ],
+      "meta": {
+        "domain": "syntheticmedia.partnershiponai.org",
+        "anchor": "Partnership on AI (PAI) on Responsible Practices for Synthetic Media"
+      },
+      "location": {
+        "heading": "Collaboration for a better future",
+        "heading_level": 3,
+        "line": 223
+      },
+      "sentence": "We are a launch partner to the [Partnership on AI (PAI) on Responsible Practices for Synthetic Media](https://syntheticmedia.partnershiponai.org/) and an active member of the [Content Authenticity Initiative](https://contentauthenticity.org/), reflecting our commitment to shaping a responsible AI future."
+    },
+    {
+      "type": "link",
+      "text": "https://contentauthenticity.org/",
+      "context": "",
+      "span": [
+        20148,
+        20180
+      ],
+      "meta": {
+        "domain": "contentauthenticity.org",
+        "anchor": "Content Authenticity Initiative"
+      },
+      "location": {
+        "heading": "Collaboration for a better future",
+        "heading_level": 3,
+        "line": 223
+      },
+      "sentence": "We are a launch partner to the [Partnership on AI (PAI) on Responsible Practices for Synthetic Media](https://syntheticmedia.partnershiponai.org/) and an active member of the [Content Authenticity Initiative](https://contentauthenticity.org/), reflecting our commitment to shaping a responsible AI future."
+    },
+    {
+      "type": "link",
+      "text": "https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture",
+      "context": "",
+      "span": [
+        2044,
+        2246
+      ],
+      "meta": {
+        "domain": "www.accenture.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "AI Ethics: How to Innovate the Safe and Responsible Way",
+        "heading_level": 1,
+        "line": 41
+      },
+      "sentence": "Meanwhile, [35%](https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&text=In%20fact%2C%20Accenture's%202022%20Tech,for%20their%20misuse%20of%20AI.) of global consumers trust how organizations are implementing AI."
+    },
+    {
+      "type": "link",
+      "text": "https://www.accenture.com/us-en/services/applied-intelligence/ai-ethics-governance#:~:text=Responsible%20AI%3A%20Scale%20AI%20with%20confidence,-AI%20brings%20unprecedented&amp;text=In%20fact%2C%20Accenture",
+      "context": "",
+      "span": [
+        18368,
+        18820
+      ],
+      "meta": {
+        "domain": "www.accenture.com",
+        "anchor": "35%"
+      },
+      "location": {
+        "heading": "Synthesia’s stance on AI ethics",
+        "heading_level": 2,
+        "line": 205
+      },
+      "sentence": "After all, our users generate videos from plain text, using lifelike [AI avatars](https://www.synthesia.io/features/avatars) that can narrate almost anything in [130+ languages](https://www.synthesia.io/features/languages). The potential for misuse cannot be ignored, and reinforcing ethical standards and responsible moderation is critical. Our CEO, Victor Riparbelli, has been vocal about these challenges, emphasizing the need for ethical AI in various keynotes and TV appearances, including his 2023 SaaStock keynote. Play Our approach to AI ethics is comprehensive and forward-thinking. As the world of artificial intelligence media advances, we lead by example, relying on the following pillars of ethical AI:"
+    },
+    {
+      "type": "link",
+      "text": "https://twitter.com/JamesCleverly/status/1720335352940949970?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1720335352940949970%7Ctwgr%5E4e8495cb01ed5462cda6cddb9fb1436354165109%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.synthesia.io%2Fpost%2Fresponsible-ai",
+      "context": "",
+      "span": [
+        22993,
+        23465
+      ],
+      "meta": {
+        "domain": "twitter.com",
+        "anchor": "collaboration"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        44502,
+        45851
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

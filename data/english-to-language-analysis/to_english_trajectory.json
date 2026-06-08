@@ -1,0 +1,246 @@
+{
+  "trajectory": {
+    "https://www.synthesia.io/features/video-translator/french-to-english": [
+      {
+        "month": "Sep 2025",
+        "clicks": 0,
+        "impr": 0,
+        "ctr": 0,
+        "pos": 0
+      },
+      {
+        "month": "Oct 2025",
+        "clicks": 1,
+        "impr": 312,
+        "ctr": 0.003205128205128205,
+        "pos": 30.33653846153846
+      },
+      {
+        "month": "Nov 2025",
+        "clicks": 9,
+        "impr": 1359,
+        "ctr": 0.006622516556291391,
+        "pos": 31.37159676232524
+      },
+      {
+        "month": "Dec 2025",
+        "clicks": 8,
+        "impr": 2045,
+        "ctr": 0.003911980440097799,
+        "pos": 28.324205378973105
+      },
+      {
+        "month": "Jan 2026",
+        "clicks": 17,
+        "impr": 2294,
+        "ctr": 0.0074106364428945075,
+        "pos": 17.287707061900612
+      },
+      {
+        "month": "Feb 2026",
+        "clicks": 10,
+        "impr": 2106,
+        "ctr": 0.004748338081671415,
+        "pos": 15.175213675213675
+      },
+      {
+        "month": "Mar 2026 (launch)",
+        "clicks": 9,
+        "impr": 2093,
+        "ctr": 0.004300047778308648,
+        "pos": 11.983755375059722
+      },
+      {
+        "month": "Apr 2026",
+        "clicks": 14,
+        "impr": 1613,
+        "ctr": 0.008679479231246125,
+        "pos": 8.461252324860508
+      },
+      {
+        "month": "May 2026 (mtd)",
+        "clicks": 5,
+        "impr": 652,
+        "ctr": 0.007668711656441718,
+        "pos": 9.610429447852761
+      }
+    ],
+    "https://www.synthesia.io/features/video-translator/japanese-to-english": [
+      {
+        "month": "Sep 2025",
+        "clicks": 0,
+        "impr": 0,
+        "ctr": 0,
+        "pos": 0
+      },
+      {
+        "month": "Oct 2025",
+        "clicks": 0,
+        "impr": 0,
+        "ctr": 0,
+        "pos": 0
+      },
+      {
+        "month": "Nov 2025",
+        "clicks": 0,
+        "impr": 0,
+        "ctr": 0,
+        "pos": 0
+      },
+      {
+        "month": "Dec 2025",
+        "clicks": 0,
+        "impr": 0,
+        "ctr": 0,
+        "pos": 0
+      },
+      {
+        "month": "Jan 2026",
+        "clicks": 0,
+        "impr": 0,
+        "ctr": 0,
+        "pos": 0
+      },
+      {
+        "month": "Feb 2026",
+        "clicks": 7,
+        "impr": 1165,
+        "ctr": 0.006008583690987125,
+        "pos": 34.641201716738195
+      },
+      {
+        "month": "Mar 2026 (launch)",
+        "clicks": 12,
+        "impr": 2484,
+        "ctr": 0.004830917874396135,
+        "pos": 9.831320450885668
+      },
+      {
+        "month": "Apr 2026",
+        "clicks": 10,
+        "impr": 2198,
+        "ctr": 0.004549590536851683,
+        "pos": 7.402183803457689
+      },
+      {
+        "month": "May 2026 (mtd)",
+        "clicks": 10,
+        "impr": 988,
+        "ctr": 0.010121457489878543,
+        "pos": 8.349190283400809
+      }
+    ],
+    "https://www.synthesia.io/features/video-translator/spanish-to-english": [
+      {
+        "month": "Sep 2025",
+        "clicks": 8,
+        "impr": 1583,
+        "ctr": 0.00505369551484523,
+        "pos": 27.502210991787745
+      },
+      {
+        "month": "Oct 2025",
+        "clicks": 6,
+        "impr": 2449,
+        "ctr": 0.002449979583503471,
+        "pos": 34.19436504695794
+      },
+      {
+        "month": "Nov 2025",
+        "clicks": 6,
+        "impr": 2340,
+        "ctr": 0.002564102564102564,
+        "pos": 25.744444444444444
+      },
+      {
+        "month": "Dec 2025",
+        "clicks": 11,
+        "impr": 3074,
+        "ctr": 0.0035783994795055302,
+        "pos": 30.356213402732596
+      },
+      {
+        "month": "Jan 2026",
+        "clicks": 24,
+        "impr": 5096,
+        "ctr": 0.004709576138147566,
+        "pos": 17.103414442700156
+      },
+      {
+        "month": "Feb 2026",
+        "clicks": 40,
+        "impr": 5198,
+        "ctr": 0.007695267410542516,
+        "pos": 14.124663332050789
+      },
+      {
+        "month": "Mar 2026 (launch)",
+        "clicks": 70,
+        "impr": 6206,
+        "ctr": 0.011279407025459234,
+        "pos": 7.330647760232034
+      },
+      {
+        "month": "Apr 2026",
+        "clicks": 54,
+        "impr": 6005,
+        "ctr": 0.008992506244796004,
+        "pos": 6.972522897585345
+      },
+      {
+        "month": "May 2026 (mtd)",
+        "clicks": 40,
+        "impr": 2803,
+        "ctr": 0.014270424545130217,
+        "pos": 7.560827684623618
+      }
+    ]
+  },
+  "aggregate": {
+    "Sep 2025": {
+      "clicks": 8,
+      "impr": 1583,
+      "pages_with_data": 1
+    },
+    "Oct 2025": {
+      "clicks": 7,
+      "impr": 2761,
+      "pages_with_data": 2
+    },
+    "Nov 2025": {
+      "clicks": 15,
+      "impr": 3699,
+      "pages_with_data": 2
+    },
+    "Dec 2025": {
+      "clicks": 19,
+      "impr": 5119,
+      "pages_with_data": 2
+    },
+    "Jan 2026": {
+      "clicks": 41,
+      "impr": 7390,
+      "pages_with_data": 2
+    },
+    "Feb 2026": {
+      "clicks": 57,
+      "impr": 8469,
+      "pages_with_data": 3
+    },
+    "Mar 2026 (launch)": {
+      "clicks": 91,
+      "impr": 10783,
+      "pages_with_data": 3
+    },
+    "Apr 2026": {
+      "clicks": 78,
+      "impr": 9816,
+      "pages_with_data": 3
+    },
+    "May 2026 (mtd)": {
+      "clicks": 55,
+      "impr": 4443,
+      "pages_with_data": 3
+    }
+  }
+}

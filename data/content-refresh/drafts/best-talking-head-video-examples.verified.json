@@ -1,0 +1,109 @@
+{
+  "slug": "best-talking-head-video-examples",
+  "page_brand": null,
+  "total_findings": 4,
+  "by_severity": {
+    "unconfirmed": 2,
+    "needs_check": 2
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) January 22, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        279,
+        291
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "14 Best Talking Head Video Examples (+Editable Templates)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) January 22, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [Talking",
+      "span": [
+        295,
+        309
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "14 Best Talking Head Video Examples (+Editable Templates)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.masterclass.com/articles/what-is-three-point-lighting-learn-about-the-lighting-technique-and-tips-for-the-best-three-point-lighting-setups",
+      "context": "",
+      "span": [
+        10541,
+        10691
+      ],
+      "meta": {
+        "domain": "www.masterclass.com",
+        "anchor": "3-point lighting."
+      },
+      "location": {
+        "heading": "**\\#3: Lighting is the difference between amateur and expert**",
+        "heading_level": 3,
+        "line": 146
+      },
+      "sentence": "While you can also include natural lighting in your setup, make sure that you soften all shadows from your light sources using the principle of [3-point lighting.](https://www.masterclass.com/articles/what-is-three-point-lighting-learn-about-the-lighting-technique-and-tips-for-the-best-three-point-lighting-setups)",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kyleodefey/",
+      "context": "",
+      "span": [
+        33082,
+        34433
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

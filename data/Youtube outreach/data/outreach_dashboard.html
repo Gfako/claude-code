@@ -1,0 +1,1223 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Outreach Dashboard</title>
+<style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f0f0f; color: #e0e0e0; padding: 20px; }
+    h1 { text-align: center; margin: 20px 0 10px; color: #fff; }
+    .subtitle { text-align: center; color: #888; margin-bottom: 30px; }
+    .card { background: #1a1a1a; border-radius: 12px; margin-bottom: 24px; overflow: hidden; border: 1px solid #333; }
+    .card-header { padding: 16px 20px; border-bottom: 1px solid #333; }
+    .card-header h2 { font-size: 18px; margin-bottom: 8px; }
+    .card-header h2 a { color: #fff; text-decoration: none; }
+    .card-header h2 a:hover { color: #4fc3f7; }
+    .meta { display: flex; flex-wrap: wrap; gap: 8px; }
+    .badge { padding: 4px 10px; border-radius: 12px; font-size: 12px; font-weight: 500; text-decoration: none; }
+    .subs { background: #1a237e; color: #90caf9; }
+    .dr { background: #1b5e20; color: #a5d6a7; }
+    .traffic { background: #4a148c; color: #ce93d8; }
+    .website { background: #263238; color: #80cbc4; }
+    .email-badge { background: #bf360c; color: #ffab91; cursor: pointer; }
+    .email-badge:hover { background: #e65100; }
+    .email-badge:active { background: #4caf50; }
+    .no-email { background: #333; color: #666; }
+    .social { background: #37474f; color: #b0bec5; }
+    .social:hover { color: #fff; }
+    .card-body { padding: 16px 20px; display: flex; gap: 20px; }
+    .gif-section { flex: 0 0 400px; }
+    .gif-thumb { width: 400px; border-radius: 8px; cursor: pointer; }
+    .gif-thumb:hover { opacity: 0.9; }
+    .link-row { margin-top: 8px; display: flex; align-items: center; gap: 6px; }
+    .link-row label { font-size: 12px; color: #888; min-width: 70px; }
+    .link-row input { flex: 1; padding: 4px 8px; background: #222; color: #aaa; border: 1px solid #444; border-radius: 4px; font-size: 11px; }
+    .link-row button { padding: 4px 10px; background: #333; color: #ccc; border: 1px solid #555; border-radius: 4px; cursor: pointer; font-size: 11px; }
+    .link-row button:hover { background: #444; }
+    .link-row a { color: #4fc3f7; font-size: 12px; text-decoration: none; }
+    .email-section { flex: 1; }
+    .email-header { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+    .email-header label { font-size: 12px; color: #888; }
+    .subject-input { flex: 1; padding: 6px 10px; background: #222; color: #fff; border: 1px solid #444; border-radius: 4px; font-size: 13px; }
+    .email-header button { padding: 4px 10px; background: #333; color: #ccc; border: 1px solid #555; border-radius: 4px; cursor: pointer; font-size: 11px; }
+    .email-body { width: 100%; height: 280px; padding: 12px; background: #222; color: #ddd; border: 1px solid #444; border-radius: 8px; font-size: 13px; line-height: 1.5; resize: vertical; font-family: inherit; }
+    .copy-email-btn { margin-top: 8px; padding: 8px 20px; background: #4caf50; color: #fff; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 600; }
+    .copy-email-btn:hover { background: #66bb6a; }
+</style>
+</head>
+<body>
+<h1>Outreach Dashboard</h1>
+<p class="subtitle">18 leads ready for outreach</p>
+
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@Thelinguist" target="_blank">Steve Kaufmann - lingosteve</a></h2>
+            <div class="meta">
+                <span class="badge subs">31,500 subs</span>
+                <span class="badge dr">DR 68</span>
+                <span class="badge traffic">529,135/mo</span>
+                <a href="https://www.lingq.com" target="_blank" class="badge website">https://www.lingq.com</a>
+                <span class='badge email-badge' onclick="navigator.clipboard.writeText('support@lingq.com'); this.textContent='Copied!'; setTimeout(()=>this.textContent='support@lingq.com', 1000)" title='Click to copy'>support@lingq.com</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                <a href='twitter.com/lingosteve' target='_blank' class='badge social'>Twitter</a>
+                <a href='instagram.com/lingosteve_' target='_blank' class='badge social'>Instagram</a>
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/e7ccfc76-f253-493a-b482-681357d26af9" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/e7ccfc76-f253-493a-b482-681357d26af9/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/e7ccfc76-f253-493a-b482-681357d26af9" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/e7ccfc76-f253-493a-b482-681357d26af9')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/e7ccfc76-f253-493a-b482-681357d26af9/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/e7ccfc76-f253-493a-b482-681357d26af9/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=R3bn1cMS9DM" target="_blank">youtube.com/watch?v=R3bn1cMS9DM</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Steve,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/e7ccfc76-f253-493a-b482-681357d26af9
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@RequiemsACTL" target="_blank">The Air Combat Tutorial Library</a></h2>
+            <div class="meta">
+                <span class="badge subs">21,400 subs</span>
+                <span class="badge dr">DR 67</span>
+                <span class="badge traffic">95,085/mo</span>
+                <a href="digitalcombatsimulator.com/en" target="_blank" class="badge website">digitalcombatsimulator.com/en</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="" target="_blank">
+                    <img src="" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=BnRkLQg-IL8" target="_blank">youtube.com/watch?v=BnRkLQg-IL8</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Air,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: 
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@Annarecetasfaciles" target="_blank">Anna recetasfaciles</a></h2>
+            <div class="meta">
+                <span class="badge subs">32,100 subs</span>
+                <span class="badge dr">DR 52</span>
+                <span class="badge traffic">260,889/mo</span>
+                <a href="annarecetasfaciles.com" target="_blank" class="badge website">annarecetasfaciles.com</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                <a href='twitter.com/Sariaa1' target='_blank' class='badge social'>Twitter</a>
+                <a href='instagram.com/annarecetasfaciles' target='_blank' class='badge social'>Instagram</a>
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/78639054-1ae6-4501-8952-20414c59415c" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/78639054-1ae6-4501-8952-20414c59415c/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/78639054-1ae6-4501-8952-20414c59415c" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/78639054-1ae6-4501-8952-20414c59415c')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/78639054-1ae6-4501-8952-20414c59415c/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/78639054-1ae6-4501-8952-20414c59415c/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=hQmme_j3r6k" target="_blank">youtube.com/watch?v=hQmme_j3r6k</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Anna,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/78639054-1ae6-4501-8952-20414c59415c
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@BenFelixCSI" target="_blank">Ben Felix</a></h2>
+            <div class="meta">
+                <span class="badge subs">49,300 subs</span>
+                <span class="badge dr">DR 50</span>
+                <span class="badge traffic">3,524/mo</span>
+                <a href="pwlcapital.com" target="_blank" class="badge website">pwlcapital.com</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                <a href='twitter.com/benjaminwfelix' target='_blank' class='badge social'>Twitter</a>
+                
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/50c3db59-4c16-4c64-9e1d-457e69bc679d" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/50c3db59-4c16-4c64-9e1d-457e69bc679d/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/50c3db59-4c16-4c64-9e1d-457e69bc679d" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/50c3db59-4c16-4c64-9e1d-457e69bc679d')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/50c3db59-4c16-4c64-9e1d-457e69bc679d/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/50c3db59-4c16-4c64-9e1d-457e69bc679d/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=aU7v87EhDBI" target="_blank">youtube.com/watch?v=aU7v87EhDBI</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Ben,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/50c3db59-4c16-4c64-9e1d-457e69bc679d
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@NegociosyEmprendimiento" target="_blank">Negocios y Emprendimiento</a></h2>
+            <div class="meta">
+                <span class="badge subs">23,700 subs</span>
+                <span class="badge dr">DR 48</span>
+                <span class="badge traffic">512/mo</span>
+                <a href="negociosyemprendimiento.org" target="_blank" class="badge website">negociosyemprendimiento.org</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                <a href='twitter.com/negociosyempren' target='_blank' class='badge social'>Twitter</a>
+                <a href='instagram.com/negociosyemprendimiento' target='_blank' class='badge social'>Instagram</a>
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/374d6f28-1537-479f-b08b-65e63faebbc0" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/374d6f28-1537-479f-b08b-65e63faebbc0/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/374d6f28-1537-479f-b08b-65e63faebbc0" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/374d6f28-1537-479f-b08b-65e63faebbc0')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/374d6f28-1537-479f-b08b-65e63faebbc0/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/374d6f28-1537-479f-b08b-65e63faebbc0/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=lo__zhs7214" target="_blank">youtube.com/watch?v=lo__zhs7214</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Negocios,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/374d6f28-1537-479f-b08b-65e63faebbc0
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@EntrenaSergioPeinado" target="_blank">Entrena con Sergio Peinado</a></h2>
+            <div class="meta">
+                <span class="badge subs">12,700 subs</span>
+                <span class="badge dr">DR 40</span>
+                <span class="badge traffic">14,526/mo</span>
+                <a href="fuertafit.com" target="_blank" class="badge website">fuertafit.com</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/555893b3-e13f-4f7e-92c8-485e40dd5406" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/555893b3-e13f-4f7e-92c8-485e40dd5406/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/555893b3-e13f-4f7e-92c8-485e40dd5406" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/555893b3-e13f-4f7e-92c8-485e40dd5406')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/555893b3-e13f-4f7e-92c8-485e40dd5406/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/555893b3-e13f-4f7e-92c8-485e40dd5406/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=kffY0Qib6mY" target="_blank">youtube.com/watch?v=kffY0Qib6mY</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Entrena,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/555893b3-e13f-4f7e-92c8-485e40dd5406
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@SimonSquibb" target="_blank">Simon Squibb</a></h2>
+            <div class="meta">
+                <span class="badge subs">34,500 subs</span>
+                <span class="badge dr">DR 37</span>
+                <span class="badge traffic">2,427/mo</span>
+                <a href="https://www.simonsquibb.com/simonsquibb.com-blog" target="_blank" class="badge website">https://www.simonsquibb.com/simonsquibb.</a>
+                <span class='badge email-badge' onclick="navigator.clipboard.writeText('partnerships@simonsquibb.com'); this.textContent='Copied!'; setTimeout(()=>this.textContent='partnerships@simonsquibb.com', 1000)" title='Click to copy'>partnerships@simonsquibb.com</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/625e881a-3b29-48a2-a526-fb41afef1e13" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/625e881a-3b29-48a2-a526-fb41afef1e13/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/625e881a-3b29-48a2-a526-fb41afef1e13" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/625e881a-3b29-48a2-a526-fb41afef1e13')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/625e881a-3b29-48a2-a526-fb41afef1e13/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/625e881a-3b29-48a2-a526-fb41afef1e13/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=OqpKMuqjTv8" target="_blank">youtube.com/watch?v=OqpKMuqjTv8</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Simon,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/625e881a-3b29-48a2-a526-fb41afef1e13
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@lareinadeltutorial" target="_blank">La Reina del Tutorial</a></h2>
+            <div class="meta">
+                <span class="badge subs">16,700 subs</span>
+                <span class="badge dr">DR 30</span>
+                <span class="badge traffic">3/mo</span>
+                <a href="lareinadeltutorial.com.ar" target="_blank" class="badge website">lareinadeltutorial.com.ar</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/69d138c6-b956-482b-a99a-cfadd713885d" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/69d138c6-b956-482b-a99a-cfadd713885d/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/69d138c6-b956-482b-a99a-cfadd713885d" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/69d138c6-b956-482b-a99a-cfadd713885d')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/69d138c6-b956-482b-a99a-cfadd713885d/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/69d138c6-b956-482b-a99a-cfadd713885d/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=ROMhgEn0PlQ" target="_blank">youtube.com/watch?v=ROMhgEn0PlQ</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Reina,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/69d138c6-b956-482b-a99a-cfadd713885d
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@HelenRecipes" target="_blank">Helen's Recipes (Vietnamese Food)</a></h2>
+            <div class="meta">
+                <span class="badge subs">9,960 subs</span>
+                <span class="badge dr">DR 28</span>
+                <span class="badge traffic">333/mo</span>
+                <a href="helenrecipes.com" target="_blank" class="badge website">helenrecipes.com</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                <a href='instagram.com/helenrecipes' target='_blank' class='badge social'>Instagram</a>
+                
+                <a href='tiktok.com/@helenrecipes_' target='_blank' class='badge social'>TikTok</a>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="" target="_blank">
+                    <img src="" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=zEAuApWw_NM" target="_blank">youtube.com/watch?v=zEAuApWw_NM</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Helen's,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: 
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@drummersreview" target="_blank">Drummer's Review</a></h2>
+            <div class="meta">
+                <span class="badge subs">26,300 subs</span>
+                <span class="badge dr">DR 26</span>
+                <span class="badge traffic">619/mo</span>
+                <a href="drummersreview.com" target="_blank" class="badge website">drummersreview.com</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                <a href='twitter.com/drummersreview' target='_blank' class='badge social'>Twitter</a>
+                <a href='instagram.com/drummersreview' target='_blank' class='badge social'>Instagram</a>
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/38bb7d46-025a-409c-b7ec-3dd7700cef51" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/38bb7d46-025a-409c-b7ec-3dd7700cef51/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/38bb7d46-025a-409c-b7ec-3dd7700cef51" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/38bb7d46-025a-409c-b7ec-3dd7700cef51')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/38bb7d46-025a-409c-b7ec-3dd7700cef51/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/38bb7d46-025a-409c-b7ec-3dd7700cef51/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=UD_RD9O3dBY" target="_blank">youtube.com/watch?v=UD_RD9O3dBY</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Drummer's,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/38bb7d46-025a-409c-b7ec-3dd7700cef51
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@jisakukobo" target="_blank">JSK-koubou</a></h2>
+            <div class="meta">
+                <span class="badge subs">20,200 subs</span>
+                <span class="badge dr">DR 18</span>
+                <span class="badge traffic">335/mo</span>
+                <a href="jisaku-koubou.com" target="_blank" class="badge website">jisaku-koubou.com</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                <a href='twitter.com/1_deji' target='_blank' class='badge social'>Twitter</a>
+                <a href='instagram.com/jsk_koubou' target='_blank' class='badge social'>Instagram</a>
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/1367a997-e701-4909-b9d4-2a7ddae38538" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/1367a997-e701-4909-b9d4-2a7ddae38538/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/1367a997-e701-4909-b9d4-2a7ddae38538" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/1367a997-e701-4909-b9d4-2a7ddae38538')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/1367a997-e701-4909-b9d4-2a7ddae38538/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/1367a997-e701-4909-b9d4-2a7ddae38538/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=0GnxBaNRUEo" target="_blank">youtube.com/watch?v=0GnxBaNRUEo</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey JSK,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/1367a997-e701-4909-b9d4-2a7ddae38538
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@SofiaLarios" target="_blank">Sofia Larios</a></h2>
+            <div class="meta">
+                <span class="badge subs">21,500 subs</span>
+                <span class="badge dr">DR 12</span>
+                <span class="badge traffic">18/mo</span>
+                <a href="sofialarios.com" target="_blank" class="badge website">sofialarios.com</a>
+                <span class='badge email-badge' onclick="navigator.clipboard.writeText('sofialarios@mpvmanagement.com'); this.textContent='Copied!'; setTimeout(()=>this.textContent='sofialarios@mpvmanagement.com', 1000)" title='Click to copy'>sofialarios@mpvmanagement.com</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/364ee3ff-827f-430e-84e9-075201155116" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/364ee3ff-827f-430e-84e9-075201155116/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/364ee3ff-827f-430e-84e9-075201155116" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/364ee3ff-827f-430e-84e9-075201155116')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/364ee3ff-827f-430e-84e9-075201155116/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/364ee3ff-827f-430e-84e9-075201155116/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=r9e9uiz2v2M" target="_blank">youtube.com/watch?v=r9e9uiz2v2M</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Sofia,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/364ee3ff-827f-430e-84e9-075201155116
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@evosmart" target="_blank">Evosmart</a></h2>
+            <div class="meta">
+                <span class="badge subs">11,000 subs</span>
+                <span class="badge dr">DR 12</span>
+                <span class="badge traffic">3,810/mo</span>
+                <a href="evosmart.it" target="_blank" class="badge website">evosmart.it</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                <a href='instagram.com/evosmart.it' target='_blank' class='badge social'>Instagram</a>
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/56788aa4-d770-4c8b-adaa-f90540c071ce" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/56788aa4-d770-4c8b-adaa-f90540c071ce/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/56788aa4-d770-4c8b-adaa-f90540c071ce" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/56788aa4-d770-4c8b-adaa-f90540c071ce')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/56788aa4-d770-4c8b-adaa-f90540c071ce/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/56788aa4-d770-4c8b-adaa-f90540c071ce/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=ZAp0OSnRoPo" target="_blank">youtube.com/watch?v=ZAp0OSnRoPo</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Evosmart,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/56788aa4-d770-4c8b-adaa-f90540c071ce
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@hacercervezaartesanal" target="_blank">Hacer Cerveza Artesanal</a></h2>
+            <div class="meta">
+                <span class="badge subs">47,900 subs</span>
+                <span class="badge dr">DR 11</span>
+                <span class="badge traffic">1,259/mo</span>
+                <a href="hacercervezaartesanal.com" target="_blank" class="badge website">hacercervezaartesanal.com</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                <a href='instagram.com/pabloelcervecero' target='_blank' class='badge social'>Instagram</a>
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/9b4c3264-849b-4e3c-8233-0f28232e6e07" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/9b4c3264-849b-4e3c-8233-0f28232e6e07/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/9b4c3264-849b-4e3c-8233-0f28232e6e07" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/9b4c3264-849b-4e3c-8233-0f28232e6e07')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/9b4c3264-849b-4e3c-8233-0f28232e6e07/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/9b4c3264-849b-4e3c-8233-0f28232e6e07/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=WvfJu1ZplMA" target="_blank">youtube.com/watch?v=WvfJu1ZplMA</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Hacer,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/9b4c3264-849b-4e3c-8233-0f28232e6e07
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@watchrepairtutorials" target="_blank">Watch Repair Tutorials</a></h2>
+            <div class="meta">
+                <span class="badge subs">6,070 subs</span>
+                <span class="badge dr">DR 8</span>
+                <span class="badge traffic">41/mo</span>
+                <a href="watchrepairtutorials.com" target="_blank" class="badge website">watchrepairtutorials.com</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/fad096bb-17ed-4319-8c79-a901f35bbead" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/fad096bb-17ed-4319-8c79-a901f35bbead/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/fad096bb-17ed-4319-8c79-a901f35bbead" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/fad096bb-17ed-4319-8c79-a901f35bbead')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/fad096bb-17ed-4319-8c79-a901f35bbead/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/fad096bb-17ed-4319-8c79-a901f35bbead/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=k2RJtNwcyxc" target="_blank">youtube.com/watch?v=k2RJtNwcyxc</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Watch,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/fad096bb-17ed-4319-8c79-a901f35bbead
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@PaolaHerreraBeauty" target="_blank">Paola Herrera</a></h2>
+            <div class="meta">
+                <span class="badge subs">26,600 subs</span>
+                <span class="badge dr">DR 6</span>
+                <span class="badge traffic">132/mo</span>
+                <a href="lahistoriaquetecuentas.com" target="_blank" class="badge website">lahistoriaquetecuentas.com</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                <a href='instagram.com/paolaherrerabeauty' target='_blank' class='badge social'>Instagram</a>
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/b3f69c94-ff5b-47b9-85bf-f35e282e11df" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/b3f69c94-ff5b-47b9-85bf-f35e282e11df/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/b3f69c94-ff5b-47b9-85bf-f35e282e11df" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/b3f69c94-ff5b-47b9-85bf-f35e282e11df')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/b3f69c94-ff5b-47b9-85bf-f35e282e11df/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/b3f69c94-ff5b-47b9-85bf-f35e282e11df/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=N3bZj7PSnBE" target="_blank">youtube.com/watch?v=N3bZj7PSnBE</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Paola,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/b3f69c94-ff5b-47b9-85bf-f35e282e11df
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@raul_valcarcel" target="_blank">Raúl Valcárcel </a></h2>
+            <div class="meta">
+                <span class="badge subs">11,200 subs</span>
+                <span class="badge dr">DR 1</span>
+                <span class="badge traffic">11/mo</span>
+                <a href="invertironlinepro.com/herramientas-para-invertir" target="_blank" class="badge website">invertironlinepro.com/herramientas-para-</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                
+                
+                
+                
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="" target="_blank">
+                    <img src="" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=AkUqRBLBBVM" target="_blank">youtube.com/watch?v=AkUqRBLBBVM</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Raúl,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: 
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-header">
+            <h2><a href="https://www.youtube.com/@LanguageSimp" target="_blank">Language Simp</a></h2>
+            <div class="meta">
+                <span class="badge subs">16,700 subs</span>
+                <span class="badge dr">DR 0</span>
+                <span class="badge traffic">5/mo</span>
+                <a href="https://languagesimp.com/" target="_blank" class="badge website">https://languagesimp.com/</a>
+                <span class='badge no-email'>No email found</span>
+            </div>
+            <div class="meta" style="margin-top:6px;">
+                <a href='twitter.com/languagesimp' target='_blank' class='badge social'>Twitter</a>
+                <a href='instagram.com/thelanguagesimp' target='_blank' class='badge social'>Instagram</a>
+                
+                <a href='tiktok.com/@languagesimp' target='_blank' class='badge social'>TikTok</a>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="gif-section">
+                <a href="https://share.synthesia.io/646b3a4d-af3e-4140-957c-b3dfde8246dd" target="_blank">
+                    <img src="https://synthesia-ttv-data.s3.amazonaws.com/video_data/646b3a4d-af3e-4140-957c-b3dfde8246dd/transfers/rendered_video.gif" class="gif-thumb" alt="Dubbed video preview" />
+                </a>
+                <div class="link-row">
+                    <label>Share link:</label>
+                    <input type="text" value="https://share.synthesia.io/646b3a4d-af3e-4140-957c-b3dfde8246dd" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://share.synthesia.io/646b3a4d-af3e-4140-957c-b3dfde8246dd')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>GIF URL:</label>
+                    <input type="text" value="https://synthesia-ttv-data.s3.amazonaws.com/video_data/646b3a4d-af3e-4140-957c-b3dfde8246dd/transfers/rendered_video.gif" readonly onclick="this.select()">
+                    <button onclick="navigator.clipboard.writeText('https://synthesia-ttv-data.s3.amazonaws.com/video_data/646b3a4d-af3e-4140-957c-b3dfde8246dd/transfers/rendered_video.gif')">Copy</button>
+                </div>
+                <div class="link-row">
+                    <label>Original:</label>
+                    <a href="https://www.youtube.com/watch?v=S8-nW03m4Hc" target="_blank">youtube.com/watch?v=S8-nW03m4Hc</a>
+                </div>
+            </div>
+            <div class="email-section">
+                <div class="email-header">
+                    <label>Subject:</label>
+                    <input type="text" value="I re-dubbed your video (YouTube's native audio is... rough)" readonly onclick="this.select()" class="subject-input">
+                    <button onclick="navigator.clipboard.writeText(this.previousElementSibling.value)">Copy</button>
+                </div>
+                <textarea class="email-body" readonly onclick="this.select()">Hey Language,
+
+I noticed you are dubbing your videos with Youtube's native dubbing.
+
+So I took the liberty of re-dubbing one of your videos using Synthesia.
+
+Here it is: https://share.synthesia.io/646b3a4d-af3e-4140-957c-b3dfde8246dd
+
+[PASTE GIF THUMBNAIL HERE]
+
+If you're up for it, I can dub a few more of your videos for free so you can test how they perform.
+
+In exchange all I'm asking for is a link or mention of Synthesia as your dubbing partner.
+
+Let me know what you think - feedback welcome 🙏
+
+George</textarea>
+                <button class="copy-email-btn" onclick="var ta=this.previousElementSibling; navigator.clipboard.writeText(ta.value)">Copy Email Body</button>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

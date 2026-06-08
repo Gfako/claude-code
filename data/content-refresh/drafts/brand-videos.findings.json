@@ -1,0 +1,219 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 3,
+    "link": 5
+  },
+  "total": 11,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) February 7, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        263,
+        275
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "12 Brilliant examples of brand videos",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) February 7, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        279,
+        293
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "12 Brilliant examples of brand videos",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        20763,
+        20777
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "How to create compelling brand videos in minutes",
+        "heading_level": 2,
+        "line": 284
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "55%",
+      "context": "lasting impression, increasing brand loyalty, and driving sales. When people connect with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future,",
+      "span": [
+        4458,
+        4461
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How do you make a good branding video?",
+        "heading_level": 2,
+        "line": 74
+      },
+      "sentence": "When people connect with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase."
+    },
+    {
+      "type": "stat",
+      "text": "44%",
+      "context": "[55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase. This connection leads to the second",
+      "span": [
+        4565,
+        4568
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How do you make a good branding video?",
+        "heading_level": 2,
+        "line": 74
+      },
+      "sentence": "When people connect with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase."
+    },
+    {
+      "type": "stat",
+      "text": "15%",
+      "context": "[55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase. This connection leads to the second major benefit — trust. In today's market,",
+      "span": [
+        4608,
+        4611
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How do you make a good branding video?",
+        "heading_level": 2,
+        "line": 74
+      },
+      "sentence": "When people connect with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase."
+    },
+    {
+      "type": "link",
+      "text": "https://www.marketsmiths.com/2017/roi-brand-story/",
+      "context": "",
+      "span": [
+        4463,
+        4513
+      ],
+      "meta": {
+        "domain": "www.marketsmiths.com",
+        "anchor": "55%"
+      },
+      "location": {
+        "heading": "How do you make a good branding video?",
+        "heading_level": 2,
+        "line": 74
+      },
+      "sentence": "When people connect with a brand story, [55%](https://www.marketsmiths.com/2017/roi-brand-story/) are more likely to buy the product in the future, 44% will share the story, and an immediate 15% will make a purchase."
+    },
+    {
+      "type": "link",
+      "text": "https://www.tiktok.com/@stanleybrand?refer=embed",
+      "context": "",
+      "span": [
+        5948,
+        5996
+      ],
+      "meta": {
+        "domain": "www.tiktok.com",
+        "anchor": "@stanleybrand"
+      },
+      "location": {
+        "heading": "2\\. Stanley’s viral marketing brand video",
+        "heading_level": 2,
+        "line": 94
+      },
+      "sentence": "[@stanleybrand](https://www.tiktok.com/@stanleybrand?refer=embed) [#stitch](https://www.tiktok.com/tag/stitch?refer=embed) with @Danielle [♬ original sound - Stanley 1913](https://www.tiktok.com/music/original-sound-7302186693531159339?refer=embed)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.tiktok.com/tag/stitch?refer=embed",
+      "context": "",
+      "span": [
+        6008,
+        6053
+      ],
+      "meta": {
+        "domain": "www.tiktok.com",
+        "anchor": "#stitch"
+      },
+      "location": {
+        "heading": "2\\. Stanley’s viral marketing brand video",
+        "heading_level": 2,
+        "line": 94
+      },
+      "sentence": "[@stanleybrand](https://www.tiktok.com/@stanleybrand?refer=embed) [#stitch](https://www.tiktok.com/tag/stitch?refer=embed) with @Danielle [♬ original sound - Stanley 1913](https://www.tiktok.com/music/original-sound-7302186693531159339?refer=embed)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.tiktok.com/music/original-sound-7302186693531159339?refer=embed",
+      "context": "",
+      "span": [
+        6104,
+        6179
+      ],
+      "meta": {
+        "domain": "www.tiktok.com",
+        "anchor": "♬ original sound - Stanley 1913"
+      },
+      "location": {
+        "heading": "2\\. Stanley’s viral marketing brand video",
+        "heading_level": 2,
+        "line": 94
+      },
+      "sentence": "[@stanleybrand](https://www.tiktok.com/@stanleybrand?refer=embed) [#stitch](https://www.tiktok.com/tag/stitch?refer=embed) with @Danielle [♬ original sound - Stanley 1913](https://www.tiktok.com/music/original-sound-7302186693531159339?refer=embed)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        46192,
+        47544
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

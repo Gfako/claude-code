@@ -1,0 +1,55 @@
+# Entity Salience Analysis — Default Configuration
+
+# Primary domain to analyze
+default_domain: synthesia.io
+
+# Screaming Frog settings
+screaming_frog:
+  cli_path: /Applications/Screaming Frog SEO Spider.app/Contents/MacOS/ScreamingFrogSEOSpiderLauncher
+  output_dir: /tmp/entity-salience-crawls
+  timeout_seconds: 600  # 10 min max per crawl
+
+# Crawl settings
+crawl:
+  max_pages: 500            # Max pages to process per domain
+  request_delay: 0.5        # Seconds between requests for text extraction
+  user_agent: "Mozilla/5.0 (compatible; EntitySalienceBot/1.0)"
+  timeout: 30               # HTTP request timeout in seconds
+  exclude_patterns:          # URL patterns to skip
+    - "/tag/"
+    - "/author/"
+    - "/page/"
+    - "/cdn-cgi/"
+    - ".pdf"
+    - ".jpg"
+    - ".png"
+
+# Google NLP settings
+nlp:
+  max_text_bytes: 500000    # 500KB max per API call (API limit is 1MB)
+  batch_size: 50            # Pages per batch for progress reporting
+  min_salience: 0.01        # Ignore entities below this salience
+
+# Clustering settings
+clustering:
+  cooccurrence:
+    min_shared_entities: 3   # Min entities two pages must share to be linked
+    min_salience: 0.1        # Only count entities above this salience
+  kmeans:
+    max_k: 20               # Max clusters to try
+    min_k: 2                # Min clusters
+    top_entities: 100        # Use top N entities by frequency for the matrix
+  hierarchical:
+    distance_threshold: null  # Auto-detect optimal cut; or set a fixed value
+    top_entities: 100         # Same as kmeans
+
+# Visualization settings
+visualization:
+  top_entities_heatmap: 50   # Show top N entities in heatmap
+  top_entities_network: 75   # Show top N entities in network graph
+  min_edge_weight: 2         # Min co-occurrences for network edge
+  report_title: "Entity Salience Analysis"
+
+# Export settings
+export:
+  output_dir: ./output       # Where CSV files and reports are saved

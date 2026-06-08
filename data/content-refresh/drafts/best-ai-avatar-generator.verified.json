@@ -1,0 +1,632 @@
+{
+  "slug": "best-ai-avatar-generator",
+  "page_brand": null,
+  "total_findings": 35,
+  "by_severity": {
+    "unconfirmed": 20,
+    "likely": 4,
+    "needs_check": 11
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) February 25, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        278,
+        290
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "The 11 Best AI Avatar Generators (I've Actually Tested)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "240+ AI avatars",
+      "context": "Pros | Notable Cons | Cheapest Plan (Monthly) | | --- | --- | --- | --- | --- | --- | | Synthesia | 240+ AI avatars, multilingual translation, voice cloning (29 langs), AI Playground, enterprise publishing | 160+ generation,",
+      "span": [
+        3891,
+        3906
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 67
+      },
+      "sentence": "| Tool | Key Features | Language Support | Notable Pros | Notable Cons | Cheapest Plan (Monthly) | | --- | --- | --- | --- | --- | --- | | Synthesia | 240+ AI avatars, multilingual translation, voice cloning (29 langs), AI Playground, enterprise publishing | 160+ generation, 139 translation | Highly realistic English avatars, seamless in-editor translation, strong enterprise controls | No Safari support, slower rendering, no automation agent | $29 / mo (Starter) | | Creatify | 1500+ avatars, Aurora image-to-video model, batch ad creation, A/B testing, analytics, AI music | Multilingual support (manual translation) | Industry-leading UGC realism, built for pe",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "2 avatars",
+      "context": "generate → translate → export. ### How realistic are Colossyan’s avatars? I tested the newer NEO 2 avatars. Realism has improved compared to earlier versions, but it is not among the most natural I’ve seen.",
+      "span": [
+        43846,
+        43855
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "colossyan",
+        "value": "2"
+      },
+      "location": {
+        "heading": "How realistic are Colossyan’s avatars?",
+        "heading_level": 3,
+        "line": 782
+      },
+      "sentence": "I tested the newer NEO 2 avatars.",
+      "severity": "unconfirmed",
+      "title": "Colossyan avatars: '2 avatars' — review",
+      "suggested_fix": "Verify '2 avatars' against colossyan's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) February 25, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [What",
+      "span": [
+        294,
+        308
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "The 11 Best AI Avatar Generators (I've Actually Tested)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "70+ languages",
+      "context": "| Avatar 4 engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation",
+      "span": [
+        4633,
+        4646
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "heygen",
+        "value": "70+"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 69
+      },
+      "sentence": "afari support, slower rendering, no automation agent | $29 / mo (Starter) | | Creatify | 1500+ avatars, Aurora image-to-video model, batch ad creation, A/B testing, analytics, AI music | Multilingual support (manual translation) | Industry-leading UGC realism, built for performance ads, campaign tracking | No built-in auto-translate, credit-based pricing complexity | $39 / mo (Starter) | | HeyGen | Avatar 4 engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation requires separate workflow, premium realism tied to credits | $29 / mo (Creator) | | AI Studios | 2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo (Personal) | | VEED | Timeli",
+      "severity": "unconfirmed",
+      "title": "Heygen languages: '70+ languages' — review",
+      "suggested_fix": "Verify '70+ languages' against heygen's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "150+ languages",
+      "context": "2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality,",
+      "span": [
+        4949,
+        4963
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "veed",
+        "value": "150+"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 70
+      },
+      "sentence": "in auto-translate, credit-based pricing complexity | $39 / mo (Starter) | | HeyGen | Avatar 4 engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation requires separate workflow, premium realism tied to credits | $29 / mo (Creator) | | AI Studios | 2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo (Personal) | | VEED | Timeline editor, AI avatars, subtitle automation, AI Playground integrations, clipping tools | 120+ languages | Strong editing tools, fast rendering, strong repurposing workflow | Less expressive avatars, paid-only dubbing, complex UI | $19 / mo (Lite) | | Elai | URL/PPTX-to-video, SCORM export, interactive modules, voice",
+      "severity": "unconfirmed",
+      "title": "Veed languages count unverifiable",
+      "suggested_fix": "Couldn't fetch veed's pricing/features page. Verify `150+ languages` manually.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "120+ languages",
+      "context": "VEED | Timeline editor, AI avatars, subtitle automation, AI Playground integrations, clipping tools | 120+ languages | Strong editing tools, fast rendering, strong repurposing workflow | Less expressive avatars, paid-only",
+      "span": [
+        5235,
+        5249
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "veed",
+        "value": "120+"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 71
+      },
+      "sentence": "| Translation requires separate workflow, premium realism tied to credits | $29 / mo (Creator) | | AI Studios | 2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo (Personal) | | VEED | Timeline editor, AI avatars, subtitle automation, AI Playground integrations, clipping tools | 120+ languages | Strong editing tools, fast rendering, strong repurposing workflow | Less expressive avatars, paid-only dubbing, complex UI | $19 / mo (Lite) | | Elai | URL/PPTX-to-video, SCORM export, interactive modules, voice cloning, automation-first workflow | 100+ languages | Extremely fast rendering, strong document automation | Weaker realism, hair compositing issues, flat voice tone | $29 / mo (Creator) | | Colossyan | Text-to-video, SCORM export, slide-based editor, branching quizzes, AI dubbing | 8",
+      "severity": "unconfirmed",
+      "title": "Veed languages count unverifiable",
+      "suggested_fix": "Couldn't fetch veed's pricing/features page. Verify `120+ languages` manually.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "100+ languages",
+      "context": "| URL/PPTX-to-video, SCORM export, interactive modules, voice cloning, automation-first workflow | 100+ languages | Extremely fast rendering, strong document automation | Weaker realism, hair compositing issues, flat",
+      "span": [
+        5501,
+        5515
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "elai",
+        "value": "100+"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo (Personal) | | VEED | Timeline editor, AI avatars, subtitle automation, AI Playground integrations, clipping tools | 120+ languages | Strong editing tools, fast rendering, strong repurposing workflow | Less expressive avatars, paid-only dubbing, complex UI | $19 / mo (Lite) | | Elai | URL/PPTX-to-video, SCORM export, interactive modules, voice cloning, automation-first workflow | 100+ languages | Extremely fast rendering, strong document automation | Weaker realism, hair compositing issues, flat voice tone | $29 / mo (Creator) | | Colossyan | Text-to-video, SCORM export, slide-based editor, branching quizzes, AI dubbing | 80–100+ languages | Structured training focus, LMS-ready exports, integrated translation | Less natural gestures, occasional rendering freeze | $27 / mo (Starter) | | D-ID | Photo-to-video avatars, V4 avatars, AI Agents (real-time), sentiment control | 120+ languages",
+      "severity": "unconfirmed",
+      "title": "Elai languages: '100+ languages' — review",
+      "suggested_fix": "Verify '100+ languages' against elai's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "100+ languages",
+      "context": "| | Colossyan | Text-to-video, SCORM export, slide-based editor, branching quizzes, AI dubbing | 80–100+ languages | Structured training focus, LMS-ready exports, integrated translation | Less natural gestures, occasional",
+      "span": [
+        5751,
+        5765
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "colossyan",
+        "value": "100+"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "Strong editing tools, fast rendering, strong repurposing workflow | Less expressive avatars, paid-only dubbing, complex UI | $19 / mo (Lite) | | Elai | URL/PPTX-to-video, SCORM export, interactive modules, voice cloning, automation-first workflow | 100+ languages | Extremely fast rendering, strong document automation | Weaker realism, hair compositing issues, flat voice tone | $29 / mo (Creator) | | Colossyan | Text-to-video, SCORM export, slide-based editor, branching quizzes, AI dubbing | 80–100+ languages | Structured training focus, LMS-ready exports, integrated translation | Less natural gestures, occasional rendering freeze | $27 / mo (Starter) | | D-ID | Photo-to-video avatars, V4 avatars, AI Agents (real-time), sentiment control | 120+ languages | Very fast rendering, strong lip-sync, affordable entry pricing | No hand gestures, limited scene control | $4.70 / mo (Lite) | | Camtasia | Screen recording suite, AI avatar via Audiate, text-based editing, multitrack editor | 7 languages | Strong",
+      "severity": "unconfirmed",
+      "title": "Colossyan languages: '100+ languages' — review",
+      "suggested_fix": "Verify '100+ languages' against colossyan's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "120+ languages",
+      "context": "(Starter) | | D-ID | Photo-to-video avatars, V4 avatars, AI Agents (real-time), sentiment control | 120+ languages | Very fast rendering, strong lip-sync, affordable entry pricing | No hand gestures, limited scene",
+      "span": [
+        6001,
+        6015
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "d-id",
+        "value": "120+"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 74
+      },
+      "sentence": "100+ languages | Extremely fast rendering, strong document automation | Weaker realism, hair compositing issues, flat voice tone | $29 / mo (Creator) | | Colossyan | Text-to-video, SCORM export, slide-based editor, branching quizzes, AI dubbing | 80–100+ languages | Structured training focus, LMS-ready exports, integrated translation | Less natural gestures, occasional rendering freeze | $27 / mo (Starter) | | D-ID | Photo-to-video avatars, V4 avatars, AI Agents (real-time), sentiment control | 120+ languages | Very fast rendering, strong lip-sync, affordable entry pricing | No hand gestures, limited scene control | $4.70 / mo (Lite) | | Camtasia | Screen recording suite, AI avatar via Audiate, text-based editing, multitrack editor | 7 languages | Strong editing control, high-quality TTS, stable desktop workflow | Limited avatar realism, narrow language support | ~$39 / yr (Starter equivalent) | | InVideo | AI Agent video generation, template editor, massive AI model integrations, stock ecosystem |",
+      "severity": "unconfirmed",
+      "title": "D-Id languages count unverifiable",
+      "suggested_fix": "Couldn't fetch d-id's pricing/features page. Verify `120+ languages` manually.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "7 languages",
+      "context": "| Camtasia | Screen recording suite, AI avatar via Audiate, text-based editing, multitrack editor | 7 languages | Strong editing control, high-quality TTS, stable desktop workflow | Limited avatar realism, narrow",
+      "span": [
+        6245,
+        6256
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "invideo",
+        "value": "7"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "| 80–100+ languages | Structured training focus, LMS-ready exports, integrated translation | Less natural gestures, occasional rendering freeze | $27 / mo (Starter) | | D-ID | Photo-to-video avatars, V4 avatars, AI Agents (real-time), sentiment control | 120+ languages | Very fast rendering, strong lip-sync, affordable entry pricing | No hand gestures, limited scene control | $4.70 / mo (Lite) | | Camtasia | Screen recording suite, AI avatar via Audiate, text-based editing, multitrack editor | 7 languages | Strong editing control, high-quality TTS, stable desktop workflow | Limited avatar realism, narrow language support | ~$39 / yr (Starter equivalent) | | InVideo | AI Agent video generation, template editor, massive AI model integrations, stock ecosystem | Multilingual support (manual workflow) | Strong automation, broad AI ecosystem | Weak avatar realism, inconsistent lip-sync, no persistent avatar | $35 / mo (Plus) | | Vyond | 1100+ animated avatars, animation builder, screen recording with",
+      "severity": "unconfirmed",
+      "title": "Invideo languages count unverifiable",
+      "suggested_fix": "Couldn't fetch invideo's pricing/features page. Verify `7 languages` manually.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "80+ languages",
+      "context": "| Vyond | 1100+ animated avatars, animation builder, screen recording with avatars, text-to-video | 80+ languages | Strong corporate animation tools, large avatar library | High entry price, slight uncanny valley,",
+      "span": [
+        6781,
+        6794
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "80+"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 77
+      },
+      "sentence": ", high-quality TTS, stable desktop workflow | Limited avatar realism, narrow language support | ~$39 / yr (Starter equivalent) | | InVideo | AI Agent video generation, template editor, massive AI model integrations, stock ecosystem | Multilingual support (manual workflow) | Strong automation, broad AI ecosystem | Weak avatar realism, inconsistent lip-sync, no persistent avatar | $35 / mo (Plus) | | Vyond | 1100+ animated avatars, animation builder, screen recording with avatars, text-to-video | 80+ languages | Strong corporate animation tools, large avatar library | High entry price, slight uncanny valley, slower export | $99 / mo (Starter) |",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (80+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '80+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "multilingual support? Localization is one of Synthesia’s strongest areas. It supports generation in 160+ languages and translation into 139 languages while preserving the original voice identity. Voice cloning is available",
+      "span": [
+        9334,
+        9348
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 119
+      },
+      "sentence": "It supports generation in 160+ languages and translation into 139 languages while preserving the original voice identity.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "139 languages",
+      "context": "one of Synthesia’s strongest areas. It supports generation in 160+ languages and translation into 139 languages while preserving the original voice identity. Voice cloning is available in 29 languages. The translation",
+      "span": [
+        9370,
+        9383
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "139"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 119
+      },
+      "sentence": "It supports generation in 160+ languages and translation into 139 languages while preserving the original voice identity.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (139 vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '139 languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "29 languages",
+      "context": "translation into 139 languages while preserving the original voice identity. Voice cloning is available in 29 languages. The translation workflow is fully integrated inside the editor. I did not need to use a separate",
+      "span": [
+        9460,
+        9472
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "29"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 119
+      },
+      "sentence": "Voice cloning is available in 29 languages.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (29 vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '29 languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "70 languages",
+      "context": "strong is localization and multilingual support? HeyGen supports generation and translation in over 70 languages and 175+ dialects. I tested Spanish localization using the dubbing workflow. Speech pacing was preserved,",
+      "span": [
+        22476,
+        22488
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "heygen",
+        "value": "70"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 383
+      },
+      "sentence": "HeyGen supports generation and translation in over 70 languages and 175+ dialects.",
+      "severity": "unconfirmed",
+      "title": "Heygen languages: '70 languages' — review",
+      "suggested_fix": "Verify '70 languages' against heygen's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "150+ languages",
+      "context": "generator. Unlike avatar-only platforms, AI Studios integrates multiple layers: AI avatars, AI dubbing in 150+ languages, advanced AI video generation models (including Sora 2, Veo 3.1, Kling 2.6), [AI image generation](https://www.synthesia.io/tools/ai-image-generator),",
+      "span": [
+        26181,
+        26195
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "150+"
+      },
+      "location": {
+        "heading": "What is AI Studios?",
+        "heading_level": 3,
+        "line": 452
+      },
+      "sentence": "Unlike avatar-only platforms, AI Studios integrates multiple layers: AI avatars, AI dubbing in 150+ languages, advanced AI video generation models (including Sora 2, Veo 3.1, Kling 2.6), [AI image generation](https://www.synthesia.io/tools/ai-image-generator), interactive avatars, and even a deepfake detection tool.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (150+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '150+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "120 languages",
+      "context": "not emotionally rich. ### How strong is localization and multilingual support? VEED supports over 120 languages and includes AI dubbing and video translation features on paid plans. Subtitle automation is strong",
+      "span": [
+        34056,
+        34069
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "veed",
+        "value": "120"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 592
+      },
+      "sentence": "VEED supports over 120 languages and includes AI dubbing and video translation features on paid plans.",
+      "severity": "unconfirmed",
+      "title": "Veed languages count unverifiable",
+      "suggested_fix": "Couldn't fetch veed's pricing/features page. Verify `120 languages` manually.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "100+ languages",
+      "context": "voice delivery is limited. ### How strong is localization and multilingual support? Elai supports 100+ languages and includes auto translation and voice cloning. However, the translation workflow is less intuitive",
+      "span": [
+        39651,
+        39665
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "elai",
+        "value": "100+"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 698
+      },
+      "sentence": "Elai supports 100+ languages and includes auto translation and voice cloning.",
+      "severity": "unconfirmed",
+      "title": "Elai languages: '100+ languages' — review",
+      "suggested_fix": "Verify '100+ languages' against elai's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "100+ languages",
+      "context": "perceived reliability. ### How strong is localization and multilingual support? Colossyan supports 80–100+ languages and includes AI dubbing and video translation directly inside the editor. The translation workflow",
+      "span": [
+        45790,
+        45804
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "colossyan",
+        "value": "100+"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 808
+      },
+      "sentence": "Colossyan supports 80–100+ languages and includes AI dubbing and video translation directly inside the editor.",
+      "severity": "unconfirmed",
+      "title": "Colossyan languages: '100+ languages' — review",
+      "suggested_fix": "Verify '100+ languages' against colossyan's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "175+ dialects",
+      "context": "engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation requires separate",
+      "span": [
+        4648,
+        4661
+      ],
+      "meta": {
+        "subtype": "accents",
+        "brand": "heygen",
+        "value": "175+"
+      },
+      "location": {
+        "heading": "How do these AI avatar generators compare?",
+        "heading_level": 2,
+        "line": 69
+      },
+      "sentence": "slower rendering, no automation agent | $29 / mo (Starter) | | Creatify | 1500+ avatars, Aurora image-to-video model, batch ad creation, A/B testing, analytics, AI music | Multilingual support (manual translation) | Industry-leading UGC realism, built for performance ads, campaign tracking | No built-in auto-translate, credit-based pricing complexity | $39 / mo (Starter) | | HeyGen | Avatar 4 engine, Video Agent automation, voice mirroring, business integrations, bulk workflows | 70+ languages, 175+ dialects | Expressive avatars, strong micro-movements, fast rendering, automation | Translation requires separate workflow, premium realism tied to credits | $29 / mo (Creator) | | AI Studios | 2000+ avatars, multi-avatar scenes, manual gesture control, AI dubbing, AI video model integrations | 150+ languages | Deep ecosystem integration, gesture control, enterprise-grade toolkit | Slight facial artificiality, minor lip-sync delay, complex interface | $29 / mo (Personal) | | VEED | Timeline editor, AI a",
+      "severity": "unconfirmed",
+      "title": "Heygen accents: '175+ dialects' — review",
+      "suggested_fix": "Verify '175+ dialects' against heygen's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "175+ dialects",
+      "context": "localization and multilingual support? HeyGen supports generation and translation in over 70 languages and 175+ dialects. I tested Spanish localization using the dubbing workflow. Speech pacing was preserved, and the faster",
+      "span": [
+        22493,
+        22506
+      ],
+      "meta": {
+        "subtype": "accents",
+        "brand": "heygen",
+        "value": "175+"
+      },
+      "location": {
+        "heading": "How strong is localization and multilingual support?",
+        "heading_level": 3,
+        "line": 383
+      },
+      "sentence": "HeyGen supports generation and translation in over 70 languages and 175+ dialects.",
+      "severity": "unconfirmed",
+      "title": "Heygen accents: '175+ dialects' — review",
+      "suggested_fix": "Verify '175+ dialects' against heygen's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "79%",
+      "context": "even if output realism drops slightly in translated versions. I did experience a rendering freeze at 79% in both English and Spanish tests before the video completed, which affected perceived reliability.",
+      "span": [
+        45605,
+        45608
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How good are the voices and lip-sync?",
+        "heading_level": 3,
+        "line": 804
+      },
+      "sentence": "I did experience a rendering freeze at 79% in both English and Spanish tests before the video completed, which affected perceived reliability.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '79%'",
+      "suggested_fix": "Stat reference: `79%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kyleodefey/",
+      "context": "",
+      "span": [
+        116121,
+        117472
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "multiple layers: AI avatars, AI dubbing in 150+ languages, advanced AI video generation models (including Sora 2, Veo 3.1, Kling 2.6), [AI image generation](https://www.synthesia.io/tools/ai-image-generator), interactive",
+      "span": [
+        26244,
+        26248
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "What is AI Studios?",
+        "heading_level": 3,
+        "line": 452
+      },
+      "sentence": "Unlike avatar-only platforms, AI Studios integrates multiple layers: AI avatars, AI dubbing in 150+ languages, advanced AI video generation models (including Sora 2, Veo 3.1, Kling 2.6), [AI image generation](https://www.synthesia.io/tools/ai-image-generator), interactive avatars, and even a deepfake detection tool.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    }
+  ]
+}

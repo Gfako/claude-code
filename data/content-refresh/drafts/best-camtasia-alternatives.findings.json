@@ -1,0 +1,147 @@
+{
+  "counts": {
+    "feature": 5,
+    "link": 2
+  },
+  "total": 7,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        246,
+        258
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "6 Best Camtasia Alternatives",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        262,
+        276
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "6 Best Camtasia Alternatives",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "130 languages",
+      "context": "save money. - It is easy to update videos with new content quickly. - You can localize videos in over 130 languages and accents. - Video templates are fully editable to help you get started. - Allows screen recording.",
+      "span": [
+        3462,
+        3475
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "130"
+      },
+      "location": {
+        "heading": "Pros of Synthesia",
+        "heading_level": 3,
+        "line": 64
+      },
+      "sentence": "You can localize videos in over 130 languages and accents."
+    },
+    {
+      "type": "feature",
+      "text": "8 languages",
+      "context": "few. ### Cons of Wondershare **👎** - No mobile version. - Unlike Synthesia, they only support eight 8 languages, and its avatars aren't humanized. ### 💸 Pricing There are several pricing plans depending on your",
+      "span": [
+        12261,
+        12272
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "8"
+      },
+      "location": {
+        "heading": "Cons of Wondershare **👎**",
+        "heading_level": 3,
+        "line": 259
+      },
+      "sentence": "Unlike Synthesia, they only support eight 8 languages, and its avatars aren't humanized."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        16364,
+        16378
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Get started with the best Camtasia alternative",
+        "heading_level": 2,
+        "line": 348
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "link",
+      "text": "http://you%20want%20to%20check%20what%20we%20are%20saying/",
+      "context": "",
+      "span": [
+        15666,
+        15724
+      ],
+      "meta": {
+        "domain": "you%20want%20to%20check%20what%20we%20are%20saying",
+        "anchor": "here"
+      },
+      "location": {
+        "heading": "Get started with the best Camtasia alternative",
+        "heading_level": 2,
+        "line": 334
+      },
+      "sentence": "Click [here](http://you%20want%20to%20check%20what%20we%20are%20saying/) to create and edit your first video for free."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        37319,
+        38668
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "ai-learning-and-development-tools",
+  "page_brand": null,
+  "total_findings": 5,
+  "by_severity": {
+    "unconfirmed": 4,
+    "needs_check": 1
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) January 7, 2026 Create engaging training videos in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [1\\.",
+      "span": [
+        291,
+        305
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "AI in L&D: 9 AI Training Tools L&D Teams Actually Use",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create engaging training videos in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "together](https://www.synthesia.io/post/ai-learning-and-development-tools#how-these-tools-work-together) [What this all means for L&D teams in 2026](https://www.synthesia.io/post/ai-learning-and-development-tools#what-this-all-means-for-landd-teams-in-2026)",
+      "span": [
+        1428,
+        1435
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "AI in L&D: 9 AI Training Tools L&D Teams Actually Use",
+        "heading_level": 1,
+        "line": 37
+      },
+      "sentence": "[What this all means for L&D teams in 2026](https://www.synthesia.io/post/ai-learning-and-development-tools#what-this-all-means-for-landd-teams-in-2026)",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2026'",
+      "suggested_fix": "Stat reference: `in 2026`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2025",
+      "context": "exceptionally well with them to polish and refine learning assets. For L&D teams balancing quality with speed in 2025 and 2026, it adds meaningful efficiency to the production process. ## **How these tools work together**",
+      "span": [
+        42513,
+        42520
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "**Final thoughts from hands-on use**",
+        "heading_level": 3,
+        "line": 550
+      },
+      "sentence": "For L&D teams balancing quality with speed in 2025 and 2026, it adds meaningful efficiency to the production process.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2025'",
+      "suggested_fix": "Stat reference: `in 2025`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "production, and makes practice and iteration more scalable. ## **What this all means for L&D teams in 2026** The conversation about AI in L&D is shifting. It’s no longer about whether the field will survive,",
+      "span": [
+        43576,
+        43583
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "**What this all means for L&D teams in 2026**",
+        "heading_level": 2,
+        "line": 562
+      },
+      "sentence": "What this all means for L&D teams in 2026",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2026'",
+      "suggested_fix": "Stat reference: `in 2026`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        73042,
+        74394
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

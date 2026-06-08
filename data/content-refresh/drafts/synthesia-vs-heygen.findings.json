@@ -1,0 +1,481 @@
+{
+  "counts": {
+    "pricing": 10,
+    "feature": 8,
+    "stat": 4,
+    "link": 2
+  },
+  "total": 24,
+  "findings": [
+    {
+      "type": "pricing",
+      "text": "$0/mo",
+      "context": "factor. How does Synthesia stack up against HeyGen? ## Synthesia plans [Just the basics\\\\ \\\\ Basic\\\\ \\\\ $0/mo\\\\ \\\\ 10 minutes of video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal use\\\\",
+      "span": [
+        14636,
+        14641
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "0"
+      },
+      "location": {
+        "heading": "Synthesia plans",
+        "heading_level": 2,
+        "line": 373
+      },
+      "sentence": "[Just the basics\\\\ \\\\ Basic\\\\ \\\\ $0/mo\\\\ \\\\ 10 minutes of video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal use\\\\ \\\\ Starter\\\\ \\\\ $18/mo\\\\ \\\\ 120 minutes of video/year."
+    },
+    {
+      "type": "pricing",
+      "text": "$18/mo",
+      "context": "video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal use\\\\ \\\\ Starter\\\\ \\\\ $18/mo\\\\ \\\\ 120 minutes of video/year. Billed yearly.\\\\ \\\\ Get started](https://www.synthesia.io/pricing)",
+      "span": [
+        14761,
+        14767
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "18"
+      },
+      "location": {
+        "heading": "Synthesia plans",
+        "heading_level": 2,
+        "line": 381
+      },
+      "sentence": "[Just the basics\\\\ \\\\ Basic\\\\ \\\\ $0/mo\\\\ \\\\ 10 minutes of video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal use\\\\ \\\\ Starter\\\\ \\\\ $18/mo\\\\ \\\\ 120 minutes of video/year."
+    },
+    {
+      "type": "pricing",
+      "text": "$64/mo",
+      "context": "started](https://www.synthesia.io/pricing) [Most popular\\\\ \\\\ For small businesses\\\\ \\\\ Creator\\\\ \\\\ $64/mo\\\\ \\\\ 360 minutes of video/year. Billed yearly.\\\\ \\\\ Get started](https://www.synthesia.io/pricing)",
+      "span": [
+        14925,
+        14931
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "64"
+      },
+      "location": {
+        "heading": "Synthesia plans",
+        "heading_level": 2,
+        "line": 391
+      },
+      "sentence": "Billed yearly.\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [Most popular\\\\ \\\\ For small businesses\\\\ \\\\ Creator\\\\ \\\\ $64/mo\\\\ \\\\ 360 minutes of video/year."
+    },
+    {
+      "type": "pricing",
+      "text": "$0/mo",
+      "context": "talk.\\\\ \\\\ Custom pricing\\\\ \\\\ Book demo](https://www.synthesia.io/book-a-demo) ## HeyGen plans Free $0/mo 3 minutes of video Creator $29/seat unlimited minutes of video/year. Billed yearly. Team $39/",
+      "span": [
+        15196,
+        15201
+      ],
+      "meta": {
+        "brand": "heygen",
+        "currency": "$",
+        "amount": "0"
+      },
+      "location": {
+        "heading": "HeyGen plans",
+        "heading_level": 2,
+        "line": 413
+      },
+      "sentence": "$0/mo"
+    },
+    {
+      "type": "pricing",
+      "text": "$29/seat",
+      "context": "demo](https://www.synthesia.io/book-a-demo) ## HeyGen plans Free $0/mo 3 minutes of video Creator $29/seat unlimited minutes of video/year. Billed yearly. Team $39/ ## mo/seat unlimited minutes of video/year.",
+      "span": [
+        15232,
+        15240
+      ],
+      "meta": {
+        "brand": "heygen",
+        "currency": "$",
+        "amount": "29"
+      },
+      "location": {
+        "heading": "HeyGen plans",
+        "heading_level": 2,
+        "line": 419
+      },
+      "sentence": "$29/seat"
+    },
+    {
+      "type": "pricing",
+      "text": "$18/mo",
+      "context": "video generators on the market, but it falls short of the market leader, Synthesia. Synthesia starts at $18/month whereas HeyGens start at $24/month, so we recommend choosing Synthesia to take advantage of its",
+      "span": [
+        24173,
+        24179
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "18"
+      },
+      "location": {
+        "heading": "Is HeyGen worth it?",
+        "heading_level": 3,
+        "line": 614
+      },
+      "sentence": "Synthesia starts at $18/month whereas HeyGens start at $24/month, so we recommend choosing Synthesia to take advantage of its superior features and more realistic avatars and voices."
+    },
+    {
+      "type": "pricing",
+      "text": "$24/mo",
+      "context": "falls short of the market leader, Synthesia. Synthesia starts at $18/month whereas HeyGens start at $24/month, so we recommend choosing Synthesia to take advantage of its superior features and more realistic",
+      "span": [
+        24208,
+        24214
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "24"
+      },
+      "location": {
+        "heading": "Is HeyGen worth it?",
+        "heading_level": 3,
+        "line": 614
+      },
+      "sentence": "Synthesia starts at $18/month whereas HeyGens start at $24/month, so we recommend choosing Synthesia to take advantage of its superior features and more realistic avatars and voices."
+    },
+    {
+      "type": "pricing",
+      "text": "$0 per month",
+      "context": "of some other platforms. ### How much is HeyGen? Heygen offers several pricing plans: - **Free**: $0 per month for 1 minute of video. - **Creator**: $24 per month (max. 5 minutes per video). - **Teams:** $69 per",
+      "span": [
+        24708,
+        24720
+      ],
+      "meta": {
+        "brand": "heygen",
+        "currency": "$",
+        "amount": "0"
+      },
+      "location": {
+        "heading": "How much is HeyGen?",
+        "heading_level": 3,
+        "line": 624
+      },
+      "sentence": "Free**: $0 per month for 1 minute of video."
+    },
+    {
+      "type": "pricing",
+      "text": "$24 per month",
+      "context": "Heygen offers several pricing plans: - **Free**: $0 per month for 1 minute of video. - **Creator**: $24 per month (max. 5 minutes per video). - **Teams:** $69 per month (max. 60 minutes per video). - **Enterprise**:",
+      "span": [
+        24759,
+        24772
+      ],
+      "meta": {
+        "brand": "heygen",
+        "currency": "$",
+        "amount": "24"
+      },
+      "location": {
+        "heading": "How much is HeyGen?",
+        "heading_level": 3,
+        "line": 625
+      },
+      "sentence": "Creator**: $24 per month (max."
+    },
+    {
+      "type": "pricing",
+      "text": "$69 per month",
+      "context": "month for 1 minute of video. - **Creator**: $24 per month (max. 5 minutes per video). - **Teams:** $69 per month (max. 60 minutes per video). - **Enterprise**: Custom pricing based on specific needs. ### Who owns",
+      "span": [
+        24814,
+        24827
+      ],
+      "meta": {
+        "brand": "heygen",
+        "currency": "$",
+        "amount": "69"
+      },
+      "location": {
+        "heading": "How much is HeyGen?",
+        "heading_level": 3,
+        "line": 626
+      },
+      "sentence": "Teams:** $69 per month (max."
+    },
+    {
+      "type": "feature",
+      "text": "120+ avatars",
+      "context": "plan** allows you to create short videos (up to 1 minute) with limited features, including access to 120+ avatars and 300+ voices. However, this plan is quite basic and includes only 1 credit for video creation.",
+      "span": [
+        23588,
+        23600
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "heygen",
+        "value": "120+"
+      },
+      "location": {
+        "heading": "Is HeyGen AI free or paid?",
+        "heading_level": 3,
+        "line": 606
+      },
+      "sentence": "The **free plan** allows you to create short videos (up to 1 minute) with limited features, including access to 120+ avatars and 300+ voices."
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "## Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 240+ avatars in 140+ languages. [Get started for FREE](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-demo)",
+      "span": [
+        26367,
+        26379
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Ready to try our AI video platform?",
+        "heading_level": 2,
+        "line": 647
+      },
+      "sentence": "Join over 1M+ users today and start making AI videos with 240+ avatars in 140+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "32 languages",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65e89895c5a4b8d764c0e415_checkmark-v.svg) **Multilingual Voice Cloning** Record your voice clone in your native language. 32 languages English **Languages** Create videos in a variety of supported languages. 141+ 175+ **Voices**",
+      "span": [
+        7187,
+        7199
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "32"
+      },
+      "location": {
+        "heading": "Stock Avatar Comparison",
+        "heading_level": 3,
+        "line": 157
+      },
+      "sentence": "32 languages"
+    },
+    {
+      "type": "feature",
+      "text": "140+ languages",
+      "context": "try our AI video platform? Join over 1M+ users today and start making AI videos with 240+ avatars in 140+ languages. [Get started for FREE](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-demo)",
+      "span": [
+        26383,
+        26397
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "140+"
+      },
+      "location": {
+        "heading": "Ready to try our AI video platform?",
+        "heading_level": 2,
+        "line": 647
+      },
+      "sentence": "Join over 1M+ users today and start making AI videos with 240+ avatars in 140+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "300+ voices",
+      "context": "to create short videos (up to 1 minute) with limited features, including access to 120+ avatars and 300+ voices. However, this plan is quite basic and includes only 1 credit for video creation. ### Is HeyGen safe?",
+      "span": [
+        23605,
+        23616
+      ],
+      "meta": {
+        "subtype": "voices",
+        "brand": "heygen",
+        "value": "300+"
+      },
+      "location": {
+        "heading": "Is HeyGen AI free or paid?",
+        "heading_level": 3,
+        "line": 606
+      },
+      "sentence": "The **free plan** allows you to create short videos (up to 1 minute) with limited features, including access to 120+ avatars and 300+ voices."
+    },
+    {
+      "type": "feature",
+      "text": "up to 1 minute",
+      "context": "paid? HeyGen AI offers both free and paid plans. The **free plan** allows you to create short videos (up to 1 minute) with limited features, including access to 120+ avatars and 300+ voices. However, this plan is quite",
+      "span": [
+        23529,
+        23543
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "heygen",
+        "value": "1"
+      },
+      "location": {
+        "heading": "Is HeyGen AI free or paid?",
+        "heading_level": 3,
+        "line": 606
+      },
+      "sentence": "The **free plan** allows you to create short videos (up to 1 minute) with limited features, including access to 120+ avatars and 300+ voices."
+    },
+    {
+      "type": "feature",
+      "text": "max. 5 minutes",
+      "context": "several pricing plans: - **Free**: $0 per month for 1 minute of video. - **Creator**: $24 per month (max. 5 minutes per video). - **Teams:** $69 per month (max. 60 minutes per video). - **Enterprise**: Custom pricing",
+      "span": [
+        24774,
+        24788
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "heygen",
+        "value": "5"
+      },
+      "location": {
+        "heading": "How much is HeyGen?",
+        "heading_level": 3,
+        "line": 625
+      },
+      "sentence": "Creator**: $24 per month (max. 5 minutes per video)."
+    },
+    {
+      "type": "feature",
+      "text": "max. 60 minutes",
+      "context": "minute of video. - **Creator**: $24 per month (max. 5 minutes per video). - **Teams:** $69 per month (max. 60 minutes per video). - **Enterprise**: Custom pricing based on specific needs. ### Who owns HeyGen? HeyGen",
+      "span": [
+        24829,
+        24844
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "heygen",
+        "value": "60"
+      },
+      "location": {
+        "heading": "How much is HeyGen?",
+        "heading_level": 3,
+        "line": 626
+      },
+      "sentence": "Teams:** $69 per month (max. 60 minutes per video)."
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "performance based on your script. - The most secure AI Video platform for business, trusted by over 90% of Fortune 100. - Enterprise-ready, fully collaborative platform to create, manage and share videos",
+      "span": [
+        297,
+        300
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "HeyGen vs Synthesia",
+        "heading_level": 1,
+        "line": 8
+      },
+      "sentence": "The most secure AI Video platform for business, trusted by over 90% of Fortune 100."
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/661f8cb37afc44efa5a9dfa1_ShieldCheck-Grey.svg) ### The most secure AI video platform for business, trusted by over 90% of Fortune 100 Our AI avatars can only be created with explicit human consent, and we enforce strict",
+      "span": [
+        3358,
+        3361
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "The most secure AI video platform for business, trusted by over 90% of Fortune 100",
+        "heading_level": 3,
+        "line": 67
+      },
+      "sentence": "The most secure AI video platform for business, trusted by over 90% of Fortune 100"
+    },
+    {
+      "type": "stat",
+      "text": "in 2020",
+      "context": "- **Enterprise**: Custom pricing based on specific needs. ### Who owns HeyGen? HeyGen was started in 2020 in China. It is a privately held company owned by Joshua Xu and Wayne Liang. Xu is the CEO of the company,",
+      "span": [
+        24957,
+        24964
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "Who owns HeyGen?",
+        "heading_level": 3,
+        "line": 631
+      },
+      "sentence": "HeyGen was started in 2020 in China."
+    },
+    {
+      "type": "stat",
+      "text": "over 50,000 companies",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65f866078eb05892fc20795a_Play-white.svg)![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65f86607e501c6115b300a2e_Pause-dark.svg) ![](https://img.youtube.com/vi/OL2aF7y-d38/sddefault.jpg)Play Trusted by over 50,000 companies of all sizes ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65fd58d0045adba14a96183f_Reuters.svg)",
+      "span": [
+        842,
+        863
+      ],
+      "meta": {
+        "subtype": "large_count"
+      },
+      "location": {
+        "heading": "HeyGen vs Synthesia",
+        "heading_level": 1,
+        "line": 17
+      },
+      "sentence": "Trusted by over 50,000 companies of all sizes"
+    },
+    {
+      "type": "link",
+      "text": "https://www.g2.com/categories/video-communications?utf8=%E2%9C%93&selected_view=trending&segment=enterprise#grid",
+      "context": "",
+      "span": [
+        15925,
+        16037
+      ],
+      "meta": {
+        "domain": "www.g2.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "Leader in the AI Video Generator category",
+        "heading_level": 2,
+        "line": 450
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eb2aa40b9c62e9fd68071c_Sphere-Indigo-Light.webp)\\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66604139c144ea1b821629dc_G2-grid.webp)](https://www.g2.com/categories/video-communications?utf8=%E2%9C%93&selected_view=trending&segment=enterprise#grid)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.g2.com/categories/video-communications?utf8=%E2%9C%93&amp;selected_view=trending&amp;segment=enterprise#grid",
+      "context": "",
+      "span": [
+        85137,
+        86216
+      ],
+      "meta": {
+        "domain": "www.g2.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

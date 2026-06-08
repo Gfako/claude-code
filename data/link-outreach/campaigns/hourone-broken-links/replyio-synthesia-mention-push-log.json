@@ -1,0 +1,178 @@
+{
+  "campaign_id": 1665373,
+  "total_to_push": 31,
+  "successes": 16,
+  "failures": 15,
+  "results": [
+    {
+      "email": "vrushali.g@grandviewresearch.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "jeremy@clickup.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "jeffrey.bloomer@slate.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "benoit@livestorm.co",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "ankita.dey@precedenceresearch.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "moritz.schubert@omr.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "hello@whatsthebigdata.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "hello@allaboutai.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "walter@sacra.com",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "may.horiuchi@visla.us",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "contact@designrevision.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "support@vozo.ai",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "hi@dokeyai.com",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "business@orionstar.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "admin@trickyenough.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "fahim@fahimai.com",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "nick@edmsauce.com",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "hello@clonemyvoice.io",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "hello@mattolpinski.com",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "info@amwaly.com",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "contact@aitoolmate.com",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "service@wingzero.tw",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "team@moge.ai",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "info@vkweb.fr",
+      "status": "failed",
+      "response_code": 409,
+      "error": "Contact is already in another sequence"
+    },
+    {
+      "email": "info@aitrendz.xyz",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "contact@toolinsidr.com",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "info@business.digital",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "contact@toolcent.com",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "hello@rebellink.com",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "ara@sarani.studio",
+      "status": "success",
+      "response_code": 200
+    },
+    {
+      "email": "news@features.com",
+      "status": "success",
+      "response_code": 200
+    }
+  ]
+}

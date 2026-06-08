@@ -1,0 +1,416 @@
+[
+  {
+    "name": "CRED",
+    "domain": "cred.com",
+    "dr": 45,
+    "matched_customer": "Cred",
+    "lifecycle": "Prospect",
+    "reason": "Exact name match",
+    "match_type": "NAME_EXACT"
+  },
+  {
+    "name": "Chime",
+    "domain": "addchime.com",
+    "dr": 14,
+    "matched_customer": "Chime",
+    "lifecycle": "Opportunity",
+    "reason": "Exact name match",
+    "match_type": "NAME_EXACT"
+  },
+  {
+    "name": "Cision",
+    "domain": "cision.ca",
+    "dr": 61,
+    "matched_customer": "Cision",
+    "lifecycle": "Customer",
+    "reason": "Exact name match",
+    "match_type": "NAME_EXACT"
+  },
+  {
+    "name": "Commusoft",
+    "domain": "commusoft.com",
+    "dr": 55,
+    "matched_customer": "Commusoft",
+    "lifecycle": "Customer",
+    "reason": "Email domain match",
+    "match_type": "EMAIL_DOMAIN"
+  },
+  {
+    "name": "Datadog",
+    "domain": "datadog.com",
+    "dr": 62,
+    "matched_customer": "Datadog",
+    "lifecycle": "Opportunity",
+    "reason": "Exact name match",
+    "match_type": "NAME_EXACT"
+  },
+  {
+    "name": "Earnix",
+    "domain": "earnix.com",
+    "dr": 56,
+    "matched_customer": "Earnix",
+    "lifecycle": "Customer",
+    "reason": "Email domain match",
+    "match_type": "EMAIL_DOMAIN"
+  },
+  {
+    "name": "EyeSpy360",
+    "domain": "eyespy360.com",
+    "dr": 56,
+    "matched_customer": "EyeSpy360",
+    "lifecycle": "Prospect",
+    "reason": "Email domain match",
+    "match_type": "EMAIL_DOMAIN"
+  },
+  {
+    "name": "FranConnect",
+    "domain": "franconnect.com",
+    "dr": 58,
+    "matched_customer": "FranConnect",
+    "lifecycle": "Opportunity",
+    "reason": "Email domain match",
+    "match_type": "EMAIL_DOMAIN"
+  },
+  {
+    "name": "Glytec",
+    "domain": "glytec.com",
+    "dr": 31,
+    "matched_customer": "Glytec",
+    "lifecycle": "Customer",
+    "reason": "Email domain match",
+    "match_type": "EMAIL_DOMAIN"
+  },
+  {
+    "name": "AWS API Gateway",
+    "domain": "awsapigateway.com",
+    "dr": 0,
+    "matched_customer": "Amazon",
+    "lifecycle": "Customer",
+    "reason": "AWS product, Amazon is a Customer",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "AWS CDK",
+    "domain": "awscdk.com",
+    "dr": 0,
+    "matched_customer": "Amazon",
+    "lifecycle": "Customer",
+    "reason": "AWS product, Amazon is a Customer",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Abnormal AI",
+    "domain": "abnormalai.com",
+    "dr": 0,
+    "matched_customer": "Abnormal Security",
+    "lifecycle": "Customer",
+    "reason": "Same company, rebranded domain",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Airtable Forms",
+    "domain": "airtableforms.com",
+    "dr": 0,
+    "matched_customer": "Airtable",
+    "lifecycle": "Prospect",
+    "reason": "Airtable product \u2014 check if Airtable is blocked",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Asana Rules",
+    "domain": "asanarules.com",
+    "dr": 0,
+    "matched_customer": "Asana",
+    "lifecycle": "Prospect",
+    "reason": "Asana product \u2014 check if Asana is blocked",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Brevo (Sendinblue)",
+    "domain": "brevosendinblue.com",
+    "dr": 0,
+    "matched_customer": "Brevo",
+    "lifecycle": "Prospect",
+    "reason": "Check if Brevo/Sendinblue is blocked",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Certinia (FinancialForce)",
+    "domain": "certiniafinancialforce.com",
+    "dr": 0,
+    "matched_customer": "Certinia",
+    "lifecycle": "Customer",
+    "reason": "Check if Certinia/FinancialForce blocked",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Citrix ShareFile",
+    "domain": "citrixsharefile.com",
+    "dr": 0,
+    "matched_customer": "Citrix",
+    "lifecycle": "Customer",
+    "reason": "Citrix product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "D2L Brightspace",
+    "domain": "d2lbrightspace.com",
+    "dr": 0,
+    "matched_customer": "D2L",
+    "lifecycle": "Customer",
+    "reason": "D2L product \u2014 check if D2L is blocked",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Firebase Auth",
+    "domain": "firebaseauth.com",
+    "dr": 0,
+    "matched_customer": "Google/Alphabet",
+    "lifecycle": "Customer",
+    "reason": "Google product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Freshworks CRM",
+    "domain": "freshworkscrm.com",
+    "dr": 0,
+    "matched_customer": "Freshworks",
+    "lifecycle": "Customer",
+    "reason": "Freshworks product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "GitHub Actions",
+    "domain": "githubactions.com",
+    "dr": 0,
+    "matched_customer": "GitHub/Microsoft",
+    "lifecycle": "Customer",
+    "reason": "GitHub/Microsoft product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Google Data Studio (Looker Studio)",
+    "domain": "googledatastudiolookerstudio.com",
+    "dr": 0,
+    "matched_customer": "Alphabet",
+    "lifecycle": "Customer",
+    "reason": "Google product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "HubSpot CRM",
+    "domain": "hubspotcrm.com",
+    "dr": 0,
+    "matched_customer": "HubSpot",
+    "lifecycle": "Opportunity",
+    "reason": "HubSpot product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "HubSpot Marketing Hub",
+    "domain": "hubspotmarketinghub.com",
+    "dr": 0,
+    "matched_customer": "HubSpot",
+    "lifecycle": "Opportunity",
+    "reason": "HubSpot product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "HubSpot Sales Hub",
+    "domain": "hubspotsaleshub.com",
+    "dr": 0,
+    "matched_customer": "HubSpot",
+    "lifecycle": "Opportunity",
+    "reason": "HubSpot product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "John Deere Operations Center",
+    "domain": "johndeereoperationscenter.com",
+    "dr": 0,
+    "matched_customer": "John Deere",
+    "lifecycle": "Customer",
+    "reason": "Check if Deere is in customer list",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Google Cloud Platform",
+    "domain": "googlecloudplatform.com",
+    "dr": 0.3,
+    "matched_customer": "Alphabet",
+    "lifecycle": "Customer",
+    "reason": "Google product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "FigJam",
+    "domain": "figjammobile.com",
+    "dr": 6.0,
+    "matched_customer": "Figma",
+    "lifecycle": "Customer",
+    "reason": "Figma product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Egencia",
+    "domain": "egencia.be",
+    "dr": 9.0,
+    "matched_customer": "Expedia Group",
+    "lifecycle": "Opportunity",
+    "reason": "Was part of Expedia, now Amex GBT",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Divvy",
+    "domain": "divvydigital.com",
+    "dr": 10.0,
+    "matched_customer": "Bill.com",
+    "lifecycle": "Prospect",
+    "reason": "Divvy acquired by Bill.com",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Dynamics 365",
+    "domain": "endeavour365.ca",
+    "dr": 13.0,
+    "matched_customer": "Microsoft",
+    "lifecycle": "Customer",
+    "reason": "Microsoft product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Google Forms",
+    "domain": "googleforms.com",
+    "dr": 18.0,
+    "matched_customer": "Alphabet",
+    "lifecycle": "Customer",
+    "reason": "Google product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Freshdesk Field Service",
+    "domain": "webmarketing.academy",
+    "dr": 20.0,
+    "matched_customer": "Freshworks",
+    "lifecycle": "Customer",
+    "reason": "Freshworks product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Google Workspace",
+    "domain": "googleworkspace.com",
+    "dr": 20.0,
+    "matched_customer": "Alphabet",
+    "lifecycle": "Customer",
+    "reason": "Google product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Apigee (Google)",
+    "domain": "apiquality.io",
+    "dr": 22.0,
+    "matched_customer": "Alphabet",
+    "lifecycle": "Customer",
+    "reason": "Google product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "BigQuery",
+    "domain": "softwaresim.com",
+    "dr": 23.0,
+    "matched_customer": "Alphabet",
+    "lifecycle": "Customer",
+    "reason": "Google product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Google Classroom",
+    "domain": "demorest.habershamschools.com",
+    "dr": 25.0,
+    "matched_customer": "Alphabet",
+    "lifecycle": "Customer",
+    "reason": "Google product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Epic Systems",
+    "domain": "epicsystems.com",
+    "dr": 26.0,
+    "matched_customer": "Epic Systems",
+    "lifecycle": "Customer",
+    "reason": "Check if Epic is in customer list",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "GitHub Copilot",
+    "domain": "githubcopilot.com",
+    "dr": 31.0,
+    "matched_customer": "GitHub/Microsoft",
+    "lifecycle": "Customer",
+    "reason": "GitHub/Microsoft product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "HubSpot CMS",
+    "domain": "connect.plusyourbusiness.com",
+    "dr": 49.0,
+    "matched_customer": "HubSpot",
+    "lifecycle": "Opportunity",
+    "reason": "HubSpot product",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Afterpay",
+    "domain": "softwareadvice.ie",
+    "dr": 56.0,
+    "matched_customer": "Block/Square",
+    "lifecycle": "Customer",
+    "reason": "Afterpay owned by Block (Square)",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Crossplane",
+    "domain": "okteto.com",
+    "dr": 58.0,
+    "matched_customer": "Upbound",
+    "lifecycle": "Prospect",
+    "reason": "Check if Upbound/Crossplane blocked",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Allscripts",
+    "domain": "autodemo.com",
+    "dr": 59.0,
+    "matched_customer": "Allscripts",
+    "lifecycle": "Customer",
+    "reason": "Check if Allscripts is in customer list",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Beeline",
+    "domain": "beeline.com",
+    "dr": 60.0,
+    "matched_customer": "Beeline Group",
+    "lifecycle": "Opportunity",
+    "reason": "Beeline Group is an Opportunity",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Istio",
+    "domain": "devopsschool.com",
+    "dr": 60.0,
+    "matched_customer": "Google/Alphabet",
+    "lifecycle": "Customer",
+    "reason": "Google open source project",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  },
+  {
+    "name": "Area 1 Security",
+    "domain": "cloudflare.tv",
+    "dr": 61.0,
+    "matched_customer": "Cloudflare",
+    "lifecycle": "Customer",
+    "reason": "Acquired by Cloudflare \u2014 check",
+    "match_type": "AI_PARENT_SUBSIDIARY"
+  }
+]

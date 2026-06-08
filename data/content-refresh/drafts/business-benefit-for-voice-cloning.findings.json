@@ -1,0 +1,144 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 2,
+    "link": 2
+  },
+  "total": 7,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) April 18, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        274,
+        286
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "5 ways any business can benefit from voice cloning",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) April 18, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        290,
+        304
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "5 ways any business can benefit from voice cloning",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        9810,
+        9824
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "The future is now: embracing voice cloning as a business strategy",
+        "heading_level": 2,
+        "line": 126
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "[Pindrop](https://go.pindrop.com/resources/report/2021-voice-intelligence-and-security-report/), voice technology can reduce call handling times by up to 40%, significantly boosting efficiency and reducing operational costs. This technology enables 24/7 customer",
+      "span": [
+        2557,
+        2560
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "1\\. Enhanced customer service and support",
+        "heading_level": 2,
+        "line": 39
+      },
+      "sentence": "According to a study by [Pindrop](https://go.pindrop.com/resources/report/2021-voice-intelligence-and-security-report/), voice technology can reduce call handling times by up to 40%, significantly boosting efficiency and reducing operational costs."
+    },
+    {
+      "type": "stat",
+      "text": "70%",
+      "context": "global companies. For example: - [BSH](https://www.synthesia.io/case-studies/bosch): Achieved over 70% savings in external video production costs while reaching a global audience with localized training",
+      "span": [
+        7977,
+        7980
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Global reach and compliance",
+        "heading_level": 3,
+        "line": 103
+      },
+      "sentence": "[BSH](https://www.synthesia.io/case-studies/bosch): Achieved over 70% savings in external video production costs while reaching a global audience with localized training content."
+    },
+    {
+      "type": "link",
+      "text": "https://go.pindrop.com/resources/report/2021-voice-intelligence-and-security-report/",
+      "context": "",
+      "span": [
+        2413,
+        2497
+      ],
+      "meta": {
+        "domain": "go.pindrop.com",
+        "anchor": "Pindrop"
+      },
+      "location": {
+        "heading": "1\\. Enhanced customer service and support",
+        "heading_level": 2,
+        "line": 39
+      },
+      "sentence": "According to a study by [Pindrop](https://go.pindrop.com/resources/report/2021-voice-intelligence-and-security-report/), voice technology can reduce call handling times by up to 40%, significantly boosting efficiency and reducing operational costs."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        28384,
+        29736
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

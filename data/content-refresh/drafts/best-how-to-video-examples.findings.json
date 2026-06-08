@@ -1,0 +1,274 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 5,
+    "link": 6
+  },
+  "total": 14,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) November 7, 2023 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) In this article [Who",
+      "span": [
+        254,
+        266
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "8 Best How-To Video Examples",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) November 7, 2023 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) In this article [Who can benefit from",
+      "span": [
+        270,
+        284
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "8 Best How-To Video Examples",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        14029,
+        14043
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Start working on your how-to video",
+        "heading_level": 2,
+        "line": 237
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "50%",
+      "context": "traffic](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/) in the world, videos directed towards \"beginners\" that teach how to do new things had a [50%](https://thesocialshepherd.com/blog/youtube-statistics#:~:text=YouTube%20has%202.1%20billion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!)",
+      "span": [
+        2055,
+        2058
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "8 Best How-To Video Examples",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "On YouTube, the social media network with the [second-highest traffic](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/) in the world, videos directed towards \"beginners\" that teach how to do new things had a [50%](https://thesocialshepherd.com/blog/youtube-statistics#:~:text=YouTube%20has%202.1%20billion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!) increase in average daily views since 2020."
+    },
+    {
+      "type": "stat",
+      "text": "202.1%",
+      "context": "new things had a [50%](https://thesocialshepherd.com/blog/youtube-statistics#:~:text=YouTube%20has%202.1%20billion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!) increase in average daily views",
+      "span": [
+        2136,
+        2142
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "8 Best How-To Video Examples",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "On YouTube, the social media network with the [second-highest traffic](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/) in the world, videos directed towards \"beginners\" that teach how to do new things had a [50%](https://thesocialshepherd.com/blog/youtube-statistics#:~:text=YouTube%20has%202.1%20billion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!) increase in average daily views since 2020."
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "companies selling physical/digital products benefits from creating this type of content that nearly [30% of internet users](https://www.oberlo.com/statistics/online-video-consumption-statistics) want to see.",
+      "span": [
+        2835,
+        2838
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Who can benefit from a how-to video?",
+        "heading_level": 2,
+        "line": 47
+      },
+      "sentence": "Anyone from independent content creators to companies selling physical/digital products benefits from creating this type of content that nearly [30% of internet users](https://www.oberlo.com/statistics/online-video-consumption-statistics) want to see."
+    },
+    {
+      "type": "stat",
+      "text": "205.16%",
+      "context": "connection [5.16 billion people](https://datareportal.com/global-digital-overview#:~:text=A%20total%20of%205.16%20billion,of%20the%20world's%20total%20population.) use the internet, but only a few can tackle a faulty",
+      "span": [
+        3719,
+        3726
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "1\\. How to troubleshoot your internet connection",
+        "heading_level": 2,
+        "line": 69
+      },
+      "sentence": "[5.16 billion people](https://datareportal.com/global-digital-overview#:~:text=A%20total%20of%205.16%20billion,of%20the%20world's%20total%20population.) use the internet, but only a few can tackle a faulty internet connection."
+    },
+    {
+      "type": "stat",
+      "text": "since 2020",
+      "context": "[50%](https://thesocialshepherd.com/blog/youtube-statistics#:~:text=YouTube%20has%202.1%20billion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!) increase in average daily views since 2020. But what separates an average how-to video from a great one? And what can you do to ensure your [instructional",
+      "span": [
+        2246,
+        2256
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "8 Best How-To Video Examples",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "On YouTube, the social media network with the [second-highest traffic](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/) in the world, videos directed towards \"beginners\" that teach how to do new things had a [50%](https://thesocialshepherd.com/blog/youtube-statistics#:~:text=YouTube%20has%202.1%20billion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!) increase in average daily views since 2020."
+    },
+    {
+      "type": "link",
+      "text": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/",
+      "context": "",
+      "span": [
+        1872,
+        1964
+      ],
+      "meta": {
+        "domain": "www.statista.com",
+        "anchor": "second-highest traffic"
+      },
+      "location": {
+        "heading": "8 Best How-To Video Examples",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "On YouTube, the social media network with the [second-highest traffic](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/) in the world, videos directed towards \"beginners\" that teach how to do new things had a [50%](https://thesocialshepherd.com/blog/youtube-statistics#:~:text=YouTube%20has%202.1%20billion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!) increase in average daily views since 2020."
+    },
+    {
+      "type": "link",
+      "text": "https://thesocialshepherd.com/blog/youtube-statistics#:~:text=YouTube%20has%202.1%20billion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!",
+      "context": "",
+      "span": [
+        2060,
+        2212
+      ],
+      "meta": {
+        "domain": "thesocialshepherd.com",
+        "anchor": "50%"
+      },
+      "location": {
+        "heading": "8 Best How-To Video Examples",
+        "heading_level": 1,
+        "line": 39
+      },
+      "sentence": "On YouTube, the social media network with the [second-highest traffic](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/) in the world, videos directed towards \"beginners\" that teach how to do new things had a [50%](https://thesocialshepherd.com/blog/youtube-statistics#:~:text=YouTube%20has%202.1%20billion%20monthly,some%20pretty%20impressive%20YouTube%20statistics!) increase in average daily views since 2020."
+    },
+    {
+      "type": "link",
+      "text": "https://www.oberlo.com/statistics/online-video-consumption-statistics",
+      "context": "",
+      "span": [
+        2858,
+        2927
+      ],
+      "meta": {
+        "domain": "www.oberlo.com",
+        "anchor": "30% of internet users"
+      },
+      "location": {
+        "heading": "Who can benefit from a how-to video?",
+        "heading_level": 2,
+        "line": 47
+      },
+      "sentence": "Anyone from independent content creators to companies selling physical/digital products benefits from creating this type of content that nearly [30% of internet users](https://www.oberlo.com/statistics/online-video-consumption-statistics) want to see."
+    },
+    {
+      "type": "link",
+      "text": "https://datareportal.com/global-digital-overview#:~:text=A%20total%20of%205.16%20billion,of%20the%20world's%20total%20population",
+      "context": "",
+      "span": [
+        3647,
+        3776
+      ],
+      "meta": {
+        "domain": "datareportal.com",
+        "anchor": "5.16 billion people"
+      },
+      "location": {
+        "heading": "1\\. How to troubleshoot your internet connection",
+        "heading_level": 2,
+        "line": 69
+      },
+      "sentence": "[5.16 billion people](https://datareportal.com/global-digital-overview#:~:text=A%20total%20of%205.16%20billion,of%20the%20world's%20total%20population.) use the internet, but only a few can tackle a faulty internet connection."
+    },
+    {
+      "type": "link",
+      "text": "https://datareportal.com/global-digital-overview#:~:text=A%20total%20of%205.16%20billion,of%20the%20world",
+      "context": "",
+      "span": [
+        3647,
+        3752
+      ],
+      "meta": {
+        "domain": "datareportal.com",
+        "anchor": "5.16 billion people"
+      },
+      "location": {
+        "heading": "1\\. How to troubleshoot your internet connection",
+        "heading_level": 2,
+        "line": 69
+      },
+      "sentence": "[5.16 billion people](https://datareportal.com/global-digital-overview#:~:text=A%20total%20of%205.16%20billion,of%20the%20world's%20total%20population.) use the internet, but only a few can tackle a faulty internet connection."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        37857,
+        39209
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

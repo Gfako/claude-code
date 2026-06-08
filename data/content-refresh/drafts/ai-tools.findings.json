@@ -1,0 +1,464 @@
+{
+  "counts": {
+    "pricing": 2,
+    "feature": 2,
+    "stat": 3,
+    "link": 12,
+    "ai-news": 5
+  },
+  "total": 24,
+  "findings": [
+    {
+      "type": "pricing",
+      "text": "$99 per month",
+      "context": "centers, or workflows. There’s a free version of ElevenLabs, while paid accounts range from $5 to $99 per month. ## 9\\. Synthesia ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/69711d219ea4dbbd58804a29_make_video.webp)",
+      "span": [
+        12458,
+        12471
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "99"
+      },
+      "location": {
+        "heading": "8\\. ElevenLabs",
+        "heading_level": 2,
+        "line": 188
+      },
+      "sentence": "There’s a free version of ElevenLabs, while paid accounts range from $5 to $99 per month."
+    },
+    {
+      "type": "pricing",
+      "text": "$18 per month",
+      "context": "useful for training and simulation videos. The Basic plan from Synthesia is free. Pricing begins at $18 per month. ## 10\\. Higgsfield ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/698ddaace1bdb6b40d16a01a_higgsfield.webp)",
+      "span": [
+        14113,
+        14126
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "18"
+      },
+      "location": {
+        "heading": "9\\. Synthesia",
+        "heading_level": 2,
+        "line": 206
+      },
+      "sentence": "Pricing begins at $18 per month."
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) February 13, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        275,
+        287
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) February 13, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [The",
+      "span": [
+        291,
+        305
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "FREE](https://www.synthesia.io/features/ai-video-generator) In this article [The 12 best AI tools in 2026](https://www.synthesia.io/post/ai-tools#the-12-best-ai-tools-in-2026) [1\\. ChatGPT](https://www.synthesia.io/post/ai-tools#1-chatgpt)",
+      "span": [
+        425,
+        432
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+        "heading_level": 1,
+        "line": 17
+      },
+      "sentence": "[The 12 best AI tools in 2026](https://www.synthesia.io/post/ai-tools#the-12-best-ai-tools-in-2026)"
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "list of AI tools, I’ve pulled the best ones to actually get work done, and that are genuinely useful in 2026. Take a look below. ## The 12 best AI tools in 2026 01. [**ChatGPT**](https://www.synthesia.io/post/ai-tools#1-chatgpt)",
+      "span": [
+        1642,
+        1649
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+        "heading_level": 1,
+        "line": 45
+      },
+      "sentence": "In the extensive list of AI tools, I’ve pulled the best ones to actually get work done, and that are genuinely useful in 2026."
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "actually get work done, and that are genuinely useful in 2026. Take a look below. ## The 12 best AI tools in 2026 01. [**ChatGPT**](https://www.synthesia.io/post/ai-tools#1-chatgpt) – to write content, analyze documents,",
+      "span": [
+        1695,
+        1702
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The 12 best AI tools in 2026",
+        "heading_level": 2,
+        "line": 47
+      },
+      "sentence": "The 12 best AI tools in 2026"
+    },
+    {
+      "type": "link",
+      "text": "https://chatgpt.com/",
+      "context": "",
+      "span": [
+        3402,
+        3422
+      ],
+      "meta": {
+        "domain": "chatgpt.com",
+        "anchor": "https://chatgpt.com/"
+      },
+      "location": {
+        "heading": "1\\. ChatGPT",
+        "heading_level": 2,
+        "line": 68
+      },
+      "sentence": "URL:** [https://chatgpt.com/](https://chatgpt.com/)"
+    },
+    {
+      "type": "link",
+      "text": "https://gemini.google.com/",
+      "context": "",
+      "span": [
+        4628,
+        4654
+      ],
+      "meta": {
+        "domain": "gemini.google.com",
+        "anchor": "https://gemini.google.com/"
+      },
+      "location": {
+        "heading": "2\\. Gemini",
+        "heading_level": 2,
+        "line": 82
+      },
+      "sentence": "URL:** [https://gemini.google.com/](https://gemini.google.com/)"
+    },
+    {
+      "type": "link",
+      "text": "https://labs.google/fx/tools/flow",
+      "context": "",
+      "span": [
+        6071,
+        6104
+      ],
+      "meta": {
+        "domain": "labs.google",
+        "anchor": "https://labs.google/fx/tools/flow"
+      },
+      "location": {
+        "heading": "3\\. Veo",
+        "heading_level": 2,
+        "line": 102
+      },
+      "sentence": "URL:** [https://labs.google/fx/tools/flow](https://labs.google/fx/tools/flow)"
+    },
+    {
+      "type": "link",
+      "text": "https://claude.ai/",
+      "context": "",
+      "span": [
+        7001,
+        7019
+      ],
+      "meta": {
+        "domain": "claude.ai",
+        "anchor": "https://claude.ai/"
+      },
+      "location": {
+        "heading": "4\\. Claude",
+        "heading_level": 2,
+        "line": 116
+      },
+      "sentence": "URL:** [https://claude.ai/](https://claude.ai/)"
+    },
+    {
+      "type": "link",
+      "text": "https://grok.com/",
+      "context": "",
+      "span": [
+        8318,
+        8335
+      ],
+      "meta": {
+        "domain": "grok.com",
+        "anchor": "https://grok.com/"
+      },
+      "location": {
+        "heading": "5\\. Grok",
+        "heading_level": 2,
+        "line": 132
+      },
+      "sentence": "URL:** [https://grok.com/](https://grok.com/)"
+    },
+    {
+      "type": "link",
+      "text": "https://notebooklm.google/",
+      "context": "",
+      "span": [
+        9445,
+        9471
+      ],
+      "meta": {
+        "domain": "notebooklm.google",
+        "anchor": "https://notebooklm.google/"
+      },
+      "location": {
+        "heading": "6\\. NotebookLM",
+        "heading_level": 2,
+        "line": 148
+      },
+      "sentence": "URL:** [https://notebooklm.google/](https://notebooklm.google/)"
+    },
+    {
+      "type": "link",
+      "text": "https://lovable.dev/",
+      "context": "",
+      "span": [
+        10491,
+        10511
+      ],
+      "meta": {
+        "domain": "lovable.dev",
+        "anchor": "https://lovable.dev/"
+      },
+      "location": {
+        "heading": "7\\. Lovable",
+        "heading_level": 2,
+        "line": 164
+      },
+      "sentence": "URL:** [https://lovable.dev/](https://lovable.dev/)"
+    },
+    {
+      "type": "link",
+      "text": "https://elevenlabs.io/",
+      "context": "",
+      "span": [
+        11512,
+        11534
+      ],
+      "meta": {
+        "domain": "elevenlabs.io",
+        "anchor": "https://elevenlabs.io/"
+      },
+      "location": {
+        "heading": "8\\. ElevenLabs",
+        "heading_level": 2,
+        "line": 180
+      },
+      "sentence": "URL:** [https://elevenlabs.io/](https://elevenlabs.io/)"
+    },
+    {
+      "type": "link",
+      "text": "https://higgsfield.ai/",
+      "context": "",
+      "span": [
+        14353,
+        14375
+      ],
+      "meta": {
+        "domain": "higgsfield.ai",
+        "anchor": "https://higgsfield.ai/"
+      },
+      "location": {
+        "heading": "10\\. Higgsfield",
+        "heading_level": 2,
+        "line": 214
+      },
+      "sentence": "URL:** [https://higgsfield.ai/](https://higgsfield.ai/)"
+    },
+    {
+      "type": "link",
+      "text": "https://gamma.app/",
+      "context": "",
+      "span": [
+        15743,
+        15761
+      ],
+      "meta": {
+        "domain": "gamma.app",
+        "anchor": "https://gamma.app/"
+      },
+      "location": {
+        "heading": "11\\. Gamma",
+        "heading_level": 2,
+        "line": 230
+      },
+      "sentence": "URL:** [https://gamma.app/](https://gamma.app/)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.fathom.ai/",
+      "context": "",
+      "span": [
+        16882,
+        16904
+      ],
+      "meta": {
+        "domain": "www.fathom.ai",
+        "anchor": "https://www.fathom.ai/"
+      },
+      "location": {
+        "heading": "12\\. Fathom",
+        "heading_level": 2,
+        "line": 244
+      },
+      "sentence": "URL:** [https://www.fathom.ai/](https://www.fathom.ai/)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        44718,
+        46067
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "in data. ChatGPT also connects easily to other tools from OpenAI (its parent company), for example, Sora 2 which is an [AI video generating tool](https://www.synthesia.io/features/ai-video-generator). Sora",
+      "span": [
+        3897,
+        3901
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "1\\. ChatGPT",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "ChatGPT also connects easily to other tools from OpenAI (its parent company), for example, Sora 2 which is an [AI video generating tool](https://www.synthesia.io/features/ai-video-generator)."
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "Sora 2 which is an [AI video generating tool](https://www.synthesia.io/features/ai-video-generator). Sora 2 can make cinematic, story-driven clips and is one of the more advanced narrative video creation platforms",
+      "span": [
+        3998,
+        4002
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "1\\. ChatGPT",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "Sora 2 can make cinematic, story-driven clips and is one of the more advanced narrative video creation platforms available."
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "the more advanced narrative video creation platforms available. ChatGPT’s integration with tools like Sora 2 means you can use it for both creative and administrative tasks, as well as professional and personal",
+      "span": [
+        4160,
+        4164
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "1\\. ChatGPT",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "ChatGPT’s integration with tools like Sora 2 means you can use it for both creative and administrative tasks, as well as professional and personal projects."
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "where you get [free access to Veo 3](https://www.synthesia.io/post/how-to-use-veo-3-for-free) and [Sora 2](https://www.synthesia.io/post/how-to-use-sora-2-for-free) to experiment making B-roll for videos.",
+      "span": [
+        13764,
+        13768
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "9\\. Synthesia",
+        "heading_level": 2,
+        "line": 202
+      },
+      "sentence": "For the more creative types, Synthesia includes an ‘AI Playground’ where you get [free access to Veo 3](https://www.synthesia.io/post/how-to-use-veo-3-for-free) and [Sora 2](https://www.synthesia.io/post/how-to-use-sora-2-for-free) to experiment making B-roll for videos."
+    },
+    {
+      "type": "ai-news",
+      "text": "sora",
+      "context": "3](https://www.synthesia.io/post/how-to-use-veo-3-for-free) and [Sora 2](https://www.synthesia.io/post/how-to-use-sora-2-for-free) to experiment making B-roll for videos. There are additionally Video Agents in the tool",
+      "span": [
+        13813,
+        13817
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "9\\. Synthesia",
+        "heading_level": 2,
+        "line": 202
+      },
+      "sentence": "For the more creative types, Synthesia includes an ‘AI Playground’ where you get [free access to Veo 3](https://www.synthesia.io/post/how-to-use-veo-3-for-free) and [Sora 2](https://www.synthesia.io/post/how-to-use-sora-2-for-free) to experiment making B-roll for videos."
+    }
+  ]
+}

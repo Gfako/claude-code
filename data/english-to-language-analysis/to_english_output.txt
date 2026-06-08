@@ -1,0 +1,64 @@
+=== Discovering all X-to-english pages (last 12 months) ===
+    259 clk |   34756 impr | pos  15.8 | https://www.synthesia.io/features/video-translator/spanish-to-english
+     73 clk |   12474 impr | pos  18.2 | https://www.synthesia.io/features/video-translator/french-to-english
+     39 clk |    6835 impr | pos  13.1 | https://www.synthesia.io/features/video-translator/japanese-to-english
+      1 clk |      70 impr | pos   7.4 | https://community.synthesia.io/c/ask-the-community/translations-scorm-files-default-to-english-version
+
+3 X-to-english pages discovered
+
+=== Monthly trajectory per page ===
+
+--- https://www.synthesia.io/features/video-translator/french-to-english ---
+Month                 Clicks     Impr    CTR   Pos
+Sep 2025                   0        0      -     -
+Oct 2025                   1      312   0.3%  30.3
+Nov 2025                   9     1359   0.7%  31.4
+Dec 2025                   8     2045   0.4%  28.3
+Jan 2026                  17     2294   0.7%  17.3
+Feb 2026                  10     2106   0.5%  15.2
+Mar 2026 (launch)          9     2093   0.4%  12.0
+Apr 2026                  14     1613   0.9%   8.5
+May 2026 (mtd)             5      652   0.8%   9.6
+
+--- https://www.synthesia.io/features/video-translator/japanese-to-english ---
+Month                 Clicks     Impr    CTR   Pos
+Sep 2025                   0        0      -     -
+Oct 2025                   0        0      -     -
+Nov 2025                   0        0      -     -
+Dec 2025                   0        0      -     -
+Jan 2026                   0        0      -     -
+Feb 2026                   7     1165   0.6%  34.6
+Mar 2026 (launch)         12     2484   0.5%   9.8
+Apr 2026                  10     2198   0.5%   7.4
+May 2026 (mtd)            10      988   1.0%   8.3
+
+--- https://www.synthesia.io/features/video-translator/spanish-to-english ---
+Month                 Clicks     Impr    CTR   Pos
+Sep 2025                   8     1583   0.5%  27.5
+Oct 2025                   6     2449   0.2%  34.2
+Nov 2025                   6     2340   0.3%  25.7
+Dec 2025                  11     3074   0.4%  30.4
+Jan 2026                  24     5096   0.5%  17.1
+Feb 2026                  40     5198   0.8%  14.1
+Mar 2026 (launch)         70     6206   1.1%   7.3
+Apr 2026                  54     6005   0.9%   7.0
+May 2026 (mtd)            40     2803   1.4%   7.6
+
+=== AGGREGATE X-to-english cluster monthly ===
+Month                 Clicks     Impr  Pages
+Sep 2025                   8     1583      1
+Oct 2025                   7     2761      2
+Nov 2025                  15     3699      2
+Dec 2025                  19     5119      2
+Jan 2026                  41     7390      2
+Feb 2026                  57     8469      3
+Mar 2026 (launch)         91    10783      3
+Apr 2026                  78     9816      3
+May 2026 (mtd)            55     4443      3
+
+=== PRE vs POST english-to-X launch (Mar 2026) ===
+Pre-launch (Sep '25 – Feb '26, 6 mo):     147 clicks /  29021 impr  => 24 clk/mo, 4837 impr/mo
+Post-launch (Mar '26 – May 17 '26, 2.55 mo):   224 clicks /  25042 impr  => 88 clk/mo, 9827 impr/mo
+Per-month delta: clicks +258.8%, impr +103.2%
+
+Saved to_english_trajectory.json

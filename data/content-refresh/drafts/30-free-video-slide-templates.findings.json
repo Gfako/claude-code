@@ -1,0 +1,316 @@
+{
+  "counts": {
+    "feature": 6,
+    "stat": 4,
+    "link": 6
+  },
+  "total": 16,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) In this article [1\\.",
+      "span": [
+        260,
+        272
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "30 Best Video Templates With AI Presenters",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) In this article [1\\. Board Meeting Presentation",
+      "span": [
+        276,
+        290
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "30 Best Video Templates With AI Presenters",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "70+ languages",
+      "context": "presenters](https://www.synthesia.io/tools/video-spokesperson). You simply select one, write the words you want them to speak (70+ languages supported), and add them to a specific slide. All our video templates have been created for a specific",
+      "span": [
+        4577,
+        4590
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "70+"
+      },
+      "location": {
+        "heading": "30 Best Video Templates With AI Presenters",
+        "heading_level": 1,
+        "line": 89
+      },
+      "sentence": "You simply select one, write the words you want them to speak (70+ languages supported), and add them to a specific slide."
+    },
+    {
+      "type": "feature",
+      "text": "70+ languages",
+      "context": "contains: - 6 customizable slides - Placeholders for charts and imagery - Text-to-speech function in 70+ languages - Realistic and diverse human-like AI presenters - Easy mp4 download and embed function Play ## 17\\.",
+      "span": [
+        15470,
+        15483
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "70+"
+      },
+      "location": {
+        "heading": "16\\. KPI Review",
+        "heading_level": 2,
+        "line": 303
+      },
+      "sentence": "6 customizable slides - Placeholders for charts and imagery - Text-to-speech function in 70+ languages - Realistic and diverse human-like AI presenters - Easy mp4 download and embed function"
+    },
+    {
+      "type": "feature",
+      "text": "60 languages",
+      "context": "for photos, videos, icons, and logos, as well as a human-like presenter** that can speak more than 60 languages. When you create a video in Synthesia, you can also record your screen and upload your own content.",
+      "span": [
+        19310,
+        19322
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "60"
+      },
+      "location": {
+        "heading": "22\\. Promo Video Template",
+        "heading_level": 2,
+        "line": 381
+      },
+      "sentence": "It includes **placeholders for photos, videos, icons, and logos, as well as a human-like presenter** that can speak more than 60 languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        27823,
+        27837
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "To create a video using slide templates:",
+        "heading_level": 5,
+        "line": 536
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "82%",
+      "context": "Orientation Video Did you know that a great employee onboarding process can improve employee retention [by 82%](https://www.ibm.com/training/pdfs/IBMTraining-TheValueofTraining.pdf)? And as remote work becomes",
+      "span": [
+        9446,
+        9449
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "7\\. Orientation Video",
+        "heading_level": 2,
+        "line": 185
+      },
+      "sentence": "Did you know that a great employee onboarding process can improve employee retention [by 82%](https://www.ibm.com/training/pdfs/IBMTraining-TheValueofTraining.pdf)?"
+    },
+    {
+      "type": "stat",
+      "text": "95%",
+      "context": "better](https://www.forbes.com/sites/yec/2017/07/13/how-to-incorporate-video-into-your-social-media-strategy/?sh=412e7f667f2e) — viewers retain 95% of a message when they watch it on video, compared to 10% when reading it in a text. To help you get",
+      "span": [
+        11070,
+        11073
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "9\\. Microlearning Video",
+        "heading_level": 2,
+        "line": 213
+      },
+      "sentence": "Compared to text, [video is simply better](https://www.forbes.com/sites/yec/2017/07/13/how-to-incorporate-video-into-your-social-media-strategy/?sh=412e7f667f2e) — viewers retain 95% of a message when they watch it on video, compared to 10% when reading it in a text."
+    },
+    {
+      "type": "stat",
+      "text": "10%",
+      "context": "better](https://www.forbes.com/sites/yec/2017/07/13/how-to-incorporate-video-into-your-social-media-strategy/?sh=412e7f667f2e) — viewers retain 95% of a message when they watch it on video, compared to 10% when reading it in a text. To help you get started with [microlearning videos](https://www.synthesia.io/learn/training-videos/microlearning),",
+      "span": [
+        11128,
+        11131
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "9\\. Microlearning Video",
+        "heading_level": 2,
+        "line": 213
+      },
+      "sentence": "Compared to text, [video is simply better](https://www.forbes.com/sites/yec/2017/07/13/how-to-incorporate-video-into-your-social-media-strategy/?sh=412e7f667f2e) — viewers retain 95% of a message when they watch it on video, compared to 10% when reading it in a text."
+    },
+    {
+      "type": "stat",
+      "text": "in 2022",
+      "context": "when you get an idea for a great piece of content, don’t think too much about the format — because in 2022, video is king. If you’re not a professional video creator, the easiest way is to start with a template.",
+      "span": [
+        16552,
+        16559
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "18\\. Content Marketing Video",
+        "heading_level": 2,
+        "line": 323
+      },
+      "sentence": "And when you get an idea for a great piece of content, don’t think too much about the format — because in 2022, video is king."
+    },
+    {
+      "type": "link",
+      "text": "https://www.forbes.com/sites/yec/2017/07/13/how-to-incorporate-video-into-your-social-media-strategy/?sh=412e7f667f2e",
+      "context": "",
+      "span": [
+        10934,
+        11051
+      ],
+      "meta": {
+        "domain": "www.forbes.com",
+        "anchor": "video is simply better"
+      },
+      "location": {
+        "heading": "9\\. Microlearning Video",
+        "heading_level": 2,
+        "line": 213
+      },
+      "sentence": "Compared to text, [video is simply better](https://www.forbes.com/sites/yec/2017/07/13/how-to-incorporate-video-into-your-social-media-strategy/?sh=412e7f667f2e) — viewers retain 95% of a message when they watch it on video, compared to 10% when reading it in a text."
+    },
+    {
+      "type": "link",
+      "text": "https://drive.google.com/uc?export=download&id=1A8Ua4n1aNNvkZnfN_MWqCorBpQ4VUkrR",
+      "context": "",
+      "span": [
+        25461,
+        25541
+      ],
+      "meta": {
+        "domain": "drive.google.com",
+        "anchor": "KEYNOTE - Download templates"
+      },
+      "location": {
+        "heading": "Bonus: Keynote and PowerPoint Slide Templates",
+        "heading_level": 2,
+        "line": 501
+      },
+      "sentence": "[KEYNOTE - Download templates](https://drive.google.com/uc?export=download&id=1A8Ua4n1aNNvkZnfN_MWqCorBpQ4VUkrR)"
+    },
+    {
+      "type": "link",
+      "text": "https://drive.google.com/uc?export=download&id=1zLFLlOrgFnL6StWxdZwV1X6wK1ttvLsd",
+      "context": "",
+      "span": [
+        25583,
+        25663
+      ],
+      "meta": {
+        "domain": "drive.google.com",
+        "anchor": "POWERPOINT - Download templates here"
+      },
+      "location": {
+        "heading": "Bonus: Keynote and PowerPoint Slide Templates",
+        "heading_level": 2,
+        "line": 503
+      },
+      "sentence": "[POWERPOINT - Download templates here](https://drive.google.com/uc?export=download&id=1zLFLlOrgFnL6StWxdZwV1X6wK1ttvLsd)"
+    },
+    {
+      "type": "link",
+      "text": "https://drive.google.com/uc?export=download&amp;id=1A8Ua4n1aNNvkZnfN_MWqCorBpQ4VUkrR",
+      "context": "",
+      "span": [
+        66157,
+        66464
+      ],
+      "meta": {
+        "domain": "drive.google.com",
+        "anchor": "KEYNOTE - Download templates"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://drive.google.com/uc?export=download&amp;id=1zLFLlOrgFnL6StWxdZwV1X6wK1ttvLsd",
+      "context": "",
+      "span": [
+        66471,
+        66786
+      ],
+      "meta": {
+        "domain": "drive.google.com",
+        "anchor": "POWERPOINT - Download templates here"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        69659,
+        71008
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

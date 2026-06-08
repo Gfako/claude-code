@@ -1,0 +1,84 @@
+{
+  "counts": {
+    "link": 4
+  },
+  "total": 4,
+  "findings": [
+    {
+      "type": "link",
+      "text": "https://app.synthesia.io/#/video/d45a3caa-69ac-475f-ae07-f006fc7c202b/duplicate",
+      "context": "",
+      "span": [
+        36941,
+        37714
+      ],
+      "meta": {
+        "domain": "app.synthesia.io",
+        "anchor": "Duplicate template"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://app.synthesia.io/#/video/96670c7a-3f00-4237-b3c7-1c659c087d19/duplicate",
+      "context": "",
+      "span": [
+        38801,
+        39574
+      ],
+      "meta": {
+        "domain": "app.synthesia.io",
+        "anchor": "Duplicate template"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://app.synthesia.io/#/video/7d3b46df-3350-4f37-ab1a-58998657b456/duplicate",
+      "context": "",
+      "span": [
+        40665,
+        41438
+      ],
+      "meta": {
+        "domain": "app.synthesia.io",
+        "anchor": "Duplicate template"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://app.synthesia.io/#/video/ecc619cf-20ea-4b71-80df-115f32bded1e/duplicate",
+      "context": "",
+      "span": [
+        42536,
+        43309
+      ],
+      "meta": {
+        "domain": "app.synthesia.io",
+        "anchor": "Duplicate template"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

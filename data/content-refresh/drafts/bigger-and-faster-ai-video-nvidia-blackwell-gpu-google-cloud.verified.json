@@ -1,0 +1,156 @@
+{
+  "slug": "bigger-and-faster-ai-video-nvidia-blackwell-gpu-google-cloud",
+  "page_brand": null,
+  "total_findings": 6,
+  "by_severity": {
+    "unconfirmed": 5,
+    "needs_check": 1
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Peter Hill](https://www.synthesia.io/blog/authors/peter-hill) June 9, 2025 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        333,
+        345
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Going bigger and faster on AI video with NVIDIA’s Blackwell GPUs in Google Cloud",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Hill](https://www.synthesia.io/blog/authors/peter-hill) June 9, 2025 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        349,
+        363
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Going bigger and faster on AI video with NVIDIA’s Blackwell GPUs in Google Cloud",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        5623,
+        5637
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Going bigger and faster on AI video with NVIDIA’s Blackwell GPUs in Google Cloud",
+        "heading_level": 1,
+        "line": 55
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "by NVIDIA’s B200 GPUs. The results so far are encouraging: during initial trials, we've achieved a 40% performance improvement compared to previous training runs using H200 GPUs, and we were able to scale",
+      "span": [
+        2708,
+        2711
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Going bigger and faster on AI video with NVIDIA’s Blackwell GPUs in Google Cloud",
+        "heading_level": 1,
+        "line": 29
+      },
+      "sentence": "The results so far are encouraging: during initial trials, we've achieved a 40% performance improvement compared to previous training runs using H200 GPUs, and we were able to scale that further to 70% for a larger version of our state of the art model that’s currently under development.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '40%'",
+      "suggested_fix": "Stat reference: `40%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "70%",
+      "context": "improvement compared to previous training runs using H200 GPUs, and we were able to scale that further to 70% for a larger version of our state of the art model that’s currently under development. We achieved",
+      "span": [
+        2830,
+        2833
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Going bigger and faster on AI video with NVIDIA’s Blackwell GPUs in Google Cloud",
+        "heading_level": 1,
+        "line": 29
+      },
+      "sentence": "The results so far are encouraging: during initial trials, we've achieved a 40% performance improvement compared to previous training runs using H200 GPUs, and we were able to scale that further to 70% for a larger version of our state of the art model that’s currently under development.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '70%'",
+      "suggested_fix": "Stat reference: `70%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/powder8/",
+      "context": "",
+      "span": [
+        20348,
+        21696
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

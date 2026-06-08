@@ -1,0 +1,157 @@
+{
+  "slug": "best-practices-in-training-and-development",
+  "page_brand": null,
+  "total_findings": 7,
+  "by_severity": {
+    "unconfirmed": 2,
+    "needs_check": 5
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Vidor](https://www.synthesia.io/blog/authors/amy-vidor) March 11, 2026 Create engaging training videos in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [1\\.",
+      "span": [
+        279,
+        293
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "L&D Best Practices for Employee Training",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create engaging training videos in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        22736,
+        22750
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Key Takeaways",
+        "heading_level": 2,
+        "line": 309
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://journals.sagepub.com/doi/abs/10.1177/0018720819845988",
+      "context": "",
+      "span": [
+        9504,
+        9565
+      ],
+      "meta": {
+        "domain": "journals.sagepub.com",
+        "anchor": "performance changed"
+      },
+      "location": {
+        "heading": "4\\. Design for skill transfer",
+        "heading_level": 2,
+        "line": 149
+      },
+      "sentence": "Skill transfer is the bridge between “people learned something” and “ [performance changed](https://journals.sagepub.com/doi/abs/10.1177/0018720819845988).” The work environment is part of the design: peer support, manager coaching, and organizational reinforcement determine whether new behaviors stick after the session ends.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.tandfonline.com/doi/pdf/10.1080/1359432X.2024.2319082",
+      "context": "",
+      "span": [
+        12290,
+        12355
+      ],
+      "meta": {
+        "domain": "www.tandfonline.com",
+        "anchor": "changed behavior."
+      },
+      "location": {
+        "heading": "6\\. Make managers your multiplier",
+        "heading_level": 2,
+        "line": 187
+      },
+      "sentence": "Managers are the fastest path from “completed training” to “ [changed behavior.](https://www.tandfonline.com/doi/pdf/10.1080/1359432X.2024.2319082)” They translate the standard into day-to-day expectations, create practice moments in real work, and reinforce what “good” looks like when things get messy.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/a-new-operating-model-for-a-new-world",
+      "context": "",
+      "span": [
+        14218,
+        14344
+      ],
+      "meta": {
+        "domain": "www.mckinsey.com",
+        "anchor": "operating model challenge"
+      },
+      "location": {
+        "heading": "7\\. Treat content like a product",
+        "heading_level": 2,
+        "line": 211
+      },
+      "sentence": "That’s an [operating model challenge](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/a-new-operating-model-for-a-new-world) as much as a content challenge.",
+      "severity": "confirmed",
+      "title": "Dead link (unreachable)",
+      "suggested_fix": "Link is unreachable (no HTTP response — DNS failure, refused connection, or site is down). Remove or replace.",
+      "source": "",
+      "source_note": "HEAD status: 000"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        53176,
+        54525
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

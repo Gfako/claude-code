@@ -1,0 +1,424 @@
+{
+  "counts": {
+    "feature": 5,
+    "stat": 9,
+    "link": 8
+  },
+  "total": 22,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Amy Vidor](https://www.synthesia.io/blog/authors/amy-vidor) February 26, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        289,
+        301
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "AI Sales Enablement: Use Cases, Benefits, and Implementation",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create AI videos with 240+ avatars in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)",
+      "span": [
+        19249,
+        19261
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "**What’s next for AI sales enablement?**",
+        "heading_level": 2,
+        "line": 308
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create AI videos with 240+ avatars in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Vidor](https://www.synthesia.io/blog/authors/amy-vidor) February 26, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [What",
+      "span": [
+        305,
+        319
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "AI Sales Enablement: Use Cases, Benefits, and Implementation",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create AI videos with 240+ avatars in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)",
+      "span": [
+        19265,
+        19279
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "**What’s next for AI sales enablement?**",
+        "heading_level": 2,
+        "line": 308
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Create AI videos with 240+ avatars in 160+ languages.\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/features/ai-video-generator)"
+    },
+    {
+      "type": "feature",
+      "text": "20 hours per month",
+      "context": "Synthesia so instructional designers could produce training videos directly. Zoom reports SMEs saved **15–20 hours per month** as a result. (https://www.synthesia.io/case-studies/zoom) - **4) Speed up content creation and refresh",
+      "span": [
+        15410,
+        15428
+      ],
+      "meta": {
+        "subtype": "volume_per_period",
+        "brand": "Synthesia",
+        "value": "20"
+      },
+      "location": {
+        "heading": "Pilot, calibrate, and scale",
+        "heading_level": 3,
+        "line": 251
+      },
+      "sentence": "Zoom reports SMEs saved **15–20 hours per month** as a result."
+    },
+    {
+      "type": "stat",
+      "text": "81%",
+      "context": "across regions, roles, and managers — and makes it easier for messaging to drift. That's probably why [**81% of sales teams**](https://www.ibm.com/think/topics/ai-sales-enablement) report using AI today. The",
+      "span": [
+        4913,
+        4916
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Why is AI sales enablement gaining traction?",
+        "heading_level": 2,
+        "line": 68
+      },
+      "sentence": "That's probably why [**81% of sales teams**](https://www.ibm.com/think/topics/ai-sales-enablement) report using AI today."
+    },
+    {
+      "type": "stat",
+      "text": "84%",
+      "context": "they learn during active deals rather than weeks later. ‍ 💡 **Did you know?** In our research, **84%** of respondents cite faster production as the top reason to adopt AI, and **88%** say they already",
+      "span": [
+        7376,
+        7379
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Faster ramp with standards intact** ‍",
+        "heading_level": 3,
+        "line": 94
+      },
+      "sentence": "💡 **Did you know?** In our research, **84%** of respondents cite faster production as the top reason to adopt AI, and **88%** say they already save time on content creation."
+    },
+    {
+      "type": "stat",
+      "text": "88%",
+      "context": "In our research, **84%** of respondents cite faster production as the top reason to adopt AI, and **88%** say they already save time on content creation. ### **More consistent execution across teams**",
+      "span": [
+        7457,
+        7460
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Faster ramp with standards intact** ‍",
+        "heading_level": 3,
+        "line": 94
+      },
+      "sentence": "💡 **Did you know?** In our research, **84%** of respondents cite faster production as the top reason to adopt AI, and **88%** say they already save time on content creation."
+    },
+    {
+      "type": "stat",
+      "text": "52%",
+      "context": "across roles and geographies, including faster localization when needed. ‍ 💡 **Did you know?** **52%** say they’re already using AI to create video learning content, and **38%** are using AI for translation",
+      "span": [
+        7810,
+        7813
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**More consistent execution across teams**",
+        "heading_level": 3,
+        "line": 102
+      },
+      "sentence": "💡 **Did you know?** **52%** say they’re already using AI to create video learning content, and **38%** are using AI for translation and localization."
+    },
+    {
+      "type": "stat",
+      "text": "38%",
+      "context": "‍ 💡 **Did you know?** **52%** say they’re already using AI to create video learning content, and **38%** are using AI for translation and localization. ### **Clearer visibility into readiness gaps** **‍**",
+      "span": [
+        7885,
+        7888
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**More consistent execution across teams**",
+        "heading_level": 3,
+        "line": 102
+      },
+      "sentence": "💡 **Did you know?** **52%** say they’re already using AI to create video learning content, and **38%** are using AI for translation and localization."
+    },
+    {
+      "type": "stat",
+      "text": "36%",
+      "context": "on, such as which situations stall deals or which behaviors need reinforcement. ‍ 💡 **Did you know?36%** say they’re already piloting AI for assessments and simulations, and **55%** expect clearer business",
+      "span": [
+        8239,
+        8242
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Clearer visibility into readiness gaps**",
+        "heading_level": 3,
+        "line": 110
+      },
+      "sentence": "💡 **Did you know?36%** say they’re already piloting AI for assessments and simulations, and **55%** expect clearer business impact from AI within the next two years."
+    },
+    {
+      "type": "stat",
+      "text": "55%",
+      "context": "reinforcement. ‍ 💡 **Did you know?36%** say they’re already piloting AI for assessments and simulations, and **55%** expect clearer business impact from AI within the next two years. ### **Less time lost to searching",
+      "span": [
+        8316,
+        8319
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Clearer visibility into readiness gaps**",
+        "heading_level": 3,
+        "line": 110
+      },
+      "sentence": "💡 **Did you know?36%** say they’re already piloting AI for assessments and simulations, and **55%** expect clearer business impact from AI within the next two years."
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "update, and reuse enablement materials, especially when content changes frequently. ‍ 💡 **Did you know?40%** say they’re already using AI search and knowledge assistants. ## What are the best AI sales enablement",
+      "span": [
+        8636,
+        8639
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Less time lost to searching and rework**",
+        "heading_level": 3,
+        "line": 118
+      },
+      "sentence": "💡 **Did you know?40%** say they’re already using AI search and knowledge assistants."
+    },
+    {
+      "type": "stat",
+      "text": "90%",
+      "context": "content creation and refresh cycles** Zoom reports instructional designers can create training videos **90% faster**, producing content in **less than an hour**. (https://www.synthesia.io/case-studies/zoom)",
+      "span": [
+        15611,
+        15614
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Pilot, calibrate, and scale",
+        "heading_level": 3,
+        "line": 255
+      },
+      "sentence": "Zoom reports instructional designers can create training videos **90% faster**, producing content in **less than an hour**."
+    },
+    {
+      "type": "link",
+      "text": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "context": "",
+      "span": [
+        2179,
+        2258
+      ],
+      "meta": {
+        "domain": "www.mckinsey.com",
+        "anchor": "**at least one business function**,"
+      },
+      "location": {
+        "heading": "AI Sales Enablement: Use Cases, Benefits, and Implementation",
+        "heading_level": 1,
+        "line": 37
+      },
+      "sentence": "Most organizations are using AI in [**at least one business function**,](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) yet many are still experimenting rather than scaling."
+    },
+    {
+      "type": "link",
+      "text": "https://www.ibm.com/think/topics/ai-sales-enablement",
+      "context": "",
+      "span": [
+        4935,
+        4987
+      ],
+      "meta": {
+        "domain": "www.ibm.com",
+        "anchor": "**81% of sales teams**"
+      },
+      "location": {
+        "heading": "Why is AI sales enablement gaining traction?",
+        "heading_level": 2,
+        "line": 68
+      },
+      "sentence": "That's probably why [**81% of sales teams**](https://www.ibm.com/think/topics/ai-sales-enablement) report using AI today."
+    },
+    {
+      "type": "link",
+      "text": "https://link.springer.com/article/10.1007/s43681-024-00653-w",
+      "context": "",
+      "span": [
+        5097,
+        5157
+      ],
+      "meta": {
+        "domain": "link.springer.com",
+        "anchor": "clear standards and governance"
+      },
+      "location": {
+        "heading": "Why is AI sales enablement gaining traction?",
+        "heading_level": 2,
+        "line": 70
+      },
+      "sentence": "The strongest outcomes come when AI is anchored to [clear standards and governance](https://link.springer.com/article/10.1007/s43681-024-00653-w), so usage can scale without eroding consistency."
+    },
+    {
+      "type": "link",
+      "text": "https://link.springer.com/article/10.1007/s11528-025-01101-0",
+      "context": "",
+      "span": [
+        5286,
+        5346
+      ],
+      "meta": {
+        "domain": "link.springer.com",
+        "anchor": "controlled, approved sources"
+      },
+      "location": {
+        "heading": "Why is AI sales enablement gaining traction?",
+        "heading_level": 2,
+        "line": 70
+      },
+      "sentence": "Accuracy improves when outputs are grounded in [controlled, approved sources](https://link.springer.com/article/10.1007/s11528-025-01101-0) rather than open-ended generation."
+    },
+    {
+      "type": "link",
+      "text": "https://www.sciencedirect.com/science/article/pii/S2468227625004168",
+      "context": "",
+      "span": [
+        5634,
+        5701
+      ],
+      "meta": {
+        "domain": "www.sciencedirect.com",
+        "anchor": "**Content decay and inconsistency**"
+      },
+      "location": {
+        "heading": "What problems does AI sales enablement solve?",
+        "heading_level": 2,
+        "line": 76
+      },
+      "sentence": "[**Content decay and inconsistency**](https://www.sciencedirect.com/science/article/pii/S2468227625004168) **:** assets age quickly, “latest” versions multiply, and teams end up using conflicting messaging across regions."
+    },
+    {
+      "type": "link",
+      "text": "https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2025.1569098/full",
+      "context": "",
+      "span": [
+        5846,
+        5949
+      ],
+      "meta": {
+        "domain": "www.frontiersin.org",
+        "anchor": "**Onboarding overload**"
+      },
+      "location": {
+        "heading": "What problems does AI sales enablement solve?",
+        "heading_level": 2,
+        "line": 77
+      },
+      "sentence": "[**Onboarding overload**](https://www.frontiersin.org/journals/organizational-psychology/articles/10.3389/forgp.2025.1569098/full) **:** ramp programs deliver too much at once, and sellers forget critical details when they hit real customer situations."
+    },
+    {
+      "type": "link",
+      "text": "https://www.sciencedirect.com/science/article/abs/pii/S1053482224000639",
+      "context": "",
+      "span": [
+        6391,
+        6462
+      ],
+      "meta": {
+        "domain": "www.sciencedirect.com",
+        "anchor": "**Coaching bottlenecks**"
+      },
+      "location": {
+        "heading": "What problems does AI sales enablement solve?",
+        "heading_level": 2,
+        "line": 80
+      },
+      "sentence": "[**Coaching bottlenecks**](https://www.sciencedirect.com/science/article/abs/pii/S1053482224000639) **:** managers cannot review enough calls or deliver consistent feedback at scale, especially across distributed teams."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/amyvidor/",
+      "context": "",
+      "span": [
+        41077,
+        42426
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+====================================================================================================
+TOP 5 QUERIES PER PAGE (last 6 months)
+====================================================================================================
+
+--- BANGLA (37 clicks, 710 impr, 41 unique queries) ---
+     6 clk |     38 impr |  15.8% CTR | pos   8.2 | english to bangla video dubbing free
+     5 clk |    116 impr |   4.3% CTR | pos   7.1 | video translator english to bangla
+     3 clk |    160 impr |   1.9% CTR | pos   5.3 | english video bangla
+     3 clk |     32 impr |   9.4% CTR | pos   5.4 | english video to bangla translation free
+     3 clk |     25 impr |  12.0% CTR | pos   9.0 | video translate english to bangla
+
+--- HINDI (22 clicks, 355 impr, 50 unique queries) ---
+     3 clk |     12 impr |  25.0% CTR | pos   8.6 | english to hindi translation youtube video
+     3 clk |      3 impr | 100.0% CTR | pos   3.0 | free
+     3 clk |     21 impr |  14.3% CTR | pos   8.4 | youtube video english to hindi translation
+     2 clk |      2 impr | 100.0% CTR | pos  20.0 | english to hindi dubbed video free
+     1 clk |      1 impr | 100.0% CTR | pos  30.0 | ai video translator english to hindi
+
+--- ARABIC (5 clicks, 345 impr, 42 unique queries) ---
+     1 clk |      3 impr |  33.3% CTR | pos   4.3 | translate english to arabic video
+     1 clk |      1 impr | 100.0% CTR | pos  22.0 | translate video to arabic
+     1 clk |      2 impr |  50.0% CTR | pos  28.0 | translate video to arabic ai
+     1 clk |      3 impr |  33.3% CTR | pos  23.7 | translate video to arabic free
+     1 clk |      1 impr | 100.0% CTR | pos   3.0 | welche ist kostenlos
+
+--- MALAY (5 clicks, 1227 impr, 20 unique queries) ---
+     2 clk |      7 impr |  28.6% CTR | pos  12.3 | translate video to malay
+     2 clk |    677 impr |   0.3% CTR | pos   5.1 | video in malay
+     1 clk |      9 impr |  11.1% CTR | pos   6.4 | translate english to malay video
+     0 clk |      4 impr |   0.0% CTR | pos  11.8 | doable in malay
+     0 clk |      9 impr |   0.0% CTR | pos   2.0 | dubbing in malay
+
+--- TAMIL (4 clicks, 250 impr, 25 unique queries) ---
+     2 clk |      3 impr |  66.7% CTR | pos  12.0 | english to tamil video translation free online
+     1 clk |      4 impr |  25.0% CTR | pos   2.2 | youtube video english to tamil translation
+     1 clk |      7 impr |  14.3% CTR | pos   7.0 | youtube video translate in tamil free
+     0 clk |      2 impr |   0.0% CTR | pos   1.0 | "tamil voice collection" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com
+     0 clk |      6 impr |   0.0% CTR | pos  10.7 | added a video to their story meaning in tamil
+
+--- CHINESE (1 clicks, 22 impr, 4 unique queries) ---
+     1 clk |      3 impr |  33.3% CTR | pos   1.7 | translate video to chinese free
+     0 clk |      2 impr |   0.0% CTR | pos  76.5 | english to chinese speech translation
+     0 clk |      4 impr |   0.0% CTR | pos  33.8 | translate english to chinese with voice
+     0 clk |     13 impr |   0.0% CTR | pos  62.9 | translate video to chinese
+
+--- CZECH (1 clicks, 32 impr, 9 unique queries) ---
+     1 clk |      1 impr | 100.0% CTR | pos   1.0 | for video content
+     0 clk |      4 impr |   0.0% CTR | pos   6.0 | czech video io
+     0 clk |      3 impr |   0.0% CTR | pos   4.0 | czechvideo.io
+     0 clk |      2 impr |   0.0% CTR | pos   8.0 | czechvideos io
+     0 clk |      4 impr |   0.0% CTR | pos  16.0 | english to czech translation audio
+
+--- FILIPINO (1 clicks, 54 impr, 8 unique queries) ---
+     1 clk |      3 impr |  33.3% CTR | pos  10.3 | video translator english to tagalog
+     0 clk |     13 impr |   0.0% CTR | pos   1.0 | english to tagalog best translator : voice
+     0 clk |      2 impr |   0.0% CTR | pos   4.0 | synthesia languages supported site:synthesia.io
+     0 clk |      2 impr |   0.0% CTR | pos   7.0 | synthesia supports how many languages 2026 site:synthesia.io
+     0 clk |      4 impr |   0.0% CTR | pos   7.8 | video in filipino
+
+--- GREEK (1 clicks, 35 impr, 10 unique queries) ---
+     1 clk |     15 impr |   6.7% CTR | pos  14.9 | translate video to greek
+     0 clk |      2 impr |   0.0% CTR | pos  30.0 | english to greek translation audio
+     0 clk |      2 impr |   0.0% CTR | pos  10.0 | site:synthesia.io pricing 2026 official
+     0 clk |      1 impr |   0.0% CTR | pos   1.0 | synthesia
+     0 clk |      1 impr |   0.0% CTR | pos   1.0 | synthesia supported languages site:synthesia.io
+
+--- ITALIAN (1 clicks, 38 impr, 10 unique queries) ---
+     1 clk |      1 impr | 100.0% CTR | pos   8.0 | online youtube
+     0 clk |      4 impr |   0.0% CTR | pos  17.5 | english to italian video translator
+     0 clk |      1 impr |   0.0% CTR | pos   1.0 | site:synthesia.io video translate lip sync official
+     0 clk |      2 impr |   0.0% CTR | pos   8.5 | synthesia
+     0 clk |      2 impr |   0.0% CTR | pos   1.0 | synthesia languages supported site:synthesia.io
+
+--- ROMANIAN (1 clicks, 7 impr, 4 unique queries) ---
+     1 clk |      1 impr | 100.0% CTR | pos   1.0 | synthesia
+     0 clk |      2 impr |   0.0% CTR | pos   8.0 | english to romanian speech
+     0 clk |      2 impr |   0.0% CTR | pos  16.0 | english video to romanian translator
+     0 clk |      2 impr |   0.0% CTR | pos  27.5 | translate english to romanian audio
+
+--- DANISH (0 clicks, 3 impr, 1 unique queries) ---
+     0 clk |      3 impr |   0.0% CTR | pos   4.3 | synthesia supported languages danish
+
+--- DUTCH (0 clicks, 29 impr, 4 unique queries) ---
+     0 clk |      2 impr |   0.0% CTR | pos 228.0 | site:www.synthesia.io
+     0 clk |      2 impr |   0.0% CTR | pos   2.0 | synthesia languages supported site:synthesia.io
+     0 clk |     23 impr |   0.0% CTR | pos   5.8 | synthesia nederlands
+     0 clk |      2 impr |   0.0% CTR | pos  29.0 | translate english to dutch voice
+
+--- FINNISH (0 clicks, 0 impr, 0 unique queries) ---
+
+--- GERMAN (0 clicks, 57 impr, 8 unique queries) ---
+     0 clk |      2 impr |   0.0% CTR | pos   7.0 | english to german voice
+     0 clk |      2 impr |   0.0% CTR | pos  31.5 | german audio video translation
+     0 clk |      2 impr |   0.0% CTR | pos  18.5 | german video translation
+     0 clk |      6 impr |   0.0% CTR | pos   9.7 | site:synthesia.io affiliate program synthesia
+     0 clk |      2 impr |   0.0% CTR | pos   3.0 | synthesia languages supported site:synthesia.io
+
+--- HUNGARIAN (0 clicks, 4 impr, 2 unique queries) ---
+     0 clk |      2 impr |   0.0% CTR | pos  19.0 | english to hungarian translation audio
+     0 clk |      2 impr |   0.0% CTR | pos  20.0 | translate english to hungarian audio
+
+--- INDONESIAN (0 clicks, 17 impr, 4 unique queries) ---
+     0 clk |      2 impr |   0.0% CTR | pos  87.5 | features pricing solutions site:https://synthesia.io/
+     0 clk |     11 impr |   0.0% CTR | pos  37.8 | site:https://www.synthesia.io
+     0 clk |      2 impr |   0.0% CTR | pos  16.5 | site:https://www.synthesia.io/
+     0 clk |      2 impr |   0.0% CTR | pos 189.5 | site:www.synthesia.io
+
+--- KOREAN (0 clicks, 32 impr, 9 unique queries) ---
+     0 clk |      6 impr |   0.0% CTR | pos  22.0 | english to korean video translator
+     0 clk |      4 impr |   0.0% CTR | pos   8.0 | korean video translator
+     0 clk |      4 impr |   0.0% CTR | pos  14.0 | site:https://synthesia.io
+     0 clk |      8 impr |   0.0% CTR | pos  22.1 | site:https://www.synthesia.io
+     0 clk |      2 impr |   0.0% CTR | pos  17.5 | site:https://www.synthesia.io/
+
+--- NORWEGIAN (0 clicks, 47 impr, 4 unique queries) ---
+     0 clk |      2 impr |   0.0% CTR | pos  23.5 | english to norwegian translation audio
+     0 clk |     18 impr |   0.0% CTR | pos   1.9 | site:synthesia.io affiliate program synthesia
+     0 clk |     15 impr |   0.0% CTR | pos   2.0 | synthesia norwegian language support
+     0 clk |     12 impr |   0.0% CTR | pos   2.0 | synthesia supported languages norwegian
+
+--- POLISH (0 clicks, 19 impr, 7 unique queries) ---
+     0 clk |      2 impr |   0.0% CTR | pos  48.0 | english to polish translation audio
+     0 clk |      2 impr |   0.0% CTR | pos  14.5 | english to polish video translator
+     0 clk |      2 impr |   0.0% CTR | pos   7.0 | site:synthesia.io affiliate program
+     0 clk |      3 impr |   0.0% CTR | pos 236.7 | site:www.synthesia.io
+     0 clk |      4 impr |   0.0% CTR | pos   4.0 | synthesia supported languages polish
+
+--- PORTUGUESE (0 clicks, 70 impr, 7 unique queries) ---
+     0 clk |     13 impr |   0.0% CTR | pos  17.5 | english to portuguese video translator
+     0 clk |      4 impr |   0.0% CTR | pos   2.0 | synthesia portuguese language support
+     0 clk |      2 impr |   0.0% CTR | pos   1.0 | synthesia portuguese voices
+     0 clk |      2 impr |   0.0% CTR | pos   3.0 | synthesia supported languages portuguese
+     0 clk |      2 impr |   0.0% CTR | pos  26.0 | translate english video to portuguese
+
+--- RUSSIAN (0 clicks, 46 impr, 13 unique queries) ---
+     0 clk |      4 impr |   0.0% CTR | pos   2.5 | best ways to translate english video to russian 2026
+     0 clk |      2 impr |   0.0% CTR | pos  41.0 | english to russian translation audio
+     0 clk |      1 impr |   0.0% CTR | pos   1.0 | english to russian video translation
+     0 clk |      2 impr |   0.0% CTR | pos  22.0 | english to russian video translator
+     0 clk |      2 impr |   0.0% CTR | pos   4.0 | free ai video dubbing english to russian 2026
+
+--- SWEDISH (0 clicks, 6 impr, 3 unique queries) ---
+     0 clk |      2 impr |   0.0% CTR | pos  19.5 | english to swedish translation with sound
+     0 clk |      1 impr |   0.0% CTR | pos   1.0 | site:synthesia.io video translate lip sync official
+     0 clk |      3 impr |   0.0% CTR | pos 234.7 | site:www.synthesia.io
+
+--- TURKISH (0 clicks, 26 impr, 4 unique queries) ---
+     0 clk |      4 impr |   0.0% CTR | pos  12.2 | english to turkish video translator
+     0 clk |      6 impr |   0.0% CTR | pos   6.2 | synthesia supported languages list turkish
+     0 clk |      4 impr |   0.0% CTR | pos   3.8 | synthesia supported languages turkish
+     0 clk |     12 impr |   0.0% CTR | pos   2.4 | synthesia turkish language support
+
+--- UKRAINIAN (0 clicks, 26 impr, 5 unique queries) ---
+     0 clk |      8 impr |   0.0% CTR | pos  11.8 | english to ukrainian video translator
+     0 clk |      9 impr |   0.0% CTR | pos  21.9 | site:https://www.synthesia.io
+     0 clk |      2 impr |   0.0% CTR | pos  18.5 | site:https://www.synthesia.io/
+     0 clk |      5 impr |   0.0% CTR | pos   2.6 | synthesia supported languages ukrainian
+     0 clk |      2 impr |   0.0% CTR | pos   2.0 | synthesia ukrainian language support
+
+--- VIETNAMESE (0 clicks, 30 impr, 5 unique queries) ---
+     0 clk |     10 impr |   0.0% CTR | pos  13.0 | english to vietnamese video translator
+     0 clk |      6 impr |   0.0% CTR | pos   3.5 | synthesia supported languages vietnamese
+     0 clk |      7 impr |   0.0% CTR | pos   2.1 | synthesia vietnamese language support
+     0 clk |      2 impr |   0.0% CTR | pos   1.5 | synthesia vietnamese language support 2026
+     0 clk |      5 impr |   0.0% CTR | pos  38.0 | translate video to vietnamese
+
+====================================================================================================
+COMMON QUERY PATTERNS
+====================================================================================================
+
+Most common tokens across all queries:
+   136  to
+   136  video
+   115  english
+    78  synthesia
+    71  translate
+    47  hindi
+    37  languages
+    36  translation
+    31  bangla
+    28  voice
+    27  in
+    26  language
+    26  supported
+    25  support
+    24  youtube
+    23  tamil
+    21  free
+    21  site:synthesia.io
+    20  translator
+    18  malay
+    17  arabic
+    17  2026
+    15  how
+    14  audio
+    13  dubbing
+    13  supports
+    11  russian
+     8  many
+     8  official
+     7  ai
+
+====================================================================================================
+HIGH IMPRESSIONS, LOW CTR (CTR < 1% AND IMPR >= 200)
+====================================================================================================
+    677 impr |   2 clk |  0.3% CTR | pos   5.1 | malay        | video in malay
+    434 impr |   0 clk |  0.0% CTR | pos   3.6 | malay        | translate english to malay voice
+
+====================================================================================================
+OPPORTUNITY: POSITION 4-15 WITH >=50 IMPR (push these to top 3)
+====================================================================================================
+  pos   5.1 |   677 impr |   2 clk |  0.3% CTR | malay        | video in malay
+  pos   5.3 |   160 impr |   3 clk |  1.9% CTR | bangla       | english video bangla
+  pos   7.1 |   116 impr |   5 clk |  4.3% CTR | bangla       | video translator english to bangla
+  pos   4.1 |    93 impr |   0 clk |  0.0% CTR | arabic       | synthesia supports how many languages 2026
+
+====================================================================================================
+WORST CTR PAGES (impr >= 500)
+====================================================================================================
+   0.4% CTR |   1227 impr |    5 clk | malay
+   5.2% CTR |    710 impr |   37 clk | bangla

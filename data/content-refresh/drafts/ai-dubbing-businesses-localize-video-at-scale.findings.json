@@ -1,0 +1,218 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 4,
+    "link": 4
+  },
+  "total": 11,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Bondarenko](https://www.synthesia.io/blog/authors/anton-bondarenko) July 18, 2025 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        330,
+        342
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "AI Dubbing set to transform how businesses localize video at scale",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Bondarenko](https://www.synthesia.io/blog/authors/anton-bondarenko) July 18, 2025 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        346,
+        360
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "AI Dubbing set to transform how businesses localize video at scale",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        8300,
+        8314
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "**The real-world benefits of AI Dubbing**",
+        "heading_level": 2,
+        "line": 107
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "18%",
+      "context": "doesn’t stick, products are misunderstood, teams fall out of sync, or customers leave. Only about **18% of the world’s population speaks English**, and just **6% speak it natively**. That means over **80%",
+      "span": [
+        2863,
+        2866
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Tackling localization through the understanding paradigm**",
+        "heading_level": 2,
+        "line": 43
+      },
+      "sentence": "Only about **18% of the world’s population speaks English**, and just **6% speak it natively**."
+    },
+    {
+      "type": "stat",
+      "text": "6%",
+      "context": "sync, or customers leave. Only about **18% of the world’s population speaks English**, and just **6% speak it natively**. That means over **80% of your global audience** is either working in a second",
+      "span": [
+        2922,
+        2924
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Tackling localization through the understanding paradigm**",
+        "heading_level": 2,
+        "line": 43
+      },
+      "sentence": "Only about **18% of the world’s population speaks English**, and just **6% speak it natively**."
+    },
+    {
+      "type": "stat",
+      "text": "80%",
+      "context": "**18% of the world’s population speaks English**, and just **6% speak it natively**. That means over **80% of your global audience** is either working in a second language or not engaging at all. And in business,",
+      "span": [
+        2964,
+        2967
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Tackling localization through the understanding paradigm**",
+        "heading_level": 2,
+        "line": 43
+      },
+      "sentence": "That means over **80% of your global audience** is either working in a second language or not engaging at all."
+    },
+    {
+      "type": "stat",
+      "text": "50%",
+      "context": "risks. In fact, a study by the Institute for Work & Health found that **non-native speakers are up to 50% more likely to experience workplace safety incidents**. Another report from the European Agency for",
+      "span": [
+        3339,
+        3342
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "**Tackling localization through the understanding paradigm**",
+        "heading_level": 2,
+        "line": 45
+      },
+      "sentence": "In fact, a study by the Institute for Work & Health found that **non-native speakers are up to 50% more likely to experience workplace safety incidents**."
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=YAWgZ1RDAII",
+      "context": "",
+      "span": [
+        1644,
+        1687
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "Synthesia AI Dubbing"
+      },
+      "location": {
+        "heading": "AI Dubbing set to transform how businesses localize video at scale",
+        "heading_level": 1,
+        "line": 31
+      },
+      "sentence": "[Synthesia AI Dubbing](https://www.youtube.com/watch?v=YAWgZ1RDAII) [Synthesia](https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg",
+      "context": "",
+      "span": [
+        1701,
+        1757
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "Synthesia"
+      },
+      "location": {
+        "heading": "AI Dubbing set to transform how businesses localize video at scale",
+        "heading_level": 1,
+        "line": 31
+      },
+      "sentence": "[Synthesia AI Dubbing](https://www.youtube.com/watch?v=YAWgZ1RDAII) [Synthesia](https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.youtube.com/watch?v=gwgwZxwq7vA",
+      "context": "",
+      "span": [
+        6252,
+        6295
+      ],
+      "meta": {
+        "domain": "www.youtube.com",
+        "anchor": "AI Dubbing with Secure Editing"
+      },
+      "location": {
+        "heading": "**Introducing AI Dubbing**",
+        "heading_level": 2,
+        "line": 69
+      },
+      "sentence": "[AI Dubbing with Secure Editing](https://www.youtube.com/watch?v=gwgwZxwq7vA) [Synthesia](https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg)"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/%F0%9F%92%A1anton-bondarenko-3392b472/",
+      "context": "",
+      "span": [
+        38400,
+        39778
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

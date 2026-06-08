@@ -1,0 +1,62 @@
+{
+  "checked_on": "2026-04-24",
+  "synthesia": {
+    "tiers": [
+      {"name": "Basic", "monthly": 0, "annual_per_mo": 0, "minutes": "10 min/mo", "video_cap": null, "avatars": "9", "languages": null},
+      {"name": "Starter", "monthly": 29, "annual_per_mo": 18, "minutes": "10 min/mo monthly OR 120 min/yr annual", "video_cap": null, "avatars": "125+", "languages": null, "personal_avatars": 3},
+      {"name": "Creator", "monthly": 89, "annual_per_mo": 64, "minutes": "30 min/mo monthly OR 360 min/yr annual", "video_cap": null, "avatars": "180+", "languages": null, "personal_avatars": 5},
+      {"name": "Enterprise", "monthly": null, "annual_per_mo": null, "minutes": "Unlimited", "video_cap": null, "avatars": "240+", "languages": "160+"}
+    ],
+    "homepage_claims": {"avatars": "240+", "languages": "160+", "voices": "1000+", "customers": "50,000+ teams globally", "trust": "over 90% of Fortune 100"}
+  },
+  "heygen": {
+    "tiers": [
+      {"name": "Free", "monthly": 0, "annual_per_mo": null, "video_cap_min": 1, "videos_per_month": 3, "avatars": "500+ stock"},
+      {"name": "Creator", "monthly": 29, "annual_per_mo": "lower (not exposed)", "video_cap_min": 30, "voice_cloning": true},
+      {"name": "Pro", "monthly": 99, "annual_per_mo": "lower (not exposed)", "video_cap_min": 30, "export": "4K"},
+      {"name": "Business", "monthly": 149, "annual_per_mo": "lower (not exposed)", "video_cap_min": 60, "extra_seat": 20},
+      {"name": "Enterprise", "monthly": null, "video_cap_min": null}
+    ],
+    "no_team_tier": true
+  },
+  "colossyan": {
+    "tiers": [
+      {"name": "Free", "monthly": 0, "minutes": "3 min/mo", "video_cap_min": 3, "avatars": "20+ stock", "languages": "100+"},
+      {"name": "Starter", "monthly": 27, "annual_per_mo": 19, "minutes": "15 min/mo", "video_cap_min": 5, "avatars": "70+ stock + 3 instant", "languages": "100+"},
+      {"name": "Business", "monthly": 88, "annual_per_mo": 70, "minutes": "Unlimited (NEO 1)", "video_cap_min": 30, "avatars": "170+ stock + 10 instant/editor", "languages": "100+", "editors": 3},
+      {"name": "Enterprise", "monthly": null, "minutes": "Unlimited", "avatars": "200+ stock + unlimited custom"}
+    ]
+  },
+  "d-id": {"unverified": true, "note": "WebFetch returned navigation only; pricing page may be JS-rendered. Mark all D-ID pricing claims as unconfirmed."},
+  "deepbrain": {
+    "renamed_to": "AI Studios (aistudios.com)",
+    "redirect_note": "deepbrain.io/pricing 301-redirects to aistudios.com/pricing",
+    "tiers": [
+      {"name": "Free", "monthly": 0, "videos_per_month": 3, "video_cap_min": 3, "custom_avatars": 1, "voices": "1000+", "languages": "30+", "export": "720p"},
+      {"name": "Personal", "monthly": 24, "annual_per_mo": "lower (not exposed)", "video_cap_min": 30, "custom_avatars": 3, "voices": "1000+", "languages": "150+", "export": "1080p"},
+      {"name": "Team", "monthly_per_seat": 55, "annual_per_mo": "lower (not exposed)", "video_cap_min": 60, "custom_avatars": 5, "voices": "1000+", "languages": "150+", "export": "4K"},
+      {"name": "Enterprise", "monthly": null, "video_cap_min": null, "custom_avatars": "Unlimited", "voices": "1000+", "languages": "150+", "export": "4K"}
+    ]
+  },
+  "elai": {
+    "tiers": [
+      {"name": "Free", "monthly": 0, "minutes": "1 min", "avatars": "80+", "languages": "75+"},
+      {"name": "Creator", "monthly": 29, "annual_per_mo": 23, "minutes": "15 min/mo", "avatars": "80+", "languages": "75+"},
+      {"name": "Team", "monthly": 125, "annual_per_mo": 100, "minutes": "50 min/mo", "avatars": "80+", "languages": "75+", "editors": 3, "export": "4K"},
+      {"name": "Enterprise", "monthly": null, "minutes": "Unlimited"}
+    ]
+  },
+  "google-vids": {"unverified": false, "note": "Google Vids has no standalone price — bundled with Workspace Business+/Enterprise plans, consumer via Google AI Pro/Ultra. Any specific dollar price on the page should be flagged as confirmed wrong unless it's referencing the Workspace tier price."},
+  "hour-one": {"unverified": true, "note": "WebFetch timeout. Mark all Hour One pricing claims as unconfirmed."},
+  "invideo": {"unverified": true, "note": "WebFetch returned 500. Mark all Invideo pricing claims as unconfirmed."},
+  "pictory": {
+    "tiers": [
+      {"name": "Starter", "monthly": 29, "annual_per_mo": 25, "minutes": "200 min/mo", "credits": 100, "brand_kits": 1, "storage": "5 GB"},
+      {"name": "Professional", "monthly": 59, "annual_per_mo": 35, "minutes": "600 min/mo", "credits": "500-1000", "brand_kits": 5, "storage": "20 GB"},
+      {"name": "Team", "monthly": 199, "annual_per_mo": 119, "minutes": "1800 min/mo", "credits": 2400, "brand_kits": 10, "storage": "100 GB"},
+      {"name": "Enterprise", "monthly": null}
+    ],
+    "annual_savings": "up to 40% vs monthly"
+  },
+  "veed": {"unverified": true, "note": "WebFetch returned navigation only; pricing not extracted. Mark all VEED pricing claims as unconfirmed."}
+}

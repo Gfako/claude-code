@@ -1,0 +1,8 @@
+.env
+data/outreach.db
+data/outreach.db-shm
+data/outreach.db-wal
+data/videos/
+data/*.csv
+__pycache__/
+*.pyc

@@ -1,0 +1,1271 @@
+{
+  "free_plan_pushed": [
+    {
+      "email": "cooper.savage@vimeo.com",
+      "domain": "vimeo.com",
+      "fit": "strong"
+    },
+    {
+      "email": "kelsie.rusnak@shopify.com",
+      "domain": "shopify.com",
+      "fit": "strong"
+    },
+    {
+      "email": "erinmcinrue-savage@activecampaign.com",
+      "domain": "activecampaign.com",
+      "fit": "medium"
+    },
+    {
+      "email": "caroline.wiemann@on24.com",
+      "domain": "on24.com",
+      "fit": "strong"
+    },
+    {
+      "email": "mnesmith@bamboohr.com",
+      "domain": "bamboohr.com",
+      "fit": "medium"
+    },
+    {
+      "email": "jgrenier@articulate.com",
+      "domain": "articulate.com",
+      "fit": "strong"
+    },
+    {
+      "email": "elizabeth@weglot.com",
+      "domain": "weglot.com",
+      "fit": "medium"
+    },
+    {
+      "email": "lorelei.trisca@deel.com",
+      "domain": "deel.com",
+      "fit": "medium"
+    },
+    {
+      "email": "adumont@globalization-partners.com",
+      "domain": "globalization-partners.com",
+      "fit": "strong"
+    },
+    {
+      "email": "maria@transifex.com",
+      "domain": "transifex.com",
+      "fit": "strong"
+    },
+    {
+      "email": "alex.valdez@streamyard.com",
+      "domain": "streamyard.com",
+      "fit": "medium"
+    },
+    {
+      "email": "daisuke.nakayama@safetyculture.com",
+      "domain": "training.safetyculture.com",
+      "fit": "medium"
+    },
+    {
+      "email": "kdeldjoui@localizejs.com",
+      "domain": "localizejs.com",
+      "fit": "medium"
+    },
+    {
+      "email": "robin.nichols@360learning.com",
+      "domain": "360learning.com",
+      "fit": "medium"
+    },
+    {
+      "email": "erik@3playmedia.com",
+      "domain": "3playmedia.com",
+      "fit": "strong"
+    },
+    {
+      "email": "sonia.moaiery@skilljar.com",
+      "domain": "skilljar.com",
+      "fit": "medium"
+    },
+    {
+      "email": "cliff@speechify.com",
+      "domain": "speechify.com",
+      "fit": "strong"
+    },
+    {
+      "email": "adrian@poeditor.com",
+      "domain": "poeditor.com",
+      "fit": "medium"
+    },
+    {
+      "email": "agrimshaw@rws.com",
+      "domain": "rws.com",
+      "fit": "strong"
+    },
+    {
+      "email": "stephan.schoening@phrase.com",
+      "domain": "phrase.com",
+      "fit": "medium"
+    },
+    {
+      "email": "bkassiff@smartling.com",
+      "domain": "smartling.com",
+      "fit": "strong"
+    },
+    {
+      "email": "eugene@akool.com",
+      "domain": "akool.com",
+      "fit": "strong"
+    },
+    {
+      "email": "chris.coats@lemonlight.com",
+      "domain": "lemonlight.com",
+      "fit": "strong"
+    },
+    {
+      "email": "andrea.acosta@simpleshow.com",
+      "domain": "simpleshow.com",
+      "fit": "medium"
+    },
+    {
+      "email": "matthew.schwartz@verbit.ai",
+      "domain": "verbit.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "tobias.jedlund@vectorsolutions.com",
+      "domain": "vectorsolutions.com",
+      "fit": "medium"
+    },
+    {
+      "email": "sineenad.chaihong@darwinbox.com",
+      "domain": "darwinbox.com",
+      "fit": "medium"
+    },
+    {
+      "email": "jdewey@transperfect.com",
+      "domain": "transperfect.com",
+      "fit": "strong"
+    },
+    {
+      "email": "david.flach@bloomfire.com",
+      "domain": "bloomfire.com",
+      "fit": "strong"
+    },
+    {
+      "email": "zohaib@resemble.ai",
+      "domain": "resemble.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "victor.gleyze@sociabble.com",
+      "domain": "sociabble.com",
+      "fit": "strong"
+    },
+    {
+      "email": "support@videoscribe.co",
+      "domain": "blog.videoscribe.co",
+      "fit": "medium"
+    },
+    {
+      "email": "m.fedorenko@smartcat.com",
+      "domain": "smartcat.com",
+      "fit": "strong"
+    },
+    {
+      "email": "support@getblend.com",
+      "domain": "getblend.com",
+      "fit": "strong"
+    },
+    {
+      "email": "maria@rask.ai",
+      "domain": "rask.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "kelly@maestra.ai",
+      "domain": "maestra.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "mara@captions.ai",
+      "domain": "captions.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "julia@typeface.ai",
+      "domain": "typeface.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "shawn@theinvestorspodcast.com",
+      "domain": "theinvestorspodcast.com",
+      "fit": "strong"
+    },
+    {
+      "email": "donna@bigvu.tv",
+      "domain": "bigvu.tv",
+      "fit": "strong"
+    },
+    {
+      "email": "team@creatify.ai",
+      "domain": "creatify.ai",
+      "fit": "medium"
+    },
+    {
+      "email": "paula@idearocketanimation.com",
+      "domain": "idearocketanimation.com",
+      "fit": "medium"
+    },
+    {
+      "email": "caroline.andersen@languagewire.com",
+      "domain": "languagewire.com",
+      "fit": "medium"
+    },
+    {
+      "email": "viviana@amberscript.com",
+      "domain": "amberscript.com",
+      "fit": "medium"
+    },
+    {
+      "email": "k.haidarzhyi@academyocean.com",
+      "domain": "academyocean.com",
+      "fit": "medium"
+    },
+    {
+      "email": "deirdre.cleere@welocalize.com",
+      "domain": "welocalize.com",
+      "fit": "strong"
+    },
+    {
+      "email": "paige@talkingpts.org",
+      "domain": "talkingpts.org",
+      "fit": "medium"
+    },
+    {
+      "email": "info@perso.ai",
+      "domain": "perso.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "tanner@voquent.com",
+      "domain": "voquent.com",
+      "fit": "strong"
+    },
+    {
+      "email": "bittu@devopsschool.com",
+      "domain": "devopsschool.com",
+      "fit": "medium"
+    },
+    {
+      "email": "ap@camb.ai",
+      "domain": "camb.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "support@thewordpoint.com",
+      "domain": "thewordpoint.com",
+      "fit": "medium"
+    },
+    {
+      "email": "support@fish.audio",
+      "domain": "fish.audio",
+      "fit": "strong"
+    },
+    {
+      "email": "effie.salourou@translate.one",
+      "domain": "translate.one",
+      "fit": "strong"
+    },
+    {
+      "email": "daniel.schwartz@acclaro.com",
+      "domain": "acclaro.com",
+      "fit": "strong"
+    },
+    {
+      "email": "hello@vozo.ai",
+      "domain": "vozo.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "ana@sync.so",
+      "domain": "sync.so",
+      "fit": "medium"
+    },
+    {
+      "email": "hhershey@motionpoint.com",
+      "domain": "motionpoint.com",
+      "fit": "strong"
+    },
+    {
+      "email": "vanessa@gmrtranscription.com",
+      "domain": "gmrtranscription.com",
+      "fit": "medium"
+    },
+    {
+      "email": "yogesh.kumar@qandle.com",
+      "domain": "qandle.com",
+      "fit": "medium"
+    },
+    {
+      "email": "shrea@clueso.io",
+      "domain": "clueso.io",
+      "fit": "strong"
+    },
+    {
+      "email": "jefferson@localizationinstitute.com",
+      "domain": "localizationinstitute.com",
+      "fit": "strong"
+    },
+    {
+      "email": "florencia.mino@guildhawk.com",
+      "domain": "guildhawk.com",
+      "fit": "strong"
+    },
+    {
+      "email": "support@lipsync.studio",
+      "domain": "lipsync.studio",
+      "fit": "strong"
+    },
+    {
+      "email": "mikes@trainn.co",
+      "domain": "trainn.co",
+      "fit": "strong"
+    },
+    {
+      "email": "amrita@beverlyboy.com",
+      "domain": "beverlyboy.com",
+      "fit": "strong"
+    },
+    {
+      "email": "eran@growth-engines.com",
+      "domain": "growth-engines.com",
+      "fit": "strong"
+    },
+    {
+      "email": "anastasiia.f@bluecarrot.io",
+      "domain": "bluecarrot.io",
+      "fit": "strong"
+    },
+    {
+      "email": "alec@supertone.ai",
+      "domain": "supertone.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "avi.kapoor@ssojet.com",
+      "domain": "ssojet.com",
+      "fit": "strong"
+    },
+    {
+      "email": "hello@wowto.ai",
+      "domain": "wowto.ai",
+      "fit": "medium"
+    },
+    {
+      "email": "bridget@veracontent.com",
+      "domain": "veracontent.com",
+      "fit": "medium"
+    },
+    {
+      "email": "grace.cowan@xtm.ai",
+      "domain": "xtm.ai",
+      "fit": "medium"
+    },
+    {
+      "email": "security@pixeltable.com",
+      "domain": "pixeltable.com",
+      "fit": "medium"
+    },
+    {
+      "email": "justin@shootsta.com",
+      "domain": "shootsta.com",
+      "fit": "strong"
+    },
+    {
+      "email": "maleeha.tak@emptrust.com",
+      "domain": "emptrust.com",
+      "fit": "medium"
+    },
+    {
+      "email": "enej.ravbar@taia.io",
+      "domain": "taia.io",
+      "fit": "strong"
+    },
+    {
+      "email": "dan@birdeatsbug.com",
+      "domain": "birdeatsbug.com",
+      "fit": "medium"
+    },
+    {
+      "email": "lmyers@lipdub.ai",
+      "domain": "lipdub.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "hello@filmgrail.com",
+      "domain": "filmgrail.com",
+      "fit": "strong"
+    },
+    {
+      "email": "sven.semet@assimasolutions.com",
+      "domain": "assimasolutions.com",
+      "fit": "strong"
+    },
+    {
+      "email": "victoria.wildow@jrlanguage.com",
+      "domain": "jrlanguage.com",
+      "fit": "medium"
+    },
+    {
+      "email": "alexandru@vatis.tech",
+      "domain": "vatis.tech",
+      "fit": "strong"
+    },
+    {
+      "email": "hello@ottolearn.com",
+      "domain": "ottolearn.com",
+      "fit": "strong"
+    },
+    {
+      "email": "darrenj@ivannovation.com",
+      "domain": "ivannovation.com",
+      "fit": "strong"
+    },
+    {
+      "email": "jun.chen@transyncai.com",
+      "domain": "transyncai.com",
+      "fit": "medium"
+    },
+    {
+      "email": "parker@1stopasia.com",
+      "domain": "1stopasia.com",
+      "fit": "strong"
+    },
+    {
+      "email": "support@shortgenius.com",
+      "domain": "shortgenius.com",
+      "fit": "strong"
+    },
+    {
+      "email": "svetlana.bulega@pitchavatar.com",
+      "domain": "pitchavatar.com",
+      "fit": "strong"
+    },
+    {
+      "email": "steven.bussey@andovar.com",
+      "domain": "blog.andovar.com",
+      "fit": "strong"
+    },
+    {
+      "email": "mariana.n@travod.com",
+      "domain": "travod.com",
+      "fit": "strong"
+    },
+    {
+      "email": "support@aimagicx.com",
+      "domain": "aimagicx.com",
+      "fit": "strong"
+    },
+    {
+      "email": "hello@webrand.com",
+      "domain": "webrand.com",
+      "fit": "medium"
+    },
+    {
+      "email": "daniel@vireovideo.com",
+      "domain": "vireovideo.com",
+      "fit": "strong"
+    },
+    {
+      "email": "ekta@jobpixel.com",
+      "domain": "blog.jobpixel.com",
+      "fit": "strong"
+    },
+    {
+      "email": "ebru@ollang.com",
+      "domain": "blog.ollang.com",
+      "fit": "strong"
+    },
+    {
+      "email": "simon@captioningstar.com",
+      "domain": "captioningstar.com",
+      "fit": "strong"
+    },
+    {
+      "email": "hello@hashmeta.ai",
+      "domain": "hashmeta.ai",
+      "fit": "medium"
+    },
+    {
+      "email": "b.goni@optimational.com",
+      "domain": "optimational.com",
+      "fit": "medium"
+    },
+    {
+      "email": "kike@thinkbrandedmedia.com",
+      "domain": "thinkbrandedmedia.com",
+      "fit": "medium"
+    },
+    {
+      "email": "service@aglatech14.com",
+      "domain": "aglatech14.com",
+      "fit": "medium"
+    },
+    {
+      "email": "guptas@spoken-here.com",
+      "domain": "spoken-here.com",
+      "fit": "medium"
+    },
+    {
+      "email": "abhijitm@braahmam.net",
+      "domain": "braahmam.net",
+      "fit": "strong"
+    },
+    {
+      "email": "akshay@aviewint.com",
+      "domain": "aviewint.com",
+      "fit": "strong"
+    },
+    {
+      "email": "eugenia.nemkova@trembit.com",
+      "domain": "trembit.com",
+      "fit": "strong"
+    },
+    {
+      "email": "leon@dubly.ai",
+      "domain": "dubly.ai",
+      "fit": "strong"
+    },
+    {
+      "email": "ryley@ugcfactory.io",
+      "domain": "ugcfactory.io",
+      "fit": "medium"
+    },
+    {
+      "email": "manahil.javed@translinguist.com",
+      "domain": "translinguist.com",
+      "fit": "strong"
+    }
+  ],
+  "convert_video_pushed": [
+    {
+      "email": "leo@userway.org",
+      "domain": "userway.org",
+      "fit": "weak"
+    },
+    {
+      "email": "karly.gelardi@zapier.com",
+      "domain": "zapier.com",
+      "fit": "weak_for_translator"
+    },
+    {
+      "email": "gertron@yoast.com",
+      "domain": "yoast.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "neil@neilpatel.com",
+      "domain": "neilpatel.com",
+      "fit": "weak"
+    },
+    {
+      "email": "adaline.colton@deepl.com",
+      "domain": "deepl.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "neha.khawas@contentful.com",
+      "domain": "contentful.com",
+      "fit": "weak"
+    },
+    {
+      "email": "s.powers@techsmith.com",
+      "domain": "techsmith.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "yuliia@crowdin.com",
+      "domain": "crowdin.com",
+      "fit": "weak"
+    },
+    {
+      "email": "ben@aioseo.com",
+      "domain": "aioseo.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "shannon.adams@oysterhr.com",
+      "domain": "oysterhr.com",
+      "fit": "weak"
+    },
+    {
+      "email": "tetiana@learnworlds.com",
+      "domain": "learnworlds.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "eylon.cohen@kaltura.com",
+      "domain": "corp.kaltura.com",
+      "fit": "weak"
+    },
+    {
+      "email": "alexander@clipchamp.com",
+      "domain": "clipchamp.com",
+      "fit": "weak"
+    },
+    {
+      "email": "dan@payproglobal.com",
+      "domain": "payproglobal.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "renee.daly@panopto.com",
+      "domain": "panopto.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "contact@learndash.com",
+      "domain": "learndash.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "brandi@cincopa.com",
+      "domain": "cincopa.com",
+      "fit": "weak"
+    },
+    {
+      "email": "kelly.pfeil@ukg.com",
+      "domain": "ukg.com",
+      "fit": "weak"
+    },
+    {
+      "email": "jillian.als@leadfeeder.com",
+      "domain": "leadfeeder.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "rebecca@screenpal.com",
+      "domain": "screenpal.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "isabella.sooma@aihr.com",
+      "domain": "aihr.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "jonas.singelmann@powtoon.com",
+      "domain": "powtoon.com",
+      "fit": "weak"
+    },
+    {
+      "email": "nicolas.l@artlist.io",
+      "domain": "artlist.io",
+      "fit": "weak"
+    },
+    {
+      "email": "ambre.saez@playplay.com",
+      "domain": "playplay.com",
+      "fit": "weak"
+    },
+    {
+      "email": "chailey@prosci.com",
+      "domain": "prosci.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "michael.cloward@dacast.com",
+      "domain": "dacast.com",
+      "fit": "weak"
+    },
+    {
+      "email": "jessy.siemens@superside.com",
+      "domain": "superside.com",
+      "fit": "weak"
+    },
+    {
+      "email": "ben.pearson@navattic.com",
+      "domain": "navattic.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "giulia@happyscribe.com",
+      "domain": "happyscribe.com",
+      "fit": "weak"
+    },
+    {
+      "email": "hello@ewebinar.com",
+      "domain": "ewebinar.com",
+      "fit": "weak"
+    },
+    {
+      "email": "jburke@clearcompany.com",
+      "domain": "clearcompany.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "seongsoo@chartmogul.com",
+      "domain": "chartmogul.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "maria.burke@amnhealthcare.com",
+      "domain": "amnhealthcare.com",
+      "fit": "weak"
+    },
+    {
+      "email": "christy.liu@universumglobal.com",
+      "domain": "universumglobal.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "jenna.long@ignitevisibility.com",
+      "domain": "ignitevisibility.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "dana.hirshhorn@guidde.com",
+      "domain": "guidde.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "katalin.adorjan@lokalise.com",
+      "domain": "lokalise.com",
+      "fit": "weak"
+    },
+    {
+      "email": "amanda.wilkinson@lionbridge.com",
+      "domain": "lionbridge.com",
+      "fit": "weak"
+    },
+    {
+      "email": "podzak@hrcloud.com",
+      "domain": "hrcloud.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "ktesoro@daytranslations.com",
+      "domain": "daytranslations.com",
+      "fit": "weak"
+    },
+    {
+      "email": "aisling.harrison@pagetiger.com",
+      "domain": "pagetiger.com",
+      "fit": "weak"
+    },
+    {
+      "email": "lauren.forrester@thoughtindustries.com",
+      "domain": "thoughtindustries.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "roy@axioshq.com",
+      "domain": "axioshq.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "sophie.williams@chronus.com",
+      "domain": "chronus.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "mikek@trados.com",
+      "domain": "trados.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "cthornton@moveworks.com",
+      "domain": "moveworks.com",
+      "fit": "weak"
+    },
+    {
+      "email": "ofert@tomedes.com",
+      "domain": "tomedes.com",
+      "fit": "weak"
+    },
+    {
+      "email": "anton@papirfly.com",
+      "domain": "papirfly.com",
+      "fit": "weak"
+    },
+    {
+      "email": "erika@testimonialhero.com",
+      "domain": "testimonialhero.com",
+      "fit": "weak"
+    },
+    {
+      "email": "cidonie@desygner.com",
+      "domain": "desygner.com",
+      "fit": "weak"
+    },
+    {
+      "email": "joey@enboarder.com",
+      "domain": "enboarder.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "adam.stead@globalapptesting.com",
+      "domain": "globalapptesting.com",
+      "fit": "weak"
+    },
+    {
+      "email": "avidal@intellum.com",
+      "domain": "intellum.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "jimmy@superpath.co",
+      "domain": "superpath.co",
+      "fit": "no_fit"
+    },
+    {
+      "email": "smeier@directiveconsulting.com",
+      "domain": "directiveconsulting.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "laurenk@speechmatics.com",
+      "domain": "speechmatics.com",
+      "fit": "weak"
+    },
+    {
+      "email": "jessica.hussaini@banzai.io",
+      "domain": "banzai.io",
+      "fit": "no_fit"
+    },
+    {
+      "email": "blaine@castmagic.io",
+      "domain": "castmagic.io",
+      "fit": "weak"
+    },
+    {
+      "email": "dwallace@epiphan.com",
+      "domain": "epiphan.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "monish.munshi@usemultiplier.com",
+      "domain": "usemultiplier.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "dora.murgu@interprefy.com",
+      "domain": "interprefy.com",
+      "fit": "weak"
+    },
+    {
+      "email": "craig.coffey@woodwing.com",
+      "domain": "woodwing.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "allanf@ulatus.com",
+      "domain": "ulatus.com",
+      "fit": "weak"
+    },
+    {
+      "email": "tim.mclain@lilt.com",
+      "domain": "lilt.com",
+      "fit": "weak"
+    },
+    {
+      "email": "chloe@saastock.com",
+      "domain": "saastock.com",
+      "fit": "weak"
+    },
+    {
+      "email": "fionawalker@goodhabitz.com",
+      "domain": "goodhabitz.com",
+      "fit": "weak"
+    },
+    {
+      "email": "sumayyah@almcorp.com",
+      "domain": "almcorp.com",
+      "fit": "weak"
+    },
+    {
+      "email": "emma@7taps.com",
+      "domain": "7taps.com",
+      "fit": "weak"
+    },
+    {
+      "email": "andrea.willman@teamsoftware.com",
+      "domain": "teamsoftware.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "margarita@alconost.com",
+      "domain": "alconost.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "brett@myshyft.com",
+      "domain": "myshyft.com",
+      "fit": "weak"
+    },
+    {
+      "email": "fabian.greiler@celum.com",
+      "domain": "celum.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "helmut@lingohub.com",
+      "domain": "lingohub.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "vince.a@vmgstudios.com",
+      "domain": "blog.vmgstudios.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "hello@onesky.ai",
+      "domain": "onesky.ai",
+      "fit": "weak"
+    },
+    {
+      "email": "acarey@netchex.com",
+      "domain": "netchex.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "anuja@dubverse.ai",
+      "domain": "dubverse.ai",
+      "fit": "no_fit"
+    },
+    {
+      "email": "edaga@powell-software.com",
+      "domain": "powell-software.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "georgia@bluetext.com",
+      "domain": "bluetext.com",
+      "fit": "weak"
+    },
+    {
+      "email": "support@distribution.ai",
+      "domain": "distribution.ai",
+      "fit": "weak"
+    },
+    {
+      "email": "kim.shouler@argosmultilingual.com",
+      "domain": "argosmultilingual.com",
+      "fit": "weak"
+    },
+    {
+      "email": "info@coggno.com",
+      "domain": "coggno.com",
+      "fit": "weak"
+    },
+    {
+      "email": "morgan@herenow.film",
+      "domain": "herenow.film",
+      "fit": "weak"
+    },
+    {
+      "email": "lori@rallyrecruitmentmarketing.com",
+      "domain": "rallyrecruitmentmarketing.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "sakshi@youngurbanproject.com",
+      "domain": "youngurbanproject.com",
+      "fit": "weak"
+    },
+    {
+      "email": "atikaejaz@humanfocus.co.uk",
+      "domain": "humanfocus.co.uk",
+      "fit": "no_fit"
+    },
+    {
+      "email": "jpanayotov@proceedinnovative.com",
+      "domain": "proceedinnovative.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "joseph@flagright.com",
+      "domain": "flagright.com",
+      "fit": "weak"
+    },
+    {
+      "email": "lynn@redokun.com",
+      "domain": "redokun.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "madlena@5mins.ai",
+      "domain": "5mins.ai",
+      "fit": "weak"
+    },
+    {
+      "email": "jonna.ekman@storykit.io",
+      "domain": "storykit.io",
+      "fit": "weak"
+    },
+    {
+      "email": "support@bizky.ai",
+      "domain": "bizky.ai",
+      "fit": "weak"
+    },
+    {
+      "email": "reyes.nina@interprenet.net",
+      "domain": "interprenet.net",
+      "fit": "weak"
+    },
+    {
+      "email": "chris@coffeepals.com",
+      "domain": "coffeepals.com",
+      "fit": "weak"
+    },
+    {
+      "email": "senthil@exemplary.ai",
+      "domain": "exemplary.ai",
+      "fit": "weak"
+    },
+    {
+      "email": "amit.vadgama@omniplexlearning.com",
+      "domain": "omniplexlearning.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "yaghoob.amani@techclass.com",
+      "domain": "techclass.com",
+      "fit": "weak"
+    },
+    {
+      "email": "jwhittington@globalinterpreting.com",
+      "domain": "globalinterpreting.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "jessica@storiesincorporated.com",
+      "domain": "storiesincorporated.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "wdickinson@ititranslates.com",
+      "domain": "ititranslates.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "silvia.grosheva@adverbum.com",
+      "domain": "adverbum.com",
+      "fit": "weak"
+    },
+    {
+      "email": "dhaman@interproinc.com",
+      "domain": "interproinc.com",
+      "fit": "weak"
+    },
+    {
+      "email": "susanbergdoll@ehscareers.com",
+      "domain": "ehscareers.com",
+      "fit": "weak"
+    },
+    {
+      "email": "jeremy.rouet@weet.co",
+      "domain": "weet.co",
+      "fit": "weak"
+    },
+    {
+      "email": "krista@atlantictraining.com",
+      "domain": "atlantictraining.com",
+      "fit": "weak"
+    },
+    {
+      "email": "jill@multilingualconnections.com",
+      "domain": "multilingualconnections.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "cori.enghusen@deephow.com",
+      "domain": "deephow.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "tracy.b@goodmanlantern.com",
+      "domain": "goodmanlantern.com",
+      "fit": "weak"
+    },
+    {
+      "email": "roeste@adhoc-translations.com",
+      "domain": "adhoc-translations.com",
+      "fit": "weak"
+    },
+    {
+      "email": "cassandras@learningzen.com",
+      "domain": "learningzen.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "sorin.paun@codeoftalent.com",
+      "domain": "codeoftalent.com",
+      "fit": "weak"
+    },
+    {
+      "email": "support@tryhooked.ai",
+      "domain": "tryhooked.ai",
+      "fit": "weak"
+    },
+    {
+      "email": "bernard@bonomotion.com",
+      "domain": "bonomotion.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "chris.walker@tyfoom.com",
+      "domain": "tyfoom.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "jay@udext.com",
+      "domain": "udext.com",
+      "fit": "weak"
+    },
+    {
+      "email": "info@convey911.com",
+      "domain": "convey911.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "hello@saasconsult.co",
+      "domain": "saasconsult.co",
+      "fit": "no_fit"
+    },
+    {
+      "email": "james@almtranslations.com",
+      "domain": "almtranslations.com",
+      "fit": "weak"
+    },
+    {
+      "email": "hello@ngram.com",
+      "domain": "ngram.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "support@speakatoo.com",
+      "domain": "articles.speakatoo.com",
+      "fit": "weak"
+    },
+    {
+      "email": "ramy@fatcowdigital.com",
+      "domain": "fatcowdigital.com",
+      "fit": "no_fit"
+    },
+    {
+      "email": "hello@voiceovermaker.com",
+      "domain": "voiceovermaker.com",
+      "fit": "weak"
+    },
+    {
+      "email": "nmarkovic@easycontent.io",
+      "domain": "easycontent.io",
+      "fit": "weak"
+    }
+  ],
+  "errors": [
+    {
+      "email": "jgrenier@articulate.com",
+      "domain": "community.articulate.com",
+      "sequence": "convert_video",
+      "error": {
+        "status": "error",
+        "code": 409,
+        "message": "\"Contact is already in another sequence\""
+      }
+    },
+    {
+      "email": "jdewey@transperfect.com",
+      "domain": "globallink.transperfect.com",
+      "sequence": "free_plan",
+      "error": {
+        "status": "error",
+        "code": 409,
+        "message": "\"Contact is already in this sequence\""
+      }
+    },
+    {
+      "email": "jodi@mytonomy.com",
+      "domain": "mytonomy.com",
+      "sequence": "convert_video",
+      "error": {
+        "status": "error",
+        "code": 0,
+        "message": "The read operation timed out"
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "domain": "senseilms.com",
+      "reason": "no email"
+    },
+    {
+      "domain": "infosysbpm.com",
+      "reason": "no email"
+    },
+    {
+      "domain": "trtc.io",
+      "reason": "no email"
+    },
+    {
+      "domain": "vidjet.com",
+      "reason": "no email"
+    },
+    {
+      "domain": "adilo.com",
+      "reason": "no email"
+    },
+    {
+      "domain": "enterprisetube.com",
+      "reason": "no email"
+    },
+    {
+      "domain": "marketbetter.ai",
+      "reason": "no email"
+    },
+    {
+      "domain": "longstories.ai",
+      "reason": "no email"
+    },
+    {
+      "domain": "truefan.ai",
+      "reason": "no email"
+    },
+    {
+      "domain": "astlanguage.com",
+      "reason": "no email"
+    },
+    {
+      "domain": "storytellervideos.com",
+      "reason": "no email"
+    },
+    {
+      "domain": "aidubbing.io",
+      "reason": "no email"
+    },
+    {
+      "domain": "gmarketing.io",
+      "reason": "no email"
+    },
+    {
+      "domain": "lemonfox.ai",
+      "reason": "no email"
+    },
+    {
+      "domain": "rippleanimation.com",
+      "reason": "no email"
+    },
+    {
+      "domain": "keevx.com",
+      "reason": "no email"
+    },
+    {
+      "domain": "noiz.ai",
+      "reason": "no email"
+    },
+    {
+      "domain": "subsub.io",
+      "reason": "no email"
+    },
+    {
+      "domain": "nlsblog.org",
+      "reason": "no email"
+    }
+  ]
+}

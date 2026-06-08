@@ -1,0 +1,226 @@
+{
+  "counts": {
+    "pricing": 2,
+    "feature": 4,
+    "title": 1,
+    "stat": 2,
+    "link": 2
+  },
+  "total": 11,
+  "findings": [
+    {
+      "type": "pricing",
+      "text": "$22/mo",
+      "context": "generator**](https://www.synthesia.io/features/ai-video-generator) - [**Starter plan**](https://www.synthesia.io/pricing) **:** $22/month. - **Creator plan**: $67/month. - **Enterprise plan**: Get in touch with their team for individual",
+      "span": [
+        4965,
+        4971
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "22"
+      },
+      "location": {
+        "heading": "Pricing",
+        "heading_level": 3,
+        "line": 116
+      },
+      "sentence": "[**Free AI video generator**](https://www.synthesia.io/features/ai-video-generator) - [**Starter plan**](https://www.synthesia.io/pricing) **:** $22/month."
+    },
+    {
+      "type": "pricing",
+      "text": "$67/mo",
+      "context": "generator**](https://www.synthesia.io/features/ai-video-generator) - [**Starter plan**](https://www.synthesia.io/pricing) **:** $22/month. - **Creator plan**: $67/month. - **Enterprise plan**: Get in touch with their team for individual pricing based on your needs",
+      "span": [
+        4996,
+        5002
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "67"
+      },
+      "location": {
+        "heading": "Pricing",
+        "heading_level": 3,
+        "line": 117
+      },
+      "sentence": "Creator plan**: $67/month."
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        252,
+        264
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Top 5 Animoto Alternatives in 2024",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) November 1, 2023 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        268,
+        282
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Top 5 Animoto Alternatives in 2024",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "120+ languages",
+      "context": "voiceovers](https://www.synthesia.io/features/ai-voice-generator) (text-to-speech). - Voice cloning. - You can localize your content in 120+ languages. - No need for expensive equipment. - Screen recorder - which means no need for separate tools - Royalty-free",
+      "span": [
+        4444,
+        4458
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "120+"
+      },
+      "location": {
+        "heading": "Pros of Synthesia",
+        "heading_level": 3,
+        "line": 101
+      },
+      "sentence": "You can localize your content in 120+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        13076,
+        13090
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "What is the ultimate Animoto alternative for creating videos?",
+        "heading_level": 2,
+        "line": 321
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "title",
+      "text": "2024",
+      "context": "Top 5 Animoto Alternatives in 2024",
+      "span": [
+        32,
+        36
+      ],
+      "meta": {
+        "subtype": "dated_title_year",
+        "ref_year": 2024,
+        "months_old": 27
+      },
+      "location": {
+        "heading": "Top 5 Animoto Alternatives in 2024",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "Top 5 Animoto Alternatives in 2024"
+    },
+    {
+      "type": "stat",
+      "text": "80%",
+      "context": "[DMG](https://www.synthesia.io/case-studies/divisions-maintenance-group) now creates professional video content 80% faster. ## Alternative \\#2: Adobe Spark **_Best for social media videos and posts._** Play Adobe",
+      "span": [
+        6131,
+        6134
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "How does it compare to Animoto?",
+        "heading_level": 3,
+        "line": 135
+      },
+      "sentence": "While [DMG](https://www.synthesia.io/case-studies/divisions-maintenance-group) now creates professional video content 80% faster."
+    },
+    {
+      "type": "stat",
+      "text": "in 2024",
+      "context": "# Top 5 Animoto Alternatives in 2024 ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/65e89895c5a4b8d764c0f759_Ema.webp)",
+      "span": [
+        29,
+        36
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "Top 5 Animoto Alternatives in 2024",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "Top 5 Animoto Alternatives in 2024"
+    },
+    {
+      "type": "link",
+      "text": "http://promo.com/",
+      "context": "",
+      "span": [
+        10168,
+        10185
+      ],
+      "meta": {
+        "domain": "promo.com",
+        "anchor": "Promo.com"
+      },
+      "location": {
+        "heading": "How does it compare to Animoto?",
+        "heading_level": 3,
+        "line": 256
+      },
+      "sentence": "While Animoto is best for individual or small business slideshow videos project, [Promo.com](http://promo.com/) specializes in providing solutions to those agencies and large companies that need videos to promote their products."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        36939,
+        38288
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

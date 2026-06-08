@@ -1,0 +1,392 @@
+{
+  "slug": "ai-tools",
+  "page_brand": null,
+  "total_findings": 24,
+  "by_severity": {
+    "confirmed": 1,
+    "unconfirmed": 11,
+    "needs_check": 12
+  },
+  "findings": [
+    {
+      "type": "pricing",
+      "text": "$99 per month",
+      "context": "centers, or workflows. There’s a free version of ElevenLabs, while paid accounts range from $5 to $99 per month. ## 9\\. Synthesia ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/69711d219ea4dbbd58804a29_make_video.webp)",
+      "span": [
+        12458,
+        12471
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "99"
+      },
+      "location": {
+        "heading": "8\\. ElevenLabs",
+        "heading_level": 2,
+        "line": 188
+      },
+      "sentence": "There’s a free version of ElevenLabs, while paid accounts range from $5 to $99 per month.",
+      "severity": "confirmed",
+      "title": "Synthesia $99 doesn't match any tier",
+      "suggested_fix": "`$99 per month` doesn't match any current Synthesia tier. Current tiers: Basic $?/mo or $0/mo annual · Starter $29/mo or $18/mo annual · Creator $89/mo or $64/mo annual · Enterprise $?/mo. Update or remove.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "pricing",
+      "text": "$18 per month",
+      "context": "useful for training and simulation videos. The Basic plan from Synthesia is free. Pricing begins at $18 per month. ## 10\\. Higgsfield ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/698ddaace1bdb6b40d16a01a_higgsfield.webp)",
+      "span": [
+        14113,
+        14126
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "18"
+      },
+      "location": {
+        "heading": "9\\. Synthesia",
+        "heading_level": 2,
+        "line": 206
+      },
+      "sentence": "Pricing begins at $18 per month.",
+      "severity": "unconfirmed",
+      "title": "Synthesia Starter $18 still current",
+      "suggested_fix": "Current — $18 matches Synthesia Starter tier (annual per mo). No action.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) February 13, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        275,
+        287
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) February 13, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [The",
+      "span": [
+        291,
+        305
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "FREE](https://www.synthesia.io/features/ai-video-generator) In this article [The 12 best AI tools in 2026](https://www.synthesia.io/post/ai-tools#the-12-best-ai-tools-in-2026) [1\\. ChatGPT](https://www.synthesia.io/post/ai-tools#1-chatgpt)",
+      "span": [
+        425,
+        432
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+        "heading_level": 1,
+        "line": 17
+      },
+      "sentence": "[The 12 best AI tools in 2026](https://www.synthesia.io/post/ai-tools#the-12-best-ai-tools-in-2026)",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2026'",
+      "suggested_fix": "Stat reference: `in 2026`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "list of AI tools, I’ve pulled the best ones to actually get work done, and that are genuinely useful in 2026. Take a look below. ## The 12 best AI tools in 2026 01. [**ChatGPT**](https://www.synthesia.io/post/ai-tools#1-chatgpt)",
+      "span": [
+        1642,
+        1649
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+        "heading_level": 1,
+        "line": 45
+      },
+      "sentence": "In the extensive list of AI tools, I’ve pulled the best ones to actually get work done, and that are genuinely useful in 2026.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2026'",
+      "suggested_fix": "Stat reference: `in 2026`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "actually get work done, and that are genuinely useful in 2026. Take a look below. ## The 12 best AI tools in 2026 01. [**ChatGPT**](https://www.synthesia.io/post/ai-tools#1-chatgpt) – to write content, analyze documents,",
+      "span": [
+        1695,
+        1702
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The 12 best AI tools in 2026",
+        "heading_level": 2,
+        "line": 47
+      },
+      "sentence": "The 12 best AI tools in 2026",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2026'",
+      "suggested_fix": "Stat reference: `in 2026`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://chatgpt.com/",
+      "context": "",
+      "span": [
+        3402,
+        3422
+      ],
+      "meta": {
+        "domain": "chatgpt.com",
+        "anchor": "https://chatgpt.com/"
+      },
+      "location": {
+        "heading": "1\\. ChatGPT",
+        "heading_level": 2,
+        "line": 68
+      },
+      "sentence": "URL:** [https://chatgpt.com/](https://chatgpt.com/)",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "chatgpt.com blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://claude.ai/",
+      "context": "",
+      "span": [
+        7001,
+        7019
+      ],
+      "meta": {
+        "domain": "claude.ai",
+        "anchor": "https://claude.ai/"
+      },
+      "location": {
+        "heading": "4\\. Claude",
+        "heading_level": 2,
+        "line": 116
+      },
+      "sentence": "URL:** [https://claude.ai/](https://claude.ai/)",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "claude.ai blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://gamma.app/",
+      "context": "",
+      "span": [
+        15743,
+        15761
+      ],
+      "meta": {
+        "domain": "gamma.app",
+        "anchor": "https://gamma.app/"
+      },
+      "location": {
+        "heading": "11\\. Gamma",
+        "heading_level": 2,
+        "line": 230
+      },
+      "sentence": "URL:** [https://gamma.app/](https://gamma.app/)",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "gamma.app blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        44718,
+        46067
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "in data. ChatGPT also connects easily to other tools from OpenAI (its parent company), for example, Sora 2 which is an [AI video generating tool](https://www.synthesia.io/features/ai-video-generator). Sora",
+      "span": [
+        3897,
+        3901
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "1\\. ChatGPT",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "ChatGPT also connects easily to other tools from OpenAI (its parent company), for example, Sora 2 which is an [AI video generating tool](https://www.synthesia.io/features/ai-video-generator).",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "Sora 2 which is an [AI video generating tool](https://www.synthesia.io/features/ai-video-generator). Sora 2 can make cinematic, story-driven clips and is one of the more advanced narrative video creation platforms",
+      "span": [
+        3998,
+        4002
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "1\\. ChatGPT",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "Sora 2 can make cinematic, story-driven clips and is one of the more advanced narrative video creation platforms available.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "the more advanced narrative video creation platforms available. ChatGPT’s integration with tools like Sora 2 means you can use it for both creative and administrative tasks, as well as professional and personal",
+      "span": [
+        4160,
+        4164
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "1\\. ChatGPT",
+        "heading_level": 2,
+        "line": 72
+      },
+      "sentence": "ChatGPT’s integration with tools like Sora 2 means you can use it for both creative and administrative tasks, as well as professional and personal projects.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "where you get [free access to Veo 3](https://www.synthesia.io/post/how-to-use-veo-3-for-free) and [Sora 2](https://www.synthesia.io/post/how-to-use-sora-2-for-free) to experiment making B-roll for videos.",
+      "span": [
+        13764,
+        13768
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "9\\. Synthesia",
+        "heading_level": 2,
+        "line": 202
+      },
+      "sentence": "For the more creative types, Synthesia includes an ‘AI Playground’ where you get [free access to Veo 3](https://www.synthesia.io/post/how-to-use-veo-3-for-free) and [Sora 2](https://www.synthesia.io/post/how-to-use-sora-2-for-free) to experiment making B-roll for videos.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "sora",
+      "context": "3](https://www.synthesia.io/post/how-to-use-veo-3-for-free) and [Sora 2](https://www.synthesia.io/post/how-to-use-sora-2-for-free) to experiment making B-roll for videos. There are additionally Video Agents in the tool",
+      "span": [
+        13813,
+        13817
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "9\\. Synthesia",
+        "heading_level": 2,
+        "line": 202
+      },
+      "sentence": "For the more creative types, Synthesia includes an ‘AI Playground’ where you get [free access to Veo 3](https://www.synthesia.io/post/how-to-use-veo-3-for-free) and [Sora 2](https://www.synthesia.io/post/how-to-use-sora-2-for-free) to experiment making B-roll for videos.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    }
+  ]
+}

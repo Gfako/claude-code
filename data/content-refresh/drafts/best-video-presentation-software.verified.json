@@ -1,0 +1,499 @@
+{
+  "slug": "best-video-presentation-software",
+  "page_brand": null,
+  "total_findings": 24,
+  "by_severity": {
+    "unconfirmed": 10,
+    "likely": 7,
+    "needs_check": 7
+  },
+  "findings": [
+    {
+      "type": "pricing",
+      "text": "$18/mo",
+      "context": "skills.”_ Jorge G. on G2 ### Pricing Synthesia offers **three paid plans**. The Starter plan costs $18/month for up to 10 minutes of video clips; the Creator plan is priced at $64/month, while the Enterprise",
+      "span": [
+        6743,
+        6749
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "18"
+      },
+      "location": {
+        "heading": "Pricing",
+        "heading_level": 3,
+        "line": 95
+      },
+      "sentence": "The Starter plan costs $18/month for up to 10 minutes of video clips; the Creator plan is priced at $64/month, while the Enterprise plan offers individual pricing for different users.",
+      "severity": "unconfirmed",
+      "title": "Synthesia Starter $18 still current",
+      "suggested_fix": "Current — $18 matches Synthesia Starter tier (annual per mo). No action.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Kyle Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) July 30, 2025 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) In this article [1\\.",
+      "span": [
+        261,
+        273
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "5 Best Video Presentation Software of 2025",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "230 AI avatars",
+      "context": "Synthesia](https://www.synthesia.io/tools/video-presentation-maker), you can choose from more than [230 AI avatars (realistic AI human presenters)](https://www.synthesia.io/features/avatars) – to add to your slides.",
+      "span": [
+        3259,
+        3273
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "230"
+      },
+      "location": {
+        "heading": "1\\. Synthesia - video presentation software for videos with lifelike presenters",
+        "heading_level": 2,
+        "line": 57
+      },
+      "sentence": "When creating [video presentations in Synthesia](https://www.synthesia.io/tools/video-presentation-maker), you can choose from more than [230 AI avatars (realistic AI human presenters)](https://www.synthesia.io/features/avatars) – to add to your slides.",
+      "severity": "likely",
+      "title": "Synthesia avatars count slightly stale (230 vs 240+)",
+      "suggested_fix": "Synthesia now advertises **240+ avatars** on the homepage. Worth refreshing '230 avatars' → '240+ avatars' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "230+ AI avatars",
+      "context": "they can be shared as a link, embedded on a website, or downloaded as an mp4. ### Key features - ‍ **230+ AI avatars**: You can choose from a wide range of human-like AI presenters that establish a human connection with",
+      "span": [
+        5035,
+        5050
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "230+"
+      },
+      "location": {
+        "heading": "Key features",
+        "heading_level": 3,
+        "line": 81
+      },
+      "sentence": "‍ **230+ AI avatars**: You can choose from a wide range of human-like AI presenters that establish a human connection with your viewers.",
+      "severity": "likely",
+      "title": "Synthesia avatars count slightly stale (230+ vs 240+)",
+      "suggested_fix": "Synthesia now advertises **240+ avatars** on the homepage. Worth refreshing '230+ avatars' → '240+ avatars' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) July 30, 2025 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) In this article [1\\. Synthesia - video",
+      "span": [
+        277,
+        291
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "5 Best Video Presentation Software of 2025",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "140 languages",
+      "context": "to add to your slides. And that’s not all – each of these diverse characters can speak more than **140 languages** in different voices and accents. And the best part? ‍ [Research](https://www.researchgate.net/publication/259583943_Virtual_Humans_for_Learning)",
+      "span": [
+        3452,
+        3465
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "140"
+      },
+      "location": {
+        "heading": "1\\. Synthesia - video presentation software for videos with lifelike presenters",
+        "heading_level": 2,
+        "line": 59
+      },
+      "sentence": "And that’s not all – each of these diverse characters can speak more than **140 languages** in different voices and accents.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (140 vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '140 languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "140 languages",
+      "context": "Spice up your video presentations with realistic AI avatars that can speak more than 140 languages. [Synthesia is an AI text-to-video tool](https://www.synthesia.io/features/text-to-video), so all",
+      "span": [
+        4066,
+        4079
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "140"
+      },
+      "location": {
+        "heading": "1\\. Synthesia - video presentation software for videos with lifelike presenters",
+        "heading_level": 2,
+        "line": 67
+      },
+      "sentence": "Spice up your video presentations with realistic AI avatars that can speak more than 140 languages.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (140 vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '140 languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "140+ languages",
+      "context": "the market, with natural body language and gestures that sync precisely with the spoken script. - ‍ **140+ languages**: You can turn text to speech in different accents, voices, and languages. - ‍ **250+** **templates**:",
+      "span": [
+        5343,
+        5357
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "140+"
+      },
+      "location": {
+        "heading": "Key features",
+        "heading_level": 3,
+        "line": 83
+      },
+      "sentence": "‍ **140+ languages**: You can turn text to speech in different accents, voices, and languages.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (140+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '140+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "140+ languages",
+      "context": "maker](https://www.synthesia.io/tools/ai-presentation-maker) to convert [text to speech](https://www.synthesia.io/features/ai-voice-generator) in 140+ languages with AI avatars as presenters. **➡️ Loom:** great video presentation software if you want to record",
+      "span": [
+        17465,
+        17479
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "140+"
+      },
+      "location": {
+        "heading": "Summary",
+        "heading_level": 2,
+        "line": 255
+      },
+      "sentence": "➡️ Synthesia:** best [AI presentation maker](https://www.synthesia.io/tools/ai-presentation-maker) to convert [text to speech](https://www.synthesia.io/features/ai-voice-generator) in 140+ languages with AI avatars as presenters.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (140+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '140+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        18704,
+        18718
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Summary",
+        "heading_level": 2,
+        "line": 281
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "up to 10 minutes",
+      "context": "G. on G2 ### Pricing Synthesia offers **three paid plans**. The Starter plan costs $18/month for up to 10 minutes of video clips; the Creator plan is priced at $64/month, while the Enterprise plan offers individual",
+      "span": [
+        6757,
+        6773
+      ],
+      "meta": {
+        "subtype": "duration_limit",
+        "brand": "Synthesia",
+        "value": "10"
+      },
+      "location": {
+        "heading": "Pricing",
+        "heading_level": 3,
+        "line": 95
+      },
+      "sentence": "The Starter plan costs $18/month for up to 10 minutes of video clips; the Creator plan is priced at $64/month, while the Enterprise plan offers individual pricing for different users.",
+      "severity": "unconfirmed",
+      "title": "Synthesia duration_limit: 'up to 10 minutes' — review",
+      "suggested_fix": "Verify 'up to 10 minutes' against synthesia's current marketing/pricing page.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "title",
+      "text": "2025",
+      "context": "5 Best Video Presentation Software of 2025",
+      "span": [
+        40,
+        44
+      ],
+      "meta": {
+        "subtype": "dated_title_year",
+        "ref_year": 2025,
+        "months_old": 15
+      },
+      "location": {
+        "heading": "5 Best Video Presentation Software of 2025",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "5 Best Video Presentation Software of 2025",
+      "title": "Title references outdated year (2025)",
+      "suggested_fix": "Title contains the year '2025' which is no longer current (today is 2026). Update to the current year or drop the year stamp so the article doesn't need annual renames.",
+      "severity": "likely",
+      "source": "",
+      "source_note": "Detected from H1."
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688a50b294da60838993f8d1_Screenshot%202025-07-30%20at%2018.04.47.png) Loom's pricing plans as of July, 2025. ## 3\\. Powtoon - video presentations with",
+      "span": [
+        9787,
+        9790
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Pricing:",
+        "heading_level": 3,
+        "line": 132
+      },
+      "sentence": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688a50b294da60838993f8d1_Screenshot%202025-07-30%20at%2018.04.47.png)",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '30%'",
+      "suggested_fix": "Stat reference: `30%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688a513440c256e73436e5e9_Screenshot%202025-07-30%20at%2018.06.57.png) Powtoon's pricing as of July, 2025. ## 4\\. Canva - video presentation software",
+      "span": [
+        12546,
+        12549
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Pricing",
+        "heading_level": 3,
+        "line": 174
+      },
+      "sentence": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688a513440c256e73436e5e9_Screenshot%202025-07-30%20at%2018.06.57.png)",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '30%'",
+      "suggested_fix": "Stat reference: `30%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688a52d67cfea9eb0151109e_Screenshot%202025-07-30%20at%2018.13.54.png) Canva's pricing as of July, 2025. ## 5\\. Vyond - video presentation software",
+      "span": [
+        14786,
+        14789
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Pricing",
+        "heading_level": 3,
+        "line": 211
+      },
+      "sentence": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688a52d67cfea9eb0151109e_Screenshot%202025-07-30%20at%2018.13.54.png)",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '30%'",
+      "suggested_fix": "Stat reference: `30%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688a53b5990851229a9fc46a_Screenshot%202025-07-30%20at%2018.17.38.png) Vyond's pricing as of July, 2025. ## Summary Well, that would be our analysis",
+      "span": [
+        16998,
+        17001
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Pricing",
+        "heading_level": 3,
+        "line": 243
+      },
+      "sentence": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/688a53b5990851229a9fc46a_Screenshot%202025-07-30%20at%2018.17.38.png)",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '30%'",
+      "suggested_fix": "Stat reference: `30%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "over 200,000 companies",
+      "context": "best video presentation software if you want to record yourself while giving a presentation. With over 200,000 companies using Loom, it has become a popular tool for remote teams, educators, and marketers alike. While Loom",
+      "span": [
+        8139,
+        8161
+      ],
+      "meta": {
+        "subtype": "large_count"
+      },
+      "location": {
+        "heading": "2\\. Loom - video presentation software for recording your screen and camera",
+        "heading_level": 2,
+        "line": 115
+      },
+      "sentence": "With over 200,000 companies using Loom, it has become a popular tool for remote teams, educators, and marketers alike.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'over 200,000 companies'",
+      "suggested_fix": "Stat reference: `over 200,000 companies`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.canva.com/",
+      "context": "",
+      "span": [
+        2593,
+        2615
+      ],
+      "meta": {
+        "domain": "www.canva.com",
+        "anchor": "Canva"
+      },
+      "location": {
+        "heading": "5 Best Video Presentation Software of 2025",
+        "heading_level": 1,
+        "line": 46
+      },
+      "sentence": "[Canva](https://www.canva.com/) → best if you want to choose from a lot of templates 5.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.researchgate.net/publication/259583943_Virtual_Humans_for_Learning",
+      "context": "",
+      "span": [
+        3535,
+        3613
+      ],
+      "meta": {
+        "domain": "www.researchgate.net",
+        "anchor": "Research"
+      },
+      "location": {
+        "heading": "1\\. Synthesia - video presentation software for videos with lifelike presenters",
+        "heading_level": 2,
+        "line": 63
+      },
+      "sentence": "‍ [Research](https://www.researchgate.net/publication/259583943_Virtual_Humans_for_Learning) shows that we respond to video presentations with an [AI spoke](https://www.synthesia.io/tools/digital-human) [sperson](https://www.synthesia.io/tools/video-spokesperson) similar to the ones with real humans.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kyleodefey/",
+      "context": "",
+      "span": [
+        43461,
+        44812
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

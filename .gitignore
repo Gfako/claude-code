@@ -1,6 +1,15 @@
 __pycache__/
 *.pyc
 .DS_Store
+.venv/
+venv/
+env/
+node_modules/
+*.mp4
+*.part
+*.so
+*.dylib
+.env
 .credentials/
 *.pickle
 *-api-key.txt

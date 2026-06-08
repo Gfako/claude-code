@@ -1,0 +1,230 @@
+{
+  "slug": "ai-trends",
+  "page_brand": null,
+  "total_findings": 14,
+  "by_severity": {
+    "unconfirmed": 6,
+    "likely": 2,
+    "needs_check": 6
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) February 2, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        253,
+        265
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "8 AI Trends To Look Out For in 2025",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Lukan](https://www.synthesia.io/blog/authors/ema-lukan) February 2, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        269,
+        283
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "8 AI Trends To Look Out For in 2025",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "120 languages",
+      "context": "[Synthesia](https://www.synthesia.io/) can generate videos with realistic AI avatars speaking the text you type in – in over 120 languages and accents. These [different types of AI tools](https://www.synthesia.io/post/ai-tools) are gaining",
+      "span": [
+        4992,
+        5005
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "120"
+      },
+      "location": {
+        "heading": "4\\. AI-generated video",
+        "heading_level": 4,
+        "line": 98
+      },
+      "sentence": "Tools like [Synthesia](https://www.synthesia.io/) can generate videos with realistic AI avatars speaking the text you type in – in over 120 languages and accents.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (120 vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '120 languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        21079,
+        21093
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Closing thoughts",
+        "heading_level": 2,
+        "line": 339
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "title",
+      "text": "2025",
+      "context": "8 AI Trends To Look Out For in 2025",
+      "span": [
+        33,
+        37
+      ],
+      "meta": {
+        "subtype": "dated_title_year",
+        "ref_year": 2025,
+        "months_old": 15
+      },
+      "location": {
+        "heading": "8 AI Trends To Look Out For in 2025",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "8 AI Trends To Look Out For in 2025",
+      "title": "Title references outdated year (2025)",
+      "suggested_fix": "Title contains the year '2025' which is no longer current (today is 2026). Update to the current year or drop the year stamp so the article doesn't need annual renames.",
+      "severity": "likely",
+      "source": "",
+      "source_note": "Detected from H1."
+    },
+    {
+      "type": "stat",
+      "text": "7%",
+      "context": "trigger a productivity boom, ultimately increasing the total annual value of global goods and services by 7%. And for this new reality, one thing is certain: **The workforce will need to adapt and acquire new",
+      "span": [
+        12234,
+        12236
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "4\\. Workplace AI",
+        "heading_level": 2,
+        "line": 202
+      },
+      "sentence": "According to a [recent report by Goldman Sachs](https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf), AI will trigger a productivity boom, ultimately increasing the total annual value of global goods and services by 7%.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '7%'",
+      "suggested_fix": "Stat reference: `7%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2025",
+      "context": "# 8 AI Trends To Look Out For in 2025 ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/65e89895c5a4b8d764c0f759_Ema.webp)",
+      "span": [
+        30,
+        37
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "8 AI Trends To Look Out For in 2025",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "8 AI Trends To Look Out For in 2025",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2025'",
+      "suggested_fix": "Stat reference: `in 2025`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2024",
+      "context": "leading AI players, and the prevailing industry and investment trends. 8 AI trends to look out for in 2024 and beyond: 1. Generative AI 2. Multimodal AI models 3. AI democratization 4. Workplace AI 5. New",
+      "span": [
+        2092,
+        2099
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "8 AI Trends To Look Out For in 2025",
+        "heading_level": 1,
+        "line": 45
+      },
+      "sentence": "8 AI trends to look out for in 2024 and beyond:",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2024'",
+      "suggested_fix": "Stat reference: `in 2024`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": "",
+      "span": [
+        45883,
+        47232
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "counts": {
+    "feature": 2,
+    "stat": 2,
+    "link": 1
+  },
+  "total": 5,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Voica](https://www.synthesia.io/blog/authors/alexandru-voica) April 15, 2025 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        353,
+        365
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Synthesia surpasses $100 million in annual recurring revenue and secures strategic investment from Adobe Ventures",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Voica](https://www.synthesia.io/blog/authors/alexandru-voica) April 15, 2025 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article **LONDON,",
+      "span": [
+        369,
+        383
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Synthesia surpasses $100 million in annual recurring revenue and secures strategic investment from Adobe Ventures",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "stat",
+      "text": "70%",
+      "context": "among small and medium-sized businesses through accessible Starter and Creator plans. Today, more than 70% of the Fortune 100 are Synthesia customers, up from 40% two years ago. - Continuous platform innovation",
+      "span": [
+        1943,
+        1946
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Synthesia surpasses $100 million in annual recurring revenue and secures strategic investment from Adobe Ventures",
+        "heading_level": 1,
+        "line": 22
+      },
+      "sentence": "Today, more than 70% of the Fortune 100 are Synthesia customers, up from 40% two years ago."
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "Starter and Creator plans. Today, more than 70% of the Fortune 100 are Synthesia customers, up from 40% two years ago. - Continuous platform innovation with enterprise-grade security: Synthesia’s advanced",
+      "span": [
+        1999,
+        2002
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Synthesia surpasses $100 million in annual recurring revenue and secures strategic investment from Adobe Ventures",
+        "heading_level": 1,
+        "line": 22
+      },
+      "sentence": "Today, more than 70% of the Fortune 100 are Synthesia customers, up from 40% two years ago."
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/alexandruvoica",
+      "context": "",
+      "span": [
+        19074,
+        20428
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}

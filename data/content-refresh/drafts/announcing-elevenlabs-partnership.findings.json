@@ -1,0 +1,193 @@
+{
+  "counts": {
+    "feature": 7,
+    "link": 3
+  },
+  "total": 10,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "230+ avatars",
+      "context": "bp) Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synt",
+      "span": [
+        381,
+        393
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "230+"
+      },
+      "location": {
+        "heading": "(before first heading)",
+        "heading_level": 0,
+        "line": 7
+      }
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Ema Lukan](https://www.synthesia.io/blog/authors/ema-lukan) May 17, 2024 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) In this article [Tex",
+      "span": [
+        1896,
+        1908
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Announcing our partnership with ElevenLabs for text-to-speech and voice API",
+        "heading_level": 1,
+        "line": 45
+      }
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "## Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) ![](https://cdn.prod.",
+      "span": [
+        6836,
+        6848
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Ready to try our AI video platform?",
+        "heading_level": 2,
+        "line": 106
+      }
+    },
+    {
+      "type": "feature",
+      "text": "140+ languages",
+      "context": "y our AI video platform? Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages. [Create account](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-de",
+      "span": [
+        397,
+        411
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "140+"
+      },
+      "location": {
+        "heading": "(before first heading)",
+        "heading_level": 0,
+        "line": 7
+      }
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "tps://www.synthesia.io/blog/authors/ema-lukan) May 17, 2024 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) In this article [Text Link](https://ww",
+      "span": [
+        1912,
+        1926
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Announcing our partnership with ElevenLabs for text-to-speech and voice API",
+        "heading_level": 1,
+        "line": 45
+      }
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "0/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_heade",
+      "span": [
+        5794,
+        5808
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Announcing our partnership with ElevenLabs for text-to-speech and voice API",
+        "heading_level": 1,
+        "line": 84
+      }
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "y our AI video platform? Join over 1M+ users today and start making AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) ![](https://cdn.prod.website-files.com/",
+      "span": [
+        6852,
+        6866
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Ready to try our AI video platform?",
+        "heading_level": 2,
+        "line": 106
+      }
+    },
+    {
+      "type": "link",
+      "text": "https://elevenlabs.io/",
+      "context": "",
+      "span": [
+        2190,
+        2212
+      ],
+      "meta": {
+        "domain": "elevenlabs.io"
+      },
+      "location": {
+        "heading": "Announcing our partnership with ElevenLabs for text-to-speech and voice API",
+        "heading_level": 1,
+        "line": 53
+      }
+    },
+    {
+      "type": "link",
+      "text": "https://help.synthesia.io/en/articles/6341934-guide-to-content-moderation",
+      "context": "",
+      "span": [
+        4632,
+        4705
+      ],
+      "meta": {
+        "domain": "help.synthesia.io"
+      },
+      "location": {
+        "heading": "Announcing our partnership with ElevenLabs for text-to-speech and voice API",
+        "heading_level": 1,
+        "line": 66
+      }
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/emalukan/",
+      "context": " class=\"w-inline-block\">",
+      "span": [
+        19558,
+        19626
+      ],
+      "meta": {
+        "domain": "www.linkedin.com"
+      },
+      "location": {
+        "heading": "Ready to try our AI video platform?",
+        "heading_level": 2,
+        "line": 136
+      }
+    }
+  ]
+}

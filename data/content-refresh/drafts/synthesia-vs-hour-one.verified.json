@@ -1,0 +1,380 @@
+{
+  "slug": "synthesia-vs-hour-one",
+  "page_brand": "hour-one",
+  "total_findings": 15,
+  "by_severity": {
+    "unconfirmed": 9,
+    "confirmed": 1,
+    "likely": 3,
+    "needs_check": 2
+  },
+  "findings": [
+    {
+      "type": "pricing",
+      "text": "$0/mo",
+      "context": "How does Synthesia stack up against Hour One? ## Synthesia plans [Just the basics\\\\ \\\\ Basic\\\\ \\\\ $0/mo\\\\ \\\\ 10 minutes of video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal use\\\\",
+      "span": [
+        11898,
+        11903
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "0"
+      },
+      "location": {
+        "heading": "Synthesia plans",
+        "heading_level": 2,
+        "line": 305
+      },
+      "sentence": "[Just the basics\\\\ \\\\ Basic\\\\ \\\\ $0/mo\\\\ \\\\ 10 minutes of video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal use\\\\ \\\\ Starter\\\\ \\\\ $18/mo\\\\ \\\\ 120 minutes of video/year.",
+      "severity": "unconfirmed",
+      "title": "Synthesia Basic $0 still current",
+      "suggested_fix": "Current — $0 matches Synthesia Basic tier (monthly). No action.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "pricing",
+      "text": "$18/mo",
+      "context": "video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal use\\\\ \\\\ Starter\\\\ \\\\ $18/mo\\\\ \\\\ 120 minutes of video/year. Billed yearly.\\\\ \\\\ Get started](https://www.synthesia.io/pricing)",
+      "span": [
+        12023,
+        12029
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "18"
+      },
+      "location": {
+        "heading": "Synthesia plans",
+        "heading_level": 2,
+        "line": 313
+      },
+      "sentence": "[Just the basics\\\\ \\\\ Basic\\\\ \\\\ $0/mo\\\\ \\\\ 10 minutes of video/month\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [For personal use\\\\ \\\\ Starter\\\\ \\\\ $18/mo\\\\ \\\\ 120 minutes of video/year.",
+      "severity": "unconfirmed",
+      "title": "Synthesia Starter $18 still current",
+      "suggested_fix": "Current — $18 matches Synthesia Starter tier (annual per mo). No action.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "pricing",
+      "text": "$64/mo",
+      "context": "started](https://www.synthesia.io/pricing) [Most popular\\\\ \\\\ For small businesses\\\\ \\\\ Creator\\\\ \\\\ $64/mo\\\\ \\\\ 360 minutes of video/year. Billed yearly.\\\\ \\\\ Get started](https://www.synthesia.io/pricing)",
+      "span": [
+        12187,
+        12193
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "64"
+      },
+      "location": {
+        "heading": "Synthesia plans",
+        "heading_level": 2,
+        "line": 323
+      },
+      "sentence": "Billed yearly.\\\\ \\\\ Get started](https://www.synthesia.io/pricing) [Most popular\\\\ \\\\ For small businesses\\\\ \\\\ Creator\\\\ \\\\ $64/mo\\\\ \\\\ 360 minutes of video/year.",
+      "severity": "unconfirmed",
+      "title": "Synthesia Creator $64 still current",
+      "suggested_fix": "Current — $64 matches Synthesia Creator tier (annual per mo). No action.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "pricing",
+      "text": "$0/mo",
+      "context": "talk.\\\\ \\\\ Custom pricing\\\\ \\\\ Book demo](https://www.synthesia.io/book-a-demo) ## Hour One plans Free $0/mo 3 minutes of video Lite $25/mo 120 minutes of video/year. Billed yearly. Business $95/mo 240",
+      "span": [
+        12460,
+        12465
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "0"
+      },
+      "location": {
+        "heading": "Hour One plans",
+        "heading_level": 2,
+        "line": 345
+      },
+      "sentence": "$0/mo",
+      "severity": "unconfirmed",
+      "title": "Synthesia Basic $0 still current",
+      "suggested_fix": "Current — $0 matches Synthesia Basic tier (monthly). No action.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "pricing",
+      "text": "$25/mo",
+      "context": "demo](https://www.synthesia.io/book-a-demo) ## Hour One plans Free $0/mo 3 minutes of video Lite $25/mo 120 minutes of video/year. Billed yearly. Business $95/mo 240 minutes of video/year. Billed yearly.",
+      "span": [
+        12493,
+        12499
+      ],
+      "meta": {
+        "brand": "Synthesia",
+        "currency": "$",
+        "amount": "25"
+      },
+      "location": {
+        "heading": "Hour One plans",
+        "heading_level": 2,
+        "line": 351
+      },
+      "sentence": "$25/mo",
+      "severity": "confirmed",
+      "title": "Synthesia $25 doesn't match any tier",
+      "suggested_fix": "`$25/mo` doesn't match any current Synthesia tier. Current tiers: Basic $?/mo or $0/mo annual · Starter $29/mo or $18/mo annual · Creator $89/mo or $64/mo annual · Enterprise $?/mo. Update or remove.",
+      "source": "(cached pricing 2026-04-24)",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "6 stock avatars",
+      "context": "We have a free plan that lets you create free AI videos! It includes 3 minutes of video per month, 6 stock avatars and a full range of AI voices in 140+ languages. Learn more about [all available plans](https://www.synthesia.io/pricing)",
+      "span": [
+        20401,
+        20416
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "6"
+      },
+      "location": {
+        "heading": "Is Synthesia a Free AI Video Generator?",
+        "heading_level": 3,
+        "line": 496
+      },
+      "sentence": "It includes 3 minutes of video per month, 6 stock avatars and a full range of AI voices in 140+ languages.",
+      "severity": "likely",
+      "title": "Synthesia avatars count slightly stale (6 vs 240+)",
+      "suggested_fix": "Synthesia now advertises **240+ avatars** on the homepage. Worth refreshing '6 avatars' → '240+ avatars' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "## Ready to try our AI video platform? Join over 1M+ users today and start making AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-demo)",
+      "span": [
+        23556,
+        23568
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "Ready to try our AI video platform?",
+        "heading_level": 2,
+        "line": 528
+      },
+      "sentence": "Join over 1M+ users today and start making AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "140+ languages",
+      "context": "videos! It includes 3 minutes of video per month, 6 stock avatars and a full range of AI voices in 140+ languages. Learn more about [all available plans](https://www.synthesia.io/pricing) or generate a [free AI video",
+      "span": [
+        20450,
+        20464
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "140+"
+      },
+      "location": {
+        "heading": "Is Synthesia a Free AI Video Generator?",
+        "heading_level": 3,
+        "line": 496
+      },
+      "sentence": "It includes 3 minutes of video per month, 6 stock avatars and a full range of AI voices in 140+ languages.",
+      "severity": "likely",
+      "title": "Synthesia languages count slightly stale (140+ vs 160+)",
+      "suggested_fix": "Synthesia now advertises **160+ languages** on the homepage. Worth refreshing '140+ languages' → '160+ languages' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "try our AI video platform? Join over 1M+ users today and start making AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/pricing) [Book demo](https://www.synthesia.io/book-a-demo)",
+      "span": [
+        23572,
+        23586
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Ready to try our AI video platform?",
+        "heading_level": 2,
+        "line": 528
+      },
+      "sentence": "Join over 1M+ users today and start making AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "40+\n\nVoices",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65e89895c5a4b8d764c0e415_checkmark-v.svg) Languages Create videos in a variety of supported languages. 40+ Voices Choose from a wide range of voices for your videos. ~260 Features ![Synthesia Logo](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae689ace95f5017dc17a0_Logo-main.svg)",
+      "span": [
+        6927,
+        6938
+      ],
+      "meta": {
+        "subtype": "voices",
+        "brand": "Synthesia",
+        "value": "40+"
+      },
+      "location": {
+        "heading": "**Compare the features and capabilities of Synthesia and Hour One**",
+        "heading_level": 2,
+        "line": 155
+      },
+      "sentence": "40+ Voices",
+      "severity": "likely",
+      "title": "Synthesia voices count slightly stale (40+ vs 1000+)",
+      "suggested_fix": "Synthesia now advertises **1000+ voices** on the homepage. Worth refreshing '40+ voices' → '1000+ voices' next time you touch this page, but not urgent.",
+      "source": "https://www.synthesia.io",
+      "source_note": "homepage copy"
+    },
+    {
+      "type": "stat",
+      "text": "60%",
+      "context": "performance based on your script. - The most secure AI Video platform for business, trusted by over 60% of Fortune 100. - Enterprise-ready, fully collaborative platform to create, manage and share videos",
+      "span": [
+        472,
+        475
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "Hour One vs Synthesia",
+        "heading_level": 1,
+        "line": 12
+      },
+      "sentence": "The most secure AI Video platform for business, trusted by over 60% of Fortune 100.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '60%'",
+      "suggested_fix": "Stat reference: `60%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "60%",
+      "context": "![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/661f8cb37afc44efa5a9dfa1_ShieldCheck-Grey.svg) ### The most secure AI video platform for business, trusted by over 60% of Fortune 100 Our AI avatars can only be created with explicit human consent, and we enforce strict",
+      "span": [
+        3254,
+        3257
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "The most secure AI video platform for business, trusted by over 60% of Fortune 100",
+        "heading_level": 3,
+        "line": 67
+      },
+      "sentence": "The most secure AI video platform for business, trusted by over 60% of Fortune 100",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: '60%'",
+      "suggested_fix": "Stat reference: `60%`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "over 50,000 companies",
+      "context": "Enterprise-ready, fully collaborative platform to create, manage and share videos at scale. Trusted by over 50,000 companies of all sizes ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65fd58d0045adba14a96183f_Reuters.svg)",
+      "span": [
+        598,
+        619
+      ],
+      "meta": {
+        "subtype": "large_count"
+      },
+      "location": {
+        "heading": "Hour One vs Synthesia",
+        "heading_level": 1,
+        "line": 15
+      },
+      "sentence": "Trusted by over 50,000 companies of all sizes",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'over 50,000 companies'",
+      "suggested_fix": "Stat reference: `over 50,000 companies`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.g2.com/categories/video-communications?utf8=%E2%9C%93&selected_view=trending&segment=enterprise#grid",
+      "context": "",
+      "span": [
+        13160,
+        13272
+      ],
+      "meta": {
+        "domain": "www.g2.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "Leader in the AI Video Generator category",
+        "heading_level": 2,
+        "line": 380
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eb2aa40b9c62e9fd68071c_Sphere-Indigo-Light.webp)\\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66604139c144ea1b821629dc_G2-grid.webp)](https://www.g2.com/categories/video-communications?utf8=%E2%9C%93&selected_view=trending&segment=enterprise#grid)",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "www.g2.com blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.g2.com/categories/video-communications?utf8=%E2%9C%93&amp;selected_view=trending&amp;segment=enterprise#grid",
+      "context": "",
+      "span": [
+        65312,
+        66391
+      ],
+      "meta": {
+        "domain": "www.g2.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "www.g2.com blocks automated checks (returned 403). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    }
+  ]
+}

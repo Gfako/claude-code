@@ -1,0 +1,607 @@
+{
+  "version": 1,
+  "last_run": "2026-04-28T10:57:24.874626+00:00",
+  "urls": {
+    "https://www.synthesia.io/alternatives/synthesia-vs-colossyan": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "c396fdf4c0b6af2487b8624e02303d24f9ae4d6879459ecffeb3dbab27e566f7",
+      "notion_page_id": "34cc16d2-2bf1-814f-96e8-f0520220a968",
+      "findings_count": 4,
+      "score": 45,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/alternatives/synthesia-vs-d-id": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "34d6aa42dded9fdbba11eb1cb1502069836882d5a9204129117aa1ebe6bcbd1e",
+      "notion_page_id": "34cc16d2-2bf1-8127-88b4-cdc63464b9d9",
+      "findings_count": 3,
+      "score": 30,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/alternatives/synthesia-vs-deepbrain": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "f2c29654196b8f679be396bb64789a2502d44d9c9eda33b24d54e32487dd30c7",
+      "notion_page_id": "34cc16d2-2bf1-81ed-99a6-d6d380160ff1",
+      "findings_count": 4,
+      "score": 45,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/alternatives/synthesia-vs-elai": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "ece6136f3d4cff9072d960f68bc1582c74b1bed06a7898137c1976f2bb95e8a7",
+      "notion_page_id": "34cc16d2-2bf1-814d-b6d9-fd254120956f",
+      "findings_count": 3,
+      "score": 30,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/alternatives/synthesia-vs-google-vids": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "c8a1282466699c5f82bea81a944592fcf972f15d5702e7ad805d28523d42ed5e",
+      "notion_page_id": "34cc16d2-2bf1-8185-b091-d74917ce9476",
+      "findings_count": 5,
+      "score": 60,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/alternatives/synthesia-vs-heygen": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": null,
+      "notion_page_id": "34cc16d2-2bf1-81a8-93f3-dd77675a0077",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/alternatives/synthesia-vs-hour-one": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "6210b6872b3bdcb1791c9c38835c0304877e1e8057e53cc528d32d3815b2cf1c",
+      "notion_page_id": "34cc16d2-2bf1-81c9-8ff8-ffbb4154b667",
+      "findings_count": 4,
+      "score": 45,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/alternatives/synthesia-vs-invideo": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "25812e8aaa797951b22a851e6342add61d6d30a5b2c83505648cadda21a0d4f8",
+      "notion_page_id": "34cc16d2-2bf1-81cd-8be8-d717092af1d6",
+      "findings_count": 5,
+      "score": 55,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/alternatives/synthesia-vs-pictory": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "ad9bbe98a922018731aa9bdfc7d201058e2acf908e7f798240a781a170940ade",
+      "notion_page_id": "34cc16d2-2bf1-8159-82bd-d97667fed743",
+      "findings_count": 6,
+      "score": 70,
+      "severity": "Critical"
+    },
+    "https://www.synthesia.io/alternatives/synthesia-vs-veed": {
+      "section": "alternatives",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "fc26741c2f4ea3ad762ee2d2ae15e38e46030fdb4180fc7b5106a6cfe9a51ecc",
+      "notion_page_id": "34cc16d2-2bf1-815f-945b-c155a3d375f9",
+      "findings_count": 3,
+      "score": 30,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/100-million-revenue-adobe-investment": {
+      "section": "blog",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "b72da7de011f97210ee9f9df6d1307794c46222bc041e00d9a8a12da176f8ca6",
+      "notion_page_id": "34cc16d2-2bf1-8117-a4b0-c8dd4f93716f",
+      "findings_count": 3,
+      "score": 24,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/3-ways-ai-generated-content-will-change-the-e-learning-industry": {
+      "section": "blog",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "742d2269c5ef944d51d7cc9aa17733994c9afe6fdbf9e6cc3f60714e01db7770",
+      "notion_page_id": "34cc16d2-2bf1-8181-ba0d-e9471ea682c2",
+      "findings_count": 3,
+      "score": 24,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/30-free-video-slide-templates": {
+      "section": "blog",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "c788dfb47883662a6c098f8f8084be909f347687d0d60bdc2750a8f1228a4907",
+      "notion_page_id": "34cc16d2-2bf1-81cb-b0cf-ddfbe5d86596",
+      "findings_count": 6,
+      "score": 54,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/accessible-video": {
+      "section": "blog",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "48cb81a97c46c947a214a14caf45ead82da80776e1720c26577448975e320899",
+      "notion_page_id": "34cc16d2-2bf1-817f-b261-e6e127ba7052",
+      "findings_count": 2,
+      "score": 20,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-customer-service-tools": {
+      "section": "blog",
+      "last_checked": "2026-04-24",
+      "last_change_detected": "2026-04-24",
+      "content_hash": "989892af3ff8f9c22b5d84e8cbb0d306b8e9106b9dff871e73c92e84b4ef49c5",
+      "notion_page_id": "34cc16d2-2bf1-814b-919d-efc9f2e4492b",
+      "findings_count": 4,
+      "score": 44,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/ai-dubbing-businesses-localize-video-at-scale": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "ec6011b592212564272791fb5a240c9b58389f05acb63b202a3fa27c7158a7b7",
+      "notion_page_id": "34fc16d2-2bf1-814c-9d94-c1441a8cc1a9",
+      "findings_count": 2,
+      "score": 20,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-ethics": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "57640e1335658a3aae72c9d570a255edb237fef06590488e153c5631f8308b51",
+      "notion_page_id": "34fc16d2-2bf1-81b7-ab44-f3b66981119f",
+      "findings_count": 4,
+      "score": 34,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-hr-tools": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "38c18575acf5dd0838d9f4d84fb41729bf734542d0b8096fa936d0a7f787f1af",
+      "notion_page_id": "34fc16d2-2bf1-8126-8f17-e50a21314765",
+      "findings_count": 3,
+      "score": 30,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-instructional-design": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "f730a416118778fd5a067a03407abbfcbb37594ad8496117d6567cc3fdb39628",
+      "notion_page_id": "34fc16d2-2bf1-811e-a43e-f7c8d41b8cf5",
+      "findings_count": 3,
+      "score": 27,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-learning-and-development-tools": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "6f2fb5b1fe1d0a9eeb68e5a2e9efcf82a33aa2b23d0af11c0e217d2d168c6684",
+      "notion_page_id": "34fc16d2-2bf1-81c4-b76a-efa83c318d44",
+      "findings_count": 2,
+      "score": 20,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-sales-enablement": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "f41e7581b2e9b8248bedca032ede40554a99d8476346c0ffed075d91fd67ee9d",
+      "notion_page_id": "34fc16d2-2bf1-8188-902a-dd0b0f7c0b38",
+      "findings_count": 3,
+      "score": 27,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-speech-technologies-for-user-experiences": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "dead7ceaed205e11c516b33c4aeb642f5e9286e7ffdd527df4fa2fa35abb1452",
+      "notion_page_id": "34fc16d2-2bf1-81e2-86e2-f148dc8d111d",
+      "findings_count": 4,
+      "score": 36,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/ai-statistics": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "aa79a312d354f124f826d22af9b85c9b294636a57a0b753a331a99a6f91b1638",
+      "notion_page_id": "34fc16d2-2bf1-814d-851d-fe2ba4a9d926",
+      "findings_count": 25,
+      "score": 100,
+      "severity": "Critical"
+    },
+    "https://www.synthesia.io/post/ai-tools": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "244203a95d52a2bd53627adf11335b5e8d58af9bcc23665da892ea596649c94d",
+      "notion_page_id": "34fc16d2-2bf1-81bb-904d-d282c36b2c0c",
+      "findings_count": 3,
+      "score": 35,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-training-videos-save-time-costs": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "59394fe96f07f9ac5e9a1d0ffd0ef4fb363a22e40b020f9700512328b9aeb44f",
+      "notion_page_id": "34fc16d2-2bf1-8171-abc6-c07d8e03b1e5",
+      "findings_count": 2,
+      "score": 20,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-trends": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "8f143c0ad470d8054358683cdec4e316302dc69cb71576993788db341dfdab1d",
+      "notion_page_id": "34fc16d2-2bf1-81d6-a1c1-e0b565afd1aa",
+      "findings_count": 4,
+      "score": 34,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/ai-video-for-learning": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "ab1e93e950641f27088fb84391f5efe02bbac65933b61af7ae22ae9d7568069a",
+      "notion_page_id": "34fc16d2-2bf1-8150-ab03-d7dfe287e1c2",
+      "findings_count": 2,
+      "score": 20,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/animoto-alternatives": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "9f787ddc3ddf1e04ce353185603fce3af9244e34125b33b427d7d7fe8254db2a",
+      "notion_page_id": "34fc16d2-2bf1-8198-a4fd-e06c8c7e8c7c",
+      "findings_count": 6,
+      "score": 64,
+      "severity": "Critical"
+    },
+    "https://www.synthesia.io/post/announcing-our-partnership-with-elevenlabs-for-texttospeech-and-voice-api-a17f0": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "11146c7c352cd8374d23e8373ba7279e31ce02865cf2505521b7d889e760d010",
+      "notion_page_id": "34fc16d2-2bf1-81ed-8f3c-d1a31a1a72d7",
+      "findings_count": 2,
+      "score": 20,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/auto-generate-videos-zapier": {
+      "section": "blog",
+      "last_checked": "2026-04-26",
+      "last_change_detected": "2026-04-26",
+      "content_hash": "3524960bf3a5f5009a80953177b2e2a61c69de64aad5b681235d95dfc35be3ef",
+      "notion_page_id": "34fc16d2-2bf1-818d-b7b3-ea95ceb46536",
+      "findings_count": 3,
+      "score": 32,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/aws-and-synthesia-advance-ai-video-adoption": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "189428b7179273d75aec083cebad6e75b01c09dc2bf9a58859b5397bb3eed5e3",
+      "notion_page_id": "350c16d2-2bf1-8197-82d9-c9af64112f8f",
+      "findings_count": 3,
+      "score": 24,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/b2b-marketing-videos": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "628d7fd3134479d7f2234ce2fcf0e16e58239ebc856eda9f2f111d765e06d7b6",
+      "notion_page_id": "350c16d2-2bf1-81de-8ec8-e35a6e86a321",
+      "findings_count": 3,
+      "score": 24,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/benefits-of-employee-training": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "d1cba28581410be3d667a9f71db1ae0e510144c91d27c6219c086e2103e1a7a2",
+      "notion_page_id": "350c16d2-2bf1-8168-aea3-da61feaae8a9",
+      "findings_count": 4,
+      "score": 34,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/benefits-of-security-awareness-training": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "fa7bb678c912de475492aca5abda89264c3917334ac7c95b8894e45ef5e3c858",
+      "notion_page_id": "350c16d2-2bf1-8187-be5f-fc485f599373",
+      "findings_count": 11,
+      "score": 93,
+      "severity": "Critical"
+    },
+    "https://www.synthesia.io/post/best-ai-avatar-generator": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "9febaa32d1cbfeef9f64bb9f0bf63db7ac713e514d375f0c09c8d6d65576352d",
+      "notion_page_id": "350c16d2-2bf1-81ad-be4a-c5be2ff70826",
+      "findings_count": 6,
+      "score": 60,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/best-ai-video-generators": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "ab7d0e511971a1b0c605202be8c138d5a81ddf8971b8a57c900c14af1427dd32",
+      "notion_page_id": "350c16d2-2bf1-8163-8dcd-de34a13a1914",
+      "findings_count": 5,
+      "score": 42,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/best-camtasia-alternatives": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "442bb4aaa7b65dbc61579beac4089ed3208e506950d8b843eb5a2c78712c4ba0",
+      "notion_page_id": "350c16d2-2bf1-81e2-acdc-ee579a687fb7",
+      "findings_count": 5,
+      "score": 47,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/best-colossyan-alternatives": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "a39c7ceca6a45802b54b0ac6c6c011b497f2148c99532234299db4beda2119c6",
+      "notion_page_id": "350c16d2-2bf1-813f-a5f8-fe684ef8b729",
+      "findings_count": 4,
+      "score": 40,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/best-company-culture-videos": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "ce3a5ebb5aca5beb5b1841519966cbc30322d1bc6977bae25efa46c02cf15916",
+      "notion_page_id": "350c16d2-2bf1-812f-9eb4-d2329628d718",
+      "findings_count": 3,
+      "score": 27,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/best-d-id-alternatives": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "3afd6dd17d81ba958ff1910792bf4ca9d732a7e750c47cb3e64dedfa8171c3c1",
+      "notion_page_id": "350c16d2-2bf1-81c8-bfb6-eb51154b9296",
+      "findings_count": 4,
+      "score": 40,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/best-elai-io-alternatives": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "6e6ba244d9ee4d57653cab92b77277cf40373edb4423d30202c5279cffad352b",
+      "notion_page_id": "350c16d2-2bf1-81fc-b93b-c15b6112ede9",
+      "findings_count": 2,
+      "score": 20,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/best-elearning-blogs": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "ffa11a41c3504fcdfd8d825069fcf52bfc6f02e407fbccfc21f8f61016dd928a",
+      "notion_page_id": "350c16d2-2bf1-810d-8722-e79972b9bf1a",
+      "findings_count": 4,
+      "score": 39,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/best-how-to-video-examples": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "80f0317457aa4c03002d64045769e0a2e86f4e521ace4b536f86e67bed8a23f4",
+      "notion_page_id": "350c16d2-2bf1-81f9-a1a9-cdfe67ee2dc6",
+      "findings_count": 3,
+      "score": 24,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/best-practices-in-training-and-development": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "001a384188360d8cc19658d32a75b3f7318dbb7e3fcb8997b5798502d6731799",
+      "notion_page_id": "350c16d2-2bf1-8161-82de-d8ea67265377",
+      "findings_count": 5,
+      "score": 42,
+      "severity": "High"
+    },
+    "https://www.synthesia.io/post/best-screen-recorders": {
+      "section": "blog",
+      "last_checked": "2026-04-28",
+      "last_change_detected": "2026-04-28",
+      "content_hash": "3be992b9f9f6c61845eac281f5d7f7b85b1e5cc6d6a8009ffeea85b836ea77c6",
+      "notion_page_id": "350c16d2-2bf1-81d1-b640-f8838d62c168",
+      "findings_count": 3,
+      "score": 24,
+      "severity": "Medium"
+    },
+    "https://www.synthesia.io/post/best-talking-head-video-examples": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-812a-b6db-d869f4b4b1e7",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/best-video-presentation-software": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-8177-b6c4-f09aef807a1f",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/best-video-translator-apps": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-8104-a5c9-c2aacd72589d",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/bigger-and-faster-ai-video-nvidia-blackwell-gpu-google-cloud": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-8156-a47f-fca54db9a524",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/biteable-alternatives": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-81a6-b1ab-e4d5e1652a71",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/brand-video-production": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-8186-8535-ee82a3356ed3",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/brand-videos": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-815a-81f5-e4811339b0cd",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/branded-video-content": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-81b4-8ee0-fb5b285c3e68",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/business-benefit-for-voice-cloning": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-8195-96b9-d0874df5aad0",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/change-management-videos": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-81ef-b059-ea40dcec4329",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/chatgpt-script": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-81cd-a64a-ddb21b3901ad",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/choosing-an-ai-video-creation-tool": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-81f7-b165-dbab7987a37b",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/clipchamp-alternatives": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-8120-ac2f-f30b0134e064",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/compliance-training-videos": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-812f-b709-c9eff78a24b0",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    },
+    "https://www.synthesia.io/post/convert-powerpoint-to-elearning": {
+      "section": "blog",
+      "last_checked": "2026-04-29",
+      "last_change_detected": "2026-04-29",
+      "content_hash": null,
+      "notion_page_id": "351c16d2-2bf1-8194-ae6a-da1ab7fdba95",
+      "findings_count": 0,
+      "score": 0,
+      "severity": "Low"
+    }
+  },
+  "last_run_start": "2026-04-29T13:14:44.499181+00:00"
+}

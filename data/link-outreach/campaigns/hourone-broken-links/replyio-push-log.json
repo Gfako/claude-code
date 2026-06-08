@@ -1,0 +1,1365 @@
+{
+  "campaign_id": 1664426,
+  "total_pushed": 193,
+  "successes": 191,
+  "failures": 2,
+  "error_summary": {
+    "\"Contact is already in this sequence\"": 1,
+    "\"Contact is already in another sequence\"": 1
+  },
+  "log": [
+    {
+      "index": 0,
+      "email": "rebecca@unite.ai",
+      "company": "Unite",
+      "status": "failure",
+      "http_status": 409,
+      "error": "\"Contact is already in this sequence\""
+    },
+    {
+      "index": 1,
+      "email": "business@toolify.ai",
+      "company": "Toolify",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 2,
+      "email": "fahim@fahimai.com",
+      "company": "Fahimai",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 3,
+      "email": "anh.duong@webcatalog.io",
+      "company": "Webcatalog",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 4,
+      "email": "anton@videogen.io",
+      "company": "Videogen",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 5,
+      "email": "support@squeezegrowth.com",
+      "company": "Squeezegrowth",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 6,
+      "email": "info@futuroprossimo.it",
+      "company": "Futuroprossimo",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 7,
+      "email": "vasilii@mpost.io",
+      "company": "Mpost",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 8,
+      "email": "partnerships@knoji.com",
+      "company": "Knoji",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 9,
+      "email": "alice@flipbuilder.com",
+      "company": "Flipbuilder",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 10,
+      "email": "jeremy@clickup.com",
+      "company": "Clickup",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 11,
+      "email": "jordan@youreverydayai.com",
+      "company": "Youreverydayai",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 12,
+      "email": "support@ifoto.ai",
+      "company": "Ifoto",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 13,
+      "email": "connie@techcrunch.com",
+      "company": "Techcrunch",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 14,
+      "email": "jana.wilbricht@uib.no",
+      "company": "Uib",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 15,
+      "email": "john.r@techtimes.com",
+      "company": "Techtimes",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 16,
+      "email": "robert_thorne@ai.cc",
+      "company": "Ai",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 17,
+      "email": "support@creati.ai",
+      "company": "Creati",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 18,
+      "email": "zoeyl@wondershare.com",
+      "company": "Wondershare",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 19,
+      "email": "manuel.casella@leadiq.com",
+      "company": "Leadiq",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 20,
+      "email": "a.melnik@partnerkin.com",
+      "company": "Partnerkin",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 21,
+      "email": "dru@trends.vc",
+      "company": "Trends",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 22,
+      "email": "support@hidemium.io",
+      "company": "Hidemium",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 23,
+      "email": "matthias@clickomania.ch",
+      "company": "Clickomania",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 24,
+      "email": "jin@goodfirms.co",
+      "company": "Goodfirms",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 25,
+      "email": "amehta@insightpartners.com",
+      "company": "Insightpartners",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 26,
+      "email": "alexandra@unleash.ai",
+      "company": "Unleash",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 27,
+      "email": "andrew@israel21c.org",
+      "company": "Israel21C",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 28,
+      "email": "support@hitpaw.com",
+      "company": "Hitpaw",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 29,
+      "email": "hello@standout.digital",
+      "company": "Standout",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 30,
+      "email": "db@project-aeon.com",
+      "company": "Project Aeon",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 31,
+      "email": "contact@1ai.net",
+      "company": "1Ai",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 32,
+      "email": "contact@ainewsera.com",
+      "company": "Ainewsera",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 33,
+      "email": "victor@futurism.com",
+      "company": "Futurism",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 34,
+      "email": "moritz.schubert@omr.com",
+      "company": "Omr",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 35,
+      "email": "rkeith@sportsbusinessjournal.com",
+      "company": "Sportsbusinessjournal",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 36,
+      "email": "ameya.paleja@interestingengineering.com",
+      "company": "Interestingengineering",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 37,
+      "email": "atul@fliki.ai",
+      "company": "Fliki",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 38,
+      "email": "events@dataconomy.com",
+      "company": "Dataconomy",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 39,
+      "email": "zhaoxiangguo@ifanr.com",
+      "company": "Ifanr",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 40,
+      "email": "andy@softwareworld.co",
+      "company": "Softwareworld",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 41,
+      "email": "sales@archivemarketresearch.com",
+      "company": "Archivemarketresearch",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 42,
+      "email": "sales@fanpiece.com",
+      "company": "Fanpiece",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 43,
+      "email": "mikel@snipd.com",
+      "company": "Snipd",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 44,
+      "email": "avishai@trendemon.com",
+      "company": "Trendemon",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 45,
+      "email": "john@hi.auto",
+      "company": "Hi",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 46,
+      "email": "team@moge.ai",
+      "company": "Moge",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 47,
+      "email": "info@vkweb.fr",
+      "company": "Vkweb",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 48,
+      "email": "admin@softstribe.com",
+      "company": "Softstribe",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 49,
+      "email": "sami@automate.video",
+      "company": "Automate",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 50,
+      "email": "sales@marketresearchforecast.com",
+      "company": "Marketresearchforecast",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 51,
+      "email": "cthermistocleous@forbes.com",
+      "company": "Forbes",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 52,
+      "email": "nhushkovska@selzy.com",
+      "company": "Selzy",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 53,
+      "email": "mboisvert@techtarget.com",
+      "company": "Techtarget",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 54,
+      "email": "clint.buechler@givebutter.com",
+      "company": "Givebutter",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 55,
+      "email": "sharon@tutsplus.com",
+      "company": "Tutsplus",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 56,
+      "email": "vrushali.g@grandviewresearch.com",
+      "company": "Grandviewresearch",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 57,
+      "email": "anna.iovine@mashable.com",
+      "company": "Mashable",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 58,
+      "email": "matt.rosoff@theregister.com",
+      "company": "Theregister",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 59,
+      "email": "hholden@digitaltrends.com",
+      "company": "Digitaltrends",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 60,
+      "email": "aayush@thenextweb.com",
+      "company": "Thenextweb",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 61,
+      "email": "sales@towardsdatascience.com",
+      "company": "Towardsdatascience",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 62,
+      "email": "igomez@rtve.es",
+      "company": "Rtve",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 63,
+      "email": "info@habr.com",
+      "company": "Habr",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 64,
+      "email": "manuela.salvi@rts.ch",
+      "company": "Rts",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 65,
+      "email": "devon@vidyard.com",
+      "company": "Vidyard",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 66,
+      "email": "brian@resend.com",
+      "company": "Resend",
+      "status": "failure",
+      "http_status": 409,
+      "error": "\"Contact is already in another sequence\""
+    },
+    {
+      "index": 67,
+      "email": "jamie.nightingale@wyzowl.com",
+      "company": "Wyzowl",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 68,
+      "email": "benoit@livestorm.co",
+      "company": "Livestorm",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 69,
+      "email": "rachel@popsci.com",
+      "company": "Popsci",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 70,
+      "email": "arindam.roy@moneycontrol.com",
+      "company": "Moneycontrol",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 71,
+      "email": "helen@transistor.fm",
+      "company": "Transistor",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 72,
+      "email": "krigstin@digitaljournal.com",
+      "company": "Digitaljournal",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 73,
+      "email": "ankita.dey@precedenceresearch.com",
+      "company": "Precedenceresearch",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 74,
+      "email": "rob@boingboing.net",
+      "company": "Boingboing",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 75,
+      "email": "joab@thenewstack.io",
+      "company": "Thenewstack",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 76,
+      "email": "caitlin-steele@ghost.io",
+      "company": "Ghost",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 77,
+      "email": "info@research.com",
+      "company": "Research",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 78,
+      "email": "chris.weiss@newatlas.com",
+      "company": "Newatlas",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 79,
+      "email": "fawaz.alabri@kornferry.com",
+      "company": "Kornferry",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 80,
+      "email": "alba.otero@xataka.com",
+      "company": "Xataka",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 81,
+      "email": "armida@trendhunter.com",
+      "company": "Trendhunter",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 82,
+      "email": "gmajid@td.org",
+      "company": "Td",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 83,
+      "email": "info@codeless.co",
+      "company": "Codeless",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 84,
+      "email": "schrohe@epic.org",
+      "company": "Epic",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 85,
+      "email": "contact@martechseries.com",
+      "company": "Martechseries",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 86,
+      "email": "ziniapadilla@tec.mx",
+      "company": "Tec",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 87,
+      "email": "lauri@bvp.com",
+      "company": "Bvp",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 88,
+      "email": "info@clippings.me",
+      "company": "Clippings",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 89,
+      "email": "eric@singlegrain.com",
+      "company": "Singlegrain",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 90,
+      "email": "contact@wandb.ai",
+      "company": "Wandb",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 91,
+      "email": "stephanie@voices.com",
+      "company": "Voices",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 92,
+      "email": "mattmayo@kdnuggets.com",
+      "company": "Kdnuggets",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 93,
+      "email": "jmarine@nofilmschool.com",
+      "company": "Nofilmschool",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 94,
+      "email": "inbox@joyclub.de",
+      "company": "Joyclub",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 95,
+      "email": "gwilliams@investingnews.com",
+      "company": "Investingnews",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 96,
+      "email": "neal@nealschaffer.com",
+      "company": "Nealschaffer",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 97,
+      "email": "pankaj@beebom.com",
+      "company": "Beebom",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 98,
+      "email": "alexandra@eksisozluk.com",
+      "company": "Eksisozluk",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 99,
+      "email": "alexandra.watkins@messari.io",
+      "company": "Messari",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 100,
+      "email": "justin.diaz@androidheadlines.com",
+      "company": "Androidheadlines",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 101,
+      "email": "gretchen.borzi@prx.org",
+      "company": "Prx",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 102,
+      "email": "jason@thehrdirector.com",
+      "company": "Thehrdirector",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 103,
+      "email": "contact@wishfulthemes.com",
+      "company": "Wishfulthemes",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 104,
+      "email": "bret@voicebot.ai",
+      "company": "Voicebot",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 105,
+      "email": "egyeda@telex.hu",
+      "company": "Telex",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 106,
+      "email": "saurabh@simplified.com",
+      "company": "Simplified",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 107,
+      "email": "info@raindrop.io",
+      "company": "Raindrop",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 108,
+      "email": "atejeda@uv.mx",
+      "company": "Uv",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 109,
+      "email": "services@limewire.com",
+      "company": "Limewire",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 110,
+      "email": "mkittson@nab.org",
+      "company": "Nab",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 111,
+      "email": "hello@contentstudio.io",
+      "company": "Contentstudio",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 112,
+      "email": "marketing@justcall.io",
+      "company": "Justcall",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 113,
+      "email": "info@startitup.sk",
+      "company": "Startitup",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 114,
+      "email": "support@relevanceai.com",
+      "company": "Relevanceai",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 115,
+      "email": "ehsan@resimpli.com",
+      "company": "Resimpli",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 116,
+      "email": "hello@allaboutai.com",
+      "company": "Allaboutai",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 117,
+      "email": "matt.d@diggitymarketing.com",
+      "company": "Diggitymarketing",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 118,
+      "email": "ekrem@contactout.com",
+      "company": "Contactout",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 119,
+      "email": "info@thebridge.jp",
+      "company": "Thebridge",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 120,
+      "email": "dan@blackhatworld.com",
+      "company": "Blackhatworld",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 121,
+      "email": "allen.wood@letsvpn.world",
+      "company": "Letsvpn",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 122,
+      "email": "hello@geniusfirms.com",
+      "company": "Geniusfirms",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 123,
+      "email": "tyler.pedersen@goconsensus.com",
+      "company": "Goconsensus",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 124,
+      "email": "steve@ecommercefastlane.com",
+      "company": "Ecommercefastlane",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 125,
+      "email": "sales@datainsightsmarket.com",
+      "company": "Datainsightsmarket",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 126,
+      "email": "nere.lascurain@atresmedia.com",
+      "company": "Atresmedia",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 127,
+      "email": "andrew@therookies.co",
+      "company": "Therookies",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 128,
+      "email": "contact@thebossmagazine.com",
+      "company": "Thebossmagazine",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 129,
+      "email": "amitchell@nea.com",
+      "company": "Nea",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 130,
+      "email": "hello@bbntimes.com",
+      "company": "Bbntimes",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 131,
+      "email": "bmiller@owler.com",
+      "company": "Owler",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 132,
+      "email": "jpaniagua@nvidia.com",
+      "company": "Nvidia",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 133,
+      "email": "jeffrey.bloomer@slate.com",
+      "company": "Slate",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 134,
+      "email": "contact@lifewire.com",
+      "company": "Lifewire",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 135,
+      "email": "haley.petricca@builtin.com",
+      "company": "Builtin",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 136,
+      "email": "info@gitnux.org",
+      "company": "Gitnux",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 137,
+      "email": "andrew@decrypt.co",
+      "company": "Decrypt",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 138,
+      "email": "mariap@accessnewswire.com",
+      "company": "Accessnewswire",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 139,
+      "email": "keval@geekflare.com",
+      "company": "Geekflare",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 140,
+      "email": "tamara@sendible.com",
+      "company": "Sendible",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 141,
+      "email": "stacey@aibusiness.com",
+      "company": "Aibusiness",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 142,
+      "email": "dan.costa@worth.com",
+      "company": "Worth",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 143,
+      "email": "hello@whatsthebigdata.com",
+      "company": "Whatsthebigdata",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 144,
+      "email": "raphael.beguin@euronics.de",
+      "company": "Euronics",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 145,
+      "email": "support@diyphotography.net",
+      "company": "Diyphotography",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 146,
+      "email": "dcastro@datainnovation.org",
+      "company": "Datainnovation",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 147,
+      "email": "francesco@typefully.com",
+      "company": "Typefully",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 148,
+      "email": "kevin@futurepedia.io",
+      "company": "Futurepedia",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 149,
+      "email": "hello@bardeen.ai",
+      "company": "Bardeen",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 150,
+      "email": "hello@magicbox.tools",
+      "company": "Magicbox",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 151,
+      "email": "support@slashpage.com",
+      "company": "Slashpage",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 152,
+      "email": "tim@thedebrief.org",
+      "company": "Thedebrief",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 153,
+      "email": "sachin@contrary.com",
+      "company": "Contrary",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 154,
+      "email": "matt@encord.com",
+      "company": "Encord",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 155,
+      "email": "lily@reverbico.com",
+      "company": "Reverbico",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 156,
+      "email": "matt@cometly.com",
+      "company": "Cometly",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 157,
+      "email": "may.horiuchi@visla.us",
+      "company": "Visla",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 158,
+      "email": "hello@kripeshadwani.com",
+      "company": "Kripeshadwani",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 159,
+      "email": "dpetric@bug.hr",
+      "company": "Bug",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 160,
+      "email": "gareth.icke@davidicke.com",
+      "company": "Davidicke",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 161,
+      "email": "m.shim@samsungnext.com",
+      "company": "Samsungnext",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 162,
+      "email": "noah@theneurondaily.com",
+      "company": "Theneurondaily",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 163,
+      "email": "rachel.ritchie@nudgesecurity.com",
+      "company": "Nudgesecurity",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 164,
+      "email": "hello@topai.tools",
+      "company": "Topai",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 165,
+      "email": "help@whatsyourhours.com",
+      "company": "Whatsyourhours",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 166,
+      "email": "matt@interconnected.org",
+      "company": "Interconnected",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 167,
+      "email": "contact@designrevision.com",
+      "company": "Designrevision",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 168,
+      "email": "veronika.sterkel@sgalinski.de",
+      "company": "Sgalinski",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 169,
+      "email": "marko@myaifrontdesk.com",
+      "company": "Myaifrontdesk",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 170,
+      "email": "kate.batz@dkv.global",
+      "company": "Dkv",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 171,
+      "email": "daniel@startuphub.ai",
+      "company": "Startuphub",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 172,
+      "email": "kalpna@trupeer.ai",
+      "company": "Trupeer",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 173,
+      "email": "mario@superdatascience.com",
+      "company": "Superdatascience",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 174,
+      "email": "business@orionstar.com",
+      "company": "Orionstar",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 175,
+      "email": "admin@trickyenough.com",
+      "company": "Trickyenough",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 176,
+      "email": "g.terrenzio@zerynth.com",
+      "company": "Zerynth",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 177,
+      "email": "hcukierman@israelvalley.com",
+      "company": "Israelvalley",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 178,
+      "email": "frances@kindredventures.com",
+      "company": "Kindredventures",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 179,
+      "email": "fred.waldman@upmarket.co",
+      "company": "Upmarket",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 180,
+      "email": "partnerships@appscribed.com",
+      "company": "Appscribed",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 181,
+      "email": "support@shortsninja.com",
+      "company": "Shortsninja",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 182,
+      "email": "support@theaisurf.com",
+      "company": "Theaisurf",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 183,
+      "email": "info@techaviv.com",
+      "company": "Techaviv",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 184,
+      "email": "sarai@mvpgrow.com",
+      "company": "Mvpgrow",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 185,
+      "email": "david@rankmyai.com",
+      "company": "Rankmyai",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 186,
+      "email": "helen@creativitysquared.com",
+      "company": "Creativitysquared",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 187,
+      "email": "hello@monkeyaitools.com",
+      "company": "Monkeyaitools",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 188,
+      "email": "koen@sowflow.io",
+      "company": "Sowflow",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 189,
+      "email": "rmuradyan@hubspot.com",
+      "company": "Hubspot",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 190,
+      "email": "bommie.xiong@mdpi.com",
+      "company": "Mdpi",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 191,
+      "email": "kayla.brown@axios.com",
+      "company": "Axios",
+      "status": "success",
+      "http_status": 200
+    },
+    {
+      "index": 192,
+      "email": "adam.banicki@fortune.com",
+      "company": "Fortune",
+      "status": "success",
+      "http_status": 200
+    }
+  ]
+}

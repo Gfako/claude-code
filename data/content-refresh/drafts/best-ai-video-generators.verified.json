@@ -1,0 +1,594 @@
+{
+  "slug": "best-ai-video-generators",
+  "page_brand": null,
+  "total_findings": 44,
+  "by_severity": {
+    "unconfirmed": 21,
+    "needs_check": 23
+  },
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) January 28, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In",
+      "span": [
+        278,
+        290
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "The 15 Best AI Video Generators in 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia avatars 240+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Odefey](https://www.synthesia.io/blog/authors/kyle-odefey) January 28, 2026 Create AI videos with 240+ avatars in 160+ languages. [Get started for FREE](https://www.synthesia.io/features/ai-video-generator) In this article [My",
+      "span": [
+        294,
+        308
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "The 15 Best AI Video Generators in 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages.",
+      "severity": "unconfirmed",
+      "title": "Synthesia languages 160+ still current",
+      "suggested_fix": "Matches current homepage. No action.",
+      "source": "https://www.synthesia.io",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "# The 15 Best AI Video Generators in 2026 (Tried & Tested) ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/68aeef36a305728ec4c4a118_kyle.jpg)",
+      "span": [
+        34,
+        41
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The 15 Best AI Video Generators in 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 1
+      },
+      "sentence": "The 15 Best AI Video Generators in 2026 (Tried & Tested)",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2026'",
+      "suggested_fix": "Stat reference: `in 2026`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "stat",
+      "text": "in 2026",
+      "context": "videos without filming – and still keep everything consistent and on-brand across teams – is a huge help in 2026. Rendering can take several minutes but I think the output is worth the wait. And, the collaboration",
+      "span": [
+        36085,
+        36092
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "My verdict",
+        "heading_level": 4,
+        "line": 654
+      },
+      "sentence": "Being able to turn scripts, documents, webpages, or slides into presenter-led videos without filming – and still keep everything consistent and on-brand across teams – is a huge help in 2026.",
+      "severity": "unconfirmed",
+      "title": "Stat needs review: 'in 2026'",
+      "suggested_fix": "Stat reference: `in 2026`. Stats can stay relevant for years — only update if the underlying claim is clearly out of date or used as a freshness signal in the article.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "link",
+      "text": "https://app.klingai.com/global/",
+      "context": "",
+      "span": [
+        13295,
+        13326
+      ],
+      "meta": {
+        "domain": "app.klingai.com",
+        "anchor": "3\\. Kling"
+      },
+      "location": {
+        "heading": "[3\\. Kling](https://app.klingai.com/global/)",
+        "heading_level": 2,
+        "line": 231
+      },
+      "sentence": "Kling](https://app.klingai.com/global/)",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "Link returned 405 to an automated HEAD check. 405 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    },
+    {
+      "type": "link",
+      "text": "https://sora.chatgpt.com/explore",
+      "context": "",
+      "span": [
+        15295,
+        15327
+      ],
+      "meta": {
+        "domain": "sora.chatgpt.com",
+        "anchor": "4\\. Sora 2"
+      },
+      "location": {
+        "heading": "[4\\. Sora 2](https://sora.chatgpt.com/explore)",
+        "heading_level": 2,
+        "line": 268
+      },
+      "sentence": "Sora 2](https://sora.chatgpt.com/explore)",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.freepik.com/",
+      "context": "",
+      "span": [
+        33959,
+        33983
+      ],
+      "meta": {
+        "domain": "www.freepik.com",
+        "anchor": "Freepik"
+      },
+      "location": {
+        "heading": "3\\. Freepik",
+        "heading_level": 3,
+        "line": 621
+      },
+      "sentence": "[Freepik](https://www.freepik.com/) unexpectedly became one of the best AI aggregators I’ve tested so far.",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (403)",
+      "suggested_fix": "Link returned 403 to an automated HEAD check. 403 usually means the site is bot-blocking, not that the link is broken. Spot-check in a browser to confirm.",
+      "source": "",
+      "source_note": "HEAD status: 403"
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kyleodefey/",
+      "context": "",
+      "span": [
+        156968,
+        158319
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": "",
+      "severity": "unconfirmed",
+      "title": "Link blocks bots (405)",
+      "suggested_fix": "www.linkedin.com blocks automated checks (returned 405). Manual spot-check in a browser if you want to be sure.",
+      "source": "",
+      "source_note": "HEAD status: 405"
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "Seedance](https://www.synthesia.io/post/best-ai-video-generators#2-seedance) [3\\. Kling](https://www.synthesia.io/post/best-ai-video-generators#3-kling) [4\\. Sora 2](https://www.synthesia.io/post/best-ai-video-generators#4-sora-2) [5\\. Runway](https://www.synthesia.io/post/best-ai-video-generators#5-runway)",
+      "span": [
+        1023,
+        1027
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "The 15 Best AI Video Generators in 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 29
+      },
+      "sentence": "Sora 2](https://www.synthesia.io/post/best-ai-video-generators#4-sora-2)",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "sora",
+      "context": "Kling](https://www.synthesia.io/post/best-ai-video-generators#3-kling) [4\\. Sora 2](https://www.synthesia.io/post/best-ai-video-generators#4-sora-2) [5\\. Runway](https://www.synthesia.io/post/best-ai-video-generators#5-runway) [6\\. Luma](https://www.synthesia.io/post/best-ai-video-generators#6-luma)",
+      "span": [
+        1088,
+        1092
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "The 15 Best AI Video Generators in 2026 (Tried & Tested)",
+        "heading_level": 1,
+        "line": 29
+      },
+      "sentence": "Sora 2](https://www.synthesia.io/post/best-ai-video-generators#4-sora-2)",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "3.0**](https://www.synthesia.io/post/best-ai-video-generators#3-kling): Most stable, controllable, production-ready cinematic generator **‍** 04. [**Sora 2**](https://www.synthesia.io/post/best-ai-video-generators#4-sora-2): Most advanced storytelling and",
+      "span": [
+        3301,
+        3305
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "**Best AI video generators for cinematic videos:**",
+        "heading_level": 3,
+        "line": 70
+      },
+      "sentence": "[**Sora 2**](https://www.synthesia.io/post/best-ai-video-generators#4-sora-2): Most advanced storytelling and narrative generation **‍** 05.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "sora",
+      "context": "cinematic generator **‍** 04. [**Sora 2**](https://www.synthesia.io/post/best-ai-video-generators#4-sora-2): Most advanced storytelling and narrative generation **‍** 05. [**Runway Gen-4.5**](https://www.synthesia.io/post/best-ai-video-generators#5-runway):",
+      "span": [
+        3368,
+        3372
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "**Best AI video generators for cinematic videos:**",
+        "heading_level": 3,
+        "line": 70
+      },
+      "sentence": "[**Sora 2**](https://www.synthesia.io/post/best-ai-video-generators#4-sora-2): Most advanced storytelling and narrative generation **‍** 05.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "| Limited | 15 | No | No | Yes | | Kling 3.0 | Yes | $6.99+ | 1080p | Yes | 15 | Yes | No | Yes | | Sora 2 | Limited / Invite | $20+ | 1080p | No (re-prompt) | 12 | Yes | Yes | Yes | | Runway Gen-4.5 | Yes",
+      "span": [
+        8033,
+        8037
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "Comparison table",
+        "heading_level": 2,
+        "line": 129
+      },
+      "sentence": "| Tool | Free Trial | Price / mo (USD) | Highest Res | Edit Output | Max Length (sec) | Multi-Shot | Lip Sync | Sound Generation | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Veo 3.2 | Limited | $19.99+ | 4k | No (re-prompt) | 8 | No | No | Yes | | Seedance 2 | Limited | $98+ | 720p | Limited | 15 | No | No | Yes | | Kling 3.0 | Yes | $6.99+ | 1080p | Yes | 15 | Yes | No | Yes | | Sora 2 | Limited / Invite | $20+ | 1080p | No (re-prompt) | 12 | Yes | Yes | Yes | | Runway Gen-4.5 | Yes | $12 | 720p+ | Yes | 10 | No | No | No | | Luma Ray3 | Yes | $9.99 | 4K | Yes | 10 | No | No | No | | PixVerse 5.5 | Yes | $10+ | 1080p | Yes | 6 | No | No | Yes | | Grok Imagine | Yes | $10+ | 720p | No (re-prompt) | 15 | No | No | Yes | | WAN 2.6 | Yes | $49 | 1080p | No | 15 | No | No | Yes | | Pika 2.5 | Yes | $35 | 1080p | Limited | 10 | No | No | No | | Adobe Firefly Video | Yes | $9.99 |",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "cinematic output with good control. You may have to sacrifice some creative flair with it, though. ## [4\\. Sora 2](https://sora.chatgpt.com/explore) Sora\\_text\\_to\\_video\\_2026 - Video generated with Synthesia",
+      "span": [
+        15287,
+        15291
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "[4\\. Sora 2](https://sora.chatgpt.com/explore)",
+        "heading_level": 2,
+        "line": 268
+      },
+      "sentence": "Sora 2](https://sora.chatgpt.com/explore)",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "sora",
+      "context": "good control. You may have to sacrifice some creative flair with it, though. ## [4\\. Sora 2](https://sora.chatgpt.com/explore) Sora\\_text\\_to\\_video\\_2026 - Video generated with Synthesia ### **How to get",
+      "span": [
+        15303,
+        15307
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "[4\\. Sora 2](https://sora.chatgpt.com/explore)",
+        "heading_level": 2,
+        "line": 268
+      },
+      "sentence": "Sora 2](https://sora.chatgpt.com/explore)",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "sacrifice some creative flair with it, though. ## [4\\. Sora 2](https://sora.chatgpt.com/explore) Sora\\_text\\_to\\_video\\_2026 - Video generated with Synthesia ### **How to get access** - ‍ [Try Sora 2",
+      "span": [
+        15330,
+        15334
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "[4\\. Sora 2](https://sora.chatgpt.com/explore)",
+        "heading_level": 2,
+        "line": 270
+      },
+      "sentence": "Sora\\_text\\_to\\_video\\_2026 - Video generated with Synthesia",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "Sora\\_text\\_to\\_video\\_2026 - Video generated with Synthesia ### **How to get access** - ‍ [Try Sora 2 via Synthesia's AI Playground](https://www.synthesia.io/post/how-to-use-sora-2-for-free) \\[FREE\\]",
+      "span": [
+        15428,
+        15432
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "**How to get access**",
+        "heading_level": 3,
+        "line": 274
+      },
+      "sentence": "‍ [Try Sora 2 via Synthesia's AI Playground](https://www.synthesia.io/post/how-to-use-sora-2-for-free) \\[FREE\\] - ‍ [Use an AI video model aggregator](https://www.synthesia.io/post/best-ai-video-generators#ai-video-model-aggregators-and-creative-suites)\\[PAID\\] - Note: Sora 2 completely shuts down on 09/24/2026",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "sora",
+      "context": "get access** - ‍ [Try Sora 2 via Synthesia's AI Playground](https://www.synthesia.io/post/how-to-use-sora-2-for-free) \\[FREE\\] - ‍ [Use an AI video model aggregator](https://www.synthesia.io/post/best-ai-video-generators#ai-video-model-aggregators-and-creative-suites)\\[PAID\\]",
+      "span": [
+        15507,
+        15511
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "**How to get access**",
+        "heading_level": 3,
+        "line": 274
+      },
+      "sentence": "‍ [Try Sora 2 via Synthesia's AI Playground](https://www.synthesia.io/post/how-to-use-sora-2-for-free) \\[FREE\\] - ‍ [Use an AI video model aggregator](https://www.synthesia.io/post/best-ai-video-generators#ai-video-model-aggregators-and-creative-suites)\\[PAID\\] - Note: Sora 2 completely shuts down on 09/24/2026",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "aggregator](https://www.synthesia.io/post/best-ai-video-generators#ai-video-model-aggregators-and-creative-suites)\\[PAID\\] - Note: Sora 2 completely shuts down on 09/24/2026 ### Quick summary - ‍ **Best for:** Narrative storytelling",
+      "span": [
+        15691,
+        15695
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "**How to get access**",
+        "heading_level": 3,
+        "line": 276
+      },
+      "sentence": "‍ [Try Sora 2 via Synthesia's AI Playground](https://www.synthesia.io/post/how-to-use-sora-2-for-free) \\[FREE\\] - ‍ [Use an AI video model aggregator](https://www.synthesia.io/post/best-ai-video-generators#ai-video-model-aggregators-and-creative-suites)\\[PAID\\] - Note: Sora 2 completely shuts down on 09/24/2026",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "time:** ~9–10 min **‍** - **Audio:** Yes (dialogue + sound generation) ### My experience #### Pros Sora 2 recreated my prompt perfectly – it was cinematic, emotional, and brilliant. The character’s flight",
+      "span": [
+        16019,
+        16023
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "Pros",
+        "heading_level": 4,
+        "line": 290
+      },
+      "sentence": "Sora 2 recreated my prompt perfectly – it was cinematic, emotional, and brilliant.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "at 720p, the overall quality looked near film-grade. The storytelling in general is next level with Sora. The light, physics, camera movement, and dialogue all feel human-directed. It creates the feeling",
+      "span": [
+        16390,
+        16394
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "Pros",
+        "heading_level": 4,
+        "line": 292
+      },
+      "sentence": "The storytelling in general is next level with Sora.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "narratives with dialogue and atmosphere. #### Cons Rendering is very slow at around 10 minutes per video. Sora also doesn’t have many editing tools or collaborative features, and (once again) access is limited.",
+      "span": [
+        16704,
+        16708
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "Cons",
+        "heading_level": 4,
+        "line": 296
+      },
+      "sentence": "Sora also doesn’t have many editing tools or collaborative features, and (once again) access is limited.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "generate realistic voices for characters, however, the quality still isn’t perfect. ### My verdict Sora feels like a cinematic engine – its performance is reliable, the results are stunning, and updates",
+      "span": [
+        16969,
+        16973
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "My verdict",
+        "heading_level": 3,
+        "line": 302
+      },
+      "sentence": "Sora feels like a cinematic engine – its performance is reliable, the results are stunning, and updates are frequent.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "redefine how creators, studios, and educators use AI in storytelling. Until then, I highly recommend Sora for character-driven narratives or fantasy scenes, emotional concept visualization, and viral or entertainment",
+      "span": [
+        17262,
+        17266
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "My verdict",
+        "heading_level": 3,
+        "line": 304
+      },
+      "sentence": "Until then, I highly recommend Sora for character-driven narratives or fantasy scenes, emotional concept visualization, and viral or entertainment content using templates.",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    },
+    {
+      "type": "ai-news",
+      "text": "Sora",
+      "context": "video assistant to help me iterate videos. Not to mention there are AI B-roll options from Veo and Sora available directly from the Synthesia [AI video generator tool](https://www.synthesia.io/features/ai-video-generator).",
+      "span": [
+        35692,
+        35696
+      ],
+      "meta": {
+        "model": "Sora"
+      },
+      "location": {
+        "heading": "My experience",
+        "heading_level": 4,
+        "line": 650
+      },
+      "sentence": "Not to mention there are AI B-roll options from Veo and Sora available directly from the Synthesia [AI video generator tool](https://www.synthesia.io/features/ai-video-generator).",
+      "severity": "unconfirmed",
+      "title": "AI model mention: Sora",
+      "suggested_fix": "Verify whether 'Sora' is still the current/relevant model for this comparison; newer model tiers ship frequently.",
+      "source": "",
+      "source_note": ""
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "counts": {
+    "feature": 3,
+    "stat": 18,
+    "link": 20
+  },
+  "total": 41,
+  "findings": [
+    {
+      "type": "feature",
+      "text": "240+ avatars",
+      "context": "[Kevin Alster](https://www.synthesia.io/blog/authors/kevin-alster) June 10, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started",
+      "span": [
+        270,
+        282
+      ],
+      "meta": {
+        "subtype": "avatars",
+        "brand": "Synthesia",
+        "value": "240+"
+      },
+      "location": {
+        "heading": "9 Vital Benefits of Security Awareness Training",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "Alster](https://www.synthesia.io/blog/authors/kevin-alster) June 10, 2024 Create AI videos with 240+ avatars in 160+ languages. [Try Free AI Video](https://www.synthesia.io/create-free-ai-video) [Get started for FREE](https://www.synthesia.io/pricing)",
+      "span": [
+        286,
+        300
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "9 Vital Benefits of Security Awareness Training",
+        "heading_level": 1,
+        "line": 11
+      },
+      "sentence": "Create AI videos with 240+ avatars in 160+ languages."
+    },
+    {
+      "type": "feature",
+      "text": "160+ languages",
+      "context": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)",
+      "span": [
+        18234,
+        18248
+      ],
+      "meta": {
+        "subtype": "languages",
+        "brand": "Synthesia",
+        "value": "160+"
+      },
+      "location": {
+        "heading": "Create engaging and scalable security awareness training with AI",
+        "heading_level": 2,
+        "line": 229
+      },
+      "sentence": "[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/682dab5a92518e1cb64e89f3_Blog-sticky-bg.jpg)\\\\ \\\\ Get started\\\\ \\\\ Make videos with AI avatars in 160+ languages\\\\ \\\\ ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/677e85568b04195ed525ee3b_header-features-illustration.webp)](https://www.synthesia.io/pricing)"
+    },
+    {
+      "type": "stat",
+      "text": "25%",
+      "context": "described in Netflix's recent docuseries. These aren't isolated incidents. Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year,",
+      "span": [
+        5607,
+        5610
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year, and the annual average cost of cybercrime is [predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022."
+    },
+    {
+      "type": "stat",
+      "text": "67%",
+      "context": "[dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year. ## 1\\. You set standard guidelines that reduce the risk of human error [88%](https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error)",
+      "span": [
+        6964,
+        6967
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 81
+      },
+      "sentence": "rs say that thanks to improved security defense, the percentage of deals lost due to perceived inadequacies in a company's cybersecurity posture [dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year."
+    },
+    {
+      "type": "stat",
+      "text": "38%",
+      "context": "[dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year. ## 1\\. You set standard guidelines that reduce the risk of human error [88%](https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error)",
+      "span": [
+        6971,
+        6974
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 81
+      },
+      "sentence": "that thanks to improved security defense, the percentage of deals lost due to perceived inadequacies in a company's cybersecurity posture [dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year."
+    },
+    {
+      "type": "stat",
+      "text": "88%",
+      "context": "from 67% to 38% in a year. ## 1\\. You set standard guidelines that reduce the risk of human error [88%](https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error) of security breaches",
+      "span": [
+        7060,
+        7063
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "1\\. You set standard guidelines that reduce the risk of human error",
+        "heading_level": 2,
+        "line": 85
+      },
+      "sentence": "[88%](https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error) of security breaches are caused by employee mistakes, which can be avoided with proper security awareness training."
+    },
+    {
+      "type": "stat",
+      "text": "80%",
+      "context": "information, minimize risk, and even prevent data breaches. That's why, with phishing attacks alone, [80%](https://www.infosecurity-magazine.com/blogs/employee-cyber-awareness-crisis/) of organizations noticed",
+      "span": [
+        8276,
+        8279
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "2\\. Your routine training prevents data vulnerability",
+        "heading_level": 2,
+        "line": 100
+      },
+      "sentence": "That's why, with phishing attacks alone, [80%](https://www.infosecurity-magazine.com/blogs/employee-cyber-awareness-crisis/) of organizations noticed that their security awareness training program made their employees more vigilant about the peril and less vulnerable to this threat."
+    },
+    {
+      "type": "stat",
+      "text": "46%",
+      "context": "awareness program trains everyone to keep the castle safe and spot sneaky attackers. Did you know? 🤔 [46%](https://www.terranovasecurity.com/blog/cyber-security-statistics) of all cyber breaches are reported",
+      "span": [
+        9701,
+        9704
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "3\\. Your \"Security posture\" across all departments improves significantly",
+        "heading_level": 2,
+        "line": 122
+      },
+      "sentence": "[46%](https://www.terranovasecurity.com/blog/cyber-security-statistics) of all cyber breaches are reported at companies with less than 1,000 employees."
+    },
+    {
+      "type": "stat",
+      "text": "40%",
+      "context": "industry regulations and standards Non-compliance can be very costly. A McKinsey survey found that [40%](https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-digital-trust-truly-matters) of",
+      "span": [
+        10312,
+        10315
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "4\\. You're always compliant with industry regulations and standards",
+        "heading_level": 2,
+        "line": 135
+      },
+      "sentence": "A McKinsey survey found that [40%](https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-digital-trust-truly-matters) of customers stopped buying from a company after a security breach."
+    },
+    {
+      "type": "stat",
+      "text": "2%",
+      "context": "less severe violation could [cost](https://drata.com/blog/cost-of-non-compliance) a company either 2% of its worldwide annual revenue or €10 million, whichever is more. Security training brings you closer",
+      "span": [
+        10658,
+        10660
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "4\\. You're always compliant with industry regulations and standards",
+        "heading_level": 2,
+        "line": 135
+      },
+      "sentence": "Additionally, the General Data Protection Regulation (GDPR) says that even a less severe violation could [cost](https://drata.com/blog/cost-of-non-compliance) a company either 2% of its worldwide annual revenue or €10 million, whichever is more."
+    },
+    {
+      "type": "stat",
+      "text": "45%",
+      "context": "response to security incidents Knowing how to act in a crisis makes all the difference. Yet only [45%](https://frsecure.com/blog/incident-response-statistics-how-do-you-compare/) of companies have an incident",
+      "span": [
+        11251,
+        11254
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "5\\. Awareness speeds up response to security incidents",
+        "heading_level": 2,
+        "line": 143
+      },
+      "sentence": "Yet only [45%](https://frsecure.com/blog/incident-response-statistics-how-do-you-compare/) of companies have an incident response plan."
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "sensitive data with employee password management Weak passwords are a common cause of data breaches, with [30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.)",
+      "span": [
+        12235,
+        12238
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "6\\. Protect sensitive data with employee password management",
+        "heading_level": 2,
+        "line": 157
+      },
+      "sentence": "Weak passwords are a common cause of data breaches, with [30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing security incidents because of cracked passwords."
+    },
+    {
+      "type": "stat",
+      "text": "30%",
+      "context": "[30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing",
+      "span": [
+        12355,
+        12358
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "6\\. Protect sensitive data with employee password management",
+        "heading_level": 2,
+        "line": 157
+      },
+      "sentence": "Weak passwords are a common cause of data breaches, with [30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing security incidents because of cracked passwords."
+    },
+    {
+      "type": "stat",
+      "text": "25%",
+      "context": "[30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing",
+      "span": [
+        12358,
+        12361
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "6\\. Protect sensitive data with employee password management",
+        "heading_level": 2,
+        "line": 157
+      },
+      "sentence": "Weak passwords are a common cause of data breaches, with [30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing security incidents because of cracked passwords."
+    },
+    {
+      "type": "stat",
+      "text": "65%",
+      "context": "protection, and peace of mind you will increase across all teams and departments. Did you know? 🤔 [65%](https://go.cynet.com/ciso-stress-survey) of Chief Information Security Officers say work-related stress",
+      "span": [
+        15817,
+        15820
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "8\\. You maintain a gold standard of employee safety and wellbeing",
+        "heading_level": 2,
+        "line": 199
+      },
+      "sentence": "[65%](https://go.cynet.com/ciso-stress-survey) of Chief Information Security Officers say work-related stress affects their ability to protect the organization."
+    },
+    {
+      "type": "stat",
+      "text": "79%",
+      "context": "your CISOs and IT experts dedicated mental health support. ## 9\\. You earn consumers' trust For [79%](https://www.marketingcharts.com/brand-related/brand-metrics-230076) of consumers, data protection",
+      "span": [
+        16082,
+        16085
+      ],
+      "meta": {
+        "subtype": "percent"
+      },
+      "location": {
+        "heading": "9\\. You earn consumers' trust",
+        "heading_level": 2,
+        "line": 203
+      },
+      "sentence": "For [79%](https://www.marketingcharts.com/brand-related/brand-metrics-230076) of consumers, data protection is the most important factor in trusting a company — more important than fast customer service or consistent experiences."
+    },
+    {
+      "type": "stat",
+      "text": "In 2023",
+      "context": "## The importance of security awareness Preventing cyberattacks is easier than fixing their damage. In 2023, two Danish hosting providers [lost all customer data](https://techmonitor.ai/technology/cybersecurity/ransomware-attack-on-cloudnordic-azerocloud-loses-all-data)",
+      "span": [
+        4939,
+        4946
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "In 2023, two Danish hosting providers [lost all customer data](https://techmonitor.ai/technology/cybersecurity/ransomware-attack-on-cloudnordic-azerocloud-loses-all-data) to a ransomware attack and had to shut down."
+    },
+    {
+      "type": "stat",
+      "text": "by 2027",
+      "context": "[predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022. Ignoring the importance of cybersecurity training and its impact on",
+      "span": [
+        5929,
+        5936
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year, and the annual average cost of cybercrime is [predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022."
+    },
+    {
+      "type": "stat",
+      "text": "in 2022",
+      "context": "[predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022. Ignoring the importance of cybersecurity training and its impact on security awareness can lead to",
+      "span": [
+        5960,
+        5967
+      ],
+      "meta": {
+        "subtype": "year_ref"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year, and the annual average cost of cybercrime is [predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022."
+    },
+    {
+      "type": "stat",
+      "text": "6.9 million users",
+      "context": "to a ransomware attack and had to shut down. Similarly, 23andMe faced a major data breach affecting 6.9 million users, resulting in multiple [class action lawsuits](https://www.bleepingcomputer.com/news/security/23andme-hit-with-lawsuits-after-hacker-leaks-stolen-genetics-data/).",
+      "span": [
+        5210,
+        5227
+      ],
+      "meta": {
+        "subtype": "large_magnitude"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "Similarly, 23andMe faced a major data breach affecting 6.9 million users, resulting in multiple [class action lawsuits](https://www.bleepingcomputer.com/news/security/23andme-hit-with-lawsuits-after-hacker-leaks-stolen-genetics-data/)."
+    },
+    {
+      "type": "link",
+      "text": "https://techmonitor.ai/technology/cybersecurity/ransomware-attack-on-cloudnordic-azerocloud-loses-all-data",
+      "context": "",
+      "span": [
+        5002,
+        5108
+      ],
+      "meta": {
+        "domain": "techmonitor.ai",
+        "anchor": "lost all customer data"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "In 2023, two Danish hosting providers [lost all customer data](https://techmonitor.ai/technology/cybersecurity/ransomware-attack-on-cloudnordic-azerocloud-loses-all-data) to a ransomware attack and had to shut down."
+    },
+    {
+      "type": "link",
+      "text": "https://www.bleepingcomputer.com/news/security/23andme-hit-with-lawsuits-after-hacker-leaks-stolen-genetics-data/",
+      "context": "",
+      "span": [
+        5275,
+        5388
+      ],
+      "meta": {
+        "domain": "www.bleepingcomputer.com",
+        "anchor": "class action lawsuits"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 73
+      },
+      "sentence": "Similarly, 23andMe faced a major data breach affecting 6.9 million users, resulting in multiple [class action lawsuits](https://www.bleepingcomputer.com/news/security/23andme-hit-with-lawsuits-after-hacker-leaks-stolen-genetics-data/)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/",
+      "context": "",
+      "span": [
+        5612,
+        5700
+      ],
+      "meta": {
+        "domain": "www.skyboxsecurity.com",
+        "anchor": "25%"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year, and the annual average cost of cybercrime is [predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022."
+    },
+    {
+      "type": "link",
+      "text": "https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/",
+      "context": "",
+      "span": [
+        5770,
+        5904
+      ],
+      "meta": {
+        "domain": "www.state.gov",
+        "anchor": "predicted"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 75
+      },
+      "sentence": "Vulnerabilities rise by [25%](https://www.skyboxsecurity.com/resources/report/vulnerability-threat-trends-report-2023/) each year, and the annual average cost of cybercrime is [predicted](https://www.state.gov/digital-press-briefing-with-anne-neuberger-deputy-national-security-advisor-for-cyber-and-emerging-technologies/) to exceed $23 trillion by 2027, up from $8.4 trillion in 2022."
+    },
+    {
+      "type": "link",
+      "text": "https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE",
+      "context": "",
+      "span": [
+        6619,
+        6957
+      ],
+      "meta": {
+        "domain": "logrhythm.com",
+        "anchor": "dropped"
+      },
+      "location": {
+        "heading": "The importance of security awareness",
+        "heading_level": 2,
+        "line": 81
+      },
+      "sentence": "Business leaders say that thanks to improved security defense, the percentage of deals lost due to perceived inadequacies in a company's cybersecurity posture [dropped](https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&utm_medium=cpc&utm_campaign=EUR_EEUR_GEN&utm_content=SecurityTeam&utm_term=cyber%20security%20protection&utm_program=EURcpc&gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE) from 67% to 38% in a year."
+    },
+    {
+      "type": "link",
+      "text": "https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error",
+      "context": "",
+      "span": [
+        7065,
+        7143
+      ],
+      "meta": {
+        "domain": "blog.knowbe4.com",
+        "anchor": "88%"
+      },
+      "location": {
+        "heading": "1\\. You set standard guidelines that reduce the risk of human error",
+        "heading_level": 2,
+        "line": 85
+      },
+      "sentence": "[88%](https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error) of security breaches are caused by employee mistakes, which can be avoided with proper security awareness training."
+    },
+    {
+      "type": "link",
+      "text": "https://www.infosecurity-magazine.com/blogs/employee-cyber-awareness-crisis/",
+      "context": "",
+      "span": [
+        8281,
+        8357
+      ],
+      "meta": {
+        "domain": "www.infosecurity-magazine.com",
+        "anchor": "80%"
+      },
+      "location": {
+        "heading": "2\\. Your routine training prevents data vulnerability",
+        "heading_level": 2,
+        "line": 100
+      },
+      "sentence": "That's why, with phishing attacks alone, [80%](https://www.infosecurity-magazine.com/blogs/employee-cyber-awareness-crisis/) of organizations noticed that their security awareness training program made their employees more vigilant about the peril and less vulnerable to this threat."
+    },
+    {
+      "type": "link",
+      "text": "https://blog.usecure.io/does-security-awareness-training-work",
+      "context": "",
+      "span": [
+        8960,
+        9021
+      ],
+      "meta": {
+        "domain": "blog.usecure.io",
+        "anchor": "37-fold ROI"
+      },
+      "location": {
+        "heading": "2\\. Your routine training prevents data vulnerability",
+        "heading_level": 2,
+        "line": 108
+      },
+      "sentence": "The average security training program had a [37-fold ROI](https://blog.usecure.io/does-security-awareness-training-work), and even the least effective programs had a 7-fold ROI."
+    },
+    {
+      "type": "link",
+      "text": "https://www.terranovasecurity.com/blog/cyber-security-statistics",
+      "context": "",
+      "span": [
+        9706,
+        9770
+      ],
+      "meta": {
+        "domain": "www.terranovasecurity.com",
+        "anchor": "46%"
+      },
+      "location": {
+        "heading": "3\\. Your \"Security posture\" across all departments improves significantly",
+        "heading_level": 2,
+        "line": 122
+      },
+      "sentence": "[46%](https://www.terranovasecurity.com/blog/cyber-security-statistics) of all cyber breaches are reported at companies with less than 1,000 employees."
+    },
+    {
+      "type": "link",
+      "text": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-digital-trust-truly-matters",
+      "context": "",
+      "span": [
+        10317,
+        10412
+      ],
+      "meta": {
+        "domain": "www.mckinsey.com",
+        "anchor": "40%"
+      },
+      "location": {
+        "heading": "4\\. You're always compliant with industry regulations and standards",
+        "heading_level": 2,
+        "line": 135
+      },
+      "sentence": "A McKinsey survey found that [40%](https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-digital-trust-truly-matters) of customers stopped buying from a company after a security breach."
+    },
+    {
+      "type": "link",
+      "text": "https://drata.com/blog/cost-of-non-compliance",
+      "context": "",
+      "span": [
+        10594,
+        10639
+      ],
+      "meta": {
+        "domain": "drata.com",
+        "anchor": "cost"
+      },
+      "location": {
+        "heading": "4\\. You're always compliant with industry regulations and standards",
+        "heading_level": 2,
+        "line": 135
+      },
+      "sentence": "Additionally, the General Data Protection Regulation (GDPR) says that even a less severe violation could [cost](https://drata.com/blog/cost-of-non-compliance) a company either 2% of its worldwide annual revenue or €10 million, whichever is more."
+    },
+    {
+      "type": "link",
+      "text": "https://frsecure.com/blog/incident-response-statistics-how-do-you-compare/",
+      "context": "",
+      "span": [
+        11256,
+        11330
+      ],
+      "meta": {
+        "domain": "frsecure.com",
+        "anchor": "45%"
+      },
+      "location": {
+        "heading": "5\\. Awareness speeds up response to security incidents",
+        "heading_level": 2,
+        "line": 143
+      },
+      "sentence": "Yet only [45%](https://frsecure.com/blog/incident-response-statistics-how-do-you-compare/) of companies have an incident response plan."
+    },
+    {
+      "type": "link",
+      "text": "https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords",
+      "context": "",
+      "span": [
+        12240,
+        12428
+      ],
+      "meta": {
+        "domain": "explodingtopics.com",
+        "anchor": "30%"
+      },
+      "location": {
+        "heading": "6\\. Protect sensitive data with employee password management",
+        "heading_level": 2,
+        "line": 157
+      },
+      "sentence": "Weak passwords are a common cause of data breaches, with [30%](https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords.) of internet users experiencing security incidents because of cracked passwords."
+    },
+    {
+      "type": "link",
+      "text": "https://www.kaspersky.com/resource-center/threats/deep-web",
+      "context": "",
+      "span": [
+        12661,
+        12719
+      ],
+      "meta": {
+        "domain": "www.kaspersky.com",
+        "anchor": "dark web"
+      },
+      "location": {
+        "heading": "6\\. Protect sensitive data with employee password management",
+        "heading_level": 2,
+        "line": 157
+      },
+      "sentence": "Once a password has been cracked, hackers can steal sensitive data and either hold you or your employees at ransom or simply sell it on the [dark web](https://www.kaspersky.com/resource-center/threats/deep-web)."
+    },
+    {
+      "type": "link",
+      "text": "https://www.knowbe4.com/security-culture-maturity-model",
+      "context": "",
+      "span": [
+        14373,
+        14428
+      ],
+      "meta": {
+        "domain": "www.knowbe4.com",
+        "anchor": "_Source_"
+      },
+      "location": {
+        "heading": "7\\. Your security culture is positive (not annoying)",
+        "heading_level": 2,
+        "line": 181
+      },
+      "sentence": "The 5 levels of security culture that an organization can achieve (_ [_Source_](https://www.knowbe4.com/security-culture-maturity-model) _)"
+    },
+    {
+      "type": "link",
+      "text": "https://go.cynet.com/ciso-stress-survey",
+      "context": "",
+      "span": [
+        15822,
+        15861
+      ],
+      "meta": {
+        "domain": "go.cynet.com",
+        "anchor": "65%"
+      },
+      "location": {
+        "heading": "8\\. You maintain a gold standard of employee safety and wellbeing",
+        "heading_level": 2,
+        "line": 199
+      },
+      "sentence": "[65%](https://go.cynet.com/ciso-stress-survey) of Chief Information Security Officers say work-related stress affects their ability to protect the organization."
+    },
+    {
+      "type": "link",
+      "text": "https://www.marketingcharts.com/brand-related/brand-metrics-230076",
+      "context": "",
+      "span": [
+        16087,
+        16153
+      ],
+      "meta": {
+        "domain": "www.marketingcharts.com",
+        "anchor": "79%"
+      },
+      "location": {
+        "heading": "9\\. You earn consumers' trust",
+        "heading_level": 2,
+        "line": 203
+      },
+      "sentence": "For [79%](https://www.marketingcharts.com/brand-related/brand-metrics-230076) of consumers, data protection is the most important factor in trusting a company — more important than fast customer service or consistent experiences."
+    },
+    {
+      "type": "link",
+      "text": "https://logrhythm.com/2024-state-of-the-security-team-navigating-constant-change-ppc/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=EUR_EEUR_GEN&amp;utm_content=SecurityTeam&amp;utm_term=cyber%20security%20protection&amp;utm_program=EURcpc&amp;gad_source=1&amp;gclid=CjwKCAjwo6GyBhBwEiwAzQTmc9bFMu4YDDDYTfAos_XGVjblYsd3XpKEX58BrTRxdI6RHQu28ouLsBoCknYQAvD_BwE",
+      "context": "",
+      "span": [
+        25220,
+        25608
+      ],
+      "meta": {
+        "domain": "logrhythm.com",
+        "anchor": "dropped"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://explodingtopics.com/blog/password-stats#:~:text=Top%20Password%20Statistics,-Before%20exploring%20the&amp;text=30%25%20of%20internet%20users%20have,or%20names%20in%20their%20passwords",
+      "context": "",
+      "span": [
+        34767,
+        35157
+      ],
+      "meta": {
+        "domain": "explodingtopics.com",
+        "anchor": "30%"
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    },
+    {
+      "type": "link",
+      "text": "https://www.linkedin.com/in/kevinalster/",
+      "context": "",
+      "span": [
+        43954,
+        45306
+      ],
+      "meta": {
+        "domain": "www.linkedin.com",
+        "anchor": ""
+      },
+      "location": {
+        "heading": "(link found in HTML only)",
+        "heading_level": 0,
+        "line": null
+      },
+      "sentence": ""
+    }
+  ]
+}
