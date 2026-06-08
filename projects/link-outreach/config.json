@@ -1,0 +1,111 @@
+{
+  "brand": "synthesia.io",
+  "brand_domain": "www.synthesia.io",
+  "competitors": [
+    "heygen.com",
+    "veed.io",
+    "d-id.com",
+    "elai.io",
+    "colossyan.com",
+    "hourone.ai",
+    "invideo.io",
+    "deepbrain.io",
+    "vyond.com",
+    "descript.com",
+    "runway.com",
+    "luma.ai",
+    "kling.ai"
+  ],
+  "exclude_domains": [
+    "synthesia.io",
+    "heygen.com",
+    "veed.io",
+    "d-id.com",
+    "elai.io",
+    "colossyan.com",
+    "hourone.ai",
+    "invideo.io",
+    "deepbrain.io",
+    "vyond.com",
+    "descript.com",
+    "runway.com",
+    "luma.ai",
+    "kling.ai",
+    "g2.com",
+    "capterra.com",
+    "trustradius.com",
+    "getapp.com",
+    "sourceforge.net",
+    "alternativeto.net",
+    "producthunt.com",
+    "techcrunch.com",
+    "crunchbase.com",
+    "wikipedia.org",
+    "reddit.com",
+    "quora.com",
+    "youtube.com",
+    "facebook.com",
+    "twitter.com",
+    "linkedin.com",
+    "medium.com",
+    "forbes.com",
+    "bloomberg.com"
+  ],
+  "qualification": {
+    "min_dr": 20
+  },
+  "airops": {
+    "enrichment_grid_id": 64148,
+    "enrichment_table_id": 82974,
+    "legacy_grid_id": 63328,
+    "legacy_table_id": 81833
+  },
+  "search": {
+    "results_per_query": 10,
+    "max_queries_per_campaign": 40
+  },
+  "reply_io": {
+    "api_key_file": "/Users/george.fakorellis/Desktop/SEO Custom Projects/.credentials/reply-io-api-key.txt",
+    "api_base": "https://api.reply.io/v1",
+    "sequences": {
+      "free_plan_offer": 1659743,
+      "convert_article_to_video": 1660542,
+      "rephrase_outreach": 1692164,
+      "rephrase_outreach_main": 1692278,
+      "guest_posts_main": 1696081
+    },
+    "custom_fields": {
+      "free_plan_offer": [
+        "article_url",
+        "article_topic",
+        "synthesia_target_page",
+        "fit_strength",
+        "outreach_track"
+      ],
+      "convert_article_to_video": [
+        "article_url",
+        "article_topic",
+        "synthesia_target_page",
+        "fit_strength",
+        "outreach_track"
+      ]
+    },
+    "custom_field_notes": "Custom fields must be pre-created in Reply.io UI before API can write to them. article_url = prospect page URL, synthesia_target_page = Synthesia page we want linked.",
+    "campaign_sequences": {
+      "rephrase-defunct": [1692164, 1692278],
+      "guest-posts-video-translation": [1696081, 1697031],
+      "guest-posts-automation": [1696081, 1697031],
+      "competitor-affiliates": [],
+      "aeo-listicle-gap": [],
+      "metaphysic-defunct": [1701607, 1701608]
+    },
+    "campaign_sequences_notes": "Per-campaign whitelist of Reply.io sequence IDs that 'count' for that campaign's contacted/replied metrics. Prevents false positives from emails sitting in unrelated old sequences."
+  },
+  "link_discover": {
+    "master_sheet_id": "1kR_s9hWca53jMMjNeVtIVrqmVHYSk3fLq0mSBZheZSc",
+    "dr_min": 30,
+    "dr_max": 90,
+    "outbound_check_concurrency": 10,
+    "outbound_check_timeout_sec": 8
+  }
+}

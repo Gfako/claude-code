@@ -1,0 +1,10 @@
+{
+  "model": "opus[1m]",
+  "enabledPlugins": {
+    "frontend-design@claude-plugins-official": false,
+    "github@claude-plugins-official": true
+  },
+  "effortLevel": "xhigh",
+  "skipDangerousModePermissionPrompt": true,
+  "skipAutoPermissionPrompt": true
+}
